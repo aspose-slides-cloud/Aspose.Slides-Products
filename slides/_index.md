@@ -6,7 +6,7 @@ url: /
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/family-upper-banner h1="PPT, ODP Presentation Maker & Converter Solution" h2="Build apps for desktop, web & cloud using our slide processing local libraries & Cloud RESTful APIs for all popular programming languages." logoImageSrc="https://www.aspose.com/templates/brand/images/slides/aspose_slides-brand.png" imageAlt="Aspose.Slides Product Family" >}}
+{{< blocks/products/pf/family-upper-banner h1="PPT, ODP Presentation Maker & Converter Solution" h2="Build apps for desktop, web & cloud using our slide processing local libraries & Cloud RESTful APIs for all popular programming languages." logoImageSrc="/headers/aspose_slides-brand.png" imageAlt="Aspose.Slides Product Family" >}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.Slides Cloud APIs Include" >}}
@@ -23,7 +23,7 @@ Microsoft PowerPoint & OpenOffice file reader, viewer & converter REST API to pr
 Java Cloud SDK to assist you rapidly develop Microsoft PowerPoint (PPT, PPTX) & OpenOffice (ODP, OTP) presentation processing app for cloud.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/center-button href="https://products.aspose.cloud/slides/family" innerText="View All Cloud APIs" >}}
+{{< blocks/products/pf/center-button href="/slides/family" innerText="View All Cloud APIs" >}}
 
 {{< /blocks/products/pf/product-card-row >}}
 
