@@ -11,19 +11,19 @@ url: /
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.Slides Cloud APIs Include" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Slides" title="Cloud for cURL" imgSrc="/sdk/aspose_slides-for-curl.png" productLink="/slides/curl" >}}
+{{< blocks/products/pf/product pfName="Aspose.Slides" title="Cloud for cURL" imgSrc="/sdk/aspose_slides-for-curl.png" productLink="/slides/curl/" >}}
 Microsoft PowerPoint & OpenOffice file reader, viewer & converter REST API to process presentations in the cloud via cURL.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Slides" title="Cloud SDK for .NET" imgSrc="/sdk/aspose_slides-for-net.png" productLink="/slides/net"  >}}
+{{< blocks/products/pf/product pfName="Aspose.Slides" title="Cloud SDK for .NET" imgSrc="/sdk/aspose_slides-for-net.png" productLink="/slides/net/"  >}}
 .NET REST SDK to read presentation slides located on the cloud storage. Merge, split, copy, download & convert slides via C# cloud SDK.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Slides" title="Cloud SDK for Java" imgSrc="/sdk/aspose_slides-for-java.png" productLink="/slides/java"  >}}
+{{< blocks/products/pf/product pfName="Aspose.Slides" title="Cloud SDK for Java" imgSrc="/sdk/aspose_slides-for-java.png" productLink="/slides/java/"  >}}
 Java Cloud SDK to assist you rapidly develop Microsoft PowerPoint (PPT, PPTX) & OpenOffice (ODP, OTP) presentation processing app for cloud.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/center-button href="/slides/family" innerText="View All Cloud APIs" >}}
+{{< blocks/products/pf/center-button href="/slides/family/" innerText="View All Cloud APIs" >}}
 
 {{< /blocks/products/pf/product-card-row >}}
 
@@ -37,7 +37,7 @@ Develop .NET desktop & web applications to process & manipulate presentation sli
 Java API to build presentation maker & converter applications for desktop and web. Supports PowerPoint & OpenOffice formats.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Slides for " title="C++" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/slides/272x272/aspose_slides-for-cpp.png" productLink="https://products.aspose.com/slides/cpp" >}}
+{{< blocks/products/pf/product pfName="Aspose.Slides for " title="C++" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/slides/272x272/aspose_slides-for-cpp.png" productLink="https://products.aspose.com/slides/cpp/" >}}
 Easy to use on-premise API for C++ assists you to read, write, process & convert Microsoft & OpenOffice presentation within your apps.
 {{< /blocks/products/pf/product >}}
 
