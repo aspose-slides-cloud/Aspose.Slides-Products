@@ -39,7 +39,7 @@ Enable your Python apps to access & process the Microsoft Office PowerPoint & Op
 Allows software developers to build applications that can incorporate features like create, convert, split, join, compare & render PPT & PPTX presentations.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Slides" title="Cloud SDK for Node.js" imgSrc="/sdk/aspose_slides-for-node.png" productLink="/slides/python/" >}}
+{{< blocks/products/pf/product pfName="Aspose.Slides" title="Cloud SDK for Node.js" imgSrc="/sdk/aspose_slides-for-node.png" productLink="/slides/nodejs/" >}}
 Seamlessly integrate presentation slide processing features into your cloud-based apps via Node.js REST SDK. Process PPT, PPTX, ODP, OTP.
 {{< /blocks/products/pf/product >}}
 
