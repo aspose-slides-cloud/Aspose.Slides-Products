@@ -29,19 +29,19 @@ Java Cloud SDK to assist you rapidly develop Microsoft PowerPoint (PPT, PPTX) & 
 
 {{< blocks/products/pf/product-card-row title="Aspose.Slides On Premise APIs Include" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Slides for " title=".NET" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/slides/272x272/aspose_slides-for-net.png" productLink="https://products.aspose.com/slides/net" >}}
+{{< blocks/products/pf/product pfName="Aspose.Slides for " title=".NET" imgSrc="/product-logos/aspose_slides-for-net.svg" productLink="https://products.aspose.com/slides/net/" >}}
 Develop .NET desktop & web applications to process & manipulate presentation slides. Supports C#, ASP.NET & other .NET supported languages.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Slides for " title="Java" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/slides/272x272/aspose_slides-for-java.png" productLink="https://products.aspose.com/slides/java" >}}
+{{< blocks/products/pf/product pfName="Aspose.Slides for " title="Java" imgSrc="/product-logos/aspose_slides-for-java.svg" productLink="https://products.aspose.com/slides/java/" >}}
 Java API to build presentation maker & converter applications for desktop and web. Supports PowerPoint & OpenOffice formats.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Slides for " title="C++" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/slides/272x272/aspose_slides-for-cpp.png" productLink="https://products.aspose.com/slides/cpp/" >}}
+{{< blocks/products/pf/product pfName="Aspose.Slides for " title="C++" imgSrc="/product-logos/aspose_slides-for-cpp.svg" productLink="https://products.aspose.com/slides/cpp/" >}}
 Easy to use on-premise API for C++ assists you to read, write, process & convert Microsoft & OpenOffice presentation within your apps.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/center-button href="https://products.aspose.com/slides/family" innerText="View All On Premise APIs" >}}
+{{< blocks/products/pf/center-button href="https://products.aspose.com/slides/family/" innerText="View All On Premise APIs" >}}
 
 {{< /blocks/products/pf/product-card-row >}}
 
