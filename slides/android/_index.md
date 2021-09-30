@@ -6,11 +6,11 @@ url: /android
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Android Cloud SDK to Convert PPT, PPTX Presentations" h2="Create cloud-based Android applications that can generate or convert Microsoft PowerPoint & OpenOffice presentations and slides via REST APIs." logoImageSrc="/headers/aspose_slides-for-android.png" pfName="Aspose.Slides" subTitlepfName="Cloud Android SDK" downloadUrl="" >}}
+{{< blocks/products/pf/upper-banner h1="Android Cloud SDK to Convert PPT, PPTX Presentations" h2="Create cloud-based Android applications that can generate or convert Microsoft PowerPoint & OpenOffice presentations and slides via REST APIs." logoImageSrc="/headers/aspose_slides-for-android.svg" pfName="Aspose.Slides" subTitlepfName="Cloud Android SDK" downloadUrl="" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Slides" subTitlepfName="Cloud Android SDK" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="/sdk/aspose_slides-for-android.png" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/slides" directDownloadLink="https://github.com/aspose-slides-cloud/aspose-slides-cloud-android" liveDemosLink="https://products.aspose.app/slides/family"  >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="/sdk/aspose_slides-for-android.svg" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/slides" directDownloadLink="https://github.com/aspose-slides-cloud/aspose-slides-cloud-android" liveDemosLink="https://products.aspose.app/slides/family"  >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>Aspose.Slides Cloud Android SDK gives software developers the power to incorporate Microsoft PowerPoint & OpenOffice presentations creation, modification, and conversion capabilities into their own Android applications. Aspose.Slides Cloud Android SDK is a wrapper around Aspose.Slides REST API and is offered under an MIT license. It provides support for several important file formats such as POT, PPT, PPS, POTX, PPTX, PPSX, & ODP and exports these to popular formats.</p>
@@ -39,7 +39,7 @@ url: /android
 </div>
 <!--/right--></div>
 <!--/row-->
-<div class="d1-logo"><img src="/sdk/aspose_slides-for-android.png" alt="Android Slides Cloud"><header>Aspose.Slides</header><footer>Cloud <small> <em>for </em> </small>Android</footer></div>
+<div class="d1-logo"><img src="/sdk/aspose_slides-for-android.svg" alt="Android Slides Cloud"><header>Aspose.Slides</header><footer>Cloud <small> <em>for </em> </small>Android</footer></div>
 <!--/logo--></div>
 <!--/diagram1-->
 {{< /blocks/products/pf/carousel-item >}}
@@ -64,7 +64,7 @@ url: /android
 </div>
 <!--/right--></div>
 <!--/row-->
-<div class="d1-logo"><img src="/sdk/aspose_slides-for-android.png" alt="Android SDK for Presentations"><header>Aspose.Slides</header><footer>Cloud <small> <em>for </em> </small>Android</footer></div>
+<div class="d1-logo"><img src="/sdk/aspose_slides-for-android.svg" alt="Android SDK for Presentations"><header>Aspose.Slides</header><footer>Cloud <small> <em>for </em> </small>Android</footer></div>
 <!--/logo--></div>
 <!--/diagram2-->
 {{< /blocks/products/pf/carousel-item >}}
@@ -244,29 +244,29 @@ url: /android
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Slides" >}}
 
-    {{< blocks/products/pf/offers-section-item link="/slides/curl/" imgSrc="/sdk/aspose_slides-for-curl.png" platform="cURL" >}}
+    {{< blocks/products/pf/offers-section-item link="/slides/curl/" imgSrc="/sdk/aspose_slides-for-curl.svg" platform="cURL" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/slides/net/" imgSrc="/sdk/aspose_slides-for-net.png" platform=".NET" >}}
+    {{< blocks/products/pf/offers-section-item link="/slides/net/" imgSrc="/sdk/aspose_slides-for-net.svg" platform=".NET" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/slides/java/" imgSrc="/sdk/aspose_slides-for-java.png" platform="Java" >}}
+    {{< blocks/products/pf/offers-section-item link="/slides/java/" imgSrc="/sdk/aspose_slides-for-java.svg" platform="Java" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/slides/php/" imgSrc="/sdk/aspose_slides-for-php.png" platform="PHP" >}}
+    {{< blocks/products/pf/offers-section-item link="/slides/php/" imgSrc="/sdk/aspose_slides-for-php.svg" platform="PHP" >}}
 	
-	{{< blocks/products/pf/offers-section-item link="/slides/android/" imgSrc="/sdk/aspose_slides-for-android.png" platform="Android" >}}
+	{{< blocks/products/pf/offers-section-item link="/slides/android/" imgSrc="/sdk/aspose_slides-for-android.svg" platform="Android" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/slides/python/" imgSrc="/sdk/aspose_slides-for-python.png" platform="Python" >}}
+    {{< blocks/products/pf/offers-section-item link="/slides/python/" imgSrc="/sdk/aspose_slides-for-python.svg" platform="Python" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/slides/ruby/" imgSrc="/sdk/aspose_slides-for-ruby.png" platform="Ruby" >}}
+    {{< blocks/products/pf/offers-section-item link="/slides/ruby/" imgSrc="/sdk/aspose_slides-for-ruby.svg" platform="Ruby" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/slides/nodejs/" imgSrc="/sdk/aspose_slides-for-node.png" platform="Node.js" >}}
+    {{< blocks/products/pf/offers-section-item link="/slides/nodejs/" imgSrc="/sdk/aspose_slides-for-node.svg" platform="Node.js" >}}
 	
-	{{< blocks/products/pf/offers-section-item link="/slides/cpp/" imgSrc="/sdk/aspose_slides-for-cpp.png" platform="C++" >}}
+	{{< blocks/products/pf/offers-section-item link="/slides/cpp/" imgSrc="/sdk/aspose_slides-for-cpp.svg" platform="C++" >}}
 	
-	{{< blocks/products/pf/offers-section-item link="/slides/perl/" imgSrc="/sdk/aspose_slides-for-perl.png" platform="Perl" >}}
+	{{< blocks/products/pf/offers-section-item link="/slides/perl/" imgSrc="/sdk/aspose_slides-for-perl.svg" platform="Perl" >}}
 
-    {{< blocks/products/pf/offers-section-item link="/slides/swift/" imgSrc="/sdk/aspose_slides-for-swift.png" platform="Swift" >}}
+    {{< blocks/products/pf/offers-section-item link="/slides/swift/" imgSrc="/sdk/aspose_slides-for-swift.svg" platform="Swift" >}}
 	
-	{{< blocks/products/pf/offers-section-item link="/slides/go/" imgSrc="/sdk/aspose_slides-for-go.png" platform="Go" >}}
+	{{< blocks/products/pf/offers-section-item link="/slides/go/" imgSrc="/sdk/aspose_slides-for-go.svg" platform="Go" >}}
 {{< /blocks/products/pf/offers-section >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

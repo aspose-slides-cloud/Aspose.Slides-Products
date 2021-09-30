@@ -6,11 +6,11 @@ url: /curl
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Build PPT Presentation Maker & Converter Apps via cURL" h2="Perform PowerPoint & OpenOffice presentation slides creation, processing, merging & conversion by simple cURL commands via REST API." logoImageSrc="/headers/aspose_slides-for-curl.png" pfName="Aspose.Slides" subTitlepfName="Cloud for cURL" downloadUrl="" >}}
+{{< blocks/products/pf/upper-banner h1="Build PPT Presentation Maker & Converter Apps via cURL" h2="Perform PowerPoint & OpenOffice presentation slides creation, processing, merging & conversion by simple cURL commands via REST API." logoImageSrc="/headers/aspose_slides-for-curl.svg" pfName="Aspose.Slides" subTitlepfName="Cloud for cURL" downloadUrl="" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Slides" subTitlepfName="Cloud for cURL" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="/sdk/aspose_slides-for-curl.png" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/slides" directDownloadLink="https://github.com/aspose-slides-cloud" liveDemosLink="https://products.aspose.app/slides/family"  >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="/sdk/aspose_slides-for-curl.svg" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/slides" directDownloadLink="https://github.com/aspose-slides-cloud" liveDemosLink="https://products.aspose.app/slides/family"  >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>Aspose.Slides Cloud for cURL allows you to convert PowerPoint & OpenOffice presentations and slides to other supported formats. For example, you can convert PPT to PDF,BMP, PNG, SVG, TIFF, JPEG, SWF & HTML. You can perform various operations on presentation slides, presentation themes, slide notes, slide images, master slides, custom fonts and various other properties of Microsoft PowerPoint & OpenOffice presentation documents.</p>
@@ -38,7 +38,7 @@ url: /curl
 </div>
 <!--/right--></div>
 <!--/row-->
-<div class="d1-logo"><img src="/sdk/aspose_slides-for-curl.png" alt="cURL Slides Cloud"><header>Aspose.Slides</header><footer>Cloud <small> <em>for </em> </small>cURL</footer></div>
+<div class="d1-logo"><img src="/sdk/aspose_slides-for-curl.svg" alt="cURL Slides Cloud"><header>Aspose.Slides</header><footer>Cloud <small> <em>for </em> </small>cURL</footer></div>
 <!--/logo--></div>
 <!--/diagram1-->
 {{< /blocks/products/pf/carousel-item >}}
@@ -63,7 +63,7 @@ url: /curl
 </div>
 <!--/right--></div>
 <!--/row-->
-<div class="d1-logo"><img src="/sdk/aspose_slides-for-curl.png" alt="cURL Cloud for Presentations"><header>Aspose.Slides</header><footer>Cloud <small> <em>for </em> </small>cURL</footer></div>
+<div class="d1-logo"><img src="/sdk/aspose_slides-for-curl.svg" alt="cURL Cloud for Presentations"><header>Aspose.Slides</header><footer>Cloud <small> <em>for </em> </small>cURL</footer></div>
 <!--/logo--></div>
 <!--/diagram2-->
 {{< /blocks/products/pf/carousel-item >}}
@@ -230,29 +230,29 @@ url: /curl
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Slides" >}}
 
-    {{< blocks/products/pf/offers-section-item link="/slides/curl/" imgSrc="/sdk/aspose_slides-for-curl.png" platform="cURL" >}}
+    {{< blocks/products/pf/offers-section-item link="/slides/curl/" imgSrc="/sdk/aspose_slides-for-curl.svg" platform="cURL" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/slides/net/" imgSrc="/sdk/aspose_slides-for-net.png" platform=".NET" >}}
+    {{< blocks/products/pf/offers-section-item link="/slides/net/" imgSrc="/sdk/aspose_slides-for-net.svg" platform=".NET" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/slides/java/" imgSrc="/sdk/aspose_slides-for-java.png" platform="Java" >}}
+    {{< blocks/products/pf/offers-section-item link="/slides/java/" imgSrc="/sdk/aspose_slides-for-java.svg" platform="Java" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/slides/php/" imgSrc="/sdk/aspose_slides-for-php.png" platform="PHP" >}}
+    {{< blocks/products/pf/offers-section-item link="/slides/php/" imgSrc="/sdk/aspose_slides-for-php.svg" platform="PHP" >}}
 	
-	{{< blocks/products/pf/offers-section-item link="/slides/android/" imgSrc="/sdk/aspose_slides-for-android.png" platform="Android" >}}
+	{{< blocks/products/pf/offers-section-item link="/slides/android/" imgSrc="/sdk/aspose_slides-for-android.svg" platform="Android" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/slides/python/" imgSrc="/sdk/aspose_slides-for-python.png" platform="Python" >}}
+    {{< blocks/products/pf/offers-section-item link="/slides/python/" imgSrc="/sdk/aspose_slides-for-python.svg" platform="Python" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/slides/ruby/" imgSrc="/sdk/aspose_slides-for-ruby.png" platform="Ruby" >}}
+    {{< blocks/products/pf/offers-section-item link="/slides/ruby/" imgSrc="/sdk/aspose_slides-for-ruby.svg" platform="Ruby" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/slides/nodejs/" imgSrc="/sdk/aspose_slides-for-node.png" platform="Node.js" >}}
+    {{< blocks/products/pf/offers-section-item link="/slides/nodejs/" imgSrc="/sdk/aspose_slides-for-node.svg" platform="Node.js" >}}
 	
-	{{< blocks/products/pf/offers-section-item link="/slides/cpp/" imgSrc="/sdk/aspose_slides-for-cpp.png" platform="C++" >}}
+	{{< blocks/products/pf/offers-section-item link="/slides/cpp/" imgSrc="/sdk/aspose_slides-for-cpp.svg" platform="C++" >}}
 	
-	{{< blocks/products/pf/offers-section-item link="/slides/perl/" imgSrc="/sdk/aspose_slides-for-perl.png" platform="Perl" >}}
+	{{< blocks/products/pf/offers-section-item link="/slides/perl/" imgSrc="/sdk/aspose_slides-for-perl.svg" platform="Perl" >}}
 
-    {{< blocks/products/pf/offers-section-item link="/slides/swift/" imgSrc="/sdk/aspose_slides-for-swift.png" platform="Swift" >}}
+    {{< blocks/products/pf/offers-section-item link="/slides/swift/" imgSrc="/sdk/aspose_slides-for-swift.svg" platform="Swift" >}}
 	
-	{{< blocks/products/pf/offers-section-item link="/slides/go/" imgSrc="/sdk/aspose_slides-for-go.png" platform="Go" >}}
+	{{< blocks/products/pf/offers-section-item link="/slides/go/" imgSrc="/sdk/aspose_slides-for-go.svg" platform="Go" >}}
 {{< /blocks/products/pf/offers-section >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

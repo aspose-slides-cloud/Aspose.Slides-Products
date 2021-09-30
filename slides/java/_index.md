@@ -6,11 +6,11 @@ url: /java
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Java REST API to Process PPT Presentations" h2="Develop cloud-based Java Apps to access PowerPoint & OpenOffice presentations stored on the cloud for viewing, processing & conversion." logoImageSrc="/headers/aspose_slides-for-java.png" pfName="Aspose.Slides" subTitlepfName="Cloud SDK for Java" downloadUrl="" >}}
+{{< blocks/products/pf/upper-banner h1="Java REST API to Process PPT Presentations" h2="Develop cloud-based Java Apps to access PowerPoint & OpenOffice presentations stored on the cloud for viewing, processing & conversion." logoImageSrc="/headers/aspose_slides-for-java.svg" pfName="Aspose.Slides" subTitlepfName="Cloud SDK for Java" downloadUrl="" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Slides" subTitlepfName="Cloud SDK for Java" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="/sdk/aspose_slides-for-java.png" liveDemosLink="" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/slides" directDownloadLink="https://github.com/aspose-slides-cloud/aspose-slides-cloud-java" liveDemosLink="https://products.aspose.app/slides/family" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="/sdk/aspose_slides-for-java.svg" liveDemosLink="" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/slides" directDownloadLink="https://github.com/aspose-slides-cloud/aspose-slides-cloud-java" liveDemosLink="https://products.aspose.app/slides/family" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>Aspose.Slides Cloud SDK for Java assists programmers to create cloud-based solutions for creating, viewing, processing and converting PowerPoint & OpenOffice presentations in the cloud. Aspose.Slides Cloud SDK for Java works as an interface to underlying Aspose.Slides REST API and is offered under an MIT license.</p>
@@ -40,7 +40,7 @@ url: /java
 </div>
 <!--/right--></div>
 <!--/row-->
-<div class="d1-logo"><img src="/sdk/aspose_slides-for-java.png" alt="Java PowerPoint Cloud SDK"><header>Aspose.Slides</header><footer>Cloud <small> <em>for </em> </small>Java</footer></div>
+<div class="d1-logo"><img src="/sdk/aspose_slides-for-java.svg" alt="Java PowerPoint Cloud SDK"><header>Aspose.Slides</header><footer>Cloud <small> <em>for </em> </small>Java</footer></div>
 <!--/logo--></div>
 <!--/diagram1-->
 {{< /blocks/products/pf/carousel-item >}}
@@ -65,7 +65,7 @@ url: /java
 </div>
 <!--/right--></div>
 <!--/row-->
-<div class="d1-logo"><img src="/sdk/aspose_slides-for-java.png" alt="Java Cloud SDK for Presentations"><header>Aspose.Slides</header><footer>Cloud <small> <em>for </em> </small>Java</footer></div>
+<div class="d1-logo"><img src="/sdk/aspose_slides-for-java.svg" alt="Java Cloud SDK for Presentations"><header>Aspose.Slides</header><footer>Cloud <small> <em>for </em> </small>Java</footer></div>
 <!--/logo--></div>
 <!--/diagram2-->
 {{< /blocks/products/pf/carousel-item >}}
@@ -233,29 +233,29 @@ url: /java
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Slides" >}}
 
-    {{< blocks/products/pf/offers-section-item link="/slides/curl/" imgSrc="/sdk/aspose_slides-for-curl.png" platform="cURL" >}}
+    {{< blocks/products/pf/offers-section-item link="/slides/curl/" imgSrc="/sdk/aspose_slides-for-curl.svg" platform="cURL" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/slides/net/" imgSrc="/sdk/aspose_slides-for-net.png" platform=".NET" >}}
+    {{< blocks/products/pf/offers-section-item link="/slides/net/" imgSrc="/sdk/aspose_slides-for-net.svg" platform=".NET" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/slides/java/" imgSrc="/sdk/aspose_slides-for-java.png" platform="Java" >}}
+    {{< blocks/products/pf/offers-section-item link="/slides/java/" imgSrc="/sdk/aspose_slides-for-java.svg" platform="Java" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/slides/php/" imgSrc="/sdk/aspose_slides-for-php.png" platform="PHP" >}}
+    {{< blocks/products/pf/offers-section-item link="/slides/php/" imgSrc="/sdk/aspose_slides-for-php.svg" platform="PHP" >}}
 	
-	{{< blocks/products/pf/offers-section-item link="/slides/android/" imgSrc="/sdk/aspose_slides-for-android.png" platform="Android" >}}
+	{{< blocks/products/pf/offers-section-item link="/slides/android/" imgSrc="/sdk/aspose_slides-for-android.svg" platform="Android" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/slides/python/" imgSrc="/sdk/aspose_slides-for-python.png" platform="Python" >}}
+    {{< blocks/products/pf/offers-section-item link="/slides/python/" imgSrc="/sdk/aspose_slides-for-python.svg" platform="Python" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/slides/ruby/" imgSrc="/sdk/aspose_slides-for-ruby.png" platform="Ruby" >}}
+    {{< blocks/products/pf/offers-section-item link="/slides/ruby/" imgSrc="/sdk/aspose_slides-for-ruby.svg" platform="Ruby" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/slides/nodejs/" imgSrc="/sdk/aspose_slides-for-node.png" platform="Node.js" >}}
+    {{< blocks/products/pf/offers-section-item link="/slides/nodejs/" imgSrc="/sdk/aspose_slides-for-node.svg" platform="Node.js" >}}
 	
-	{{< blocks/products/pf/offers-section-item link="/slides/cpp/" imgSrc="/sdk/aspose_slides-for-cpp.png" platform="C++" >}}
+	{{< blocks/products/pf/offers-section-item link="/slides/cpp/" imgSrc="/sdk/aspose_slides-for-cpp.svg" platform="C++" >}}
 	
-	{{< blocks/products/pf/offers-section-item link="/slides/perl/" imgSrc="/sdk/aspose_slides-for-perl.png" platform="Perl" >}}
+	{{< blocks/products/pf/offers-section-item link="/slides/perl/" imgSrc="/sdk/aspose_slides-for-perl.svg" platform="Perl" >}}
 
-    {{< blocks/products/pf/offers-section-item link="/slides/swift/" imgSrc="/sdk/aspose_slides-for-swift.png" platform="Swift" >}}
+    {{< blocks/products/pf/offers-section-item link="/slides/swift/" imgSrc="/sdk/aspose_slides-for-swift.svg" platform="Swift" >}}
 	
-	{{< blocks/products/pf/offers-section-item link="/slides/go/" imgSrc="/sdk/aspose_slides-for-go.png" platform="Go" >}}
+	{{< blocks/products/pf/offers-section-item link="/slides/go/" imgSrc="/sdk/aspose_slides-for-go.svg" platform="Go" >}}
 {{< /blocks/products/pf/offers-section >}}
 
 

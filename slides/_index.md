@@ -6,20 +6,20 @@ url: /
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/family-upper-banner h1="PPT, ODP Presentation Maker & Converter Solution" h2="Build apps for desktop, web & cloud using our slide processing local libraries & Cloud RESTful APIs for all popular programming languages." logoImageSrc="/headers/aspose_slides-brand.png" imageAlt="Aspose.Slides Product Family" >}}
+{{< blocks/products/pf/family-upper-banner h1="PPT, ODP Presentation Maker & Converter Solution" h2="Build apps for desktop, web & cloud using our slide processing local libraries & Cloud RESTful APIs for all popular programming languages." logoImageSrc="/headers/aspose_slides-brand.svg" imageAlt="Aspose.Slides Product Family" >}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.Slides Cloud APIs Include" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Slides" title="Cloud for cURL" imgSrc="/sdk/aspose_slides-for-curl.png" productLink="/slides/curl/" >}}
+{{< blocks/products/pf/product pfName="Aspose.Slides" title="Cloud for cURL" imgSrc="/sdk/aspose_slides-for-curl.svg" productLink="/slides/curl/" >}}
 Microsoft PowerPoint & OpenOffice file reader, viewer & converter REST API to process presentations in the cloud via cURL.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Slides" title="Cloud SDK for .NET" imgSrc="/sdk/aspose_slides-for-net.png" productLink="/slides/net/"  >}}
+{{< blocks/products/pf/product pfName="Aspose.Slides" title="Cloud SDK for .NET" imgSrc="/sdk/aspose_slides-for-net.svg" productLink="/slides/net/"  >}}
 .NET REST SDK to read presentation slides located on the cloud storage. Merge, split, copy, download & convert slides via C# cloud SDK.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Slides" title="Cloud SDK for Java" imgSrc="/sdk/aspose_slides-for-java.png" productLink="/slides/java/"  >}}
+{{< blocks/products/pf/product pfName="Aspose.Slides" title="Cloud SDK for Java" imgSrc="/sdk/aspose_slides-for-java.svg" productLink="/slides/java/"  >}}
 Java Cloud SDK to assist you rapidly develop Microsoft PowerPoint (PPT, PPTX) & OpenOffice (ODP, OTP) presentation processing app for cloud.
 {{< /blocks/products/pf/product >}}
 
