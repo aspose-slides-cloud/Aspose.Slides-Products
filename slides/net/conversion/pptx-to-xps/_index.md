@@ -1,7 +1,7 @@
 ---
 title: Convert from Slides PPTX to XPS via .NET 
 description: Create, Edit or Convert Slides files with REST API & Open Source .NET SDK
-url: /slides/net/conversion/pptx-to-xps/
+url: /net/conversion/pptx-to-xps/
 family: slides
 platformtag: net
 feature: conversion

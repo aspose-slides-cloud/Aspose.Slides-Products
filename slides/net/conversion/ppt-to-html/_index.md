@@ -1,7 +1,7 @@
 ---
 title: Convert from Slides PPT to HTML via .NET 
 description: Create, Edit or Convert Slides files with REST API & Open Source .NET SDK
-url: /slides/net/conversion/ppt-to-html/
+url: /net/conversion/ppt-to-html/
 family: slides
 platformtag: net
 feature: conversion

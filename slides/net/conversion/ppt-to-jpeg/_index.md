@@ -1,7 +1,7 @@
 ---
 title: Convert from Slides PPT to JPEG via .NET 
 description: Create, Edit or Convert Slides files with REST API & Open Source .NET SDK
-url: /slides/net/conversion/ppt-to-jpeg/
+url: /net/conversion/ppt-to-jpeg/
 family: slides
 platformtag: net
 feature: conversion

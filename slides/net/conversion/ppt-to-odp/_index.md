@@ -1,7 +1,7 @@
 ---
 title: Convert from Slides PPT to ODP via .NET 
 description: Create, Edit or Convert Slides files with REST API & Open Source .NET SDK
-url: /slides/net/conversion/ppt-to-odp/
+url: /net/conversion/ppt-to-odp/
 family: slides
 platformtag: net
 feature: conversion

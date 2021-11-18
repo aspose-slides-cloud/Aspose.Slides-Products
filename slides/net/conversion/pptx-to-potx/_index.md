@@ -1,7 +1,7 @@
 ---
 title: Convert from Slides PPTX to POTX via .NET 
 description: Create, Edit or Convert Slides files with REST API & Open Source .NET SDK
-url: /slides/net/conversion/pptx-to-potx/
+url: /net/conversion/pptx-to-potx/
 family: slides
 platformtag: net
 feature: conversion

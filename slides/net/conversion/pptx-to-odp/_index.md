@@ -1,7 +1,7 @@
 ---
 title: Convert from Slides PPTX to ODP via .NET 
 description: Create, Edit or Convert Slides files with REST API & Open Source .NET SDK
-url: /slides/net/conversion/pptx-to-odp/
+url: /net/conversion/pptx-to-odp/
 family: slides
 platformtag: net
 feature: conversion

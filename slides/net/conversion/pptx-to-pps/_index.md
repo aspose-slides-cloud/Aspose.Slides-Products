@@ -1,7 +1,7 @@
 ---
 title: Convert from Slides PPTX to PPS via .NET 
 description: Create, Edit or Convert Slides files with REST API & Open Source .NET SDK
-url: /slides/net/conversion/pptx-to-pps/
+url: /net/conversion/pptx-to-pps/
 family: slides
 platformtag: net
 feature: conversion
