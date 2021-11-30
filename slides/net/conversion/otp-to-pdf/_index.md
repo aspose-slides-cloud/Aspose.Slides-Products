@@ -27,7 +27,7 @@ otherformats: PPT PPTX PPS PPSX PPTM PPSM POTX POTM ODP OTP XPS JPEG PNG BMP TIF
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Get Started with Slides API & .NET SDK" %}}
-Get Slides Cloud SDK for .NET source code from [GitHub](https://github.com/aspose-slides-cloud/aspose-slides-cloud-net) to compile the SDK yourself or head to the [Releases](https://releases.aspose.cloud/) for alternative download options. 
+Get Slides Cloud SDK for .NET source code from [GitHub](https://github.com/aspose-slides-cloud/aspose-slides-cloud-dotnet) to compile the SDK yourself or head to the [Releases](https://releases.aspose.cloud/) for alternative download options. 
 
 Also have a look at Swagger-based [API Reference](https://apireference.aspose.cloud/slides/) to know more about the [SLIDES REST API](https://products.aspose.cloud/slides/curl/).
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -36,6 +36,6 @@ Also have a look at Swagger-based [API Reference](https://apireference.aspose.cl
 
 {{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/agp/faq-autogen >}}
-{{< blocks/products/pf/agp/other-supported-autogen >}}
+{{< blocks/products/pf/agp/other-supported-autogen useCardStyle="true" >}}
 {{< /blocks/products/pf/main-container >}}
 {{< /blocks/products/pf/main-wrap-class >}}
