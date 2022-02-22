@@ -38,7 +38,7 @@ Java API to build presentation maker & converter applications for desktop and we
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Slides for " title="C++" imgSrc="/product-logos/aspose_slides-for-cpp.svg" productLink="https://products.aspose.com/slides/cpp/" >}}
-Easy to use on-premise API for C++ assists you to read, write, process & convert Microsoft & OpenOffice presentation within your apps.
+Easy to use on-premise API for C++ assists you to read, write, process & convert Microsoft & OpenOffice presentations within your apps.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/center-button href="https://products.aspose.com/slides/family/" innerText="View All On Premise APIs" >}}
