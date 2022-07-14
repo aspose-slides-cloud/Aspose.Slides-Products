@@ -1,5 +1,5 @@
 ﻿---
-title: PowerPoint Solutions | REST & On Premise APIs & Apps 
+title: PowerPoint Solutions | REST & On-Premises APIs & Apps 
 description: Build apps for desktop, web & cloud using our slide processing local libraries & Cloud RESTful APIs for all popular programming languages 
 weight: 130
 url: /
@@ -38,10 +38,10 @@ Java API to build presentation maker & converter applications for desktop and we
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Slides for " title="C++" imgSrc="/product-logos/aspose_slides-for-cpp.svg" productLink="https://products.aspose.com/slides/cpp/" >}}
-Easy to use on-premise API for C++ assists you to read, write, process & convert Microsoft & OpenOffice presentations within your apps.
+Easy to use on-premises API for C++ assists you to read, write, process & convert Microsoft & OpenOffice presentations within your apps.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/center-button href="https://products.aspose.com/slides/family/" innerText="View All On Premise APIs" >}}
+{{< blocks/products/pf/center-button href="https://products.aspose.com/slides/family/" innerText="View All On-Premises APIs" >}}
 
 {{< /blocks/products/pf/product-card-row >}}
 
