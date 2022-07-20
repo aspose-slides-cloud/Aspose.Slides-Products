@@ -8,7 +8,7 @@ feature: conversion
 informat: POTX
 outformat: PPS
 platform: Perl
-otherformats: PPT PPTX PPSX PPTM PPSM POTX POTM ODP OTP PDF XPS JPEG PNG BMP TIFF SVG HTML SWF
+otherformats: PPT PPTX PPSX PPTM PPSM POTX POTM ODP OTP PDF XPS JPEG PNG BMP TIFF SVG HTML SWF HTML5 GIF XAML MPEG4
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

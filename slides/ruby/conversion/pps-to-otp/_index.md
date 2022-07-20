@@ -8,7 +8,7 @@ feature: conversion
 informat: PPS
 outformat: OTP
 platform: Ruby
-otherformats: PPT PPTX PPS PPSX PPTM PPSM POTX POTM ODP PDF XPS JPEG PNG BMP TIFF SVG HTML SWF
+otherformats: PPT PPTX PPS PPSX PPTM PPSM POTX POTM ODP PDF XPS JPEG PNG BMP TIFF SVG HTML SWF HTML5 GIF XAML MPEG4
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

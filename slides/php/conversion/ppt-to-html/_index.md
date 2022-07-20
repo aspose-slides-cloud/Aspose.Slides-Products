@@ -8,7 +8,7 @@ feature: conversion
 informat: PPT
 outformat: HTML
 platform: PHP
-otherformats: PPT PPTX PPS PPSX PPTM PPSM POTX POTM ODP OTP PDF XPS JPEG PNG BMP TIFF SVG SWF
+otherformats: PPT PPTX PPS PPSX PPTM PPSM POTX POTM ODP OTP PDF XPS JPEG PNG BMP TIFF SVG SWF HTML5 GIF XAML MPEG4
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

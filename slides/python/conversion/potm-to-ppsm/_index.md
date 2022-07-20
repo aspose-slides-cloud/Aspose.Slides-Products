@@ -8,7 +8,7 @@ feature: conversion
 informat: POTM
 outformat: PPSM
 platform: Python
-otherformats: PPT PPTX PPS PPSX PPTM POTX POTM ODP OTP PDF XPS JPEG PNG BMP TIFF SVG HTML SWF
+otherformats: PPT PPTX PPS PPSX PPTM POTX POTM ODP OTP PDF XPS JPEG PNG BMP TIFF SVG HTML SWF HTML5 GIF XAML MPEG4
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
