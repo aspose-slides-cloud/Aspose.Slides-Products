@@ -2,20 +2,21 @@
 title: PowerPoint & OpenOffice Slides Builder via Python Cloud SDK 
 description: Empower your cloud-based Python apps to create, copy, merge, split, download & convert PowerPoint & OpenOffice presentation slides
 weight: 110
+family: slides
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Python REST SDK to Build & Convert Presentations" h2="Empower your cloud-based Python apps to create, copy, merge, split, download & convert PowerPoint & OpenOffice presentation slides." logoImageSrc="/headers/aspose_slides-for-python.svg" pfName="Aspose.Slides" subTitlepfName="Cloud SDK for Python" downloadUrl="" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Python REST SDK to Build & Convert Presentations" h2="Empower your cloud-based Python apps to create, copy, merge, split, download & convert PowerPoint & OpenOffice presentation slides." logoImageSrc="/headers/aspose_slides-for-python.svg" pfName="Aspose.Slides" subTitlepfName="Cloud SDK for Python" downloadUrl="" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Slides" subTitlepfName="Cloud SDK for Python" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="/sdk/aspose_slides-for-python.png" liveDemosLink="" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/slides" directDownloadLink="https://github.com/aspose-slides-cloud/aspose-slides-cloud-python" liveDemosLink="https://products.aspose.app/slides/family" >}}
+{{< blocks/products/pf/i18n/sub-menu logoImageSrc="/sdk/aspose_slides-for-python.png" liveDemosLink="" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/slides" directDownloadLink="https://github.com/aspose-slides-cloud/aspose-slides-cloud-python" liveDemosLink="https://products.aspose.app/slides/family" >}}
 
-{{< blocks/products/pf/tab-content >}}
+{{< blocks/products/pf/i18n/tab-content >}}
 <p>Aspose.Slides Cloud SDK for Python is built on top of Aspose.Slides REST API and is offered under an MIT license. Aspose.Slides Cloud SDK for Python can be easily integrated into your Python applications and enable them to fetch, process and convert PowerPoint as well as OpenOffice presentation slides in the cloud, without any third-party installation.</p>
 <p>Using Aspose.Slides Cloud SDK for Python, your Python programs will be able to download individual slide from a presentation, get placeholder information from a slide, copy, move or delete a slide. You can also get font scheme, format scheme, color scheme or theme of a slide using Python SDK. Support is also available for cloning master slide information from a presentation hosted on the cloud.</p>
 <p>Aspose.Slides Cloud SDK for Python also allows your Python apps to work with slide images, shapes, notes, text occurrences and other document attributes. You can easily utilize Python SDK to convert PPT, PPTX, ODP, OTP to PDF, XPS, SWF, HTML or many of the image formats (BMP, JPEG, TIFF, SVG, PNG).</p>
-{{< /blocks/products/pf/tab-content >}}
+{{< /blocks/products/pf/i18n/tab-content >}}
 
 <!--Diagrams Start-->
 {{< blocks/products/pf/carousel >}}
@@ -228,32 +229,32 @@ weight: 110
 
 {{< /blocks/products/pf/support-learning-resources >}}
 
-
 {{< blocks/products/pf/offers-section pfName="Aspose.Slides" >}}
 
-    {{< blocks/products/pf/offers-section-item link="/slides/curl/" imgSrc="/sdk/aspose_slides-for-curl.png" platform="cURL" >}}
+    {{< blocks/products/pf/i18n/offers-section-item link="curl" imgSrc="/sdk/aspose_slides-for-curl.png" platform="cURL" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/slides/net/" imgSrc="/sdk/aspose_slides-for-net.png" platform=".NET" >}}
+    {{< blocks/products/pf/i18n/offers-section-item link="net" imgSrc="/sdk/aspose_slides-for-net.png" platform=".NET" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/slides/java/" imgSrc="/sdk/aspose_slides-for-java.png" platform="Java" >}}
+    {{< blocks/products/pf/i18n/offers-section-item link="java" imgSrc="/sdk/aspose_slides-for-java.png" platform="Java" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/slides/php/" imgSrc="/sdk/aspose_slides-for-php.png" platform="PHP" >}}
+    {{< blocks/products/pf/i18n/offers-section-item link="php" imgSrc="/sdk/aspose_slides-for-php.png" platform="PHP" >}}
 	
-	{{< blocks/products/pf/offers-section-item link="/slides/android/" imgSrc="/sdk/aspose_slides-for-android.png" platform="Android" >}}
+    {{< blocks/products/pf/i18n/offers-section-item link="android" imgSrc="/sdk/aspose_slides-for-android.png" platform="Android" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/slides/python/" imgSrc="/sdk/aspose_slides-for-python.png" platform="Python" >}}
+    {{< blocks/products/pf/i18n/offers-section-item link="python" imgSrc="/sdk/aspose_slides-for-python.png" platform="Python" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/slides/ruby/" imgSrc="/sdk/aspose_slides-for-ruby.png" platform="Ruby" >}}
+    {{< blocks/products/pf/i18n/offers-section-item link="ruby" imgSrc="/sdk/aspose_slides-for-ruby.png" platform="Ruby" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/slides/nodejs/" imgSrc="/sdk/aspose_slides-for-node.png" platform="Node.js" >}}
+    {{< blocks/products/pf/i18n/offers-section-item link="nodejs" imgSrc="/sdk/aspose_slides-for-node.png" platform="Node.js" >}}
 	
-	{{< blocks/products/pf/offers-section-item link="/slides/cpp/" imgSrc="/sdk/aspose_slides-for-cpp.png" platform="C++" >}}
+    {{< blocks/products/pf/i18n/offers-section-item link="cpp" imgSrc="/sdk/aspose_slides-for-cpp.png" platform="C++" >}}
 	
-	{{< blocks/products/pf/offers-section-item link="/slides/perl/" imgSrc="/sdk/aspose_slides-for-perl.png" platform="Perl" >}}
+    {{< blocks/products/pf/i18n/offers-section-item link="perl" imgSrc="/sdk/aspose_slides-for-perl.png" platform="Perl" >}}
 
-    {{< blocks/products/pf/offers-section-item link="/slides/swift/" imgSrc="/sdk/aspose_slides-for-swift.png" platform="Swift" >}}
+    {{< blocks/products/pf/i18n/offers-section-item link="swift" imgSrc="/sdk/aspose_slides-for-swift.png" platform="Swift" >}}
 	
-	{{< blocks/products/pf/offers-section-item link="/slides/go/" imgSrc="/sdk/aspose_slides-for-go.png" platform="Go" >}}
+    {{< blocks/products/pf/i18n/offers-section-item link="go" imgSrc="/sdk/aspose_slides-for-go.png" platform="Go" >}}
+
 {{< /blocks/products/pf/offers-section >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -7,17 +7,17 @@ platform: NodeJS
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Node.js REST SDK para procesar diapositivas en la nube" h2="API REST Node.js fácil de integrar y fácil de usar para crear, copiar, fusionar, dividir, descargar y convertir diapositivas de PowerPoint y OpenOffice en la nube." logoImageSrc="/headers/aspose_slides-for-node.svg" pfName="Aspose.Slides" subTitlepfName="Cloud SDK para Node.js" downloadUrl="" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Node.js REST SDK para procesar diapositivas en la nube" h2="API REST Node.js fácil de integrar y fácil de usar para crear, copiar, fusionar, dividir, descargar y convertir diapositivas de PowerPoint y OpenOffice en la nube." logoImageSrc="/headers/aspose_slides-for-node.svg" pfName="Aspose.Slides" subTitlepfName="Cloud SDK para Node.js" downloadUrl="" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Slides" subTitlepfName="Cloud SDK para Node.js" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="/sdk/aspose_slides-for-node.png" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/slides" directDownloadLink="https://github.com/aspose-slides-cloud/aspose-slides-cloud-nodejs" liveDemosLink="https://products.aspose.app/slides/family"  >}}
+{{< blocks/products/pf/i18n/sub-menu logoImageSrc="/sdk/aspose_slides-for-node.png" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/slides" directDownloadLink="https://github.com/aspose-slides-cloud/aspose-slides-cloud-nodejs" liveDemosLink="https://products.aspose.app/slides/family" >}}
 
-{{< blocks/products/pf/tab-content >}}
+{{< blocks/products/pf/i18n/tab-content >}}
 <p>Aspose.Slides Cloud SDK para Node.js ayuda a sus aplicaciones basadas en la nube de Node.js a acceder a presentaciones de PowerPoint y OpenOffice alojadas en el almacenamiento en la nube para procesar y convertir de PPT, PPTX, ODP, OTP a SWF, HTML, PDF, XPS, PDF/A, JPEG, SVG, TIFF, BMP y PNG.</p>
 <p>Apose.Slides Cloud SDK para Node.js permite que su código Node.js divida presentaciones de PowerPoint, combine diapositivas de presentaciones, así como copie, mueva o elimine diapositivas. Use comandos simples de Node.js para obtener la fuente, el formato y el esquema de color de las presentaciones ubicadas en la nube. Lea la información de la diapositiva maestra y clónela. Actualice la secuencia principal de animaciones de diapositivas. Extraiga formas, notas e imágenes de las diapositivas de la presentación.</p>
 <p>Aspose.Slides Cloud SDK para Node.js es un contenedor de la API REST de Aspose.Slides y este SDK de nube de manipulación de presentaciones de PowerPoint está disponible bajo la licencia MIT.</p>
-{{< /blocks/products/pf/tab-content >}}
+{{< /blocks/products/pf/i18n/tab-content >}}
 
 <!--Diagrams Start-->
 {{< blocks/products/pf/carousel >}}
@@ -230,33 +230,34 @@ platform: NodeJS
 
 {{< /blocks/products/pf/support-learning-resources >}}
 
-{{< blocks/products/pf/download-section downloadFreeTrialLink="" pricingInformationLink="https://purchase.aspose.cloud/pricing" >}}
+{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="" pricingInformationLink="https://purchase.aspose.cloud/pricing" >}}
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Slides" >}}
 
-    {{< blocks/products/pf/offers-section-item link="/es/slides/curl/" imgSrc="/sdk/aspose_slides-for-curl.png" platform="cURL" >}}
+    {{< blocks/products/pf/i18n/offers-section-item link="curl" imgSrc="/sdk/aspose_slides-for-curl.png" platform="cURL" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/es/slides/net/" imgSrc="/sdk/aspose_slides-for-net.png" platform=".NET" >}}
+    {{< blocks/products/pf/i18n/offers-section-item link="net" imgSrc="/sdk/aspose_slides-for-net.png" platform=".NET" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/es/slides/java/" imgSrc="/sdk/aspose_slides-for-java.png" platform="Java" >}}
+    {{< blocks/products/pf/i18n/offers-section-item link="java" imgSrc="/sdk/aspose_slides-for-java.png" platform="Java" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/es/slides/php/" imgSrc="/sdk/aspose_slides-for-php.png" platform="PHP" >}}
+    {{< blocks/products/pf/i18n/offers-section-item link="php" imgSrc="/sdk/aspose_slides-for-php.png" platform="PHP" >}}
 	
-	{{< blocks/products/pf/offers-section-item link="/es/slides/android/" imgSrc="/sdk/aspose_slides-for-android.png" platform="Android" >}}
+    {{< blocks/products/pf/i18n/offers-section-item link="android" imgSrc="/sdk/aspose_slides-for-android.png" platform="Android" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/es/slides/python/" imgSrc="/sdk/aspose_slides-for-python.png" platform="Python" >}}
+    {{< blocks/products/pf/i18n/offers-section-item link="python" imgSrc="/sdk/aspose_slides-for-python.png" platform="Python" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/es/slides/ruby/" imgSrc="/sdk/aspose_slides-for-ruby.png" platform="Ruby" >}}
+    {{< blocks/products/pf/i18n/offers-section-item link="ruby" imgSrc="/sdk/aspose_slides-for-ruby.png" platform="Ruby" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/es/slides/nodejs/" imgSrc="/sdk/aspose_slides-for-node.png" platform="Node.js" >}}
+    {{< blocks/products/pf/i18n/offers-section-item link="nodejs" imgSrc="/sdk/aspose_slides-for-node.png" platform="Node.js" >}}
 	
-	{{< blocks/products/pf/offers-section-item link="/es/slides/cpp/" imgSrc="/sdk/aspose_slides-for-cpp.png" platform="C++" >}}
+    {{< blocks/products/pf/i18n/offers-section-item link="cpp" imgSrc="/sdk/aspose_slides-for-cpp.png" platform="C++" >}}
 	
-	{{< blocks/products/pf/offers-section-item link="/es/slides/perl/" imgSrc="/sdk/aspose_slides-for-perl.png" platform="Perl" >}}
+    {{< blocks/products/pf/i18n/offers-section-item link="perl" imgSrc="/sdk/aspose_slides-for-perl.png" platform="Perl" >}}
 
-    {{< blocks/products/pf/offers-section-item link="/es/slides/swift/" imgSrc="/sdk/aspose_slides-for-swift.png" platform="Swift" >}}
+    {{< blocks/products/pf/i18n/offers-section-item link="swift" imgSrc="/sdk/aspose_slides-for-swift.png" platform="Swift" >}}
 	
-	{{< blocks/products/pf/offers-section-item link="/es/slides/go/" imgSrc="/sdk/aspose_slides-for-go.png" platform="Go" >}}
+    {{< blocks/products/pf/i18n/offers-section-item link="go" imgSrc="/sdk/aspose_slides-for-go.png" platform="Go" >}}
+
 {{< /blocks/products/pf/offers-section >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

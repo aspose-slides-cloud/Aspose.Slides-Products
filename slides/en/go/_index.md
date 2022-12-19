@@ -2,20 +2,21 @@
 title: PowerPoint Presentation Maker REST API & Go lang SDK 
 description: Enhance your cloud-based Go language apps to access presentations from cloud storage to modify & convert without any software
 weight: 50
+family: slides
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Process Slides in Cloud via Golang REST SDK" h2="Enhance your cloud-based Go language apps to access presentations from cloud storage to modify & convert without any software." logoImageSrc="/headers/aspose_slides-for-go.svg" pfName="Aspose.Slides" subTitlepfName="Cloud SDK for Go" downloadUrl="" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Process Slides in Cloud via Golang REST SDK" h2="Enhance your cloud-based Go language apps to access presentations from cloud storage to modify & convert without any software." logoImageSrc="/headers/aspose_slides-for-go.svg" pfName="Aspose.Slides" subTitlepfName="Cloud SDK for Go" downloadUrl="" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Slides" subTitlepfName="Cloud SDK for Go" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="/sdk/aspose_slides-for-go.png" liveDemosLink="" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/slides" directDownloadLink="https://github.com/aspose-slides-cloud/aspose-slides-cloud-go" liveDemosLink="https://products.aspose.app/slides/family" >}}
+{{< blocks/products/pf/i18n/sub-menu logoImageSrc="/sdk/aspose_slides-for-go.png" liveDemosLink="" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/slides" directDownloadLink="https://github.com/aspose-slides-cloud/aspose-slides-cloud-go" liveDemosLink="https://products.aspose.app/slides/family" >}}
 
-{{< blocks/products/pf/tab-content >}}
+{{< blocks/products/pf/i18n/tab-content >}}
 <p>Aspose.Slides Cloud SDK for Go is developed to assist Golang programmers in processing and manipulating Microsoft PowerPoint & OpenOffice presentation slides hosted on the cloud. This cloud SDK is based on top of Aspose.Slides REST API and works without installing any third-party software. Aspose.Slides Cloud SDK for Go is offered under an MIT license.</p>
 <p>Using Aspose.Slides Cloud SDK for Go, you can seamlessly integrate the presentation viewer, maker & converter functionality in to your cloud-based apps developed in Go programming language. This will allow your Golang code to create new presentations or access and existing presentation slides from cloud storage. Your Go programs will be able to work with whole presentations, individual slides, its notes, themes, animations, shapes, images, texts as well as custom fonts.</p>
 <p>Aspose.Slides Cloud SDK for Go enables your Go application to convert Microsoft PowerPoint (PPT, PPTX) & OpenOffice (ODP, OTP) formats to various supported formats, such as, PDF, SWF, XPS, HTML, BMP, PNG, JPEG, TIFF and SVG.</p>
-{{< /blocks/products/pf/tab-content >}}
+{{< /blocks/products/pf/i18n/tab-content >}}
 
 <!--Diagrams Start-->
 {{< blocks/products/pf/carousel >}}
@@ -231,29 +232,30 @@ weight: 50
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Slides" >}}
 
-    {{< blocks/products/pf/offers-section-item link="/slides/curl/" imgSrc="/sdk/aspose_slides-for-curl.png" platform="cURL" >}}
+    {{< blocks/products/pf/i18n/offers-section-item link="curl" imgSrc="/sdk/aspose_slides-for-curl.png" platform="cURL" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/slides/net/" imgSrc="/sdk/aspose_slides-for-net.png" platform=".NET" >}}
+    {{< blocks/products/pf/i18n/offers-section-item link="net" imgSrc="/sdk/aspose_slides-for-net.png" platform=".NET" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/slides/java/" imgSrc="/sdk/aspose_slides-for-java.png" platform="Java" >}}
+    {{< blocks/products/pf/i18n/offers-section-item link="java" imgSrc="/sdk/aspose_slides-for-java.png" platform="Java" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/slides/php/" imgSrc="/sdk/aspose_slides-for-php.png" platform="PHP" >}}
+    {{< blocks/products/pf/i18n/offers-section-item link="php" imgSrc="/sdk/aspose_slides-for-php.png" platform="PHP" >}}
 	
-	{{< blocks/products/pf/offers-section-item link="/slides/android/" imgSrc="/sdk/aspose_slides-for-android.png" platform="Android" >}}
+    {{< blocks/products/pf/i18n/offers-section-item link="android" imgSrc="/sdk/aspose_slides-for-android.png" platform="Android" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/slides/python/" imgSrc="/sdk/aspose_slides-for-python.png" platform="Python" >}}
+    {{< blocks/products/pf/i18n/offers-section-item link="python" imgSrc="/sdk/aspose_slides-for-python.png" platform="Python" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/slides/ruby/" imgSrc="/sdk/aspose_slides-for-ruby.png" platform="Ruby" >}}
+    {{< blocks/products/pf/i18n/offers-section-item link="ruby" imgSrc="/sdk/aspose_slides-for-ruby.png" platform="Ruby" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/slides/nodejs/" imgSrc="/sdk/aspose_slides-for-node.png" platform="Node.js" >}}
+    {{< blocks/products/pf/i18n/offers-section-item link="nodejs" imgSrc="/sdk/aspose_slides-for-node.png" platform="Node.js" >}}
 	
-	{{< blocks/products/pf/offers-section-item link="/slides/cpp/" imgSrc="/sdk/aspose_slides-for-cpp.png" platform="C++" >}}
+    {{< blocks/products/pf/i18n/offers-section-item link="cpp" imgSrc="/sdk/aspose_slides-for-cpp.png" platform="C++" >}}
 	
-	{{< blocks/products/pf/offers-section-item link="/slides/perl/" imgSrc="/sdk/aspose_slides-for-perl.png" platform="Perl" >}}
+    {{< blocks/products/pf/i18n/offers-section-item link="perl" imgSrc="/sdk/aspose_slides-for-perl.png" platform="Perl" >}}
 
-    {{< blocks/products/pf/offers-section-item link="/slides/swift/" imgSrc="/sdk/aspose_slides-for-swift.png" platform="Swift" >}}
+    {{< blocks/products/pf/i18n/offers-section-item link="swift" imgSrc="/sdk/aspose_slides-for-swift.png" platform="Swift" >}}
 	
-	{{< blocks/products/pf/offers-section-item link="/slides/go/" imgSrc="/sdk/aspose_slides-for-go.png" platform="Go" >}}
+    {{< blocks/products/pf/i18n/offers-section-item link="go" imgSrc="/sdk/aspose_slides-for-go.png" platform="Go" >}}
+
 {{< /blocks/products/pf/offers-section >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

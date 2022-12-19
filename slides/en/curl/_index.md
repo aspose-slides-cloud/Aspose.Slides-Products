@@ -2,18 +2,19 @@
 title: Create, Merge, Split & Convert PowerPoint Slides via cURL 
 description: Perform PowerPoint & OpenOffice presentation slides creation, processing, merging & conversion by simple cURL commands via REST API
 weight: 40
+family: slides
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Build PPT Presentation Maker & Converter Apps via cURL" h2="Perform PowerPoint & OpenOffice presentation slides creation, processing, merging & conversion by simple cURL commands via REST API." logoImageSrc="/headers/aspose_slides-for-curl.svg" pfName="Aspose.Slides" subTitlepfName="Cloud for cURL" downloadUrl="" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Build PPT Presentation Maker & Converter Apps via cURL" h2="Perform PowerPoint & OpenOffice presentation slides creation, processing, merging & conversion by simple cURL commands via REST API." logoImageSrc="/headers/aspose_slides-for-curl.svg" pfName="Aspose.Slides" subTitlepfName="Cloud for cURL" downloadUrl="" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Slides" subTitlepfName="Cloud for cURL" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="/sdk/aspose_slides-for-curl.png" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/slides" directDownloadLink="https://github.com/aspose-slides-cloud" liveDemosLink="https://products.aspose.app/slides/family"  >}}
+{{< blocks/products/pf/i18n/sub-menu logoImageSrc="/sdk/aspose_slides-for-curl.png" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/slides" directDownloadLink="https://github.com/aspose-slides-cloud" liveDemosLink="https://products.aspose.app/slides/family" >}}
 
-{{< blocks/products/pf/tab-content >}}
+{{< blocks/products/pf/i18n/tab-content >}}
 <p>Aspose.Slides Cloud for cURL allows you to convert PowerPoint & OpenOffice presentations and slides to other supported formats. For example, you can convert PPT to PDF,BMP, PNG, SVG, TIFF, JPEG, SWF & HTML. You can perform various operations on presentation slides, presentation themes, slide notes, slide images, master slides, custom fonts and various other properties of Microsoft PowerPoint & OpenOffice presentation documents.</p>
-{{< /blocks/products/pf/tab-content >}}
+{{< /blocks/products/pf/i18n/tab-content >}}
 
 <!--Diagrams Start-->
 {{< blocks/products/pf/carousel >}}
@@ -229,29 +230,30 @@ weight: 40
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Slides" >}}
 
-    {{< blocks/products/pf/offers-section-item link="/slides/curl/" imgSrc="/sdk/aspose_slides-for-curl.png" platform="cURL" >}}
+    {{< blocks/products/pf/i18n/offers-section-item link="curl" imgSrc="/sdk/aspose_slides-for-curl.png" platform="cURL" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/slides/net/" imgSrc="/sdk/aspose_slides-for-net.png" platform=".NET" >}}
+    {{< blocks/products/pf/i18n/offers-section-item link="net" imgSrc="/sdk/aspose_slides-for-net.png" platform=".NET" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/slides/java/" imgSrc="/sdk/aspose_slides-for-java.png" platform="Java" >}}
+    {{< blocks/products/pf/i18n/offers-section-item link="java" imgSrc="/sdk/aspose_slides-for-java.png" platform="Java" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/slides/php/" imgSrc="/sdk/aspose_slides-for-php.png" platform="PHP" >}}
+    {{< blocks/products/pf/i18n/offers-section-item link="php" imgSrc="/sdk/aspose_slides-for-php.png" platform="PHP" >}}
 	
-	{{< blocks/products/pf/offers-section-item link="/slides/android/" imgSrc="/sdk/aspose_slides-for-android.png" platform="Android" >}}
+    {{< blocks/products/pf/i18n/offers-section-item link="android" imgSrc="/sdk/aspose_slides-for-android.png" platform="Android" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/slides/python/" imgSrc="/sdk/aspose_slides-for-python.png" platform="Python" >}}
+    {{< blocks/products/pf/i18n/offers-section-item link="python" imgSrc="/sdk/aspose_slides-for-python.png" platform="Python" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/slides/ruby/" imgSrc="/sdk/aspose_slides-for-ruby.png" platform="Ruby" >}}
+    {{< blocks/products/pf/i18n/offers-section-item link="ruby" imgSrc="/sdk/aspose_slides-for-ruby.png" platform="Ruby" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/slides/nodejs/" imgSrc="/sdk/aspose_slides-for-node.png" platform="Node.js" >}}
+    {{< blocks/products/pf/i18n/offers-section-item link="nodejs" imgSrc="/sdk/aspose_slides-for-node.png" platform="Node.js" >}}
 	
-	{{< blocks/products/pf/offers-section-item link="/slides/cpp/" imgSrc="/sdk/aspose_slides-for-cpp.png" platform="C++" >}}
+    {{< blocks/products/pf/i18n/offers-section-item link="cpp" imgSrc="/sdk/aspose_slides-for-cpp.png" platform="C++" >}}
 	
-	{{< blocks/products/pf/offers-section-item link="/slides/perl/" imgSrc="/sdk/aspose_slides-for-perl.png" platform="Perl" >}}
+    {{< blocks/products/pf/i18n/offers-section-item link="perl" imgSrc="/sdk/aspose_slides-for-perl.png" platform="Perl" >}}
 
-    {{< blocks/products/pf/offers-section-item link="/slides/swift/" imgSrc="/sdk/aspose_slides-for-swift.png" platform="Swift" >}}
+    {{< blocks/products/pf/i18n/offers-section-item link="swift" imgSrc="/sdk/aspose_slides-for-swift.png" platform="Swift" >}}
 	
-	{{< blocks/products/pf/offers-section-item link="/slides/go/" imgSrc="/sdk/aspose_slides-for-go.png" platform="Go" >}}
+    {{< blocks/products/pf/i18n/offers-section-item link="go" imgSrc="/sdk/aspose_slides-for-go.png" platform="Go" >}}
+
 {{< /blocks/products/pf/offers-section >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

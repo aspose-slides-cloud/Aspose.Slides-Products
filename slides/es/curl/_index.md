@@ -7,15 +7,15 @@ platform: cURL
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Cree aplicaciones PPT Presentation Maker & Converter a través de cURL" h2="Realice la creación, el procesamiento, la combinación y la conversión de diapositivas de presentaciones de PowerPoint y OpenOffice mediante simples comandos cURL a través de la API REST" logoImageSrc="/headers/aspose_slides-for-curl.svg" pfName="Aspose.Slides" subTitlepfName="Cloud para cURL" downloadUrl="" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Cree aplicaciones PPT Presentation Maker & Converter a través de cURL" h2="Realice la creación, el procesamiento, la combinación y la conversión de diapositivas de presentaciones de PowerPoint y OpenOffice mediante simples comandos cURL a través de la API REST" logoImageSrc="/headers/aspose_slides-for-curl.svg" pfName="Aspose.Slides" subTitlepfName="Cloud para cURL" downloadUrl="" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Slides" subTitlepfName="Cloud para cURL" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="/sdk/aspose_slides-for-curl.png" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/slides" directDownloadLink="https://github.com/aspose-slides-cloud" liveDemosLink="https://products.aspose.app/slides/family"  >}}
+{{< blocks/products/pf/i18n/sub-menu logoImageSrc="/sdk/aspose_slides-for-curl.png" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/slides" directDownloadLink="https://github.com/aspose-slides-cloud" liveDemosLink="https://products.aspose.app/slides/family" >}}
 
-{{< blocks/products/pf/tab-content >}}
+{{< blocks/products/pf/i18n/tab-content >}}
 <p>Aspose.Slides Cloud for cURL le permite convertir presentaciones y diapositivas de PowerPoint y OpenOffice a otros formatos compatibles. Por ejemplo, puede convertir PPT a PDF, BMP, PNG, SVG, TIFF, JPEG, SWF y HTML. Puede realizar varias operaciones en diapositivas de presentación, temas de presentación, notas de diapositivas, imágenes de diapositivas, diapositivas maestras, fuentes personalizadas y varias otras propiedades de los documentos de presentación de Microsoft PowerPoint y OpenOffice.</p>
-{{< /blocks/products/pf/tab-content >}}
+{{< /blocks/products/pf/i18n/tab-content >}}
 
 <!--Diagrams Start-->
 {{< blocks/products/pf/carousel >}}
@@ -220,33 +220,34 @@ platform: cURL
 
 {{< /blocks/products/pf/support-learning-resources >}}
 
-{{< blocks/products/pf/download-section downloadFreeTrialLink="" pricingInformationLink="https://purchase.aspose.cloud/pricing" >}}
+{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="" pricingInformationLink="https://purchase.aspose.cloud/pricing" >}}
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Slides" >}}
 
-    {{< blocks/products/pf/offers-section-item link="/es/slides/curl/" imgSrc="/sdk/aspose_slides-for-curl.png" platform="cURL" >}}
+    {{< blocks/products/pf/i18n/offers-section-item link="curl" imgSrc="/sdk/aspose_slides-for-curl.png" platform="cURL" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/es/slides/net/" imgSrc="/sdk/aspose_slides-for-net.png" platform=".NET" >}}
+    {{< blocks/products/pf/i18n/offers-section-item link="net" imgSrc="/sdk/aspose_slides-for-net.png" platform=".NET" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/es/slides/java/" imgSrc="/sdk/aspose_slides-for-java.png" platform="Java" >}}
+    {{< blocks/products/pf/i18n/offers-section-item link="java" imgSrc="/sdk/aspose_slides-for-java.png" platform="Java" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/es/slides/php/" imgSrc="/sdk/aspose_slides-for-php.png" platform="PHP" >}}
+    {{< blocks/products/pf/i18n/offers-section-item link="php" imgSrc="/sdk/aspose_slides-for-php.png" platform="PHP" >}}
 	
-	{{< blocks/products/pf/offers-section-item link="/es/slides/android/" imgSrc="/sdk/aspose_slides-for-android.png" platform="Android" >}}
+    {{< blocks/products/pf/i18n/offers-section-item link="android" imgSrc="/sdk/aspose_slides-for-android.png" platform="Android" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/es/slides/python/" imgSrc="/sdk/aspose_slides-for-python.png" platform="Python" >}}
+    {{< blocks/products/pf/i18n/offers-section-item link="python" imgSrc="/sdk/aspose_slides-for-python.png" platform="Python" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/es/slides/ruby/" imgSrc="/sdk/aspose_slides-for-ruby.png" platform="Ruby" >}}
+    {{< blocks/products/pf/i18n/offers-section-item link="ruby" imgSrc="/sdk/aspose_slides-for-ruby.png" platform="Ruby" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/es/slides/nodejs/" imgSrc="/sdk/aspose_slides-for-node.png" platform="Node.js" >}}
+    {{< blocks/products/pf/i18n/offers-section-item link="nodejs" imgSrc="/sdk/aspose_slides-for-node.png" platform="Node.js" >}}
 	
-	{{< blocks/products/pf/offers-section-item link="/es/slides/cpp/" imgSrc="/sdk/aspose_slides-for-cpp.png" platform="C++" >}}
+    {{< blocks/products/pf/i18n/offers-section-item link="cpp" imgSrc="/sdk/aspose_slides-for-cpp.png" platform="C++" >}}
 	
-	{{< blocks/products/pf/offers-section-item link="/es/slides/perl/" imgSrc="/sdk/aspose_slides-for-perl.png" platform="Perl" >}}
+    {{< blocks/products/pf/i18n/offers-section-item link="perl" imgSrc="/sdk/aspose_slides-for-perl.png" platform="Perl" >}}
 
-    {{< blocks/products/pf/offers-section-item link="/es/slides/swift/" imgSrc="/sdk/aspose_slides-for-swift.png" platform="Swift" >}}
+    {{< blocks/products/pf/i18n/offers-section-item link="swift" imgSrc="/sdk/aspose_slides-for-swift.png" platform="Swift" >}}
 	
-	{{< blocks/products/pf/offers-section-item link="/es/slides/go/" imgSrc="/sdk/aspose_slides-for-go.png" platform="Go" >}}
+    {{< blocks/products/pf/i18n/offers-section-item link="go" imgSrc="/sdk/aspose_slides-for-go.png" platform="Go" >}}
+
 {{< /blocks/products/pf/offers-section >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}
