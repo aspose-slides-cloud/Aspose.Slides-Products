@@ -16,7 +16,7 @@ platform: C++
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>Aspose.Slides Cloud SDK para C++ permite a los programadores de computadoras generar, modificar, renderizar y convertir presentaciones de PowerPoint y OpenOffice sin usar Microsoft PowerPoint. El SDK brinda soporte para la mayoría de los formatos de archivo de Microsoft PowerPoint, como POT, PPT, PPS, POTX, PPTX, PPSX y ODP, y los exporta a formatos populares.</p>
 <p>Aspose.Slides Cloud SDK para C++ incluye soporte para muchas funciones avanzadas y básicas, como generar y modificar presentaciones, fusionar y dividir archivos de presentación, exportar presentaciones de PowerPoint y OpenOffice, agregar nuevas diapositivas, generar presentaciones desde la base de datos, agregar diapositivas de diseño a las presentaciones, Agregue imágenes a las presentaciones y mucho más.</p>
-<p>Puede convertir sus presentaciones a varios formatos de archivo populares con solo un par de comandos dentro de sus propias aplicaciones de Ruby. El SDK admite la conversión fluida a numerosos formatos de archivo como PPT, POT, PPS, PPTX, POTX, PPSX, PPTM, PPSM, POTM, ODP, OTP, TIFF, PDF, XPS, JPEG, PNG, GIF, BMP, SVG, SWF, HTML, y muchos más.</p>
+<p>Puede convertir sus presentaciones a varios formatos de archivo populares con solo un par de comandos dentro de sus propias aplicaciones de C++. El SDK admite la conversión fluida a numerosos formatos de archivo como PPT, POT, PPS, PPTX, POTX, PPSX, PPTM, PPSM, POTM, ODP, OTP, TIFF, PDF, XPS, JPEG, PNG, GIF, BMP, SVG, SWF, HTML, y muchos más.</p>
 {{< /blocks/products/pf/i18n/tab-content >}}
 
 <!--Diagrams Start-->

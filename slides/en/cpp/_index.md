@@ -10,12 +10,12 @@ family: slides
 
 {{< blocks/products/pf/main-container pfName="Aspose.Slides" subTitlepfName="Cloud SDK for C++" >}}
 
-{{< blocks/products/pf/i18n/sub-menu logoImageSrc="/sdk/aspose_slides-for-cpp.png"  PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" ddocsLink="https://docs.aspose.cloud/slides" directDownloadLink="https://github.com/aspose-slides-cloud/aspose-slides-cloud-cpp" liveDemosLink="https://products.aspose.app/slides/family" >}}
+{{< blocks/products/pf/i18n/sub-menu logoImageSrc="/sdk/aspose_slides-for-cpp.png"  PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/slides" directDownloadLink="https://github.com/aspose-slides-cloud/aspose-slides-cloud-cpp" liveDemosLink="https://products.aspose.app/slides/family" >}}
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>Aspose.Slides Cloud SDK for C++ enables computer programmers to generate, modify, render & convert PowerPoint & OpenOffice presentations without using Microsoft PowerPoint. The SDK provides support for most of the Microsoft PowerPoint file formats such as POT, PPT, PPS, POTX, PPTX, PPSX & ODP, and export these to popular formats.</p>
 <p>Aspose.Slides Cloud SDK for C++ includes supports for many advanced and basic features such as generate and modify presentations, merge & split presentation files, export PowerPoint & OpenOffice presentations, add new slides, Generate presentations from the database, Add layout slides to presentations, Add images to presentations and many more.</p>
-<p>You can convert your presentations to several popular file formats with just a couple commands inside your own Ruby applications. The SDK supports smooth conversion into numerous file formats like PPT, POT, PPS, PPTX, POTX, PPSX, PPTM, PPSM, POTM, ODP, OTP, TIFF, PDF, XPS, JPEG, PNG, GIF, BMP, SVG, SWF, HTML, and many more.</p>
+<p>You can convert your presentations to several popular file formats with just a couple commands inside your own C++ applications. The SDK supports smooth conversion into numerous file formats like PPT, POT, PPS, PPTX, POTX, PPSX, PPTM, PPSM, POTM, ODP, OTP, TIFF, PDF, XPS, JPEG, PNG, GIF, BMP, SVG, SWF, HTML, and many more.</p>
 {{< /blocks/products/pf/i18n/tab-content >}}
 
 <!--Diagrams Start-->
