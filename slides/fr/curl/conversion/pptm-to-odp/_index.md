@@ -1,7 +1,6 @@
 ---
 title: Convertir de Slides PPTM en ODP via cURL
 description: Créez, modifiez ou convertissez des fichiers Slides avec l'API REST et le SDK cURL Open Source
-url: /fr/slides/curl/conversion/pptm-to-odp/
 family: slides
 platformtag: curl
 feature: conversion
@@ -35,7 +34,7 @@ Consultez également [la référence de l'API](https://apireference.aspose.cloud
 {{< blocks/products/pf/cloud-app app="convert" language="curl" format="odp" inputFormat="pptm" >}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
-{{< blocks/products/pf/agp/faq-autogen >}}
-{{< blocks/products/pf/agp/other-supported-autogen useCardStyle="true" >}}
+{{< blocks/products/pf/agp/i18n/faq-autogen >}}
+{{< blocks/products/pf/agp/i18n/other-supported-autogen useCardStyle="true" >}}
 {{< /blocks/products/pf/main-container >}}
 {{< /blocks/products/pf/main-wrap-class >}}

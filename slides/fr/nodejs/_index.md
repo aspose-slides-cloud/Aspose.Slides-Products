@@ -7,11 +7,11 @@ platform: NodeJS
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Node.js REST SDK pour traiter les diapositives dans le cloud" h2="API REST Node.js facile à intégrer et facile à utiliser pour créer, copier, fusionner, diviser, télécharger et convertir des diapositives PowerPoint et OpenOffice dans le cloud." logoImageSrc="/headers/aspose_slides-for-nodejs.svg" pfName="Aspose.Slides" subTitlepfName="SDK Cloud pour Node.js" downloadUrl="" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Node.js REST SDK pour traiter les diapositives dans le cloud" h2="API REST Node.js facile à intégrer et facile à utiliser pour créer, copier, fusionner, diviser, télécharger et convertir des diapositives PowerPoint et OpenOffice dans le cloud." logoImageSrc="/headers/aspose_slides-for-node.svg" pfName="Aspose.Slides" subTitlepfName="SDK Cloud pour Node.js" downloadUrl="" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Slides" subTitlepfName="SDK Cloud pour Node.js" >}}
 
-{{< blocks/products/pf/i18n/sub-menu logoImageSrc="/sdk/aspose_slides-for-nodejs.png" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/slides" directDownloadLink="https://github.com/aspose-slides-cloud/aspose-slides-cloud-nodejs" liveDemosLink="https://products.aspose.app/slides/family" >}}
+{{< blocks/products/pf/i18n/sub-menu logoImageSrc="/sdk/aspose_slides-for-node.png" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/slides" directDownloadLink="https://github.com/aspose-slides-cloud/aspose-slides-cloud-nodejs" liveDemosLink="https://products.aspose.app/slides/family" >}}
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>Aspose.Slides Cloud SDK pour Node.js aide vos applications basées sur le cloud Node.js à accéder aux présentations PowerPoint et OpenOffice hébergées dans le stockage en nuage pour traiter et convertir de PPT, PPTX, ODP, OTP en SWF, HTML, PDF, XPS, PDF/A, JPEG, SVG, TIFF, BMP et PNG.</p>
@@ -41,7 +41,7 @@ platform: NodeJS
 </div>
 <!--/right--></div>
 <!--/row-->
-<div class="d1-logo"><img src="/sdk/aspose_slides-for-nodejs.png" alt="Node.js Slides Cloud"><header>Aspose.Slides</header><footer>Cloud <small> <em>pour</em> </small>Node.js</footer></div>
+<div class="d1-logo"><img src="/sdk/aspose_slides-for-node.png" alt="Node.js Slides Cloud"><header>Aspose.Slides</header><footer>Cloud <small> <em>pour</em> </small>Node.js</footer></div>
 <!--/logo--></div>
 <!--/diagram1-->
 {{< /blocks/products/pf/carousel-item >}}
@@ -66,7 +66,7 @@ platform: NodeJS
 </div>
 <!--/right--></div>
 <!--/row-->
-<div class="d1-logo"><img src="/sdk/aspose_slides-for-nodejs.png" alt="SDK Node.js pour les présentations"><header>Aspose.Slides</header><footer>Cloud <small> <em>pour</em> </small>Node.js</footer></div>
+<div class="d1-logo"><img src="/sdk/aspose_slides-for-node.png" alt="SDK Node.js pour les présentations"><header>Aspose.Slides</header><footer>Cloud <small> <em>pour</em> </small>Node.js</footer></div>
 <!--/logo--></div>
 <!--/diagram2-->
 {{< /blocks/products/pf/carousel-item >}}

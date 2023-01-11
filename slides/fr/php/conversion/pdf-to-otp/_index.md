@@ -1,7 +1,6 @@
 ---
 title: Convertir de Slides PDF en OTP via PHP
 description: Créez, modifiez ou convertissez des fichiers Slides avec l'API REST et le SDK PHP Open Source
-url: /fr/slides/php/conversion/pdf-to-otp/
 family: slides
 platformtag: php
 feature: conversion
@@ -35,7 +34,7 @@ Consultez également [la référence de l'API](https://apireference.aspose.cloud
 {{< blocks/products/pf/cloud-app app="convert" language="php" format="otp" inputFormat="pdf" >}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
-{{< blocks/products/pf/agp/faq-autogen >}}
-{{< blocks/products/pf/agp/other-supported-autogen useCardStyle="true" >}}
+{{< blocks/products/pf/agp/i18n/faq-autogen >}}
+{{< blocks/products/pf/agp/i18n/other-supported-autogen useCardStyle="true" >}}
 {{< /blocks/products/pf/main-container >}}
 {{< /blocks/products/pf/main-wrap-class >}}

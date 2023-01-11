@@ -1,7 +1,6 @@
 ---
 title: Convertir de Slides PPT en PNG via C++
 description: Créez, modifiez ou convertissez des fichiers Slides avec l'API REST et le SDK C++ Open Source
-url: /fr/slides/cpp/conversion/ppt-to-png/
 family: slides
 platformtag: cpp
 feature: conversion
@@ -35,7 +34,7 @@ Consultez également [la référence de l'API](https://apireference.aspose.cloud
 {{< blocks/products/pf/cloud-app app="convert" language="cpp" format="png" inputFormat="ppt" >}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
-{{< blocks/products/pf/agp/faq-autogen >}}
-{{< blocks/products/pf/agp/other-supported-autogen useCardStyle="true" >}}
+{{< blocks/products/pf/agp/i18n/faq-autogen >}}
+{{< blocks/products/pf/agp/i18n/other-supported-autogen useCardStyle="true" >}}
 {{< /blocks/products/pf/main-container >}}
 {{< /blocks/products/pf/main-wrap-class >}}
