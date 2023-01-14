@@ -29,33 +29,33 @@ Java Cloud SDK pour vous aider à développer rapidement une application de trai
 
 {{< blocks/products/pf/product-card-row title="Les API Aspose.Slides sur site incluent" >}}
 
-{{< blocks/products/pf/i18n/product pfName="Aspose.Slides pour " title=".NET" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/slides/272x272/aspose_slides-for-net.png" productLink="https://products.aspose.com/slides/net" >}}
+{{< blocks/products/pf/i18n/product pfName="Aspose.Slides pour " title=".NET" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/slides/272x272/aspose_slides-for-net.png" productLink="https://products.aspose.com/slides/fr/net" >}}
 Développez des applications de bureau et Web .NET pour traiter et manipuler les diapositives de présentation. Prend en charge C #, ASP.NET et d'autres langages pris en charge par .NET.
 {{< /blocks/products/pf/i18n/product >}}
 
-{{< blocks/products/pf/i18n/product pfName="Aspose.Slides pour " title="Java" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/slides/272x272/aspose_slides-for-java.png" productLink="https://products.aspose.com/slides/java" >}}
+{{< blocks/products/pf/i18n/product pfName="Aspose.Slides pour " title="Java" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/slides/272x272/aspose_slides-for-java.png" productLink="https://products.aspose.com/slides/fr/java" >}}
 API Java pour créer des applications de création et de conversion de présentations pour le bureau et le Web. Prend en charge les formats PowerPoint et OpenOffice.
 {{< /blocks/products/pf/i18n/product >}}
 
-{{< blocks/products/pf/i18n/product pfName="Aspose.Slides pour " title="C++" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/slides/272x272/aspose_slides-for-cpp.png" productLink="https://products.aspose.com/slides/cpp/" >}}
+{{< blocks/products/pf/i18n/product pfName="Aspose.Slides pour " title="C++" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/slides/272x272/aspose_slides-for-cpp.png" productLink="https://products.aspose.com/slides/fr/cpp" >}}
 L'API sur site facile à utiliser pour C++ vous aide à lire, écrire, traiter et convertir les présentations Microsoft et OpenOffice dans vos applications.
 {{< /blocks/products/pf/i18n/product >}}
 
-{{< blocks/products/pf/i18n/center-button href="https://products.aspose.com/slides/family" innerText="Afficher toutes les API sur site" >}}
+{{< blocks/products/pf/i18n/center-button href="https://products.aspose.com/slides/fr/family" innerText="Afficher toutes les API sur site" >}}
 
 {{< /blocks/products/pf/product-card-row >}}
 
 {{< blocks/products/pf/product-card-row title="Les applications multiplateformes Aspose.Slides incluent" >}}
 
-{{< blocks/products/pf/i18n/product pfName="Aspose.Slides " title="Téléspectateur" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_viewer-app.png" productLink="https://products.aspose.app/slides/viewer" >}}
+{{< blocks/products/pf/i18n/product pfName="Aspose.Slides " title="Téléspectateur" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_viewer-app.png" productLink="https://products.aspose.app/slides/fr/viewer" >}}
 Application en ligne gratuite pour afficher la représentation d'image de vos fichiers de présentation lors de vos déplacements.
 {{< /blocks/products/pf/i18n/product >}}
 
-{{< blocks/products/pf/i18n/product pfName="Aspose.Slides " title="Annotation" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_annotation-app.png" productLink="https://products.aspose.app/slides/annotation" >}}
+{{< blocks/products/pf/i18n/product pfName="Aspose.Slides " title="Annotation" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_annotation-app.png" productLink="https://products.aspose.app/slides/fr/annotation" >}}
 Application en ligne gratuite pour supprimer toutes les annotations de votre présentation PowerPoint ou OpenOffice.
 {{< /blocks/products/pf/i18n/product >}}
 
-{{< blocks/products/pf/i18n/product pfName="Aspose.Slides " title="Conversion" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_conversion-app.png" productLink="https://products.aspose.app/slides/conversion" >}}
+{{< blocks/products/pf/i18n/product pfName="Aspose.Slides " title="Conversion" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_conversion-app.png" productLink="https://products.aspose.app/slides/fr/conversion" >}}
 Application gratuite de conversion en ligne pour convertir vos fichiers de présentation vers d'autres formats (PDF, HTML, Image).
 {{< /blocks/products/pf/i18n/product >}}
 
