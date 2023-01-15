@@ -5,7 +5,7 @@ family: slides
 platformtag: go
 feature: conversion
 platform: Go
-otherformats: PPT PPTX PPS PPSX PPTM PPSM POTX POTM ODP OTP
+otherformats: PPT PPTX PPS PPSX PPTM PPSM POTX POTM ODP OTP PDF
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

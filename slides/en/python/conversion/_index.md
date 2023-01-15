@@ -5,7 +5,7 @@ family: slides
 platformtag: python
 feature: conversion
 platform: Python
-otherformats: PPT PPTX PPS PPSX PPTM PPSM POTX POTM ODP OTP
+otherformats: PPT PPTX PPS PPSX PPTM PPSM POTX POTM ODP OTP PDF
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
