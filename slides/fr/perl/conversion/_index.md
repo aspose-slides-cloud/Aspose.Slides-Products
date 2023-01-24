@@ -4,8 +4,6 @@ description: Créez, modifiez ou convertissez des fichiers Slides avec l'API RES
 family: slides
 platformtag: perl
 feature: conversion
-informat: PPTX
-outformat: PDF
 platform: Perl
 otherformats: PPT PPTX PPS PPSX PPTM PPSM POTX POTM ODP OTP PDF
 ---
@@ -18,11 +16,11 @@ otherformats: PPT PPTX PPS PPSX PPTM PPSM POTX POTM ODP OTP PDF
 {{% blocks/products/pf/agp/feature-section-col title="Conversion de présentation avec Perl" %}}
 1. Créez un compte sur <a href="https://dashboard.aspose.cloud/">le Tableau de bord</a> pour obtenir un quota d'API gratuit et des détails d'autorisation
 1. Initialisez ```SlidesApi``` avec l'identifiant client et le secret client
-1. Appelez l'une des méthodes de conversion, en fonction de l'endroit où se trouve votre fichier PPTX d'entrée et de l'endroit où vous souhaitez stocker le fichier PDF résultant
+1. Appelez l'une des méthodes de conversion, en fonction de l'endroit où se trouve votre fichier d'entrée et de l'endroit où vous souhaitez stocker le fichier résultant
     - ```convert``` pour convertir un fichier local et télécharger le résultat.
-    - ```convertAndSave``` pour convertir un fichier local et enregistrer le résultat dans le stockage.
-    - ```downloadPresentation``` pour convertir un fichier sur stockage et télécharger le résultat.
-    - ```savePresentation``` pour convertir un fichier sur le stockage et enregistrer le résultat sur le stockage.
+    - ```convert_and_save``` pour convertir un fichier local et enregistrer le résultat dans le stockage.
+    - ```download_presentation``` pour convertir un fichier sur stockage et télécharger le résultat.
+    - ```save_presentation``` pour convertir un fichier sur le stockage et enregistrer le résultat sur le stockage.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Premiers pas avec l'API Slides et le SDK Perl" %}}
@@ -30,7 +28,6 @@ Obtenez le code source du SDK Slides Cloud pour Perl auprès de [GitHub](https:/
 
 Consultez également [la référence de l'API](https://apireference.aspose.cloud/slides/) basée sur Swagger pour en savoir plus sur [l'API REST de SLIDES](https://products.aspose.cloud/slides/curl/).
 {{% /blocks/products/pf/agp/feature-section-col %}}
-
 {{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/agp/i18n/faq-autogen >}}
 {{< blocks/products/pf/agp/i18n/supported-autogen useCardStyle="true" >}}
