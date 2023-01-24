@@ -1,21 +1,21 @@
 ---
-title: Convert from Slides ODP to POTM via NodeJS 
-description: Create, Edit or Convert Slides files with REST API & Open Source NodeJS SDK
+title: Convert from Slides ODP to POTM via Node.js 
+description: Create, Edit or Convert Slides files with REST API & Open Source Node.js SDK
 family: slides
 platformtag: nodejs
 feature: conversion
 informat: ODP
 outformat: POTM
-platform: NodeJS
+platform: Node.js
 otherformats: PPT PPTX PPS PPSX PPTM PPSM POTX ODP OTP PDF XPS JPEG PNG BMP TIFF SVG HTML SWF HTML5 GIF XAML MPEG4
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="Convert ODP to POTM with NodeJS" h2="Read, Edit & Export Slides data to other formats with open source Cloud SDK for NodeJS">}}
+{{< blocks/products/pf/agp/upper-banner-autogen h1="Convert ODP to POTM with Node.js" h2="Read, Edit & Export Slides data to other formats with open source Cloud SDK for Node.js">}}
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="ODP to POTM Conversion with NodeJS" %}}
+{{% blocks/products/pf/agp/feature-section-col title="ODP to POTM Conversion with Node.js" %}}
 1. Create an account at <a href="https://dashboard.aspose.cloud/">Dashboard</a> to get free API quota & authorization details
 1. Initialize ```SlidesApi``` with Client Id and Client Secret
 1. Call one of the convert methods, depending where is your input ODP file and where you want to store the resultant POTM file
@@ -25,8 +25,8 @@ otherformats: PPT PPTX PPS PPSX PPTM PPSM POTX ODP OTP PDF XPS JPEG PNG BMP TIFF
     - ```savePresentation``` to convert a file on storage and save the result to the storage.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Get Started with Slides API & NodeJS SDK" %}}
-Get Slides Cloud SDK for NodeJS source code from [GitHub](https://github.com/aspose-slides-cloud/aspose-slides-cloud-nodejs) to compile the SDK yourself or head to the [Releases](https://releases.aspose.cloud/) for alternative download options. 
+{{% blocks/products/pf/agp/feature-section-col title="Get Started with Slides API & Node.js SDK" %}}
+Get Slides Cloud SDK for Node.js source code from [GitHub](https://github.com/aspose-slides-cloud/aspose-slides-cloud-nodejs) to compile the SDK yourself or head to the [Releases](https://releases.aspose.cloud/) for alternative download options. 
 
 Also have a look at Swagger-based [API Reference](https://apireference.aspose.cloud/slides/) to know more about the [SLIDES REST API](https://products.aspose.cloud/slides/curl/).
 {{% /blocks/products/pf/agp/feature-section-col %}}
