@@ -1,5 +1,5 @@
 ---
-title: Convert presentations
+title: Convert presentations via Ruby
 description: Create, Edit or Convert Slides files with REST API & Open Source Ruby SDK
 family: slides
 platformtag: ruby
