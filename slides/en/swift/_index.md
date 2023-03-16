@@ -40,7 +40,7 @@ family: slides
 </div>
 <!--/right--></div>
 <!--/row-->
-<div class="d1-logo"><img src="/sdk/aspose_slides-for-swift.png" alt="Ruby PowerPoint Cloud SDK"><header>Aspose.Slides</header><footer>Cloud <small> <em>for </em> </small>Ruby</footer></div>
+<div class="d1-logo"><img src="/sdk/aspose_slides-for-swift.png" alt="Swift PowerPoint Cloud SDK"><header>Aspose.Slides</header><footer>Cloud <small> <em>for </em> </small>Swift</footer></div>
 <!--/logo--></div>
 <!--/diagram1-->
 {{< /blocks/products/pf/carousel-item >}}
@@ -65,7 +65,7 @@ family: slides
 </div>
 <!--/right--></div>
 <!--/row-->
-<div class="d1-logo"><img src="/sdk/aspose_slides-for-swift.png" alt="Ruby Cloud SDK for Presentations"><header>Aspose.Slides</header><footer>Cloud <small> <em>for </em> </small>Ruby</footer></div>
+<div class="d1-logo"><img src="/sdk/aspose_slides-for-swift.png" alt="Swift Cloud SDK for Presentations"><header>Aspose.Slides</header><footer>Cloud <small> <em>for </em> </small>Swift</footer></div>
 <!--/logo--></div>
 <!--/diagram2-->
 {{< /blocks/products/pf/carousel-item >}}
