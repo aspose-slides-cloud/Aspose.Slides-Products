@@ -1,6 +1,6 @@
 ---
 title: PDF über C++ in mehrere SVGs aufteilen
-description: Erstellen, Bearbeiten oder Konvertieren von Slides-Dateien mit REST API und Open Source C++ SDKSlides files with REST API & Open Source C++ SDK
+description: Teilen Sie Slides-Dateien mit REST API und Open Source C++ SDK in Folien auf
 family: slides
 platformtag: cpp
 feature: split

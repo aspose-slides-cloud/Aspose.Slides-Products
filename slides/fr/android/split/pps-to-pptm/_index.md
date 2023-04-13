@@ -1,6 +1,6 @@
 ---
 title: Diviser Slides PPS en plusieurs PPTM via Android
-description: Créez, modifiez ou convertissez des fichiers Slides avec l'API REST et le SDK Android Open Source
+description: Divisez les fichiers Slides en diapositives avec l'API REST et le SDK Open Source Android
 family: slides
 platformtag: android
 feature: split

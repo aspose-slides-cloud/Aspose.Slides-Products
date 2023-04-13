@@ -1,6 +1,6 @@
 ---
 title: PPTM über Swift in mehrere XPSs aufteilen
-description: Erstellen, Bearbeiten oder Konvertieren von Slides-Dateien mit REST API und Open Source Swift SDKSlides files with REST API & Open Source Swift SDK
+description: Teilen Sie Slides-Dateien mit REST API und Open Source Swift SDK in Folien auf
 family: slides
 platformtag: swift
 feature: split

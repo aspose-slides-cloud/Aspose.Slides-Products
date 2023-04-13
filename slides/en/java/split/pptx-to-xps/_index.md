@@ -1,6 +1,6 @@
 ---
-title: Split Slides PPTX into multiple XPS via Java 
-description: Create, Edit or Convert Slides files with REST API & Open Source Java SDK
+title: Split Slides PPTX into multiple XPS via Java
+description: Split Slides files into slides with REST API & Open Source Java SDK
 family: slides
 platformtag: java
 feature: split

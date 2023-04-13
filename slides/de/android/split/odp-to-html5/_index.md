@@ -1,6 +1,6 @@
 ---
 title: ODP über Android in mehrere HTML5s aufteilen
-description: Erstellen, Bearbeiten oder Konvertieren von Slides-Dateien mit REST API und Open Source Android SDKSlides files with REST API & Open Source Android SDK
+description: Teilen Sie Slides-Dateien mit REST API und Open Source Android SDK in Folien auf
 family: slides
 platformtag: android
 feature: split

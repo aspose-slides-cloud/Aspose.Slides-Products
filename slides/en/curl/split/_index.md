@@ -1,6 +1,6 @@
 ---
 title: Split presentations via cURL
-description: Create, Edit or Convert Slides files with REST API & Open Source cURL SDK
+description: Split Slides files into slides with REST API & Open Source cURL SDK
 family: slides
 platformtag: curl
 feature: split

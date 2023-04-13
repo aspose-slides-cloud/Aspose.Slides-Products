@@ -1,6 +1,6 @@
 ---
-title: Split Slides PPS into multiple XAML via C++ 
-description: Create, Edit or Convert Slides files with REST API & Open Source C++ SDK
+title: Split Slides PPS into multiple XAML via C++
+description: Split Slides files into slides with REST API & Open Source C++ SDK
 family: slides
 platformtag: cpp
 feature: split

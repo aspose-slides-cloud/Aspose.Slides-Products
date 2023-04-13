@@ -1,6 +1,6 @@
 ---
-title: Split Slides PPSX into multiple TIFF via Go 
-description: Create, Edit or Convert Slides files with REST API & Open Source Go SDK
+title: Split Slides PPSX into multiple TIFF via Go
+description: Split Slides files into slides with REST API & Open Source Go SDK
 family: slides
 platformtag: go
 feature: split

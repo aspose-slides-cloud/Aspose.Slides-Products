@@ -1,6 +1,6 @@
 ---
 title: OTP über Python in mehrere BMPs aufteilen
-description: Erstellen, Bearbeiten oder Konvertieren von Slides-Dateien mit REST API und Open Source Python SDKSlides files with REST API & Open Source Python SDK
+description: Teilen Sie Slides-Dateien mit REST API und Open Source Python SDK in Folien auf
 family: slides
 platformtag: python
 feature: split

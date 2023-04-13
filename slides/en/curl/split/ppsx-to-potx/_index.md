@@ -1,6 +1,6 @@
 ---
-title: Split Slides PPSX into multiple POTX via cURL 
-description: Create, Edit or Convert Slides files with REST API & Open Source cURL SDK
+title: Split Slides PPSX into multiple POTX via cURL
+description: Split Slides files into slides with REST API & Open Source cURL SDK
 family: slides
 platformtag: curl
 feature: split

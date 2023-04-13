@@ -1,6 +1,6 @@
 ---
-title: Split Slides PDF into multiple PPT via Node.js 
-description: Create, Edit or Convert Slides files with REST API & Open Source Node.js SDK
+title: Split Slides PDF into multiple PPT via Node.js
+description: Split Slides files into slides with REST API & Open Source Node.js SDK
 family: slides
 platformtag: nodejs
 feature: split

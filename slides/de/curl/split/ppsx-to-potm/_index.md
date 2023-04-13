@@ -1,6 +1,6 @@
 ---
 title: PPSX über cURL in mehrere POTMs aufteilen
-description: Erstellen, Bearbeiten oder Konvertieren von Slides-Dateien mit REST API und Open Source cURL SDKSlides files with REST API & Open Source cURL SDK
+description: Teilen Sie Slides-Dateien mit REST API und Open Source cURL SDK in Folien auf
 family: slides
 platformtag: curl
 feature: split

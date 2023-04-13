@@ -1,6 +1,6 @@
 ---
 title: Dividir Slides PPTM en múltiples JPEG a través de Android
-description: cree, edite o convierta archivos Slides con REST API y Android SDK de código abierto
+description: Dividir archivos de Slides en diapositivas con REST API y Android SDK de código abierto
 family: slides
 platformtag: android
 feature: split

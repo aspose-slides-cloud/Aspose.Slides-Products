@@ -1,6 +1,6 @@
 ---
 title: 通过 Android 将 Slides OTP 拆分为多个 PPSX
-description: 使用 REST API 和开源 Android SDK 创建、编辑或转换 Slides 文件
+description: 使用 REST API 和开源 Android SDK 将 Slides 文件拆分成幻灯片
 family: slides
 platformtag: android
 feature: split

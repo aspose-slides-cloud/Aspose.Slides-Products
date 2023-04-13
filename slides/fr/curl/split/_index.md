@@ -1,6 +1,6 @@
 ---
 title: Diviser les présentations via cURL
-description: Créez, modifiez ou convertissez des fichiers Slides avec l'API REST et le SDK cURL Open Source
+description: Divisez les fichiers Slides en diapositives avec l'API REST et le SDK Open Source cURL
 family: slides
 platformtag: curl
 feature: split

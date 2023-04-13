@@ -1,6 +1,6 @@
 ---
 title: Diviser Slides PPSX en plusieurs GIF via .NET
-description: Créez, modifiez ou convertissez des fichiers Slides avec l'API REST et le SDK .NET Open Source
+description: Divisez les fichiers Slides en diapositives avec l'API REST et le SDK Open Source .NET
 family: slides
 platformtag: net
 feature: split

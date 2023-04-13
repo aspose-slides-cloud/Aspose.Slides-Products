@@ -1,6 +1,6 @@
 ---
 title: Diviser Slides PPSM en plusieurs HTML5 via PHP
-description: Créez, modifiez ou convertissez des fichiers Slides avec l'API REST et le SDK PHP Open Source
+description: Divisez les fichiers Slides en diapositives avec l'API REST et le SDK Open Source PHP
 family: slides
 platformtag: php
 feature: split

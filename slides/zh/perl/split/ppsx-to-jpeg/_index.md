@@ -1,6 +1,6 @@
 ---
 title: 通过 Perl 将 Slides PPSX 拆分为多个 JPEG
-description: 使用 REST API 和开源 Perl SDK 创建、编辑或转换 Slides 文件
+description: 使用 REST API 和开源 Perl SDK 将 Slides 文件拆分成幻灯片
 family: slides
 platformtag: perl
 feature: split

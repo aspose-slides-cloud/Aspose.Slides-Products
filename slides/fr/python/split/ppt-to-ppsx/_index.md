@@ -1,6 +1,6 @@
 ---
 title: Diviser Slides PPT en plusieurs PPSX via Python
-description: Créez, modifiez ou convertissez des fichiers Slides avec l'API REST et le SDK Python Open Source
+description: Divisez les fichiers Slides en diapositives avec l'API REST et le SDK Open Source Python
 family: slides
 platformtag: python
 feature: split

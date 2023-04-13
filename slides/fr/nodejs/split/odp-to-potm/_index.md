@@ -1,6 +1,6 @@
 ---
 title: Diviser Slides ODP en plusieurs POTM via Node.js
-description: Créez, modifiez ou convertissez des fichiers Slides avec l'API REST et le SDK Node.js Open Source
+description: Divisez les fichiers Slides en diapositives avec l'API REST et le SDK Open Source Node.js
 family: slides
 platformtag: nodejs
 feature: split

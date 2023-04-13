@@ -1,6 +1,6 @@
 ---
-title: Split Slides PPSM into multiple PPSX via Swift 
-description: Create, Edit or Convert Slides files with REST API & Open Source Swift SDK
+title: Split Slides PPSM into multiple PPSX via Swift
+description: Split Slides files into slides with REST API & Open Source Swift SDK
 family: slides
 platformtag: swift
 feature: split

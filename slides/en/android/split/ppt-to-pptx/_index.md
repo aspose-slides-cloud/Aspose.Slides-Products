@@ -1,6 +1,6 @@
 ---
-title: Split Slides PPT into multiple PPTX via Android 
-description: Create, Edit or Convert Slides files with REST API & Open Source Android SDK
+title: Split Slides PPT into multiple PPTX via Android
+description: Split Slides files into slides with REST API & Open Source Android SDK
 family: slides
 platformtag: android
 feature: split

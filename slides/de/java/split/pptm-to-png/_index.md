@@ -1,6 +1,6 @@
 ---
 title: PPTM über Java in mehrere PNGs aufteilen
-description: Erstellen, Bearbeiten oder Konvertieren von Slides-Dateien mit REST API und Open Source Java SDKSlides files with REST API & Open Source Java SDK
+description: Teilen Sie Slides-Dateien mit REST API und Open Source Java SDK in Folien auf
 family: slides
 platformtag: java
 feature: split

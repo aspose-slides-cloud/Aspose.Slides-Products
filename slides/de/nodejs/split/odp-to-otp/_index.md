@@ -1,6 +1,6 @@
 ---
 title: ODP über Node.js in mehrere OTPs aufteilen
-description: Erstellen, Bearbeiten oder Konvertieren von Slides-Dateien mit REST API und Open Source Node.js SDKSlides files with REST API & Open Source Node.js SDK
+description: Teilen Sie Slides-Dateien mit REST API und Open Source Node.js SDK in Folien auf
 family: slides
 platformtag: nodejs
 feature: split

@@ -1,6 +1,6 @@
 ---
 title: PPSM über Perl in mehrere ODPs aufteilen
-description: Erstellen, Bearbeiten oder Konvertieren von Slides-Dateien mit REST API und Open Source Perl SDKSlides files with REST API & Open Source Perl SDK
+description: Teilen Sie Slides-Dateien mit REST API und Open Source Perl SDK in Folien auf
 family: slides
 platformtag: perl
 feature: split

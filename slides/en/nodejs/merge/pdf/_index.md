@@ -14,7 +14,7 @@ otherformats: PPT PPTX PPS PPSX PPTM PPSM POTX POTM ODP OTP
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Merging PDF Files with Node.js" %}}
+{{% blocks/products/pf/agp/feature-section-col title="PDF ファイルと Node.js のマージ" %}}
 1. Create an account at <a href="https://dashboard.aspose.cloud/">Dashboard</a> to get free API quota & authorization details
 1. Initialize ```SlidesApi``` with Client Id and Client Secret
 1. Call one of the merge methods, depending where are your input PDF files, where you want to store the merged file, and whether you need to merge parts of files

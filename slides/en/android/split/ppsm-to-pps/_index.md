@@ -1,6 +1,6 @@
 ---
-title: Split Slides PPSM into multiple PPS via Android 
-description: Create, Edit or Convert Slides files with REST API & Open Source Android SDK
+title: Split Slides PPSM into multiple PPS via Android
+description: Split Slides files into slides with REST API & Open Source Android SDK
 family: slides
 platformtag: android
 feature: split

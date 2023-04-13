@@ -1,6 +1,6 @@
 ---
-title: Split Slides POTM into multiple POTX via Ruby 
-description: Create, Edit or Convert Slides files with REST API & Open Source Ruby SDK
+title: Split Slides POTM into multiple POTX via Ruby
+description: Split Slides files into slides with REST API & Open Source Ruby SDK
 family: slides
 platformtag: ruby
 feature: split

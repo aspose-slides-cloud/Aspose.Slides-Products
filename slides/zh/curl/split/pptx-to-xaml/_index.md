@@ -1,6 +1,6 @@
 ---
 title: 通过 cURL 将 Slides PPTX 拆分为多个 XAML
-description: 使用 REST API 和开源 cURL SDK 创建、编辑或转换 Slides 文件
+description: 使用 REST API 和开源 cURL SDK 将 Slides 文件拆分成幻灯片
 family: slides
 platformtag: curl
 feature: split

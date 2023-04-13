@@ -1,6 +1,6 @@
 ---
 title: PPSX über Ruby in mehrere PPTXs aufteilen
-description: Erstellen, Bearbeiten oder Konvertieren von Slides-Dateien mit REST API und Open Source Ruby SDKSlides files with REST API & Open Source Ruby SDK
+description: Teilen Sie Slides-Dateien mit REST API und Open Source Ruby SDK in Folien auf
 family: slides
 platformtag: ruby
 feature: split

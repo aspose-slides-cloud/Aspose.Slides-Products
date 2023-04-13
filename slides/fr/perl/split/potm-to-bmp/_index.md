@@ -1,6 +1,6 @@
 ---
 title: Diviser Slides POTM en plusieurs BMP via Perl
-description: Créez, modifiez ou convertissez des fichiers Slides avec l'API REST et le SDK Perl Open Source
+description: Divisez les fichiers Slides en diapositives avec l'API REST et le SDK Open Source Perl
 family: slides
 platformtag: perl
 feature: split

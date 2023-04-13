@@ -1,6 +1,6 @@
 ---
 title: 通过 PHP 将 Slides ODP 拆分为多个 BMP
-description: 使用 REST API 和开源 PHP SDK 创建、编辑或转换 Slides 文件
+description: 使用 REST API 和开源 PHP SDK 将 Slides 文件拆分成幻灯片
 family: slides
 platformtag: php
 feature: split

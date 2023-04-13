@@ -1,6 +1,6 @@
 ---
 title: PPSM über .NET in mehrere JPEGs aufteilen
-description: Erstellen, Bearbeiten oder Konvertieren von Slides-Dateien mit REST API und Open Source .NET SDKSlides files with REST API & Open Source .NET SDK
+description: Teilen Sie Slides-Dateien mit REST API und Open Source .NET SDK in Folien auf
 family: slides
 platformtag: net
 feature: split

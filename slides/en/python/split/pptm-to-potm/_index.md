@@ -1,6 +1,6 @@
 ---
-title: Split Slides PPTM into multiple POTM via Python 
-description: Create, Edit or Convert Slides files with REST API & Open Source Python SDK
+title: Split Slides PPTM into multiple POTM via Python
+description: Split Slides files into slides with REST API & Open Source Python SDK
 family: slides
 platformtag: python
 feature: split

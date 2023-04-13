@@ -1,6 +1,6 @@
 ---
-title: Split Slides OTP into multiple PDF via .NET 
-description: Create, Edit or Convert Slides files with REST API & Open Source .NET SDK
+title: Split Slides OTP into multiple PDF via .NET
+description: Split Slides files into slides with REST API & Open Source .NET SDK
 family: slides
 platformtag: net
 feature: split

@@ -1,6 +1,6 @@
 ---
 title: Diviser Slides POTM en plusieurs XAML via C++
-description: Créez, modifiez ou convertissez des fichiers Slides avec l'API REST et le SDK C++ Open Source
+description: Divisez les fichiers Slides en diapositives avec l'API REST et le SDK Open Source C++
 family: slides
 platformtag: cpp
 feature: split

@@ -1,6 +1,6 @@
 ---
 title: 通过 Go 将 Slides POTM 拆分为多个 TIFF
-description: 使用 REST API 和开源 Go SDK 创建、编辑或转换 Slides 文件
+description: 使用 REST API 和开源 Go SDK 将 Slides 文件拆分成幻灯片
 family: slides
 platformtag: go
 feature: split

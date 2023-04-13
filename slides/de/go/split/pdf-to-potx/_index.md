@@ -1,6 +1,6 @@
 ---
 title: PDF über Go in mehrere POTXs aufteilen
-description: Erstellen, Bearbeiten oder Konvertieren von Slides-Dateien mit REST API und Open Source Go SDKSlides files with REST API & Open Source Go SDK
+description: Teilen Sie Slides-Dateien mit REST API und Open Source Go SDK in Folien auf
 family: slides
 platformtag: go
 feature: split

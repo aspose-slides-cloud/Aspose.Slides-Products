@@ -1,6 +1,6 @@
 ---
 title: Diviser Slides PPTX en plusieurs PPS via Java
-description: Créez, modifiez ou convertissez des fichiers Slides avec l'API REST et le SDK Java Open Source
+description: Divisez les fichiers Slides en diapositives avec l'API REST et le SDK Open Source Java
 family: slides
 platformtag: java
 feature: split
