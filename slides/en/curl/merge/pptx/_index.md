@@ -14,7 +14,7 @@ otherformats: PPT PPS PPSX PPTM PPSM POTX POTM ODP OTP PDF
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="PPTX ファイルと cURL のマージ" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Merging PPTX Files with cURL" %}}
 1. Create an account at <a href="https://dashboard.aspose.cloud/">Dashboard</a> to get free API quota & authorization details
 1. Initialize ```SlidesApi``` with Client Id and Client Secret
 1. Call one of the merge methods, depending where are your input PPTX files, where you want to store the merged file, and whether you need to merge parts of files

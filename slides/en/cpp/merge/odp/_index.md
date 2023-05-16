@@ -14,7 +14,7 @@ otherformats: PPT PPTX PPS PPSX PPTM PPSM POTX POTM OTP PDF
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="ODP ファイルと C++ のマージ" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Merging ODP Files with C++" %}}
 1. Create an account at <a href="https://dashboard.aspose.cloud/">Dashboard</a> to get free API quota & authorization details
 1. Initialize ```SlidesApi``` with Client Id and Client Secret
 1. Call one of the merge methods, depending where are your input ODP files, where you want to store the merged file, and whether you need to merge parts of files
