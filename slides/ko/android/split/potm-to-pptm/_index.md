@@ -25,7 +25,7 @@ otherformats: PPT PPTX PPS PPSX PPSM POTX POTM ODP OTP PDF XPS JPEG PNG BMP TIFF
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Slides API 및 Android SDK 시작하기" %}}
-[GitHub](https://github.com/aspose-slides-cloud/aspose-slides-cloud-android)에서 Slides Cloud SDK for Android 소스 코드를 가져와 SDK를 직접 컴파일하거나 [릴리스](https://releases.aspose.cloud/)로 이동하여 대체 다운로드 옵션을 확인하세요.
+[GitHub](https://github.com/aspose-slides-cloud/aspose-slides-cloud-android)에서 Android용 Slides Cloud SDK 소스 코드를 가져와 SDK를 직접 컴파일하거나 [릴리스](https://releases.aspose.cloud/)로 이동하여 대체 다운로드 옵션을 확인하세요.
 
 또한 [Slides REST API](https://products.aspose.cloud/slides/curl/)에 대해 자세히 알아보려면 Swagger 기반 [API 참조](https://apireference.aspose.cloud/slides/)를 살펴보세요.
 {{% /blocks/products/pf/agp/feature-section-col %}}
