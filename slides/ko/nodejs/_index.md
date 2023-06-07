@@ -15,7 +15,7 @@ platform: Node.js
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>Node.js용 Aspose.Slides Cloud SDK는 Node.js 클라우드 기반 애플리케이션이 PPT, PPTX, ODP, OTP에서 SWF, HTML, PDF, XPS, PDF/A, JPEG, SVG, TIFF, BMP 및 PNG.</p>
-<p>Node.js용 Apose.Slides Cloud SDK를 사용하면 Node.js 코드를 사용하여 PowerPoint 프레젠테이션을 분할하고 프레젠테이션 슬라이드를 병합하고 슬라이드를 복사, 이동 또는 삭제할 수 있습니다. 간단한 Node.js 명령을 사용하여 클라우드에 있는 프레젠테이션의 글꼴, 형식 및 색 구성표를 가져옵니다. 마스터 슬라이드 정보를 읽고 복제합니다. 슬라이드 애니메이션의 기본 시퀀스를 업데이트합니다. 프레젠테이션 슬라이드에서 도형, 메모 및 이미지를 추출합니다.</p>
+<p>Node.js용 Aspose.Slides Cloud SDK를 사용하면 Node.js 코드를 사용하여 PowerPoint 프레젠테이션을 분할하고 프레젠테이션 슬라이드를 병합하고 슬라이드를 복사, 이동 또는 삭제할 수 있습니다. 간단한 Node.js 명령을 사용하여 클라우드에 있는 프레젠테이션의 글꼴, 형식 및 색 구성표를 가져옵니다. 마스터 슬라이드 정보를 읽고 복제합니다. 슬라이드 애니메이션의 기본 시퀀스를 업데이트합니다. 프레젠테이션 슬라이드에서 도형, 메모 및 이미지를 추출합니다.</p>
 <p>Node.js용 Aspose.Slides Cloud SDK는 Aspose.Slides REST API를 둘러싼 래퍼이며 이 PowerPoint 프레젠테이션 조작 클라우드 SDK는 MIT 라이선스에 따라 사용할 수 있습니다.</p>
 {{< /blocks/products/pf/i18n/tab-content >}}
 

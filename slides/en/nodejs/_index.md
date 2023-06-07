@@ -1,4 +1,4 @@
-﻿---
+---
 title: Node.js Presentation Builder SDK for Cloud | RESTful APIs 
 description: Seamless to integrate and easy to use Node.js REST API for creating, copying, merging, splitting, downloading, & converting PowerPoint & OpenOffice slides in the cloud
 weight: 80
@@ -14,7 +14,7 @@ family: slides
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>Aspose.Slides Cloud SDK for Node.js assists your Node.js cloud-based applications to access PowerPoint and OpenOffice presentations hosted in the cloud storage to process and convert from PPT, PPTX, ODP, OTP to SWF, HTML, PDF, XPS, PDF/A, JPEG, SVG, TIFF, BMP & PNG.</p>
-<p>Apose.Slides Cloud SDK for Node.js enables your Node.js code to split PowerPoint presentations, merge presentation slides, as well as copy, move or delete slides. Use simple Node.js commands to get font, format and color scheme of presentations located on the cloud. Read master slide information and clone it. Update main sequence of slide animations. Extract shapes, notes and images from presentation slides.</p>
+<p>Aspose.Slides Cloud SDK for Node.js enables your Node.js code to split PowerPoint presentations, merge presentation slides, as well as copy, move or delete slides. Use simple Node.js commands to get font, format and color scheme of presentations located on the cloud. Read master slide information and clone it. Update main sequence of slide animations. Extract shapes, notes and images from presentation slides.</p>
 <p>Aspose.Slides Cloud SDK for Node.js is a wrapper around Aspose.Slides REST API and this PowerPoint presentation manipulation cloud SDK is available under the MIT license.</p>
 {{< /blocks/products/pf/i18n/tab-content >}}
 

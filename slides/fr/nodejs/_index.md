@@ -15,7 +15,7 @@ platform: NodeJS
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>Aspose.Slides Cloud SDK pour Node.js aide vos applications basées sur le cloud Node.js à accéder aux présentations PowerPoint et OpenOffice hébergées dans le stockage en nuage pour traiter et convertir de PPT, PPTX, ODP, OTP en SWF, HTML, PDF, XPS, PDF/A, JPEG, SVG, TIFF, BMP et PNG.</p>
-<p>Apose.Slides Cloud SDK pour Node.js permet à votre code Node.js de diviser des présentations PowerPoint, de fusionner des diapositives de présentation, ainsi que de copier, déplacer ou supprimer des diapositives. Utilisez des commandes Node.js simples pour obtenir la police, le format et le jeu de couleurs des présentations situées sur le cloud. Lisez les informations sur la diapositive principale et clonez-la. Mettre à jour la séquence principale des animations de diapositives. Extrayez des formes, des notes et des images à partir de diapositives de présentation.</p>
+<p>Aspose.Slides Cloud SDK pour Node.js permet à votre code Node.js de diviser des présentations PowerPoint, de fusionner des diapositives de présentation, ainsi que de copier, déplacer ou supprimer des diapositives. Utilisez des commandes Node.js simples pour obtenir la police, le format et le jeu de couleurs des présentations situées sur le cloud. Lisez les informations sur la diapositive principale et clonez-la. Mettre à jour la séquence principale des animations de diapositives. Extrayez des formes, des notes et des images à partir de diapositives de présentation.</p>
 <p>Aspose.Slides Cloud SDK pour Node.js est un wrapper autour de l'API REST Aspose.Slides et ce SDK cloud de manipulation de présentation PowerPoint est disponible sous la licence MIT.</p>
 {{< /blocks/products/pf/i18n/tab-content >}}
 
