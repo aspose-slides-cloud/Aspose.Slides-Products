@@ -27,7 +27,7 @@ otherformats: PPT PPTX PPS PPSX PPTM PPSM POTX POTM ODP OTP PDF JPEG PNG BMP TIF
 {{% blocks/products/pf/agp/feature-section-col title="Начать работу с Slides API и cURL SDK" %}}
 Получите исходный код Slides Cloud SDK для cURL с [GitHub](https://github.com/aspose-slides-cloud/aspose-slides-cloud-curl), чтобы скомпилировать SDK самостоятельно, или перейти к [Выпускам](https://releases.aspose.cloud/) для альтернативных вариантов загрузки.
 
-Также ознакомьтесь со [Справочником по API] на основе Swagger(https://apireference.aspose.cloud/slides/), чтобы узнать больше о [SLIDES REST API](https://products.aspose. облако/slides/curl/).
+Также ознакомьтесь со [Справочником по API](https://apireference.aspose.cloud/slides/) на основе Swagger, чтобы узнать больше о [SLIDES REST API](https://products.aspose.cloud/slides/curl/).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{< blocks/products/pf/cloud-app app="split" language="curl" format="xps" inputFormat="pdf" >}}
