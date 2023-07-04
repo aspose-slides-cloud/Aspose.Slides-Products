@@ -1,6 +1,6 @@
 ---
 title: Разделение Slides PPT на несколько PNG с помощью C++
-description: Разделите файлы Slides на слайды с помощью REST API и C++ SDK с открытым исходным кодом
+description: Разделите файлы Slides PPT на слайды PNG с помощью REST API и C++ SDK с открытым исходным кодом
 family: slides
 platformtag: cpp
 feature: split

@@ -1,6 +1,6 @@
 ---
 title: Split Slides PPT into multiple XPS via .NET
-description: Split Slides files into slides with REST API & Open Source .NET SDK
+description: Split Slides PPT files into XPS slides with REST API & Open Source .NET SDK
 family: slides
 platformtag: net
 feature: split

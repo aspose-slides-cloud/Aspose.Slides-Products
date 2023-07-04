@@ -1,6 +1,6 @@
 ---
 title: Dividir Slides PPT en múltiples POTX a través de Android
-description: Dividir archivos de Slides en diapositivas con REST API y Android SDK de código abierto
+description: Dividir archivos de Slides PPT en diapositivas POTX con REST API y Android SDK de código abierto
 family: slides
 platformtag: android
 feature: split

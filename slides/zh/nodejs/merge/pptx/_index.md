@@ -1,6 +1,6 @@
 ---
 title: 通过 Node.js 合并多个 PPTX 文件
-description: 使用 REST API 和开源 Node.js SDK 合并多个 Slides 文件
+description: 使用 REST API 和开源 Node.js SDK 合并多个 Slides PPTX 文件
 family: slides
 platformtag: nodejs
 feature: merge

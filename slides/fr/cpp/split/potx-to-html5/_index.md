@@ -1,6 +1,6 @@
 ---
 title: Diviser Slides POTX en plusieurs HTML5 via C++
-description: Divisez les fichiers Slides en diapositives avec l'API REST et le SDK Open Source C++
+description: Divisez les fichiers Slides POTX en diapositives HTML5 avec l'API REST et le SDK Open Source C++
 family: slides
 platformtag: cpp
 feature: split

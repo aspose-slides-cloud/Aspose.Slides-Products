@@ -1,6 +1,6 @@
 ---
 title: Diviser Slides POTM en plusieurs TIFF via Node.js
-description: Divisez les fichiers Slides en diapositives avec l'API REST et le SDK Open Source Node.js
+description: Divisez les fichiers Slides POTM en diapositives TIFF avec l'API REST et le SDK Open Source Node.js
 family: slides
 platformtag: nodejs
 feature: split

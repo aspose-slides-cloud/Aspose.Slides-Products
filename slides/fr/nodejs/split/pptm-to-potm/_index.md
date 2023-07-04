@@ -1,6 +1,6 @@
 ---
 title: Diviser Slides PPTM en plusieurs POTM via Node.js
-description: Divisez les fichiers Slides en diapositives avec l'API REST et le SDK Open Source Node.js
+description: Divisez les fichiers Slides PPTM en diapositives POTM avec l'API REST et le SDK Open Source Node.js
 family: slides
 platformtag: nodejs
 feature: split

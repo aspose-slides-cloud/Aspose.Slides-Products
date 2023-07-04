@@ -1,6 +1,6 @@
 ---
 title: Разделение Slides PPSM на несколько OTP с помощью PHP
-description: Разделите файлы Slides на слайды с помощью REST API и PHP SDK с открытым исходным кодом
+description: Разделите файлы Slides PPSM на слайды OTP с помощью REST API и PHP SDK с открытым исходным кодом
 family: slides
 platformtag: php
 feature: split

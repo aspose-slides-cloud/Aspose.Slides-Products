@@ -1,6 +1,6 @@
 ---
 title: Slides PDF を Ruby 経由で複数の HTML5 に分割する
-description: REST API とオープン ソース Ruby SDK を使用して Slides ファイルをスライドに分割する
+description: REST API とオープン ソース Ruby SDK を使用して Slides PDF ファイルを HTML5 スライドに分割する
 family: slides
 platformtag: ruby
 feature: split

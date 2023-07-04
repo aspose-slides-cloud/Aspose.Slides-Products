@@ -1,6 +1,6 @@
 ---
 title: Combinar múltiples archivos PPTM a través de Node.js
-description: Combine varios archivos Slides con REST API y Open Source Node.js SDK
+description: Combine varios archivos Slides PPTM con REST API y Open Source Node.js SDK
 family: slides
 platformtag: nodejs
 feature: merge

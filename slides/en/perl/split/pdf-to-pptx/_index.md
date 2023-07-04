@@ -1,6 +1,6 @@
 ---
 title: Split Slides PDF into multiple PPTX via Perl
-description: Split Slides files into slides with REST API & Open Source Perl SDK
+description: Split Slides PDF files into PPTX slides with REST API & Open Source Perl SDK
 family: slides
 platformtag: perl
 feature: split

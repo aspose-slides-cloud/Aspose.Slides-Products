@@ -1,6 +1,6 @@
 ---
 title: Combinar múltiples archivos OTP a través de PHP
-description: Combine varios archivos Slides con REST API y Open Source PHP SDK
+description: Combine varios archivos Slides OTP con REST API y Open Source PHP SDK
 family: slides
 platformtag: php
 feature: merge

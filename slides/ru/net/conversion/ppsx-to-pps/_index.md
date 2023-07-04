@@ -1,6 +1,6 @@
 ---
 title: Преобразование Slides PPSX в PPS с помощью .NET
-description: Создавайте, редактируйте или конвертируйте файлы Slides с помощью REST API и .NET SDK с открытым исходным кодом
+description: Создавайте, редактируйте или конвертируйте файлы Slides PPSX в PPS с помощью REST API и .NET SDK с открытым исходным кодом
 family: slides
 platformtag: net
 feature: conversion

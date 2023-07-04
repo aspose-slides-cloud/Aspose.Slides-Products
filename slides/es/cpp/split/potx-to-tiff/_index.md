@@ -1,6 +1,6 @@
 ---
 title: Dividir Slides POTX en múltiples TIFF a través de C++
-description: Dividir archivos de Slides en diapositivas con REST API y C++ SDK de código abierto
+description: Dividir archivos de Slides POTX en diapositivas TIFF con REST API y C++ SDK de código abierto
 family: slides
 platformtag: cpp
 feature: split

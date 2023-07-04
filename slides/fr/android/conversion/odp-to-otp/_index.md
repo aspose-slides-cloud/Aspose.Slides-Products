@@ -1,6 +1,6 @@
 ---
 title: Convertir de Slides ODP en OTP via Android
-description: Créez, modifiez ou convertissez des fichiers Slides avec l'API REST et le SDK Android Open Source
+description: Créez, modifiez ou convertissez des fichiers Slides ODP en OTP avec l'API REST et le SDK Android Open Source
 family: slides
 platformtag: android
 feature: conversion

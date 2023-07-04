@@ -1,6 +1,6 @@
 ---
 title: Diviser Slides PPTM en plusieurs HTML5 via .NET
-description: Divisez les fichiers Slides en diapositives avec l'API REST et le SDK Open Source .NET
+description: Divisez les fichiers Slides PPTM en diapositives HTML5 avec l'API REST et le SDK Open Source .NET
 family: slides
 platformtag: net
 feature: split

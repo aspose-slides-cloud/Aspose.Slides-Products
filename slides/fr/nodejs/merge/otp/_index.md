@@ -1,6 +1,6 @@
 ---
 title: Fusionner plusieurs fichiers OTP via Node.js
-description: Fusionnez plusieurs fichiers Slides avec l'API REST et le SDK Open Source Node.js
+description: Fusionnez plusieurs fichiers Slides OTP avec l'API REST et le SDK Open Source Node.js
 family: slides
 platformtag: nodejs
 feature: merge

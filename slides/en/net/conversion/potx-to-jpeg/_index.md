@@ -1,6 +1,6 @@
 ---
 title: Convert from Slides POTX to JPEG via .NET 
-description: Create, Edit or Convert Slides files with REST API & Open Source .NET SDK
+description: Create, Edit or Convert Slides POTX files to JPEG with REST API & Open Source .NET SDK
 family: slides
 platformtag: net
 feature: conversion

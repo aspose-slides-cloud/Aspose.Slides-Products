@@ -1,6 +1,6 @@
 ---
 title: Convertir de Slides PPSX a XPS a través de Java
-description: cree, edite o convierta archivos Slides con REST API y Java SDK de código abierto
+description: cree, edite o convierta archivos Slides PPSX a XPS con REST API y Java SDK de código abierto
 family: slides
 platformtag: java
 feature: conversion

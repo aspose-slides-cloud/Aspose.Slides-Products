@@ -1,6 +1,6 @@
 ---
 title: Slides PPT から cURL 経由で MPEG4 に変換
-description: REST API とオープン ソース cURL SDK を使用して Slides ファイルを作成、編集、または変換します
+description: REST API とオープン ソース cURL SDK を使用して Slides PPT ファイルを作成、編集、MPEG4 に変換します
 family: slides
 platformtag: curl
 feature: conversion

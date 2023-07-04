@@ -1,6 +1,6 @@
 ---
 title: Convert from Slides PPSM to POTX via Go 
-description: Create, Edit or Convert Slides files with REST API & Open Source Go SDK
+description: Create, Edit or Convert Slides PPSM files to POTX with REST API & Open Source Go SDK
 family: slides
 platformtag: go
 feature: conversion

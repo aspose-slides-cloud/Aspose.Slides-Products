@@ -1,6 +1,6 @@
 ---
 title: 通过 PHP 将 Slides PPSX 拆分为多个 TIFF
-description: 使用 REST API 和开源 PHP SDK 将 Slides 文件拆分成幻灯片
+description: 使用 REST API 和开源 PHP SDK 将 Slides PPSX 文件拆分成 TIFF 幻灯片
 family: slides
 platformtag: php
 feature: split

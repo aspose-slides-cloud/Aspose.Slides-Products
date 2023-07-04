@@ -1,6 +1,6 @@
 ---
 title: Merge multiple PDF files via cURL
-description: Merge multiple Slides files with REST API & Open Source cURL SDK
+description: Merge multiple Slides PDF files with REST API & Open Source cURL SDK
 family: slides
 platformtag: curl
 feature: merge

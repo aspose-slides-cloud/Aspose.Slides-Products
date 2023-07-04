@@ -1,6 +1,6 @@
 ---
 title: Convertir de Slides PPT a PPSM a través de Perl
-description: cree, edite o convierta archivos Slides con REST API y Perl SDK de código abierto
+description: cree, edite o convierta archivos Slides PPT a PPSM con REST API y Perl SDK de código abierto
 family: slides
 platformtag: perl
 feature: conversion

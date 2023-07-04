@@ -1,6 +1,6 @@
 ---
 title: Slides PDF を cURL 経由で複数の POTX に分割する
-description: REST API とオープン ソース cURL SDK を使用して Slides ファイルをスライドに分割する
+description: REST API とオープン ソース cURL SDK を使用して Slides PDF ファイルを POTX スライドに分割する
 family: slides
 platformtag: curl
 feature: split

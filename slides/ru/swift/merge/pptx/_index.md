@@ -1,6 +1,6 @@
 ---
 title: Объединение нескольких PPTX файлов с помощью Swift
-description: Объединение нескольких файлов Slides с помощью REST API и Swift SDK с открытым исходным кодом
+description: Объединение нескольких файлов Slides PPTX с помощью REST API и Swift SDK с открытым исходным кодом
 family: slides
 platformtag: swift
 feature: merge

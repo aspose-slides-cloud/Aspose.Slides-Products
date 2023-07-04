@@ -1,6 +1,6 @@
 ---
 title: Split Slides PPTX into multiple XAML via cURL
-description: Split Slides files into slides with REST API & Open Source cURL SDK
+description: Split Slides PPTX files into XAML slides with REST API & Open Source cURL SDK
 family: slides
 platformtag: curl
 feature: split

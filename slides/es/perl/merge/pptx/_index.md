@@ -1,6 +1,6 @@
 ---
 title: Combinar múltiples archivos PPTX a través de Perl
-description: Combine varios archivos Slides con REST API y Open Source Perl SDK
+description: Combine varios archivos Slides PPTX con REST API y Open Source Perl SDK
 family: slides
 platformtag: perl
 feature: merge

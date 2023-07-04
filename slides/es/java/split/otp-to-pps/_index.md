@@ -1,6 +1,6 @@
 ---
 title: Dividir Slides OTP en múltiples PPS a través de Java
-description: Dividir archivos de Slides en diapositivas con REST API y Java SDK de código abierto
+description: Dividir archivos de Slides OTP en diapositivas PPS con REST API y Java SDK de código abierto
 family: slides
 platformtag: java
 feature: split

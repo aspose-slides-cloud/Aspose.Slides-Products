@@ -1,6 +1,6 @@
 ---
 title: Convertir de Slides PPSX en PPS via .NET
-description: Créez, modifiez ou convertissez des fichiers Slides avec l'API REST et le SDK .NET Open Source
+description: Créez, modifiez ou convertissez des fichiers Slides PPSX en PPS avec l'API REST et le SDK .NET Open Source
 family: slides
 platformtag: net
 feature: conversion

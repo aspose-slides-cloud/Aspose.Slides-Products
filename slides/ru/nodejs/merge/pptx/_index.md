@@ -1,6 +1,6 @@
 ---
 title: Объединение нескольких PPTX файлов с помощью Node.js
-description: Объединение нескольких файлов Slides с помощью REST API и Node.js SDK с открытым исходным кодом
+description: Объединение нескольких файлов Slides PPTX с помощью REST API и Node.js SDK с открытым исходным кодом
 family: slides
 platformtag: nodejs
 feature: merge

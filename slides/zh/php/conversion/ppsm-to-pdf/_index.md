@@ -1,6 +1,6 @@
 ---
 title: 通过 PHP 从 Slides PPSM 转换为 PDF
-description: 使用 REST API 和开源 PHP SDK 创建、编辑或转换 Slides 文件
+description: 使用 REST API 和开源 PHP SDK 创建、编辑或转换 Slides PPSM 文件或将其转换为 PDF
 family: slides
 platformtag: php
 feature: conversion

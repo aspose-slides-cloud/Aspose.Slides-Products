@@ -1,6 +1,6 @@
 ---
 title: Diviser Slides POTM en plusieurs PPT via Java
-description: Divisez les fichiers Slides en diapositives avec l'API REST et le SDK Open Source Java
+description: Divisez les fichiers Slides POTM en diapositives PPT avec l'API REST et le SDK Open Source Java
 family: slides
 platformtag: java
 feature: split

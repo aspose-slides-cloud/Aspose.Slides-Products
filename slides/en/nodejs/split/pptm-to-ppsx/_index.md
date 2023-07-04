@@ -1,6 +1,6 @@
 ---
 title: Split Slides PPTM into multiple PPSX via Node.js
-description: Split Slides files into slides with REST API & Open Source Node.js SDK
+description: Split Slides PPTM files into PPSX slides with REST API & Open Source Node.js SDK
 family: slides
 platformtag: nodejs
 feature: split

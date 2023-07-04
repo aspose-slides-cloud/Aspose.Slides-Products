@@ -1,6 +1,6 @@
 ---
 title: Convert from Slides POTM to OTP via .NET 
-description: Create, Edit or Convert Slides files with REST API & Open Source .NET SDK
+description: Create, Edit or Convert Slides POTM files to OTP with REST API & Open Source .NET SDK
 family: slides
 platformtag: net
 feature: conversion

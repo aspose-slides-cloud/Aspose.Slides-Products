@@ -1,6 +1,6 @@
 ---
 title: Convert from Slides PPSX to JPEG via PHP 
-description: Create, Edit or Convert Slides files with REST API & Open Source PHP SDK
+description: Create, Edit or Convert Slides PPSX files to JPEG with REST API & Open Source PHP SDK
 family: slides
 platformtag: php
 feature: conversion

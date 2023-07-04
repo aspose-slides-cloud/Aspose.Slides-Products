@@ -1,6 +1,6 @@
 ---
 title: Diviser Slides OTP en plusieurs PPTX via Swift
-description: Divisez les fichiers Slides en diapositives avec l'API REST et le SDK Open Source Swift
+description: Divisez les fichiers Slides OTP en diapositives PPTX avec l'API REST et le SDK Open Source Swift
 family: slides
 platformtag: swift
 feature: split

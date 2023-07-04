@@ -1,6 +1,6 @@
 ---
 title: Объединение нескольких POTM файлов с помощью Ruby
-description: Объединение нескольких файлов Slides с помощью REST API и Ruby SDK с открытым исходным кодом
+description: Объединение нескольких файлов Slides POTM с помощью REST API и Ruby SDK с открытым исходным кодом
 family: slides
 platformtag: ruby
 feature: merge

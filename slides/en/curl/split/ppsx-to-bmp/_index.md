@@ -1,6 +1,6 @@
 ---
 title: Split Slides PPSX into multiple BMP via cURL
-description: Split Slides files into slides with REST API & Open Source cURL SDK
+description: Split Slides PPSX files into BMP slides with REST API & Open Source cURL SDK
 family: slides
 platformtag: curl
 feature: split

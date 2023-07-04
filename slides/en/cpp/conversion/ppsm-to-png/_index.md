@@ -1,6 +1,6 @@
 ---
 title: Convert from Slides PPSM to PNG via C++ 
-description: Create, Edit or Convert Slides files with REST API & Open Source C++ SDK
+description: Create, Edit or Convert Slides PPSM files to PNG with REST API & Open Source C++ SDK
 family: slides
 platformtag: cpp
 feature: conversion

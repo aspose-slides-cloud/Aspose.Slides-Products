@@ -1,6 +1,6 @@
 ---
 title: Convertir de Slides OTP en POTM via cURL
-description: Créez, modifiez ou convertissez des fichiers Slides avec l'API REST et le SDK cURL Open Source
+description: Créez, modifiez ou convertissez des fichiers Slides OTP en POTM avec l'API REST et le SDK cURL Open Source
 family: slides
 platformtag: curl
 feature: conversion

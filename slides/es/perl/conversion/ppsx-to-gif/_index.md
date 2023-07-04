@@ -1,6 +1,6 @@
 ---
 title: Convertir de Slides PPSX a GIF a través de Perl
-description: cree, edite o convierta archivos Slides con REST API y Perl SDK de código abierto
+description: cree, edite o convierta archivos Slides PPSX a GIF con REST API y Perl SDK de código abierto
 family: slides
 platformtag: perl
 feature: conversion

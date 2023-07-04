@@ -1,6 +1,6 @@
 ---
 title: Convertir de Slides PPT en HTML5 via Node.js
-description: Créez, modifiez ou convertissez des fichiers Slides avec l'API REST et le SDK Node.js Open Source
+description: Créez, modifiez ou convertissez des fichiers Slides PPT en HTML5 avec l'API REST et le SDK Node.js Open Source
 family: slides
 platformtag: nodejs
 feature: conversion

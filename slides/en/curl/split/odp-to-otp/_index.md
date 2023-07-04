@@ -1,6 +1,6 @@
 ---
 title: Split Slides ODP into multiple OTP via cURL
-description: Split Slides files into slides with REST API & Open Source cURL SDK
+description: Split Slides ODP files into OTP slides with REST API & Open Source cURL SDK
 family: slides
 platformtag: curl
 feature: split

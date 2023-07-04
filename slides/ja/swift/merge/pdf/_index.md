@@ -1,6 +1,6 @@
 ---
 title: Swift経由で複数のPDFファイルをマージ
-description: REST API とオープン ソース Swift SDK を使用して複数の Slides ファイルをマージする
+description: REST API とオープン ソース Swift SDK を使用して複数の Slides PDF ファイルをマージする
 family: slides
 platformtag: swift
 feature: merge

@@ -1,6 +1,6 @@
 ---
 title: Convertir de Slides ODP en SWF via Java
-description: Créez, modifiez ou convertissez des fichiers Slides avec l'API REST et le SDK Java Open Source
+description: Créez, modifiez ou convertissez des fichiers Slides ODP en SWF avec l'API REST et le SDK Java Open Source
 family: slides
 platformtag: java
 feature: conversion

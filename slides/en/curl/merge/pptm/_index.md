@@ -1,6 +1,6 @@
 ---
 title: Merge multiple PPTM files via cURL
-description: Merge multiple Slides files with REST API & Open Source cURL SDK
+description: Merge multiple Slides PPTM files with REST API & Open Source cURL SDK
 family: slides
 platformtag: curl
 feature: merge

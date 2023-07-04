@@ -1,6 +1,6 @@
 ---
 title: Convertir de Slides POTX a SWF a través de Swift
-description: cree, edite o convierta archivos Slides con REST API y Swift SDK de código abierto
+description: cree, edite o convierta archivos Slides POTX a SWF con REST API y Swift SDK de código abierto
 family: slides
 platformtag: swift
 feature: conversion

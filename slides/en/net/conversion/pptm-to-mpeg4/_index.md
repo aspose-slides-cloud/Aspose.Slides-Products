@@ -1,6 +1,6 @@
 ---
 title: Convert from Slides PPTM to MPEG4 via .NET 
-description: Create, Edit or Convert Slides files with REST API & Open Source .NET SDK
+description: Create, Edit or Convert Slides PPTM files to MPEG4 with REST API & Open Source .NET SDK
 family: slides
 platformtag: net
 feature: conversion

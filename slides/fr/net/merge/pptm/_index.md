@@ -1,6 +1,6 @@
 ---
 title: Fusionner plusieurs fichiers PPTM via .NET
-description: Fusionnez plusieurs fichiers Slides avec l'API REST et le SDK Open Source .NET
+description: Fusionnez plusieurs fichiers Slides PPTM avec l'API REST et le SDK Open Source .NET
 family: slides
 platformtag: net
 feature: merge

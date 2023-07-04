@@ -1,6 +1,6 @@
 ---
 title: Convert from Slides PPTX to PDF via C++ 
-description: Create, Edit or Convert Slides files with REST API & Open Source C++ SDK
+description: Create, Edit or Convert Slides PPTX files to PDF with REST API & Open Source C++ SDK
 family: slides
 platformtag: cpp
 feature: conversion

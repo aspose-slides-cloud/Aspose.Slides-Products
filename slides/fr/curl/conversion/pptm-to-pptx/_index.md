@@ -1,6 +1,6 @@
 ---
 title: Convertir de Slides PPTM en PPTX via cURL
-description: Créez, modifiez ou convertissez des fichiers Slides avec l'API REST et le SDK cURL Open Source
+description: Créez, modifiez ou convertissez des fichiers Slides PPTM en PPTX avec l'API REST et le SDK cURL Open Source
 family: slides
 platformtag: curl
 feature: conversion

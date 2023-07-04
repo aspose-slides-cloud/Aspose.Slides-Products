@@ -1,6 +1,6 @@
 ---
 title: Android를 통해 Slides POTX를 여러 SVG로 분할
-description: REST API 및 오픈 소스 Android SDK를 사용하여 Slides 파일을 슬라이드로 분할
+description: REST API 및 오픈 소스 Android SDK를 사용하여 Slides POTX 파일을 SVG 슬라이드로 분할
 family: slides
 platformtag: android
 feature: split

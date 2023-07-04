@@ -1,6 +1,6 @@
 ---
 title: Преобразование Slides PPSM в PPSX с помощью C++
-description: Создавайте, редактируйте или конвертируйте файлы Slides с помощью REST API и C++ SDK с открытым исходным кодом
+description: Создавайте, редактируйте или конвертируйте файлы Slides PPSM в PPSX с помощью REST API и C++ SDK с открытым исходным кодом
 family: slides
 platformtag: cpp
 feature: conversion

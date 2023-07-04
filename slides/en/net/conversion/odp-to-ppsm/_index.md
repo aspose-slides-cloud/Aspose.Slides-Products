@@ -1,6 +1,6 @@
 ---
 title: Convert from Slides ODP to PPSM via .NET 
-description: Create, Edit or Convert Slides files with REST API & Open Source .NET SDK
+description: Create, Edit or Convert Slides ODP files to PPSM with REST API & Open Source .NET SDK
 family: slides
 platformtag: net
 feature: conversion

@@ -1,6 +1,6 @@
 ---
 title: Объединение нескольких PPTX файлов с помощью PHP
-description: Объединение нескольких файлов Slides с помощью REST API и PHP SDK с открытым исходным кодом
+description: Объединение нескольких файлов Slides PPTX с помощью REST API и PHP SDK с открытым исходным кодом
 family: slides
 platformtag: php
 feature: merge

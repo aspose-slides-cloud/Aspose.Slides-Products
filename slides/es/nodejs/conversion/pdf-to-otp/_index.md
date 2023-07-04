@@ -1,6 +1,6 @@
 ---
 title: Convertir de Slides PDF a OTP a través de Node.js
-description: cree, edite o convierta archivos Slides con REST API y Node.js SDK de código abierto
+description: cree, edite o convierta archivos Slides PDF a OTP con REST API y Node.js SDK de código abierto
 family: slides
 platformtag: nodejs
 feature: conversion

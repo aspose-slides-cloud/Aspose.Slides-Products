@@ -1,6 +1,6 @@
 ---
 title: Convert from Slides PPT to GIF via Perl 
-description: Create, Edit or Convert Slides files with REST API & Open Source Perl SDK
+description: Create, Edit or Convert Slides PPT files to GIF with REST API & Open Source Perl SDK
 family: slides
 platformtag: perl
 feature: conversion

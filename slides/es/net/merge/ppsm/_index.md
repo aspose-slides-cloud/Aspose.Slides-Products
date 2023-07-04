@@ -1,6 +1,6 @@
 ---
 title: Combinar múltiples archivos PPSM a través de .NET
-description: Combine varios archivos Slides con REST API y Open Source .NET SDK
+description: Combine varios archivos Slides PPSM con REST API y Open Source .NET SDK
 family: slides
 platformtag: net
 feature: merge

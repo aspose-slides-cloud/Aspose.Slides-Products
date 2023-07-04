@@ -1,6 +1,6 @@
 ---
 title: Convertir de Slides ODP en OTP via Ruby
-description: Créez, modifiez ou convertissez des fichiers Slides avec l'API REST et le SDK Ruby Open Source
+description: Créez, modifiez ou convertissez des fichiers Slides ODP en OTP avec l'API REST et le SDK Ruby Open Source
 family: slides
 platformtag: ruby
 feature: conversion

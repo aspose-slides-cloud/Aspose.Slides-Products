@@ -1,6 +1,6 @@
 ---
 title: .NET経由で複数のPPSファイルをマージ
-description: REST API とオープン ソース .NET SDK を使用して複数の Slides ファイルをマージする
+description: REST API とオープン ソース .NET SDK を使用して複数の Slides PPS ファイルをマージする
 family: slides
 platformtag: net
 feature: merge

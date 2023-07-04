@@ -1,6 +1,6 @@
 ---
 title: Split Slides PDF into multiple PPT via Go
-description: Split Slides files into slides with REST API & Open Source Go SDK
+description: Split Slides PDF files into PPT slides with REST API & Open Source Go SDK
 family: slides
 platformtag: go
 feature: split

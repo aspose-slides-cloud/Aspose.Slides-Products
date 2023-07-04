@@ -1,6 +1,6 @@
 ---
 title: Diviser Slides PPT en plusieurs TIFF via .NET
-description: Divisez les fichiers Slides en diapositives avec l'API REST et le SDK Open Source .NET
+description: Divisez les fichiers Slides PPT en diapositives TIFF avec l'API REST et le SDK Open Source .NET
 family: slides
 platformtag: net
 feature: split

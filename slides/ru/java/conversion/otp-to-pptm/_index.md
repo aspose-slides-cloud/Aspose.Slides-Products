@@ -1,6 +1,6 @@
 ---
 title: Преобразование Slides OTP в PPTM с помощью Java
-description: Создавайте, редактируйте или конвертируйте файлы Slides с помощью REST API и Java SDK с открытым исходным кодом
+description: Создавайте, редактируйте или конвертируйте файлы Slides OTP в PPTM с помощью REST API и Java SDK с открытым исходным кодом
 family: slides
 platformtag: java
 feature: conversion

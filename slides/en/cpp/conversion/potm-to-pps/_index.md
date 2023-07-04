@@ -1,6 +1,6 @@
 ---
 title: Convert from Slides POTM to PPS via C++ 
-description: Create, Edit or Convert Slides files with REST API & Open Source C++ SDK
+description: Create, Edit or Convert Slides POTM files to PPS with REST API & Open Source C++ SDK
 family: slides
 platformtag: cpp
 feature: conversion

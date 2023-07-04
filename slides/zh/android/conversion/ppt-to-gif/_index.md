@@ -1,6 +1,6 @@
 ---
 title: 通过 Android 从 Slides PPT 转换为 GIF
-description: 使用 REST API 和开源 Android SDK 创建、编辑或转换 Slides 文件
+description: 使用 REST API 和开源 Android SDK 创建、编辑或转换 Slides PPT 文件或将其转换为 GIF
 family: slides
 platformtag: android
 feature: conversion

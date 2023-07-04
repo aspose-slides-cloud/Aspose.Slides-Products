@@ -1,6 +1,6 @@
 ---
 title: Разделение Slides PPT на несколько PPS с помощью C++
-description: Разделите файлы Slides на слайды с помощью REST API и C++ SDK с открытым исходным кодом
+description: Разделите файлы Slides PPT на слайды PPS с помощью REST API и C++ SDK с открытым исходным кодом
 family: slides
 platformtag: cpp
 feature: split

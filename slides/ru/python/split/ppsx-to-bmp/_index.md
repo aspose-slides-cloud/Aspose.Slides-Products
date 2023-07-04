@@ -1,6 +1,6 @@
 ---
 title: Разделение Slides PPSX на несколько BMP с помощью Python
-description: Разделите файлы Slides на слайды с помощью REST API и Python SDK с открытым исходным кодом
+description: Разделите файлы Slides PPSX на слайды BMP с помощью REST API и Python SDK с открытым исходным кодом
 family: slides
 platformtag: python
 feature: split

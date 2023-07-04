@@ -1,6 +1,6 @@
 ---
 title: Convert from Slides PPTM to MPEG4 via C++ 
-description: Create, Edit or Convert Slides files with REST API & Open Source C++ SDK
+description: Create, Edit or Convert Slides PPTM files to MPEG4 with REST API & Open Source C++ SDK
 family: slides
 platformtag: cpp
 feature: conversion

@@ -1,6 +1,6 @@
 ---
 title: Split Slides PPT into multiple PPTX via Go
-description: Split Slides files into slides with REST API & Open Source Go SDK
+description: Split Slides PPT files into PPTX slides with REST API & Open Source Go SDK
 family: slides
 platformtag: go
 feature: split

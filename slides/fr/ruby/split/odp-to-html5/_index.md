@@ -1,6 +1,6 @@
 ---
 title: Diviser Slides ODP en plusieurs HTML5 via Ruby
-description: Divisez les fichiers Slides en diapositives avec l'API REST et le SDK Open Source Ruby
+description: Divisez les fichiers Slides ODP en diapositives HTML5 avec l'API REST et le SDK Open Source Ruby
 family: slides
 platformtag: ruby
 feature: split

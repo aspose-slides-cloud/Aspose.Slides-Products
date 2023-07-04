@@ -1,6 +1,6 @@
 ---
 title: Convert from Slides PPSX to XPS via .NET 
-description: Create, Edit or Convert Slides files with REST API & Open Source .NET SDK
+description: Create, Edit or Convert Slides PPSX files to XPS with REST API & Open Source .NET SDK
 family: slides
 platformtag: net
 feature: conversion

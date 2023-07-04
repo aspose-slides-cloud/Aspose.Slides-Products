@@ -1,6 +1,6 @@
 ---
 title: Diviser Slides POTX en plusieurs TIFF via Android
-description: Divisez les fichiers Slides en diapositives avec l'API REST et le SDK Open Source Android
+description: Divisez les fichiers Slides POTX en diapositives TIFF avec l'API REST et le SDK Open Source Android
 family: slides
 platformtag: android
 feature: split

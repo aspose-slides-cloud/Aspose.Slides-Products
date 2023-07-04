@@ -1,6 +1,6 @@
 ---
 title: Fusionner plusieurs fichiers PPTM via Perl
-description: Fusionnez plusieurs fichiers Slides avec l'API REST et le SDK Open Source Perl
+description: Fusionnez plusieurs fichiers Slides PPTM avec l'API REST et le SDK Open Source Perl
 family: slides
 platformtag: perl
 feature: merge

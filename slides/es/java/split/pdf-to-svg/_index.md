@@ -1,6 +1,6 @@
 ---
 title: Dividir Slides PDF en múltiples SVG a través de Java
-description: Dividir archivos de Slides en diapositivas con REST API y Java SDK de código abierto
+description: Dividir archivos de Slides PDF en diapositivas SVG con REST API y Java SDK de código abierto
 family: slides
 platformtag: java
 feature: split

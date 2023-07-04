@@ -1,6 +1,6 @@
 ---
 title: Convert from Slides POTM to PPSX via .NET 
-description: Create, Edit or Convert Slides files with REST API & Open Source .NET SDK
+description: Create, Edit or Convert Slides POTM files to PPSX with REST API & Open Source .NET SDK
 family: slides
 platformtag: net
 feature: conversion

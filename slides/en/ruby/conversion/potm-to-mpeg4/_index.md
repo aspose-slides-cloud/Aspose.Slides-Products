@@ -1,6 +1,6 @@
 ---
 title: Convert from Slides POTM to MPEG4 via Ruby 
-description: Create, Edit or Convert Slides files with REST API & Open Source Ruby SDK
+description: Create, Edit or Convert Slides POTM files to MPEG4 with REST API & Open Source Ruby SDK
 family: slides
 platformtag: ruby
 feature: conversion

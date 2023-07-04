@@ -1,6 +1,6 @@
 ---
 title: Split Slides PDF into multiple ODP via .NET
-description: Split Slides files into slides with REST API & Open Source .NET SDK
+description: Split Slides PDF files into ODP slides with REST API & Open Source .NET SDK
 family: slides
 platformtag: net
 feature: split

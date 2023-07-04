@@ -1,6 +1,6 @@
 ---
 title: Convertir de Slides PDF en XAML via Ruby
-description: Créez, modifiez ou convertissez des fichiers Slides avec l'API REST et le SDK Ruby Open Source
+description: Créez, modifiez ou convertissez des fichiers Slides PDF en XAML avec l'API REST et le SDK Ruby Open Source
 family: slides
 platformtag: ruby
 feature: conversion

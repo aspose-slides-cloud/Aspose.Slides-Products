@@ -1,6 +1,6 @@
 ---
 title: 通过 Android 从 Slides PPTM 转换为 HTML5
-description: 使用 REST API 和开源 Android SDK 创建、编辑或转换 Slides 文件
+description: 使用 REST API 和开源 Android SDK 创建、编辑或转换 Slides PPTM 文件或将其转换为 HTML5
 family: slides
 platformtag: android
 feature: conversion

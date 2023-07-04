@@ -1,6 +1,6 @@
 ---
 title: Convert from Slides POTM to MPEG4 via Android 
-description: Create, Edit or Convert Slides files with REST API & Open Source Android SDK
+description: Create, Edit or Convert Slides POTM files to MPEG4 with REST API & Open Source Android SDK
 family: slides
 platformtag: android
 feature: conversion

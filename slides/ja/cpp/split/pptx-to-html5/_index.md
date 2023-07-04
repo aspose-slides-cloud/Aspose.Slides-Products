@@ -1,6 +1,6 @@
 ---
 title: Slides PPTX を C++ 経由で複数の HTML5 に分割する
-description: REST API とオープン ソース C++ SDK を使用して Slides ファイルをスライドに分割する
+description: REST API とオープン ソース C++ SDK を使用して Slides PPTX ファイルを HTML5 スライドに分割する
 family: slides
 platformtag: cpp
 feature: split

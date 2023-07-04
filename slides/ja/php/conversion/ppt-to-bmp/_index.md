@@ -1,6 +1,6 @@
 ---
 title: Slides PPT から PHP 経由で BMP に変換
-description: REST API とオープン ソース PHP SDK を使用して Slides ファイルを作成、編集、または変換します
+description: REST API とオープン ソース PHP SDK を使用して Slides PPT ファイルを作成、編集、BMP に変換します
 family: slides
 platformtag: php
 feature: conversion

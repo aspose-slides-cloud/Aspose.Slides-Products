@@ -1,6 +1,6 @@
 ---
 title: Объединение нескольких PPTM файлов с помощью Java
-description: Объединение нескольких файлов Slides с помощью REST API и Java SDK с открытым исходным кодом
+description: Объединение нескольких файлов Slides PPTM с помощью REST API и Java SDK с открытым исходным кодом
 family: slides
 platformtag: java
 feature: merge

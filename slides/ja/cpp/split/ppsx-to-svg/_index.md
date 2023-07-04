@@ -1,6 +1,6 @@
 ---
 title: Slides PPSX を C++ 経由で複数の SVG に分割する
-description: REST API とオープン ソース C++ SDK を使用して Slides ファイルをスライドに分割する
+description: REST API とオープン ソース C++ SDK を使用して Slides PPSX ファイルを SVG スライドに分割する
 family: slides
 platformtag: cpp
 feature: split

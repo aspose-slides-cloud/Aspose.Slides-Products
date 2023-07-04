@@ -1,6 +1,6 @@
 ---
 title: Convertir de Slides PDF a HTML a través de Perl
-description: cree, edite o convierta archivos Slides con REST API y Perl SDK de código abierto
+description: cree, edite o convierta archivos Slides PDF a HTML con REST API y Perl SDK de código abierto
 family: slides
 platformtag: perl
 feature: conversion

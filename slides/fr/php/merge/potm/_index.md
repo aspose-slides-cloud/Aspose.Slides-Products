@@ -1,6 +1,6 @@
 ---
 title: Fusionner plusieurs fichiers POTM via PHP
-description: Fusionnez plusieurs fichiers Slides avec l'API REST et le SDK Open Source PHP
+description: Fusionnez plusieurs fichiers Slides POTM avec l'API REST et le SDK Open Source PHP
 family: slides
 platformtag: php
 feature: merge

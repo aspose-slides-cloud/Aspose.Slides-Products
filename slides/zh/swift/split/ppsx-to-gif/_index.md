@@ -1,6 +1,6 @@
 ---
 title: 通过 Swift 将 Slides PPSX 拆分为多个 GIF
-description: 使用 REST API 和开源 Swift SDK 将 Slides 文件拆分成幻灯片
+description: 使用 REST API 和开源 Swift SDK 将 Slides PPSX 文件拆分成 GIF 幻灯片
 family: slides
 platformtag: swift
 feature: split

@@ -1,6 +1,6 @@
 ---
 title: Diviser Slides PPS en plusieurs XPS via PHP
-description: Divisez les fichiers Slides en diapositives avec l'API REST et le SDK Open Source PHP
+description: Divisez les fichiers Slides PPS en diapositives XPS avec l'API REST et le SDK Open Source PHP
 family: slides
 platformtag: php
 feature: split

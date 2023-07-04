@@ -1,6 +1,6 @@
 ---
 title: Преобразование Slides POTX в XPS с помощью C++
-description: Создавайте, редактируйте или конвертируйте файлы Slides с помощью REST API и C++ SDK с открытым исходным кодом
+description: Создавайте, редактируйте или конвертируйте файлы Slides POTX в XPS с помощью REST API и C++ SDK с открытым исходным кодом
 family: slides
 platformtag: cpp
 feature: conversion

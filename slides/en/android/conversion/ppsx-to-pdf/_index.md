@@ -1,6 +1,6 @@
 ---
 title: Convert from Slides PPSX to PDF via Android 
-description: Create, Edit or Convert Slides files with REST API & Open Source Android SDK
+description: Create, Edit or Convert Slides PPSX files to PDF with REST API & Open Source Android SDK
 family: slides
 platformtag: android
 feature: conversion

@@ -1,6 +1,6 @@
 ---
 title: Преобразование Slides PPTM в SVG с помощью Ruby
-description: Создавайте, редактируйте или конвертируйте файлы Slides с помощью REST API и Ruby SDK с открытым исходным кодом
+description: Создавайте, редактируйте или конвертируйте файлы Slides PPTM в SVG с помощью REST API и Ruby SDK с открытым исходным кодом
 family: slides
 platformtag: ruby
 feature: conversion

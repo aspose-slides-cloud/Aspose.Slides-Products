@@ -1,6 +1,6 @@
 ---
 title: Slides POTM から C++ 経由で PNG に変換
-description: REST API とオープン ソース C++ SDK を使用して Slides ファイルを作成、編集、または変換します
+description: REST API とオープン ソース C++ SDK を使用して Slides POTM ファイルを作成、編集、PNG に変換します
 family: slides
 platformtag: cpp
 feature: conversion

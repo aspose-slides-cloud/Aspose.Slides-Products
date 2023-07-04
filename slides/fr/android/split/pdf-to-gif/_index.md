@@ -1,6 +1,6 @@
 ---
 title: Diviser Slides PDF en plusieurs GIF via Android
-description: Divisez les fichiers Slides en diapositives avec l'API REST et le SDK Open Source Android
+description: Divisez les fichiers Slides PDF en diapositives GIF avec l'API REST et le SDK Open Source Android
 family: slides
 platformtag: android
 feature: split

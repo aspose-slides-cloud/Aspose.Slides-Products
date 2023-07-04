@@ -1,6 +1,6 @@
 ---
 title: Diviser Slides PDF en plusieurs POTM via PHP
-description: Divisez les fichiers Slides en diapositives avec l'API REST et le SDK Open Source PHP
+description: Divisez les fichiers Slides PDF en diapositives POTM avec l'API REST et le SDK Open Source PHP
 family: slides
 platformtag: php
 feature: split

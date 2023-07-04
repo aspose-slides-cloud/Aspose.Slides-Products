@@ -1,6 +1,6 @@
 ---
 title: Convert from Slides PPS to PNG via Swift 
-description: Create, Edit or Convert Slides files with REST API & Open Source Swift SDK
+description: Create, Edit or Convert Slides PPS files to PNG with REST API & Open Source Swift SDK
 family: slides
 platformtag: swift
 feature: conversion

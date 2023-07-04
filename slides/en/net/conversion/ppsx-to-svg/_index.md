@@ -1,6 +1,6 @@
 ---
 title: Convert from Slides PPSX to SVG via .NET 
-description: Create, Edit or Convert Slides files with REST API & Open Source .NET SDK
+description: Create, Edit or Convert Slides PPSX files to SVG with REST API & Open Source .NET SDK
 family: slides
 platformtag: net
 feature: conversion

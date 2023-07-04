@@ -1,6 +1,6 @@
 ---
 title: Convert from Slides POTM to ODP via Ruby 
-description: Create, Edit or Convert Slides files with REST API & Open Source Ruby SDK
+description: Create, Edit or Convert Slides POTM files to ODP with REST API & Open Source Ruby SDK
 family: slides
 platformtag: ruby
 feature: conversion

@@ -1,6 +1,6 @@
 ---
 title: Convert from Slides POTX to GIF via PHP 
-description: Create, Edit or Convert Slides files with REST API & Open Source PHP SDK
+description: Create, Edit or Convert Slides POTX files to GIF with REST API & Open Source PHP SDK
 family: slides
 platformtag: php
 feature: conversion

@@ -1,6 +1,6 @@
 ---
 title: Diviser Slides PPT en plusieurs TIFF via Ruby
-description: Divisez les fichiers Slides en diapositives avec l'API REST et le SDK Open Source Ruby
+description: Divisez les fichiers Slides PPT en diapositives TIFF avec l'API REST et le SDK Open Source Ruby
 family: slides
 platformtag: ruby
 feature: split

@@ -1,6 +1,6 @@
 ---
 title: Split Slides PPS into multiple POTM via PHP
-description: Split Slides files into slides with REST API & Open Source PHP SDK
+description: Split Slides PPS files into POTM slides with REST API & Open Source PHP SDK
 family: slides
 platformtag: php
 feature: split

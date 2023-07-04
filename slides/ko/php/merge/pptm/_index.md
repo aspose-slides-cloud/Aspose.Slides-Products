@@ -1,6 +1,6 @@
 ---
 title: PHP를 통해 여러 PPTM 파일 병합
-description: REST API 및 오픈 소스 PHP SDK를 사용하여 여러 Slides 파일 병합
+description: REST API 및 오픈 소스 PHP SDK를 사용하여 여러 Slides PPTM 파일 병합
 family: slides
 platformtag: php
 feature: merge

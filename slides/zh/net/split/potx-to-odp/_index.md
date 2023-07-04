@@ -1,6 +1,6 @@
 ---
 title: 通过 .NET 将 Slides POTX 拆分为多个 ODP
-description: 使用 REST API 和开源 .NET SDK 将 Slides 文件拆分成幻灯片
+description: 使用 REST API 和开源 .NET SDK 将 Slides POTX 文件拆分成 ODP 幻灯片
 family: slides
 platformtag: net
 feature: split

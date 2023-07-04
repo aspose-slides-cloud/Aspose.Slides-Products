@@ -1,6 +1,6 @@
 ---
 title: Combinar múltiples archivos OTP a través de Perl
-description: Combine varios archivos Slides con REST API y Open Source Perl SDK
+description: Combine varios archivos Slides OTP con REST API y Open Source Perl SDK
 family: slides
 platformtag: perl
 feature: merge

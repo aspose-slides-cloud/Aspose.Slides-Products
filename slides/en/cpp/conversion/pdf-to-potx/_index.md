@@ -1,6 +1,6 @@
 ---
 title: Convert from Slides PDF to POTX via C++ 
-description: Create, Edit or Convert Slides files with REST API & Open Source C++ SDK
+description: Create, Edit or Convert Slides PDF files to POTX with REST API & Open Source C++ SDK
 family: slides
 platformtag: cpp
 feature: conversion

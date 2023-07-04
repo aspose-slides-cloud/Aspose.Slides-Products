@@ -1,6 +1,6 @@
 ---
 title: Convert from Slides OTP to SVG via Java 
-description: Create, Edit or Convert Slides files with REST API & Open Source Java SDK
+description: Create, Edit or Convert Slides OTP files to SVG with REST API & Open Source Java SDK
 family: slides
 platformtag: java
 feature: conversion

@@ -1,6 +1,6 @@
 ---
 title: Slides POTM から Python 経由で PPT に変換
-description: REST API とオープン ソース Python SDK を使用して Slides ファイルを作成、編集、または変換します
+description: REST API とオープン ソース Python SDK を使用して Slides POTM ファイルを作成、編集、PPT に変換します
 family: slides
 platformtag: python
 feature: conversion

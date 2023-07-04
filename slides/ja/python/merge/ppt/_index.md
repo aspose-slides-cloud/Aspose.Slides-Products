@@ -1,6 +1,6 @@
 ---
 title: Python経由で複数のPPTファイルをマージ
-description: REST API とオープン ソース Python SDK を使用して複数の Slides ファイルをマージする
+description: REST API とオープン ソース Python SDK を使用して複数の Slides PPT ファイルをマージする
 family: slides
 platformtag: python
 feature: merge

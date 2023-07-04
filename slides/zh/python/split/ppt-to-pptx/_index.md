@@ -1,6 +1,6 @@
 ---
 title: 通过 Python 将 Slides PPT 拆分为多个 PPTX
-description: 使用 REST API 和开源 Python SDK 将 Slides 文件拆分成幻灯片
+description: 使用 REST API 和开源 Python SDK 将 Slides PPT 文件拆分成 PPTX 幻灯片
 family: slides
 platformtag: python
 feature: split

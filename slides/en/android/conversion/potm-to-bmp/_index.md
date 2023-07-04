@@ -1,6 +1,6 @@
 ---
 title: Convert from Slides POTM to BMP via Android 
-description: Create, Edit or Convert Slides files with REST API & Open Source Android SDK
+description: Create, Edit or Convert Slides POTM files to BMP with REST API & Open Source Android SDK
 family: slides
 platformtag: android
 feature: conversion

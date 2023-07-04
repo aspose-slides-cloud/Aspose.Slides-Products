@@ -1,6 +1,6 @@
 ---
 title: Fusionner plusieurs fichiers ODP via PHP
-description: Fusionnez plusieurs fichiers Slides avec l'API REST et le SDK Open Source PHP
+description: Fusionnez plusieurs fichiers Slides ODP avec l'API REST et le SDK Open Source PHP
 family: slides
 platformtag: php
 feature: merge

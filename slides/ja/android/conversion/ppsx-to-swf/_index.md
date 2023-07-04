@@ -1,6 +1,6 @@
 ---
 title: Slides PPSX から Android 経由で SWF に変換
-description: REST API とオープン ソース Android SDK を使用して Slides ファイルを作成、編集、または変換します
+description: REST API とオープン ソース Android SDK を使用して Slides PPSX ファイルを作成、編集、SWF に変換します
 family: slides
 platformtag: android
 feature: conversion

@@ -1,6 +1,6 @@
 ---
 title: Convertir de Slides POTM en PPT via Swift
-description: Créez, modifiez ou convertissez des fichiers Slides avec l'API REST et le SDK Swift Open Source
+description: Créez, modifiez ou convertissez des fichiers Slides POTM en PPT avec l'API REST et le SDK Swift Open Source
 family: slides
 platformtag: swift
 feature: conversion

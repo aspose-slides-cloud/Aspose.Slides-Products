@@ -1,6 +1,6 @@
 ---
 title: Diviser Slides POTX en plusieurs XAML via Android
-description: Divisez les fichiers Slides en diapositives avec l'API REST et le SDK Open Source Android
+description: Divisez les fichiers Slides POTX en diapositives XAML avec l'API REST et le SDK Open Source Android
 family: slides
 platformtag: android
 feature: split

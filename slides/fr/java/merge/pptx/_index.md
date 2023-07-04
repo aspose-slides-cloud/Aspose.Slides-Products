@@ -1,6 +1,6 @@
 ---
 title: Fusionner plusieurs fichiers PPTX via Java
-description: Fusionnez plusieurs fichiers Slides avec l'API REST et le SDK Open Source Java
+description: Fusionnez plusieurs fichiers Slides PPTX avec l'API REST et le SDK Open Source Java
 family: slides
 platformtag: java
 feature: merge

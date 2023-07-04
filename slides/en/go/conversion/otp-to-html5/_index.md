@@ -1,6 +1,6 @@
 ---
 title: Convert from Slides OTP to HTML5 via Go 
-description: Create, Edit or Convert Slides files with REST API & Open Source Go SDK
+description: Create, Edit or Convert Slides OTP files to HTML5 with REST API & Open Source Go SDK
 family: slides
 platformtag: go
 feature: conversion

@@ -1,6 +1,6 @@
 ---
 title: Split Slides PDF into multiple HTML5 via Android
-description: Split Slides files into slides with REST API & Open Source Android SDK
+description: Split Slides PDF files into HTML5 slides with REST API & Open Source Android SDK
 family: slides
 platformtag: android
 feature: split

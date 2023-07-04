@@ -1,6 +1,6 @@
 ---
 title: 通过 cURL 从 Slides PPSX 转换为 MPEG4
-description: 使用 REST API 和开源 cURL SDK 创建、编辑或转换 Slides 文件
+description: 使用 REST API 和开源 cURL SDK 创建、编辑或转换 Slides PPSX 文件或将其转换为 MPEG4
 family: slides
 platformtag: curl
 feature: conversion

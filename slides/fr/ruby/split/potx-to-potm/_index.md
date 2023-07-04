@@ -1,6 +1,6 @@
 ---
 title: Diviser Slides POTX en plusieurs POTM via Ruby
-description: Divisez les fichiers Slides en diapositives avec l'API REST et le SDK Open Source Ruby
+description: Divisez les fichiers Slides POTX en diapositives POTM avec l'API REST et le SDK Open Source Ruby
 family: slides
 platformtag: ruby
 feature: split

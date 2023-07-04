@@ -1,6 +1,6 @@
 ---
 title: Split Slides PPTM into multiple PPTM via .NET
-description: Split Slides files into slides with REST API & Open Source .NET SDK
+description: Split Slides PPTM files into PPTM slides with REST API & Open Source .NET SDK
 family: slides
 platformtag: net
 feature: split

@@ -1,6 +1,6 @@
 ---
 title: Разделение Slides PDF на несколько PPS с помощью .NET
-description: Разделите файлы Slides на слайды с помощью REST API и .NET SDK с открытым исходным кодом
+description: Разделите файлы Slides PDF на слайды PPS с помощью REST API и .NET SDK с открытым исходным кодом
 family: slides
 platformtag: net
 feature: split

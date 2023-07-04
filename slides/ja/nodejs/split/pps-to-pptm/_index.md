@@ -1,6 +1,6 @@
 ---
 title: Slides PPS を Node.js 経由で複数の PPTM に分割する
-description: REST API とオープン ソース Node.js SDK を使用して Slides ファイルをスライドに分割する
+description: REST API とオープン ソース Node.js SDK を使用して Slides PPS ファイルを PPTM スライドに分割する
 family: slides
 platformtag: nodejs
 feature: split

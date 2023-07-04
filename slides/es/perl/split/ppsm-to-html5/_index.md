@@ -1,6 +1,6 @@
 ---
 title: Dividir Slides PPSM en múltiples HTML5 a través de Perl
-description: Dividir archivos de Slides en diapositivas con REST API y Perl SDK de código abierto
+description: Dividir archivos de Slides PPSM en diapositivas HTML5 con REST API y Perl SDK de código abierto
 family: slides
 platformtag: perl
 feature: split

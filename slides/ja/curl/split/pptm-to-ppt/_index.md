@@ -1,6 +1,6 @@
 ---
 title: Slides PPTM を cURL 経由で複数の PPT に分割する
-description: REST API とオープン ソース cURL SDK を使用して Slides ファイルをスライドに分割する
+description: REST API とオープン ソース cURL SDK を使用して Slides PPTM ファイルを PPT スライドに分割する
 family: slides
 platformtag: curl
 feature: split

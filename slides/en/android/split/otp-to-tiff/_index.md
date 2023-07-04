@@ -1,6 +1,6 @@
 ---
 title: Split Slides OTP into multiple TIFF via Android
-description: Split Slides files into slides with REST API & Open Source Android SDK
+description: Split Slides OTP files into TIFF slides with REST API & Open Source Android SDK
 family: slides
 platformtag: android
 feature: split

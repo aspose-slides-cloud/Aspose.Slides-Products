@@ -1,6 +1,6 @@
 ---
 title: Разделение Slides PPT на несколько TIFF с помощью Node.js
-description: Разделите файлы Slides на слайды с помощью REST API и Node.js SDK с открытым исходным кодом
+description: Разделите файлы Slides PPT на слайды TIFF с помощью REST API и Node.js SDK с открытым исходным кодом
 family: slides
 platformtag: nodejs
 feature: split

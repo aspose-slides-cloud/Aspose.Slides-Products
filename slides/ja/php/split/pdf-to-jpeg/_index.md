@@ -1,6 +1,6 @@
 ---
 title: Slides PDF を PHP 経由で複数の JPEG に分割する
-description: REST API とオープン ソース PHP SDK を使用して Slides ファイルをスライドに分割する
+description: REST API とオープン ソース PHP SDK を使用して Slides PDF ファイルを JPEG スライドに分割する
 family: slides
 platformtag: php
 feature: split

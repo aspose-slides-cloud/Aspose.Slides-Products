@@ -1,6 +1,6 @@
 ---
 title: Split Slides POTM into multiple BMP via Go
-description: Split Slides files into slides with REST API & Open Source Go SDK
+description: Split Slides POTM files into BMP slides with REST API & Open Source Go SDK
 family: slides
 platformtag: go
 feature: split

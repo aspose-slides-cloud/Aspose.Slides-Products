@@ -1,6 +1,6 @@
 ---
 title: PHP를 통해 Slides PPTX를 여러 XPS로 분할
-description: REST API 및 오픈 소스 PHP SDK를 사용하여 Slides 파일을 슬라이드로 분할
+description: REST API 및 오픈 소스 PHP SDK를 사용하여 Slides PPTX 파일을 XPS 슬라이드로 분할
 family: slides
 platformtag: php
 feature: split

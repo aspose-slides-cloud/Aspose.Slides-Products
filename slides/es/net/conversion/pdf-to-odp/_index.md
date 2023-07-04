@@ -1,6 +1,6 @@
 ---
 title: Convertir de Slides PDF a ODP a través de .NET
-description: cree, edite o convierta archivos Slides con REST API y .NET SDK de código abierto
+description: cree, edite o convierta archivos Slides PDF a ODP con REST API y .NET SDK de código abierto
 family: slides
 platformtag: net
 feature: conversion

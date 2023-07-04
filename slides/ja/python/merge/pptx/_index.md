@@ -1,6 +1,6 @@
 ---
 title: Python経由で複数のPPTXファイルをマージ
-description: REST API とオープン ソース Python SDK を使用して複数の Slides ファイルをマージする
+description: REST API とオープン ソース Python SDK を使用して複数の Slides PPTX ファイルをマージする
 family: slides
 platformtag: python
 feature: merge

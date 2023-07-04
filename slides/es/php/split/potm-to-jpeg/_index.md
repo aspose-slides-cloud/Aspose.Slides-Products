@@ -1,6 +1,6 @@
 ---
 title: Dividir Slides POTM en múltiples JPEG a través de PHP
-description: Dividir archivos de Slides en diapositivas con REST API y PHP SDK de código abierto
+description: Dividir archivos de Slides POTM en diapositivas JPEG con REST API y PHP SDK de código abierto
 family: slides
 platformtag: php
 feature: split

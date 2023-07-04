@@ -1,6 +1,6 @@
 ---
 title: Diviser Slides ODP en plusieurs PPT via C++
-description: Divisez les fichiers Slides en diapositives avec l'API REST et le SDK Open Source C++
+description: Divisez les fichiers Slides ODP en diapositives PPT avec l'API REST et le SDK Open Source C++
 family: slides
 platformtag: cpp
 feature: split

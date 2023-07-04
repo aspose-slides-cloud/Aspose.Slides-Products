@@ -1,6 +1,6 @@
 ---
 title: 通过 C++ 从 Slides PPT 转换为 HTML
-description: 使用 REST API 和开源 C++ SDK 创建、编辑或转换 Slides 文件
+description: 使用 REST API 和开源 C++ SDK 创建、编辑或转换 Slides PPT 文件或将其转换为 HTML
 family: slides
 platformtag: cpp
 feature: conversion

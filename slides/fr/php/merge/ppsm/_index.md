@@ -1,6 +1,6 @@
 ---
 title: Fusionner plusieurs fichiers PPSM via PHP
-description: Fusionnez plusieurs fichiers Slides avec l'API REST et le SDK Open Source PHP
+description: Fusionnez plusieurs fichiers Slides PPSM avec l'API REST et le SDK Open Source PHP
 family: slides
 platformtag: php
 feature: merge

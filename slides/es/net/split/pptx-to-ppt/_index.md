@@ -1,6 +1,6 @@
 ---
 title: Dividir Slides PPTX en múltiples PPT a través de .NET
-description: Dividir archivos de Slides en diapositivas con REST API y .NET SDK de código abierto
+description: Dividir archivos de Slides PPTX en diapositivas PPT con REST API y .NET SDK de código abierto
 family: slides
 platformtag: net
 feature: split

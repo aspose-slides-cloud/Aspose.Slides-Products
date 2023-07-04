@@ -1,6 +1,6 @@
 ---
 title: Split Slides PPSX into multiple PPT via Perl
-description: Split Slides files into slides with REST API & Open Source Perl SDK
+description: Split Slides PPSX files into PPT slides with REST API & Open Source Perl SDK
 family: slides
 platformtag: perl
 feature: split

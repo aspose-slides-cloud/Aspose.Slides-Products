@@ -1,6 +1,6 @@
 ---
 title: Slides POTX から Swift 経由で XAML に変換
-description: REST API とオープン ソース Swift SDK を使用して Slides ファイルを作成、編集、または変換します
+description: REST API とオープン ソース Swift SDK を使用して Slides POTX ファイルを作成、編集、XAML に変換します
 family: slides
 platformtag: swift
 feature: conversion

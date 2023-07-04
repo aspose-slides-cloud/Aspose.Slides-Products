@@ -1,6 +1,6 @@
 ---
 title: Split Slides ODP into multiple BMP via Ruby
-description: Split Slides files into slides with REST API & Open Source Ruby SDK
+description: Split Slides ODP files into BMP slides with REST API & Open Source Ruby SDK
 family: slides
 platformtag: ruby
 feature: split

@@ -1,6 +1,6 @@
 ---
 title: Dividir Slides PDF en múltiples OTP a través de PHP
-description: Dividir archivos de Slides en diapositivas con REST API y PHP SDK de código abierto
+description: Dividir archivos de Slides PDF en diapositivas OTP con REST API y PHP SDK de código abierto
 family: slides
 platformtag: php
 feature: split

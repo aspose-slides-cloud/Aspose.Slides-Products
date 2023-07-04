@@ -1,6 +1,6 @@
 ---
 title: Combinar múltiples archivos PPSX a través de cURL
-description: Combine varios archivos Slides con REST API y Open Source cURL SDK
+description: Combine varios archivos Slides PPSX con REST API y Open Source cURL SDK
 family: slides
 platformtag: curl
 feature: merge

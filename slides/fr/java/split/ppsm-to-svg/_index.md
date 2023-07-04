@@ -1,6 +1,6 @@
 ---
 title: Diviser Slides PPSM en plusieurs SVG via Java
-description: Divisez les fichiers Slides en diapositives avec l'API REST et le SDK Open Source Java
+description: Divisez les fichiers Slides PPSM en diapositives SVG avec l'API REST et le SDK Open Source Java
 family: slides
 platformtag: java
 feature: split

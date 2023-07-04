@@ -1,6 +1,6 @@
 ---
 title: Merge multiple POTX files via Android
-description: Merge multiple Slides files with REST API & Open Source Android SDK
+description: Merge multiple Slides POTX files with REST API & Open Source Android SDK
 family: slides
 platformtag: android
 feature: merge

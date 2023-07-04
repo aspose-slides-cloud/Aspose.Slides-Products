@@ -1,6 +1,6 @@
 ---
 title: 通过 PHP 合并多个 OTP 文件
-description: 使用 REST API 和开源 PHP SDK 合并多个 Slides 文件
+description: 使用 REST API 和开源 PHP SDK 合并多个 Slides OTP 文件
 family: slides
 platformtag: php
 feature: merge

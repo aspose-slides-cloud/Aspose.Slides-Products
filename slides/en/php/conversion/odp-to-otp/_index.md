@@ -1,6 +1,6 @@
 ---
 title: Convert from Slides ODP to OTP via PHP 
-description: Create, Edit or Convert Slides files with REST API & Open Source PHP SDK
+description: Create, Edit or Convert Slides ODP files to OTP with REST API & Open Source PHP SDK
 family: slides
 platformtag: php
 feature: conversion

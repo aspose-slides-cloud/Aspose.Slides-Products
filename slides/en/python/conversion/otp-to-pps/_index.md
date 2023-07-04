@@ -1,6 +1,6 @@
 ---
 title: Convert from Slides OTP to PPS via Python 
-description: Create, Edit or Convert Slides files with REST API & Open Source Python SDK
+description: Create, Edit or Convert Slides OTP files to PPS with REST API & Open Source Python SDK
 family: slides
 platformtag: python
 feature: conversion

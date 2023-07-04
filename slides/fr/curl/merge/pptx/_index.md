@@ -1,6 +1,6 @@
 ---
 title: Fusionner plusieurs fichiers PPTX via cURL
-description: Fusionnez plusieurs fichiers Slides avec l'API REST et le SDK Open Source cURL
+description: Fusionnez plusieurs fichiers Slides PPTX avec l'API REST et le SDK Open Source cURL
 family: slides
 platformtag: curl
 feature: merge

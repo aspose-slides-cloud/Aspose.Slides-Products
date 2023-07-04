@@ -1,6 +1,6 @@
 ---
 title: Convert from Slides PDF to PPSX via .NET 
-description: Create, Edit or Convert Slides files with REST API & Open Source .NET SDK
+description: Create, Edit or Convert Slides PDF files to PPSX with REST API & Open Source .NET SDK
 family: slides
 platformtag: net
 feature: conversion

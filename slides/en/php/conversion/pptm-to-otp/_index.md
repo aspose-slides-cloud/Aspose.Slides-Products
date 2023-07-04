@@ -1,6 +1,6 @@
 ---
 title: Convert from Slides PPTM to OTP via PHP 
-description: Create, Edit or Convert Slides files with REST API & Open Source PHP SDK
+description: Create, Edit or Convert Slides PPTM files to OTP with REST API & Open Source PHP SDK
 family: slides
 platformtag: php
 feature: conversion

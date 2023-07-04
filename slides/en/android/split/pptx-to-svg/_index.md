@@ -1,6 +1,6 @@
 ---
 title: Split Slides PPTX into multiple SVG via Android
-description: Split Slides files into slides with REST API & Open Source Android SDK
+description: Split Slides PPTX files into SVG slides with REST API & Open Source Android SDK
 family: slides
 platformtag: android
 feature: split

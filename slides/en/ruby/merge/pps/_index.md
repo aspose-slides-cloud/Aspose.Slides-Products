@@ -1,6 +1,6 @@
 ---
 title: Merge multiple PPS files via Ruby
-description: Merge multiple Slides files with REST API & Open Source Ruby SDK
+description: Merge multiple Slides PPS files with REST API & Open Source Ruby SDK
 family: slides
 platformtag: ruby
 feature: merge

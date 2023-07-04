@@ -1,6 +1,6 @@
 ---
 title: Split Slides PDF into multiple HTML5 via Go
-description: Split Slides files into slides with REST API & Open Source Go SDK
+description: Split Slides PDF files into HTML5 slides with REST API & Open Source Go SDK
 family: slides
 platformtag: go
 feature: split

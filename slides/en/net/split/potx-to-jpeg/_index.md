@@ -1,6 +1,6 @@
 ---
 title: Split Slides POTX into multiple JPEG via .NET
-description: Split Slides files into slides with REST API & Open Source .NET SDK
+description: Split Slides POTX files into JPEG slides with REST API & Open Source .NET SDK
 family: slides
 platformtag: net
 feature: split

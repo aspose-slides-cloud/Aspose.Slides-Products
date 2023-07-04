@@ -1,6 +1,6 @@
 ---
 title: Split Slides PDF into multiple JPEG via Android
-description: Split Slides files into slides with REST API & Open Source Android SDK
+description: Split Slides PDF files into JPEG slides with REST API & Open Source Android SDK
 family: slides
 platformtag: android
 feature: split

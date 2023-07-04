@@ -1,6 +1,6 @@
 ---
 title: Diviser Slides POTM en plusieurs JPEG via C++
-description: Divisez les fichiers Slides en diapositives avec l'API REST et le SDK Open Source C++
+description: Divisez les fichiers Slides POTM en diapositives JPEG avec l'API REST et le SDK Open Source C++
 family: slides
 platformtag: cpp
 feature: split

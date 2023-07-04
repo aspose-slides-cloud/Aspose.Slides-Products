@@ -1,6 +1,6 @@
 ---
 title: Convertir de Slides PPT a SWF a través de Android
-description: cree, edite o convierta archivos Slides con REST API y Android SDK de código abierto
+description: cree, edite o convierta archivos Slides PPT a SWF con REST API y Android SDK de código abierto
 family: slides
 platformtag: android
 feature: conversion

@@ -1,6 +1,6 @@
 ---
 title: Diviser Slides PPTM en plusieurs PPSX via Swift
-description: Divisez les fichiers Slides en diapositives avec l'API REST et le SDK Open Source Swift
+description: Divisez les fichiers Slides PPTM en diapositives PPSX avec l'API REST et le SDK Open Source Swift
 family: slides
 platformtag: swift
 feature: split

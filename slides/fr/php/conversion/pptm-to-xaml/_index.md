@@ -1,6 +1,6 @@
 ---
 title: Convertir de Slides PPTM en XAML via PHP
-description: Créez, modifiez ou convertissez des fichiers Slides avec l'API REST et le SDK PHP Open Source
+description: Créez, modifiez ou convertissez des fichiers Slides PPTM en XAML avec l'API REST et le SDK PHP Open Source
 family: slides
 platformtag: php
 feature: conversion

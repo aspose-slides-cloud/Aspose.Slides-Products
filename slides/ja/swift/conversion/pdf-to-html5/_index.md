@@ -1,6 +1,6 @@
 ---
 title: Slides PDF から Swift 経由で HTML5 に変換
-description: REST API とオープン ソース Swift SDK を使用して Slides ファイルを作成、編集、または変換します
+description: REST API とオープン ソース Swift SDK を使用して Slides PDF ファイルを作成、編集、HTML5 に変換します
 family: slides
 platformtag: swift
 feature: conversion

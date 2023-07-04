@@ -1,6 +1,6 @@
 ---
 title: Convertir de Slides PDF a SVG a través de Java
-description: cree, edite o convierta archivos Slides con REST API y Java SDK de código abierto
+description: cree, edite o convierta archivos Slides PDF a SVG con REST API y Java SDK de código abierto
 family: slides
 platformtag: java
 feature: conversion

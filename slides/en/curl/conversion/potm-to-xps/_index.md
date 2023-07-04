@@ -1,6 +1,6 @@
 ---
 title: Convert from Slides POTM to XPS via cURL 
-description: Create, Edit or Convert Slides files with REST API & Open Source cURL SDK
+description: Create, Edit or Convert Slides POTM files to XPS with REST API & Open Source cURL SDK
 family: slides
 platformtag: curl
 feature: conversion

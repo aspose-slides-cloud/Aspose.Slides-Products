@@ -1,6 +1,6 @@
 ---
 title: 通过 Ruby 将 Slides PPT 拆分为多个 ODP
-description: 使用 REST API 和开源 Ruby SDK 将 Slides 文件拆分成幻灯片
+description: 使用 REST API 和开源 Ruby SDK 将 Slides PPT 文件拆分成 ODP 幻灯片
 family: slides
 platformtag: ruby
 feature: split

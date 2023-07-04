@@ -1,6 +1,6 @@
 ---
 title: Fusionner plusieurs fichiers PPTM via C++
-description: Fusionnez plusieurs fichiers Slides avec l'API REST et le SDK Open Source C++
+description: Fusionnez plusieurs fichiers Slides PPTM avec l'API REST et le SDK Open Source C++
 family: slides
 platformtag: cpp
 feature: merge

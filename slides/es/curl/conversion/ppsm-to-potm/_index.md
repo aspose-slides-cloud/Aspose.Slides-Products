@@ -1,6 +1,6 @@
 ---
 title: Convertir de Slides PPSM a POTM a través de cURL
-description: cree, edite o convierta archivos Slides con REST API y cURL SDK de código abierto
+description: cree, edite o convierta archivos Slides PPSM a POTM con REST API y cURL SDK de código abierto
 family: slides
 platformtag: curl
 feature: conversion

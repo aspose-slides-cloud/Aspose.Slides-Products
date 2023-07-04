@@ -1,6 +1,6 @@
 ---
 title: Diviser Slides PPSX en plusieurs PNG via PHP
-description: Divisez les fichiers Slides en diapositives avec l'API REST et le SDK Open Source PHP
+description: Divisez les fichiers Slides PPSX en diapositives PNG avec l'API REST et le SDK Open Source PHP
 family: slides
 platformtag: php
 feature: split

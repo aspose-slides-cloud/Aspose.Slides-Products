@@ -1,6 +1,6 @@
 ---
 title: Slides ODP を Android 経由で複数の POTM に分割する
-description: REST API とオープン ソース Android SDK を使用して Slides ファイルをスライドに分割する
+description: REST API とオープン ソース Android SDK を使用して Slides ODP ファイルを POTM スライドに分割する
 family: slides
 platformtag: android
 feature: split

@@ -1,6 +1,6 @@
 ---
 title: Slides PDF から Java 経由で ODP に変換
-description: REST API とオープン ソース Java SDK を使用して Slides ファイルを作成、編集、または変換します
+description: REST API とオープン ソース Java SDK を使用して Slides PDF ファイルを作成、編集、ODP に変換します
 family: slides
 platformtag: java
 feature: conversion

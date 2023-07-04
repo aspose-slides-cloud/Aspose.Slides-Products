@@ -1,6 +1,6 @@
 ---
 title: Convertir de Slides POTX a PNG a través de .NET
-description: cree, edite o convierta archivos Slides con REST API y .NET SDK de código abierto
+description: cree, edite o convierta archivos Slides POTX a PNG con REST API y .NET SDK de código abierto
 family: slides
 platformtag: net
 feature: conversion

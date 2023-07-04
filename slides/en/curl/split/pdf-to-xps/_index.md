@@ -1,6 +1,6 @@
 ---
 title: Split Slides PDF into multiple XPS via cURL
-description: Split Slides files into slides with REST API & Open Source cURL SDK
+description: Split Slides PDF files into XPS slides with REST API & Open Source cURL SDK
 family: slides
 platformtag: curl
 feature: split

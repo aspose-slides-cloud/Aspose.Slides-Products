@@ -1,6 +1,6 @@
 ---
 title: Combinar múltiples archivos OTP a través de Android
-description: Combine varios archivos Slides con REST API y Open Source Android SDK
+description: Combine varios archivos Slides OTP con REST API y Open Source Android SDK
 family: slides
 platformtag: android
 feature: merge

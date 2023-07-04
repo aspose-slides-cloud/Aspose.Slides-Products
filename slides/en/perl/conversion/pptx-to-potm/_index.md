@@ -1,6 +1,6 @@
 ---
 title: Convert from Slides PPTX to POTM via Perl 
-description: Create, Edit or Convert Slides files with REST API & Open Source Perl SDK
+description: Create, Edit or Convert Slides PPTX files to POTM with REST API & Open Source Perl SDK
 family: slides
 platformtag: perl
 feature: conversion

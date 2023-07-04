@@ -1,6 +1,6 @@
 ---
 title: Convertir de Slides PPSX en ODP via cURL
-description: Créez, modifiez ou convertissez des fichiers Slides avec l'API REST et le SDK cURL Open Source
+description: Créez, modifiez ou convertissez des fichiers Slides PPSX en ODP avec l'API REST et le SDK cURL Open Source
 family: slides
 platformtag: curl
 feature: conversion

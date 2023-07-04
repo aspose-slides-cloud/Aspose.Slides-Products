@@ -1,6 +1,6 @@
 ---
 title: Node.js를 통해 Slides POTX에서 SVG로 변환
-description: REST API 및 오픈 소스 Node.js SDK를 사용하여 Slides 파일 생성, 편집 또는 변환
+description: REST API 및 오픈 소스 Node.js SDK를 사용하여 Slides POTX 파일을 PDF로 생성, 편집 또는 변환
 family: slides
 platformtag: nodejs
 feature: conversion

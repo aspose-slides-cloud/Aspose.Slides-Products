@@ -1,6 +1,6 @@
 ---
 title: Fusionner plusieurs fichiers POTX via Android
-description: Fusionnez plusieurs fichiers Slides avec l'API REST et le SDK Open Source Android
+description: Fusionnez plusieurs fichiers Slides POTX avec l'API REST et le SDK Open Source Android
 family: slides
 platformtag: android
 feature: merge

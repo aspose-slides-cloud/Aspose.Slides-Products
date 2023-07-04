@@ -1,6 +1,6 @@
 ---
 title: Perl経由で複数のPPTXファイルをマージ
-description: REST API とオープン ソース Perl SDK を使用して複数の Slides ファイルをマージする
+description: REST API とオープン ソース Perl SDK を使用して複数の Slides PPTX ファイルをマージする
 family: slides
 platformtag: perl
 feature: merge

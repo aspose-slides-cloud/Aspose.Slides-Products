@@ -1,6 +1,6 @@
 ---
 title: Combinar múltiples archivos PPT a través de Ruby
-description: Combine varios archivos Slides con REST API y Open Source Ruby SDK
+description: Combine varios archivos Slides PPT con REST API y Open Source Ruby SDK
 family: slides
 platformtag: ruby
 feature: merge

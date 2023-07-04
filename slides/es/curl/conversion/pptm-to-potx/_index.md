@@ -1,6 +1,6 @@
 ---
 title: Convertir de Slides PPTM a POTX a través de cURL
-description: cree, edite o convierta archivos Slides con REST API y cURL SDK de código abierto
+description: cree, edite o convierta archivos Slides PPTM a POTX con REST API y cURL SDK de código abierto
 family: slides
 platformtag: curl
 feature: conversion

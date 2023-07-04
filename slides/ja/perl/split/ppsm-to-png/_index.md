@@ -1,6 +1,6 @@
 ---
 title: Slides PPSM を Perl 経由で複数の PNG に分割する
-description: REST API とオープン ソース Perl SDK を使用して Slides ファイルをスライドに分割する
+description: REST API とオープン ソース Perl SDK を使用して Slides PPSM ファイルを PNG スライドに分割する
 family: slides
 platformtag: perl
 feature: split

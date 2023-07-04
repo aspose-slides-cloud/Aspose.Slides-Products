@@ -1,6 +1,6 @@
 ---
 title: Convertir de Slides POTX en TIFF via Java
-description: Créez, modifiez ou convertissez des fichiers Slides avec l'API REST et le SDK Java Open Source
+description: Créez, modifiez ou convertissez des fichiers Slides POTX en TIFF avec l'API REST et le SDK Java Open Source
 family: slides
 platformtag: java
 feature: conversion

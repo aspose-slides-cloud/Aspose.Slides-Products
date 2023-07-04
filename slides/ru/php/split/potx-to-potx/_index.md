@@ -1,6 +1,6 @@
 ---
 title: Разделение Slides POTX на несколько POTX с помощью PHP
-description: Разделите файлы Slides на слайды с помощью REST API и PHP SDK с открытым исходным кодом
+description: Разделите файлы Slides POTX на слайды POTX с помощью REST API и PHP SDK с открытым исходным кодом
 family: slides
 platformtag: php
 feature: split

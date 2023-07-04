@@ -1,6 +1,6 @@
 ---
 title: Split Slides PPSX into multiple PPTM via Ruby
-description: Split Slides files into slides with REST API & Open Source Ruby SDK
+description: Split Slides PPSX files into PPTM slides with REST API & Open Source Ruby SDK
 family: slides
 platformtag: ruby
 feature: split

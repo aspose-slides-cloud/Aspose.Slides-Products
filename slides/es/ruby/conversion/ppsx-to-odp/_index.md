@@ -1,6 +1,6 @@
 ---
 title: Convertir de Slides PPSX a ODP a través de Ruby
-description: cree, edite o convierta archivos Slides con REST API y Ruby SDK de código abierto
+description: cree, edite o convierta archivos Slides PPSX a ODP con REST API y Ruby SDK de código abierto
 family: slides
 platformtag: ruby
 feature: conversion

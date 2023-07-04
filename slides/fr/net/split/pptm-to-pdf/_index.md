@@ -1,6 +1,6 @@
 ---
 title: Diviser Slides PPTM en plusieurs PDF via .NET
-description: Divisez les fichiers Slides en diapositives avec l'API REST et le SDK Open Source .NET
+description: Divisez les fichiers Slides PPTM en diapositives PDF avec l'API REST et le SDK Open Source .NET
 family: slides
 platformtag: net
 feature: split

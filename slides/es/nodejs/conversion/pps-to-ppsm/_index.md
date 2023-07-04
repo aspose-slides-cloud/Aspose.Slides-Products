@@ -1,6 +1,6 @@
 ---
 title: Convertir de Slides PPS a PPSM a través de Node.js
-description: cree, edite o convierta archivos Slides con REST API y Node.js SDK de código abierto
+description: cree, edite o convierta archivos Slides PPS a PPSM con REST API y Node.js SDK de código abierto
 family: slides
 platformtag: nodejs
 feature: conversion

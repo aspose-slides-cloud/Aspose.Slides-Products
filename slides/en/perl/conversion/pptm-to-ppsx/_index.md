@@ -1,6 +1,6 @@
 ---
 title: Convert from Slides PPTM to PPSX via Perl 
-description: Create, Edit or Convert Slides files with REST API & Open Source Perl SDK
+description: Create, Edit or Convert Slides PPTM files to PPSX with REST API & Open Source Perl SDK
 family: slides
 platformtag: perl
 feature: conversion

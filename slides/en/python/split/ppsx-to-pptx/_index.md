@@ -1,6 +1,6 @@
 ---
 title: Split Slides PPSX into multiple PPTX via Python
-description: Split Slides files into slides with REST API & Open Source Python SDK
+description: Split Slides PPSX files into PPTX slides with REST API & Open Source Python SDK
 family: slides
 platformtag: python
 feature: split

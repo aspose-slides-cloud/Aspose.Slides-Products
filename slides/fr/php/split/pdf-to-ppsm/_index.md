@@ -1,6 +1,6 @@
 ---
 title: Diviser Slides PDF en plusieurs PPSM via PHP
-description: Divisez les fichiers Slides en diapositives avec l'API REST et le SDK Open Source PHP
+description: Divisez les fichiers Slides PDF en diapositives PPSM avec l'API REST et le SDK Open Source PHP
 family: slides
 platformtag: php
 feature: split

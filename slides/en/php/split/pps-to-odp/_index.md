@@ -1,6 +1,6 @@
 ---
 title: Split Slides PPS into multiple ODP via PHP
-description: Split Slides files into slides with REST API & Open Source PHP SDK
+description: Split Slides PPS files into ODP slides with REST API & Open Source PHP SDK
 family: slides
 platformtag: php
 feature: split

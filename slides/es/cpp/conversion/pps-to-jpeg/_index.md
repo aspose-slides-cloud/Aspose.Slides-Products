@@ -1,6 +1,6 @@
 ---
 title: Convertir de Slides PPS a JPEG a través de C++
-description: cree, edite o convierta archivos Slides con REST API y C++ SDK de código abierto
+description: cree, edite o convierta archivos Slides PPS a JPEG con REST API y C++ SDK de código abierto
 family: slides
 platformtag: cpp
 feature: conversion

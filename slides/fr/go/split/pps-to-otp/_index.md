@@ -1,6 +1,6 @@
 ---
 title: Diviser Slides PPS en plusieurs OTP via Go
-description: Divisez les fichiers Slides en diapositives avec l'API REST et le SDK Open Source Go
+description: Divisez les fichiers Slides PPS en diapositives OTP avec l'API REST et le SDK Open Source Go
 family: slides
 platformtag: go
 feature: split

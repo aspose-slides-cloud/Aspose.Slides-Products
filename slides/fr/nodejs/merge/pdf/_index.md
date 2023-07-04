@@ -1,6 +1,6 @@
 ---
 title: Fusionner plusieurs fichiers PDF via Node.js
-description: Fusionnez plusieurs fichiers Slides avec l'API REST et le SDK Open Source Node.js
+description: Fusionnez plusieurs fichiers Slides PDF avec l'API REST et le SDK Open Source Node.js
 family: slides
 platformtag: nodejs
 feature: merge

@@ -1,6 +1,6 @@
 ---
 title: Преобразование Slides PPTM в PDF с помощью cURL
-description: Создавайте, редактируйте или конвертируйте файлы Slides с помощью REST API и cURL SDK с открытым исходным кодом
+description: Создавайте, редактируйте или конвертируйте файлы Slides PPTM в PDF с помощью REST API и cURL SDK с открытым исходным кодом
 family: slides
 platformtag: curl
 feature: conversion

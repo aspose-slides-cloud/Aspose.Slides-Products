@@ -1,6 +1,6 @@
 ---
 title: Convertir de Slides ODP en MPEG4 via Perl
-description: Créez, modifiez ou convertissez des fichiers Slides avec l'API REST et le SDK Perl Open Source
+description: Créez, modifiez ou convertissez des fichiers Slides ODP en MPEG4 avec l'API REST et le SDK Perl Open Source
 family: slides
 platformtag: perl
 feature: conversion

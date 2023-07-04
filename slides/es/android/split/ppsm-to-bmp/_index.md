@@ -1,6 +1,6 @@
 ---
 title: Dividir Slides PPSM en múltiples BMP a través de Android
-description: Dividir archivos de Slides en diapositivas con REST API y Android SDK de código abierto
+description: Dividir archivos de Slides PPSM en diapositivas BMP con REST API y Android SDK de código abierto
 family: slides
 platformtag: android
 feature: split

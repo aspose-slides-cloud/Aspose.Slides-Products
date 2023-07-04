@@ -1,6 +1,6 @@
 ---
 title: Diviser Slides PPS en plusieurs POTM via C++
-description: Divisez les fichiers Slides en diapositives avec l'API REST et le SDK Open Source C++
+description: Divisez les fichiers Slides PPS en diapositives POTM avec l'API REST et le SDK Open Source C++
 family: slides
 platformtag: cpp
 feature: split

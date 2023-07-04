@@ -1,6 +1,6 @@
 ---
 title: Combinar múltiples archivos PPSX a través de Ruby
-description: Combine varios archivos Slides con REST API y Open Source Ruby SDK
+description: Combine varios archivos Slides PPSX con REST API y Open Source Ruby SDK
 family: slides
 platformtag: ruby
 feature: merge

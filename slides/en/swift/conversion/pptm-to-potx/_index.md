@@ -1,6 +1,6 @@
 ---
 title: Convert from Slides PPTM to POTX via Swift 
-description: Create, Edit or Convert Slides files with REST API & Open Source Swift SDK
+description: Create, Edit or Convert Slides PPTM files to POTX with REST API & Open Source Swift SDK
 family: slides
 platformtag: swift
 feature: conversion

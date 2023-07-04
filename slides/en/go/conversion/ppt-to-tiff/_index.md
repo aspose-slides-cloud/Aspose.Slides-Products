@@ -1,6 +1,6 @@
 ---
 title: Convert from Slides PPT to TIFF via Go 
-description: Create, Edit or Convert Slides files with REST API & Open Source Go SDK
+description: Create, Edit or Convert Slides PPT files to TIFF with REST API & Open Source Go SDK
 family: slides
 platformtag: go
 feature: conversion

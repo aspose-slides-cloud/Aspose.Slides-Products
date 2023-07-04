@@ -1,6 +1,6 @@
 ---
 title: Diviser Slides PPSM en plusieurs XPS via Android
-description: Divisez les fichiers Slides en diapositives avec l'API REST et le SDK Open Source Android
+description: Divisez les fichiers Slides PPSM en diapositives XPS avec l'API REST et le SDK Open Source Android
 family: slides
 platformtag: android
 feature: split

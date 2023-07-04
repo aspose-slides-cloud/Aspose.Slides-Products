@@ -1,6 +1,6 @@
 ---
 title: Split Slides PPT into multiple HTML5 via Go
-description: Split Slides files into slides with REST API & Open Source Go SDK
+description: Split Slides PPT files into HTML5 slides with REST API & Open Source Go SDK
 family: slides
 platformtag: go
 feature: split

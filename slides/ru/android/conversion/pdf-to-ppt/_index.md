@@ -1,6 +1,6 @@
 ---
 title: Преобразование Slides PDF в PPT с помощью Android
-description: Создавайте, редактируйте или конвертируйте файлы Slides с помощью REST API и Android SDK с открытым исходным кодом
+description: Создавайте, редактируйте или конвертируйте файлы Slides PDF в PPT с помощью REST API и Android SDK с открытым исходным кодом
 family: slides
 platformtag: android
 feature: conversion

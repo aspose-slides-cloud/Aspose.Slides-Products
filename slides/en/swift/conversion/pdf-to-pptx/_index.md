@@ -1,6 +1,6 @@
 ---
 title: Convert from Slides PDF to PPTX via Swift 
-description: Create, Edit or Convert Slides files with REST API & Open Source Swift SDK
+description: Create, Edit or Convert Slides PDF files to PPTX with REST API & Open Source Swift SDK
 family: slides
 platformtag: swift
 feature: conversion

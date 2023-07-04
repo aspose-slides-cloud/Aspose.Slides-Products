@@ -1,6 +1,6 @@
 ---
 title: Convert from Slides OTP to PPSX via cURL 
-description: Create, Edit or Convert Slides files with REST API & Open Source cURL SDK
+description: Create, Edit or Convert Slides OTP files to PPSX with REST API & Open Source cURL SDK
 family: slides
 platformtag: curl
 feature: conversion

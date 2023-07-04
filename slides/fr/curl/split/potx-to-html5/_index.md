@@ -1,6 +1,6 @@
 ---
 title: Diviser Slides POTX en plusieurs HTML5 via cURL
-description: Divisez les fichiers Slides en diapositives avec l'API REST et le SDK Open Source cURL
+description: Divisez les fichiers Slides POTX en diapositives HTML5 avec l'API REST et le SDK Open Source cURL
 family: slides
 platformtag: curl
 feature: split

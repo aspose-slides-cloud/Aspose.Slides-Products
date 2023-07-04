@@ -1,6 +1,6 @@
 ---
 title: Convert from Slides OTP to PPSM via Android 
-description: Create, Edit or Convert Slides files with REST API & Open Source Android SDK
+description: Create, Edit or Convert Slides OTP files to PPSM with REST API & Open Source Android SDK
 family: slides
 platformtag: android
 feature: conversion

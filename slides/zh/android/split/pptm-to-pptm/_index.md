@@ -1,6 +1,6 @@
 ---
 title: 通过 Android 将 Slides PPTM 拆分为多个 PPTM
-description: 使用 REST API 和开源 Android SDK 将 Slides 文件拆分成幻灯片
+description: 使用 REST API 和开源 Android SDK 将 Slides PPTM 文件拆分成 PPTM 幻灯片
 family: slides
 platformtag: android
 feature: split

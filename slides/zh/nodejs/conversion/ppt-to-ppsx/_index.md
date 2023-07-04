@@ -1,6 +1,6 @@
 ---
 title: 通过 Node.js 从 Slides PPT 转换为 PPSX
-description: 使用 REST API 和开源 Node.js SDK 创建、编辑或转换 Slides 文件
+description: 使用 REST API 和开源 Node.js SDK 创建、编辑或转换 Slides PPT 文件或将其转换为 PPSX
 family: slides
 platformtag: nodejs
 feature: conversion

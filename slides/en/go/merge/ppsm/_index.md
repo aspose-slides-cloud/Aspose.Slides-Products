@@ -1,6 +1,6 @@
 ---
 title: Merge multiple PPSM files via Go
-description: Merge multiple Slides files with REST API & Open Source Go SDK
+description: Merge multiple Slides PPSM files with REST API & Open Source Go SDK
 family: slides
 platformtag: go
 feature: merge

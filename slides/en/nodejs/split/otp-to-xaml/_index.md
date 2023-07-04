@@ -1,6 +1,6 @@
 ---
 title: Split Slides OTP into multiple XAML via Node.js
-description: Split Slides files into slides with REST API & Open Source Node.js SDK
+description: Split Slides OTP files into XAML slides with REST API & Open Source Node.js SDK
 family: slides
 platformtag: nodejs
 feature: split

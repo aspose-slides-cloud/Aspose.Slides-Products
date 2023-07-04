@@ -1,6 +1,6 @@
 ---
 title: Convertir de Slides PPSM a SWF a través de Python
-description: cree, edite o convierta archivos Slides con REST API y Python SDK de código abierto
+description: cree, edite o convierta archivos Slides PPSM a SWF con REST API y Python SDK de código abierto
 family: slides
 platformtag: python
 feature: conversion

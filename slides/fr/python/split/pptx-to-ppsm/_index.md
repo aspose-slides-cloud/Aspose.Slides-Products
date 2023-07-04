@@ -1,6 +1,6 @@
 ---
 title: Diviser Slides PPTX en plusieurs PPSM via Python
-description: Divisez les fichiers Slides en diapositives avec l'API REST et le SDK Open Source Python
+description: Divisez les fichiers Slides PPTX en diapositives PPSM avec l'API REST et le SDK Open Source Python
 family: slides
 platformtag: python
 feature: split

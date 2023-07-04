@@ -1,6 +1,6 @@
 ---
 title: Split Slides POTX into multiple GIF via C++
-description: Split Slides files into slides with REST API & Open Source C++ SDK
+description: Split Slides POTX files into GIF slides with REST API & Open Source C++ SDK
 family: slides
 platformtag: cpp
 feature: split

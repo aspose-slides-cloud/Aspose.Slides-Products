@@ -1,6 +1,6 @@
 ---
 title: Perl経由で複数のPOTXファイルをマージ
-description: REST API とオープン ソース Perl SDK を使用して複数の Slides ファイルをマージする
+description: REST API とオープン ソース Perl SDK を使用して複数の Slides POTX ファイルをマージする
 family: slides
 platformtag: perl
 feature: merge

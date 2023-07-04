@@ -1,6 +1,6 @@
 ---
 title: 通过 C++ 合并多个 ODP 文件
-description: 使用 REST API 和开源 C++ SDK 合并多个 Slides 文件
+description: 使用 REST API 和开源 C++ SDK 合并多个 Slides ODP 文件
 family: slides
 platformtag: cpp
 feature: merge

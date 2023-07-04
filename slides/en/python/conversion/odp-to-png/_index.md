@@ -1,6 +1,6 @@
 ---
 title: Convert from Slides ODP to PNG via Python 
-description: Create, Edit or Convert Slides files with REST API & Open Source Python SDK
+description: Create, Edit or Convert Slides ODP files to PNG with REST API & Open Source Python SDK
 family: slides
 platformtag: python
 feature: conversion

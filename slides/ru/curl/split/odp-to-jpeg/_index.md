@@ -1,6 +1,6 @@
 ---
 title: Разделение Slides ODP на несколько JPEG с помощью cURL
-description: Разделите файлы Slides на слайды с помощью REST API и cURL SDK с открытым исходным кодом
+description: Разделите файлы Slides ODP на слайды JPEG с помощью REST API и cURL SDK с открытым исходным кодом
 family: slides
 platformtag: curl
 feature: split

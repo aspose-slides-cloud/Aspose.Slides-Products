@@ -1,6 +1,6 @@
 ---
 title: Convertir de Slides PPTX en SWF via Android
-description: Créez, modifiez ou convertissez des fichiers Slides avec l'API REST et le SDK Android Open Source
+description: Créez, modifiez ou convertissez des fichiers Slides PPTX en SWF avec l'API REST et le SDK Android Open Source
 family: slides
 platformtag: android
 feature: conversion

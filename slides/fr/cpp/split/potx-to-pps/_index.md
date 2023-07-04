@@ -1,6 +1,6 @@
 ---
 title: Diviser Slides POTX en plusieurs PPS via C++
-description: Divisez les fichiers Slides en diapositives avec l'API REST et le SDK Open Source C++
+description: Divisez les fichiers Slides POTX en diapositives PPS avec l'API REST et le SDK Open Source C++
 family: slides
 platformtag: cpp
 feature: split

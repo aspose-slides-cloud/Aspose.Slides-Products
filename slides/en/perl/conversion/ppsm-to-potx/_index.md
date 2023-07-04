@@ -1,6 +1,6 @@
 ---
 title: Convert from Slides PPSM to POTX via Perl 
-description: Create, Edit or Convert Slides files with REST API & Open Source Perl SDK
+description: Create, Edit or Convert Slides PPSM files to POTX with REST API & Open Source Perl SDK
 family: slides
 platformtag: perl
 feature: conversion

@@ -1,6 +1,6 @@
 ---
 title: Combinar múltiples archivos PPT a través de C++
-description: Combine varios archivos Slides con REST API y Open Source C++ SDK
+description: Combine varios archivos Slides PPT con REST API y Open Source C++ SDK
 family: slides
 platformtag: cpp
 feature: merge

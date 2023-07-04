@@ -1,6 +1,6 @@
 ---
 title: Convert from Slides PPS to SWF via Python 
-description: Create, Edit or Convert Slides files with REST API & Open Source Python SDK
+description: Create, Edit or Convert Slides PPS files to SWF with REST API & Open Source Python SDK
 family: slides
 platformtag: python
 feature: conversion

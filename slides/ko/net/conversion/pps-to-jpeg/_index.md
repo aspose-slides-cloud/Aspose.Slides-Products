@@ -1,6 +1,6 @@
 ---
 title: .NET를 통해 Slides PPS에서 JPEG로 변환
-description: REST API 및 오픈 소스 .NET SDK를 사용하여 Slides 파일 생성, 편집 또는 변환
+description: REST API 및 오픈 소스 .NET SDK를 사용하여 Slides PPS 파일을 PDF로 생성, 편집 또는 변환
 family: slides
 platformtag: net
 feature: conversion

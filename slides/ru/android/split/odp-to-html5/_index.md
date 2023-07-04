@@ -1,6 +1,6 @@
 ---
 title: Разделение Slides ODP на несколько HTML5 с помощью Android
-description: Разделите файлы Slides на слайды с помощью REST API и Android SDK с открытым исходным кодом
+description: Разделите файлы Slides ODP на слайды HTML5 с помощью REST API и Android SDK с открытым исходным кодом
 family: slides
 platformtag: android
 feature: split

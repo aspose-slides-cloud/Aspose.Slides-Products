@@ -1,6 +1,6 @@
 ---
 title: Merge multiple POTM files via Java
-description: Merge multiple Slides files with REST API & Open Source Java SDK
+description: Merge multiple Slides POTM files with REST API & Open Source Java SDK
 family: slides
 platformtag: java
 feature: merge

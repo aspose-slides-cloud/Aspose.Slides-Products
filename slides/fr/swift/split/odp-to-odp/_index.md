@@ -1,6 +1,6 @@
 ---
 title: Diviser Slides ODP en plusieurs ODP via Swift
-description: Divisez les fichiers Slides en diapositives avec l'API REST et le SDK Open Source Swift
+description: Divisez les fichiers Slides ODP en diapositives ODP avec l'API REST et le SDK Open Source Swift
 family: slides
 platformtag: swift
 feature: split

@@ -1,6 +1,6 @@
 ---
 title: Convert from Slides PDF to SWF via Perl 
-description: Create, Edit or Convert Slides files with REST API & Open Source Perl SDK
+description: Create, Edit or Convert Slides PDF files to SWF with REST API & Open Source Perl SDK
 family: slides
 platformtag: perl
 feature: conversion

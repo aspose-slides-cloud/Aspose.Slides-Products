@@ -1,6 +1,6 @@
 ---
 title: 通过 Java 从 Slides ODP 转换为 PNG
-description: 使用 REST API 和开源 Java SDK 创建、编辑或转换 Slides 文件
+description: 使用 REST API 和开源 Java SDK 创建、编辑或转换 Slides ODP 文件或将其转换为 PNG
 family: slides
 platformtag: java
 feature: conversion

@@ -1,6 +1,6 @@
 ---
 title: Dividir Slides PPS en múltiples ODP a través de Python
-description: Dividir archivos de Slides en diapositivas con REST API y Python SDK de código abierto
+description: Dividir archivos de Slides PPS en diapositivas ODP con REST API y Python SDK de código abierto
 family: slides
 platformtag: python
 feature: split

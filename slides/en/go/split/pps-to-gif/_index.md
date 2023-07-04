@@ -1,6 +1,6 @@
 ---
 title: Split Slides PPS into multiple GIF via Go
-description: Split Slides files into slides with REST API & Open Source Go SDK
+description: Split Slides PPS files into GIF slides with REST API & Open Source Go SDK
 family: slides
 platformtag: go
 feature: split

@@ -1,6 +1,6 @@
 ---
 title: Преобразование Slides PPSX в MPEG4 с помощью Swift
-description: Создавайте, редактируйте или конвертируйте файлы Slides с помощью REST API и Swift SDK с открытым исходным кодом
+description: Создавайте, редактируйте или конвертируйте файлы Slides PPSX в MPEG4 с помощью REST API и Swift SDK с открытым исходным кодом
 family: slides
 platformtag: swift
 feature: conversion

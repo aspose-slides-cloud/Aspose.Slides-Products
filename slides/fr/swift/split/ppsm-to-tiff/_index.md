@@ -1,6 +1,6 @@
 ---
 title: Diviser Slides PPSM en plusieurs TIFF via Swift
-description: Divisez les fichiers Slides en diapositives avec l'API REST et le SDK Open Source Swift
+description: Divisez les fichiers Slides PPSM en diapositives TIFF avec l'API REST et le SDK Open Source Swift
 family: slides
 platformtag: swift
 feature: split

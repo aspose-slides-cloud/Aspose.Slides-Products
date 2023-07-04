@@ -1,6 +1,6 @@
 ---
 title: Разделение Slides POTX на несколько ODP с помощью Go
-description: Разделите файлы Slides на слайды с помощью REST API и Go SDK с открытым исходным кодом
+description: Разделите файлы Slides POTX на слайды ODP с помощью REST API и Go SDK с открытым исходным кодом
 family: slides
 platformtag: go
 feature: split

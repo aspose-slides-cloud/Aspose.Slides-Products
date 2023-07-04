@@ -1,6 +1,6 @@
 ---
 title: Convert from Slides POTX to TIFF via C++ 
-description: Create, Edit or Convert Slides files with REST API & Open Source C++ SDK
+description: Create, Edit or Convert Slides POTX files to TIFF with REST API & Open Source C++ SDK
 family: slides
 platformtag: cpp
 feature: conversion

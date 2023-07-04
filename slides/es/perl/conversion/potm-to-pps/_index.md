@@ -1,6 +1,6 @@
 ---
 title: Convertir de Slides POTM a PPS a través de Perl
-description: cree, edite o convierta archivos Slides con REST API y Perl SDK de código abierto
+description: cree, edite o convierta archivos Slides POTM a PPS con REST API y Perl SDK de código abierto
 family: slides
 platformtag: perl
 feature: conversion

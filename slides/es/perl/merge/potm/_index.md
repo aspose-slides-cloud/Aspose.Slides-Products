@@ -1,6 +1,6 @@
 ---
 title: Combinar múltiples archivos POTM a través de Perl
-description: Combine varios archivos Slides con REST API y Open Source Perl SDK
+description: Combine varios archivos Slides POTM con REST API y Open Source Perl SDK
 family: slides
 platformtag: perl
 feature: merge

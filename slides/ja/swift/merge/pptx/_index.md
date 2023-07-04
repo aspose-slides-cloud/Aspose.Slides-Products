@@ -1,6 +1,6 @@
 ---
 title: Swift経由で複数のPPTXファイルをマージ
-description: REST API とオープン ソース Swift SDK を使用して複数の Slides ファイルをマージする
+description: REST API とオープン ソース Swift SDK を使用して複数の Slides PPTX ファイルをマージする
 family: slides
 platformtag: swift
 feature: merge

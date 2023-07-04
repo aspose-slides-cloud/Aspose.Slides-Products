@@ -1,6 +1,6 @@
 ---
 title: Node.js経由で複数のPOTMファイルをマージ
-description: REST API とオープン ソース Node.js SDK を使用して複数の Slides ファイルをマージする
+description: REST API とオープン ソース Node.js SDK を使用して複数の Slides POTM ファイルをマージする
 family: slides
 platformtag: nodejs
 feature: merge

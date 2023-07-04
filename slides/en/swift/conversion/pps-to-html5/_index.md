@@ -1,6 +1,6 @@
 ---
 title: Convert from Slides PPS to HTML5 via Swift 
-description: Create, Edit or Convert Slides files with REST API & Open Source Swift SDK
+description: Create, Edit or Convert Slides PPS files to HTML5 with REST API & Open Source Swift SDK
 family: slides
 platformtag: swift
 feature: conversion

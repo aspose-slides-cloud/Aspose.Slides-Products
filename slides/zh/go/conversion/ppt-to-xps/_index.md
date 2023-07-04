@@ -1,6 +1,6 @@
 ---
 title: 通过 Go 从 Slides PPT 转换为 XPS
-description: 使用 REST API 和开源 Go SDK 创建、编辑或转换 Slides 文件
+description: 使用 REST API 和开源 Go SDK 创建、编辑或转换 Slides PPT 文件或将其转换为 XPS
 family: slides
 platformtag: go
 feature: conversion

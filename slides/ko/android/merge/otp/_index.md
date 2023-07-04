@@ -1,6 +1,6 @@
 ---
 title: Android를 통해 여러 OTP 파일 병합
-description: REST API 및 오픈 소스 Android SDK를 사용하여 여러 Slides 파일 병합
+description: REST API 및 오픈 소스 Android SDK를 사용하여 여러 Slides OTP 파일 병합
 family: slides
 platformtag: android
 feature: merge

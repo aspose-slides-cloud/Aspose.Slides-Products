@@ -1,6 +1,6 @@
 ---
 title: Разделение Slides PPTM на несколько PNG с помощью Ruby
-description: Разделите файлы Slides на слайды с помощью REST API и Ruby SDK с открытым исходным кодом
+description: Разделите файлы Slides PPTM на слайды PNG с помощью REST API и Ruby SDK с открытым исходным кодом
 family: slides
 platformtag: ruby
 feature: split

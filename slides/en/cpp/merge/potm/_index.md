@@ -1,6 +1,6 @@
 ---
 title: Merge multiple POTM files via C++
-description: Merge multiple Slides files with REST API & Open Source C++ SDK
+description: Merge multiple Slides POTM files with REST API & Open Source C++ SDK
 family: slides
 platformtag: cpp
 feature: merge

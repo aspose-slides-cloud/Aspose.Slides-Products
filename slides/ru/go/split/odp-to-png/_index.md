@@ -1,6 +1,6 @@
 ---
 title: Разделение Slides ODP на несколько PNG с помощью Go
-description: Разделите файлы Slides на слайды с помощью REST API и Go SDK с открытым исходным кодом
+description: Разделите файлы Slides ODP на слайды PNG с помощью REST API и Go SDK с открытым исходным кодом
 family: slides
 platformtag: go
 feature: split

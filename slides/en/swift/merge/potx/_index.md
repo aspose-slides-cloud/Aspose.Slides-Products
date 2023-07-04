@@ -1,6 +1,6 @@
 ---
 title: Merge multiple POTX files via Swift
-description: Merge multiple Slides files with REST API & Open Source Swift SDK
+description: Merge multiple Slides POTX files with REST API & Open Source Swift SDK
 family: slides
 platformtag: swift
 feature: merge

@@ -1,6 +1,6 @@
 ---
 title: Diviser Slides PDF en plusieurs GIF via Java
-description: Divisez les fichiers Slides en diapositives avec l'API REST et le SDK Open Source Java
+description: Divisez les fichiers Slides PDF en diapositives GIF avec l'API REST et le SDK Open Source Java
 family: slides
 platformtag: java
 feature: split

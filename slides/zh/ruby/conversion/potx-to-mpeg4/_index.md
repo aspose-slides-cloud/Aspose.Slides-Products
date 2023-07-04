@@ -1,6 +1,6 @@
 ---
 title: 通过 Ruby 从 Slides POTX 转换为 MPEG4
-description: 使用 REST API 和开源 Ruby SDK 创建、编辑或转换 Slides 文件
+description: 使用 REST API 和开源 Ruby SDK 创建、编辑或转换 Slides POTX 文件或将其转换为 MPEG4
 family: slides
 platformtag: ruby
 feature: conversion

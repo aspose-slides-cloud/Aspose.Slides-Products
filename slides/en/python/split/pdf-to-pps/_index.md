@@ -1,6 +1,6 @@
 ---
 title: Split Slides PDF into multiple PPS via Python
-description: Split Slides files into slides with REST API & Open Source Python SDK
+description: Split Slides PDF files into PPS slides with REST API & Open Source Python SDK
 family: slides
 platformtag: python
 feature: split

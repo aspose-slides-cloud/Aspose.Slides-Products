@@ -1,6 +1,6 @@
 ---
 title: Slides POTX を Perl 経由で複数の GIF に分割する
-description: REST API とオープン ソース Perl SDK を使用して Slides ファイルをスライドに分割する
+description: REST API とオープン ソース Perl SDK を使用して Slides POTX ファイルを GIF スライドに分割する
 family: slides
 platformtag: perl
 feature: split

@@ -1,6 +1,6 @@
 ---
 title: Преобразование Slides PPS в POTX с помощью Go
-description: Создавайте, редактируйте или конвертируйте файлы Slides с помощью REST API и Go SDK с открытым исходным кодом
+description: Создавайте, редактируйте или конвертируйте файлы Slides PPS в POTX с помощью REST API и Go SDK с открытым исходным кодом
 family: slides
 platformtag: go
 feature: conversion

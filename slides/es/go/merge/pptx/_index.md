@@ -1,6 +1,6 @@
 ---
 title: Combinar múltiples archivos PPTX a través de Go
-description: Combine varios archivos Slides con REST API y Open Source Go SDK
+description: Combine varios archivos Slides PPTX con REST API y Open Source Go SDK
 family: slides
 platformtag: go
 feature: merge

@@ -1,6 +1,6 @@
 ---
 title: Convert from Slides OTP to SVG via Swift 
-description: Create, Edit or Convert Slides files with REST API & Open Source Swift SDK
+description: Create, Edit or Convert Slides OTP files to SVG with REST API & Open Source Swift SDK
 family: slides
 platformtag: swift
 feature: conversion

@@ -1,6 +1,6 @@
 ---
 title: Преобразование Slides PPTX в XPS с помощью Go
-description: Создавайте, редактируйте или конвертируйте файлы Slides с помощью REST API и Go SDK с открытым исходным кодом
+description: Создавайте, редактируйте или конвертируйте файлы Slides PPTX в XPS с помощью REST API и Go SDK с открытым исходным кодом
 family: slides
 platformtag: go
 feature: conversion

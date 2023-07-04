@@ -1,6 +1,6 @@
 ---
 title: Split Slides PDF into multiple GIF via Python
-description: Split Slides files into slides with REST API & Open Source Python SDK
+description: Split Slides PDF files into GIF slides with REST API & Open Source Python SDK
 family: slides
 platformtag: python
 feature: split

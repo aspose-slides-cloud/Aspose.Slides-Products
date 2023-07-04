@@ -1,6 +1,6 @@
 ---
 title: Python를 통해 Slides PPT를 여러 PPTM로 분할
-description: REST API 및 오픈 소스 Python SDK를 사용하여 Slides 파일을 슬라이드로 분할
+description: REST API 및 오픈 소스 Python SDK를 사용하여 Slides PPT 파일을 PPTM 슬라이드로 분할
 family: slides
 platformtag: python
 feature: split

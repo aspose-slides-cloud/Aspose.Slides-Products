@@ -1,6 +1,6 @@
 ---
 title: Преобразование Slides PDF в PPT с помощью Perl
-description: Создавайте, редактируйте или конвертируйте файлы Slides с помощью REST API и Perl SDK с открытым исходным кодом
+description: Создавайте, редактируйте или конвертируйте файлы Slides PDF в PPT с помощью REST API и Perl SDK с открытым исходным кодом
 family: slides
 platformtag: perl
 feature: conversion

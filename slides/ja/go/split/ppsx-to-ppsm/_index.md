@@ -1,6 +1,6 @@
 ---
 title: Slides PPSX を Go 経由で複数の PPSM に分割する
-description: REST API とオープン ソース Go SDK を使用して Slides ファイルをスライドに分割する
+description: REST API とオープン ソース Go SDK を使用して Slides PPSX ファイルを PPSM スライドに分割する
 family: slides
 platformtag: go
 feature: split

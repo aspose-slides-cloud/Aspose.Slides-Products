@@ -1,6 +1,6 @@
 ---
 title: Dividir Slides POTM en múltiples PPTX a través de Go
-description: Dividir archivos de Slides en diapositivas con REST API y Go SDK de código abierto
+description: Dividir archivos de Slides POTM en diapositivas PPTX con REST API y Go SDK de código abierto
 family: slides
 platformtag: go
 feature: split

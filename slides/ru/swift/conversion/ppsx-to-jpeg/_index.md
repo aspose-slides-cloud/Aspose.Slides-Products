@@ -1,6 +1,6 @@
 ---
 title: Преобразование Slides PPSX в JPEG с помощью Swift
-description: Создавайте, редактируйте или конвертируйте файлы Slides с помощью REST API и Swift SDK с открытым исходным кодом
+description: Создавайте, редактируйте или конвертируйте файлы Slides PPSX в JPEG с помощью REST API и Swift SDK с открытым исходным кодом
 family: slides
 platformtag: swift
 feature: conversion

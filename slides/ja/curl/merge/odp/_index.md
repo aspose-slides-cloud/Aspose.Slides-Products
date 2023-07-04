@@ -1,6 +1,6 @@
 ---
 title: cURL経由で複数のODPファイルをマージ
-description: REST API とオープン ソース cURL SDK を使用して複数の Slides ファイルをマージする
+description: REST API とオープン ソース cURL SDK を使用して複数の Slides ODP ファイルをマージする
 family: slides
 platformtag: curl
 feature: merge

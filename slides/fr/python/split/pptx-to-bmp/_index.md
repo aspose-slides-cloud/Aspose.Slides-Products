@@ -1,6 +1,6 @@
 ---
 title: Diviser Slides PPTX en plusieurs BMP via Python
-description: Divisez les fichiers Slides en diapositives avec l'API REST et le SDK Open Source Python
+description: Divisez les fichiers Slides PPTX en diapositives BMP avec l'API REST et le SDK Open Source Python
 family: slides
 platformtag: python
 feature: split

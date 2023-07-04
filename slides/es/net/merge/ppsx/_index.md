@@ -1,6 +1,6 @@
 ---
 title: Combinar múltiples archivos PPSX a través de .NET
-description: Combine varios archivos Slides con REST API y Open Source .NET SDK
+description: Combine varios archivos Slides PPSX con REST API y Open Source .NET SDK
 family: slides
 platformtag: net
 feature: merge

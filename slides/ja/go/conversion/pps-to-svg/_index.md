@@ -1,6 +1,6 @@
 ---
 title: Slides PPS から Go 経由で SVG に変換
-description: REST API とオープン ソース Go SDK を使用して Slides ファイルを作成、編集、または変換します
+description: REST API とオープン ソース Go SDK を使用して Slides PPS ファイルを作成、編集、SVG に変換します
 family: slides
 platformtag: go
 feature: conversion

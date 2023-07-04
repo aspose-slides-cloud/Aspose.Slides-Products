@@ -1,6 +1,6 @@
 ---
 title: Slides PDF から C++ 経由で GIF に変換
-description: REST API とオープン ソース C++ SDK を使用して Slides ファイルを作成、編集、または変換します
+description: REST API とオープン ソース C++ SDK を使用して Slides PDF ファイルを作成、編集、GIF に変換します
 family: slides
 platformtag: cpp
 feature: conversion

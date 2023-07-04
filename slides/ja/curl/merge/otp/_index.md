@@ -1,6 +1,6 @@
 ---
 title: cURL経由で複数のOTPファイルをマージ
-description: REST API とオープン ソース cURL SDK を使用して複数の Slides ファイルをマージする
+description: REST API とオープン ソース cURL SDK を使用して複数の Slides OTP ファイルをマージする
 family: slides
 platformtag: curl
 feature: merge

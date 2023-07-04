@@ -1,6 +1,6 @@
 ---
 title: Convert from Slides POTX to SVG via Swift 
-description: Create, Edit or Convert Slides files with REST API & Open Source Swift SDK
+description: Create, Edit or Convert Slides POTX files to SVG with REST API & Open Source Swift SDK
 family: slides
 platformtag: swift
 feature: conversion

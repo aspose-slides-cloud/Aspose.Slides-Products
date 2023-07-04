@@ -1,6 +1,6 @@
 ---
 title: Convert from Slides OTP to HTML via Java 
-description: Create, Edit or Convert Slides files with REST API & Open Source Java SDK
+description: Create, Edit or Convert Slides OTP files to HTML with REST API & Open Source Java SDK
 family: slides
 platformtag: java
 feature: conversion

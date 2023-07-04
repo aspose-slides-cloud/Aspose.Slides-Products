@@ -1,6 +1,6 @@
 ---
 title: Convertir de Slides POTM a XPS a través de Perl
-description: cree, edite o convierta archivos Slides con REST API y Perl SDK de código abierto
+description: cree, edite o convierta archivos Slides POTM a XPS con REST API y Perl SDK de código abierto
 family: slides
 platformtag: perl
 feature: conversion

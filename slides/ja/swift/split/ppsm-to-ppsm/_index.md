@@ -1,6 +1,6 @@
 ---
 title: Slides PPSM を Swift 経由で複数の PPSM に分割する
-description: REST API とオープン ソース Swift SDK を使用して Slides ファイルをスライドに分割する
+description: REST API とオープン ソース Swift SDK を使用して Slides PPSM ファイルを PPSM スライドに分割する
 family: slides
 platformtag: swift
 feature: split

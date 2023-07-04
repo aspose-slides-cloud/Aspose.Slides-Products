@@ -1,6 +1,6 @@
 ---
 title: Convertir de Slides PPTM en HTML via Java
-description: Créez, modifiez ou convertissez des fichiers Slides avec l'API REST et le SDK Java Open Source
+description: Créez, modifiez ou convertissez des fichiers Slides PPTM en HTML avec l'API REST et le SDK Java Open Source
 family: slides
 platformtag: java
 feature: conversion

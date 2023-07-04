@@ -1,6 +1,6 @@
 ---
 title: Convert from Slides POTX to POTM via Android 
-description: Create, Edit or Convert Slides files with REST API & Open Source Android SDK
+description: Create, Edit or Convert Slides POTX files to POTM with REST API & Open Source Android SDK
 family: slides
 platformtag: android
 feature: conversion

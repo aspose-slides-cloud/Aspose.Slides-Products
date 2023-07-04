@@ -1,6 +1,6 @@
 ---
 title: Convertir de Slides PPT en PPTM via Go
-description: Créez, modifiez ou convertissez des fichiers Slides avec l'API REST et le SDK Go Open Source
+description: Créez, modifiez ou convertissez des fichiers Slides PPT en PPTM avec l'API REST et le SDK Go Open Source
 family: slides
 platformtag: go
 feature: conversion

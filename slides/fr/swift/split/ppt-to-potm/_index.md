@@ -1,6 +1,6 @@
 ---
 title: Diviser Slides PPT en plusieurs POTM via Swift
-description: Divisez les fichiers Slides en diapositives avec l'API REST et le SDK Open Source Swift
+description: Divisez les fichiers Slides PPT en diapositives POTM avec l'API REST et le SDK Open Source Swift
 family: slides
 platformtag: swift
 feature: split

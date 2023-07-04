@@ -1,6 +1,6 @@
 ---
 title: Convert from Slides POTX to SVG via Android 
-description: Create, Edit or Convert Slides files with REST API & Open Source Android SDK
+description: Create, Edit or Convert Slides POTX files to SVG with REST API & Open Source Android SDK
 family: slides
 platformtag: android
 feature: conversion

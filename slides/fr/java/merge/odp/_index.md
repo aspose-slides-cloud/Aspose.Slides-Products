@@ -1,6 +1,6 @@
 ---
 title: Fusionner plusieurs fichiers ODP via Java
-description: Fusionnez plusieurs fichiers Slides avec l'API REST et le SDK Open Source Java
+description: Fusionnez plusieurs fichiers Slides ODP avec l'API REST et le SDK Open Source Java
 family: slides
 platformtag: java
 feature: merge

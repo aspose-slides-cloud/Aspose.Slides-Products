@@ -1,6 +1,6 @@
 ---
 title: Convert from Slides PPTM to PPT via Python 
-description: Create, Edit or Convert Slides files with REST API & Open Source Python SDK
+description: Create, Edit or Convert Slides PPTM files to PPT with REST API & Open Source Python SDK
 family: slides
 platformtag: python
 feature: conversion

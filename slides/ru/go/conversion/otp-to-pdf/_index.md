@@ -1,6 +1,6 @@
 ---
 title: Преобразование Slides OTP в PDF с помощью Go
-description: Создавайте, редактируйте или конвертируйте файлы Slides с помощью REST API и Go SDK с открытым исходным кодом
+description: Создавайте, редактируйте или конвертируйте файлы Slides OTP в PDF с помощью REST API и Go SDK с открытым исходным кодом
 family: slides
 platformtag: go
 feature: conversion

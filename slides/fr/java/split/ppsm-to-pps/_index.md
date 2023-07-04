@@ -1,6 +1,6 @@
 ---
 title: Diviser Slides PPSM en plusieurs PPS via Java
-description: Divisez les fichiers Slides en diapositives avec l'API REST et le SDK Open Source Java
+description: Divisez les fichiers Slides PPSM en diapositives PPS avec l'API REST et le SDK Open Source Java
 family: slides
 platformtag: java
 feature: split

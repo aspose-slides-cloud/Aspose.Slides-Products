@@ -1,6 +1,6 @@
 ---
 title: Разделение Slides OTP на несколько TIFF с помощью Ruby
-description: Разделите файлы Slides на слайды с помощью REST API и Ruby SDK с открытым исходным кодом
+description: Разделите файлы Slides OTP на слайды TIFF с помощью REST API и Ruby SDK с открытым исходным кодом
 family: slides
 platformtag: ruby
 feature: split

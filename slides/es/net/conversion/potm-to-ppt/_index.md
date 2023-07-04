@@ -1,6 +1,6 @@
 ---
 title: Convertir de Slides POTM a PPT a través de .NET
-description: cree, edite o convierta archivos Slides con REST API y .NET SDK de código abierto
+description: cree, edite o convierta archivos Slides POTM a PPT con REST API y .NET SDK de código abierto
 family: slides
 platformtag: net
 feature: conversion

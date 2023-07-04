@@ -1,6 +1,6 @@
 ---
 title: Split Slides PPS into multiple PDF via Android
-description: Split Slides files into slides with REST API & Open Source Android SDK
+description: Split Slides PPS files into PDF slides with REST API & Open Source Android SDK
 family: slides
 platformtag: android
 feature: split

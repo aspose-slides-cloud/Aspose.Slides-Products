@@ -1,6 +1,6 @@
 ---
 title: Split Slides OTP into multiple PPSM via C++
-description: Split Slides files into slides with REST API & Open Source C++ SDK
+description: Split Slides OTP files into PPSM slides with REST API & Open Source C++ SDK
 family: slides
 platformtag: cpp
 feature: split

@@ -1,6 +1,6 @@
 ---
 title: Convertir de Slides ODP en GIF via Python
-description: Créez, modifiez ou convertissez des fichiers Slides avec l'API REST et le SDK Python Open Source
+description: Créez, modifiez ou convertissez des fichiers Slides ODP en GIF avec l'API REST et le SDK Python Open Source
 family: slides
 platformtag: python
 feature: conversion

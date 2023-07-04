@@ -1,6 +1,6 @@
 ---
 title: Convert from Slides POTX to MPEG4 via Go 
-description: Create, Edit or Convert Slides files with REST API & Open Source Go SDK
+description: Create, Edit or Convert Slides POTX files to MPEG4 with REST API & Open Source Go SDK
 family: slides
 platformtag: go
 feature: conversion

@@ -1,6 +1,6 @@
 ---
 title: Convertir de Slides PPT en PPTM via C++
-description: Créez, modifiez ou convertissez des fichiers Slides avec l'API REST et le SDK C++ Open Source
+description: Créez, modifiez ou convertissez des fichiers Slides PPT en PPTM avec l'API REST et le SDK C++ Open Source
 family: slides
 platformtag: cpp
 feature: conversion

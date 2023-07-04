@@ -1,6 +1,6 @@
 ---
 title: Diviser Slides PPSX en plusieurs JPEG via Ruby
-description: Divisez les fichiers Slides en diapositives avec l'API REST et le SDK Open Source Ruby
+description: Divisez les fichiers Slides PPSX en diapositives JPEG avec l'API REST et le SDK Open Source Ruby
 family: slides
 platformtag: ruby
 feature: split

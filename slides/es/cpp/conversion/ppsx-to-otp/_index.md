@@ -1,6 +1,6 @@
 ---
 title: Convertir de Slides PPSX a OTP a través de C++
-description: cree, edite o convierta archivos Slides con REST API y C++ SDK de código abierto
+description: cree, edite o convierta archivos Slides PPSX a OTP con REST API y C++ SDK de código abierto
 family: slides
 platformtag: cpp
 feature: conversion

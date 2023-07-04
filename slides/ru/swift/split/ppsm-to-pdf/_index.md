@@ -1,6 +1,6 @@
 ---
 title: Разделение Slides PPSM на несколько PDF с помощью Swift
-description: Разделите файлы Slides на слайды с помощью REST API и Swift SDK с открытым исходным кодом
+description: Разделите файлы Slides PPSM на слайды PDF с помощью REST API и Swift SDK с открытым исходным кодом
 family: slides
 platformtag: swift
 feature: split

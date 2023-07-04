@@ -1,6 +1,6 @@
 ---
 title: Convert from Slides POTM to SWF via .NET 
-description: Create, Edit or Convert Slides files with REST API & Open Source .NET SDK
+description: Create, Edit or Convert Slides POTM files to SWF with REST API & Open Source .NET SDK
 family: slides
 platformtag: net
 feature: conversion

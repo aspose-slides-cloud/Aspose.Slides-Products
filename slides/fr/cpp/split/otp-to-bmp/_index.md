@@ -1,6 +1,6 @@
 ---
 title: Diviser Slides OTP en plusieurs BMP via C++
-description: Divisez les fichiers Slides en diapositives avec l'API REST et le SDK Open Source C++
+description: Divisez les fichiers Slides OTP en diapositives BMP avec l'API REST et le SDK Open Source C++
 family: slides
 platformtag: cpp
 feature: split

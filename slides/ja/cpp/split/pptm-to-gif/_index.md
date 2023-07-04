@@ -1,6 +1,6 @@
 ---
 title: Slides PPTM を C++ 経由で複数の GIF に分割する
-description: REST API とオープン ソース C++ SDK を使用して Slides ファイルをスライドに分割する
+description: REST API とオープン ソース C++ SDK を使用して Slides PPTM ファイルを GIF スライドに分割する
 family: slides
 platformtag: cpp
 feature: split

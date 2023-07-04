@@ -1,6 +1,6 @@
 ---
 title: Преобразование Slides PDF в PPTM с помощью Ruby
-description: Создавайте, редактируйте или конвертируйте файлы Slides с помощью REST API и Ruby SDK с открытым исходным кодом
+description: Создавайте, редактируйте или конвертируйте файлы Slides PDF в PPTM с помощью REST API и Ruby SDK с открытым исходным кодом
 family: slides
 platformtag: ruby
 feature: conversion

@@ -1,6 +1,6 @@
 ---
 title: Convertir de Slides PPTM a GIF a través de Node.js
-description: cree, edite o convierta archivos Slides con REST API y Node.js SDK de código abierto
+description: cree, edite o convierta archivos Slides PPTM a GIF con REST API y Node.js SDK de código abierto
 family: slides
 platformtag: nodejs
 feature: conversion

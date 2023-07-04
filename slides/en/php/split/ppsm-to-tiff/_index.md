@@ -1,6 +1,6 @@
 ---
 title: Split Slides PPSM into multiple TIFF via PHP
-description: Split Slides files into slides with REST API & Open Source PHP SDK
+description: Split Slides PPSM files into TIFF slides with REST API & Open Source PHP SDK
 family: slides
 platformtag: php
 feature: split

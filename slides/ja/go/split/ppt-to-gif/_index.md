@@ -1,6 +1,6 @@
 ---
 title: Slides PPT を Go 経由で複数の GIF に分割する
-description: REST API とオープン ソース Go SDK を使用して Slides ファイルをスライドに分割する
+description: REST API とオープン ソース Go SDK を使用して Slides PPT ファイルを GIF スライドに分割する
 family: slides
 platformtag: go
 feature: split

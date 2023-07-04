@@ -1,6 +1,6 @@
 ---
 title: Разделение Slides PPSM на несколько PPT с помощью Python
-description: Разделите файлы Slides на слайды с помощью REST API и Python SDK с открытым исходным кодом
+description: Разделите файлы Slides PPSM на слайды PPT с помощью REST API и Python SDK с открытым исходным кодом
 family: slides
 platformtag: python
 feature: split

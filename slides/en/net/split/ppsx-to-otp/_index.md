@@ -1,6 +1,6 @@
 ---
 title: Split Slides PPSX into multiple OTP via .NET
-description: Split Slides files into slides with REST API & Open Source .NET SDK
+description: Split Slides PPSX files into OTP slides with REST API & Open Source .NET SDK
 family: slides
 platformtag: net
 feature: split

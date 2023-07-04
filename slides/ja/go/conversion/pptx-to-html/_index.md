@@ -1,6 +1,6 @@
 ---
 title: Slides PPTX から Go 経由で HTML に変換
-description: REST API とオープン ソース Go SDK を使用して Slides ファイルを作成、編集、または変換します
+description: REST API とオープン ソース Go SDK を使用して Slides PPTX ファイルを作成、編集、HTML に変換します
 family: slides
 platformtag: go
 feature: conversion

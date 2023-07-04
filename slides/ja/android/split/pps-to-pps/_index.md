@@ -1,6 +1,6 @@
 ---
 title: Slides PPS を Android 経由で複数の PPS に分割する
-description: REST API とオープン ソース Android SDK を使用して Slides ファイルをスライドに分割する
+description: REST API とオープン ソース Android SDK を使用して Slides PPS ファイルを PPS スライドに分割する
 family: slides
 platformtag: android
 feature: split

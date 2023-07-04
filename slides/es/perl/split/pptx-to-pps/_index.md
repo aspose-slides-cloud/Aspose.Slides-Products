@@ -1,6 +1,6 @@
 ---
 title: Dividir Slides PPTX en múltiples PPS a través de Perl
-description: Dividir archivos de Slides en diapositivas con REST API y Perl SDK de código abierto
+description: Dividir archivos de Slides PPTX en diapositivas PPS con REST API y Perl SDK de código abierto
 family: slides
 platformtag: perl
 feature: split

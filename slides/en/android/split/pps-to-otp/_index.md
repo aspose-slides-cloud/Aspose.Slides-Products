@@ -1,6 +1,6 @@
 ---
 title: Split Slides PPS into multiple OTP via Android
-description: Split Slides files into slides with REST API & Open Source Android SDK
+description: Split Slides PPS files into OTP slides with REST API & Open Source Android SDK
 family: slides
 platformtag: android
 feature: split

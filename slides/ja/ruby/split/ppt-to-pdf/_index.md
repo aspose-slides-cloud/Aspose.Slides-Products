@@ -1,6 +1,6 @@
 ---
 title: Slides PPT を Ruby 経由で複数の PDF に分割する
-description: REST API とオープン ソース Ruby SDK を使用して Slides ファイルをスライドに分割する
+description: REST API とオープン ソース Ruby SDK を使用して Slides PPT ファイルを PDF スライドに分割する
 family: slides
 platformtag: ruby
 feature: split

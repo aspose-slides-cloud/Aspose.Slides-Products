@@ -1,6 +1,6 @@
 ---
 title: Convert from Slides POTM to PNG via Android 
-description: Create, Edit or Convert Slides files with REST API & Open Source Android SDK
+description: Create, Edit or Convert Slides POTM files to PNG with REST API & Open Source Android SDK
 family: slides
 platformtag: android
 feature: conversion

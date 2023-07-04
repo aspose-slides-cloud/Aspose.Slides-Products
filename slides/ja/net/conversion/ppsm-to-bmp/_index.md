@@ -1,6 +1,6 @@
 ---
 title: Slides PPSM から .NET 経由で BMP に変換
-description: REST API とオープン ソース .NET SDK を使用して Slides ファイルを作成、編集、または変換します
+description: REST API とオープン ソース .NET SDK を使用して Slides PPSM ファイルを作成、編集、BMP に変換します
 family: slides
 platformtag: net
 feature: conversion

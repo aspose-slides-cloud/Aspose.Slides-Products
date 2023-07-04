@@ -1,6 +1,6 @@
 ---
 title: Convert from Slides POTM to HTML5 via Swift 
-description: Create, Edit or Convert Slides files with REST API & Open Source Swift SDK
+description: Create, Edit or Convert Slides POTM files to HTML5 with REST API & Open Source Swift SDK
 family: slides
 platformtag: swift
 feature: conversion

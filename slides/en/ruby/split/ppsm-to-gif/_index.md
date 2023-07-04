@@ -1,6 +1,6 @@
 ---
 title: Split Slides PPSM into multiple GIF via Ruby
-description: Split Slides files into slides with REST API & Open Source Ruby SDK
+description: Split Slides PPSM files into GIF slides with REST API & Open Source Ruby SDK
 family: slides
 platformtag: ruby
 feature: split

@@ -1,6 +1,6 @@
 ---
 title: Slides OTP を Perl 経由で複数の XPS に分割する
-description: REST API とオープン ソース Perl SDK を使用して Slides ファイルをスライドに分割する
+description: REST API とオープン ソース Perl SDK を使用して Slides OTP ファイルを XPS スライドに分割する
 family: slides
 platformtag: perl
 feature: split

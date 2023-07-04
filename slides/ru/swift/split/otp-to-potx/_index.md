@@ -1,6 +1,6 @@
 ---
 title: Разделение Slides OTP на несколько POTX с помощью Swift
-description: Разделите файлы Slides на слайды с помощью REST API и Swift SDK с открытым исходным кодом
+description: Разделите файлы Slides OTP на слайды POTX с помощью REST API и Swift SDK с открытым исходным кодом
 family: slides
 platformtag: swift
 feature: split

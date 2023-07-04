@@ -1,6 +1,6 @@
 ---
 title: Diviser Slides POTM en plusieurs OTP via PHP
-description: Divisez les fichiers Slides en diapositives avec l'API REST et le SDK Open Source PHP
+description: Divisez les fichiers Slides POTM en diapositives OTP avec l'API REST et le SDK Open Source PHP
 family: slides
 platformtag: php
 feature: split

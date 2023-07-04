@@ -1,6 +1,6 @@
 ---
 title: Slides OTP を cURL 経由で複数の SVG に分割する
-description: REST API とオープン ソース cURL SDK を使用して Slides ファイルをスライドに分割する
+description: REST API とオープン ソース cURL SDK を使用して Slides OTP ファイルを SVG スライドに分割する
 family: slides
 platformtag: curl
 feature: split

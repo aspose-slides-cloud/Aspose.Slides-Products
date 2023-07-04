@@ -1,6 +1,6 @@
 ---
 title: Convert from Slides PPT to PPSX via Go 
-description: Create, Edit or Convert Slides files with REST API & Open Source Go SDK
+description: Create, Edit or Convert Slides PPT files to PPSX with REST API & Open Source Go SDK
 family: slides
 platformtag: go
 feature: conversion

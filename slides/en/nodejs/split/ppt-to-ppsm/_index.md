@@ -1,6 +1,6 @@
 ---
 title: Split Slides PPT into multiple PPSM via Node.js
-description: Split Slides files into slides with REST API & Open Source Node.js SDK
+description: Split Slides PPT files into PPSM slides with REST API & Open Source Node.js SDK
 family: slides
 platformtag: nodejs
 feature: split

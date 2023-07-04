@@ -1,6 +1,6 @@
 ---
 title: Merge multiple PPTX files via C++
-description: Merge multiple Slides files with REST API & Open Source C++ SDK
+description: Merge multiple Slides PPTX files with REST API & Open Source C++ SDK
 family: slides
 platformtag: cpp
 feature: merge

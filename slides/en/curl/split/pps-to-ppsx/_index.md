@@ -1,6 +1,6 @@
 ---
 title: Split Slides PPS into multiple PPSX via cURL
-description: Split Slides files into slides with REST API & Open Source cURL SDK
+description: Split Slides PPS files into PPSX slides with REST API & Open Source cURL SDK
 family: slides
 platformtag: curl
 feature: split

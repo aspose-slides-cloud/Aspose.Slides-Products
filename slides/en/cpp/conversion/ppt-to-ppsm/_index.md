@@ -1,6 +1,6 @@
 ---
 title: Convert from Slides PPT to PPSM via C++ 
-description: Create, Edit or Convert Slides files with REST API & Open Source C++ SDK
+description: Create, Edit or Convert Slides PPT files to PPSM with REST API & Open Source C++ SDK
 family: slides
 platformtag: cpp
 feature: conversion

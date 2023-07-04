@@ -1,6 +1,6 @@
 ---
 title: Разделение Slides PPSX на несколько PPSM с помощью C++
-description: Разделите файлы Slides на слайды с помощью REST API и C++ SDK с открытым исходным кодом
+description: Разделите файлы Slides PPSX на слайды PPSM с помощью REST API и C++ SDK с открытым исходным кодом
 family: slides
 platformtag: cpp
 feature: split

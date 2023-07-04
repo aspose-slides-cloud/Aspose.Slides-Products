@@ -1,6 +1,6 @@
 ---
 title: Dividir Slides PPTM en múltiples POTM a través de Python
-description: Dividir archivos de Slides en diapositivas con REST API y Python SDK de código abierto
+description: Dividir archivos de Slides PPTM en diapositivas POTM con REST API y Python SDK de código abierto
 family: slides
 platformtag: python
 feature: split

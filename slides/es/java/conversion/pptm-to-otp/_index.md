@@ -1,6 +1,6 @@
 ---
 title: Convertir de Slides PPTM a OTP a través de Java
-description: cree, edite o convierta archivos Slides con REST API y Java SDK de código abierto
+description: cree, edite o convierta archivos Slides PPTM a OTP con REST API y Java SDK de código abierto
 family: slides
 platformtag: java
 feature: conversion

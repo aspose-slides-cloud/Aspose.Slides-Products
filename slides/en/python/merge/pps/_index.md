@@ -1,6 +1,6 @@
 ---
 title: Merge multiple PPS files via Python
-description: Merge multiple Slides files with REST API & Open Source Python SDK
+description: Merge multiple Slides PPS files with REST API & Open Source Python SDK
 family: slides
 platformtag: python
 feature: merge

@@ -1,6 +1,6 @@
 ---
 title: Преобразование Slides PDF в PPSM с помощью .NET
-description: Создавайте, редактируйте или конвертируйте файлы Slides с помощью REST API и .NET SDK с открытым исходным кодом
+description: Создавайте, редактируйте или конвертируйте файлы Slides PDF в PPSM с помощью REST API и .NET SDK с открытым исходным кодом
 family: slides
 platformtag: net
 feature: conversion

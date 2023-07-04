@@ -1,6 +1,6 @@
 ---
 title: Fusionner plusieurs fichiers ODP via C++
-description: Fusionnez plusieurs fichiers Slides avec l'API REST et le SDK Open Source C++
+description: Fusionnez plusieurs fichiers Slides ODP avec l'API REST et le SDK Open Source C++
 family: slides
 platformtag: cpp
 feature: merge

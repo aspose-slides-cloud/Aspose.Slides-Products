@@ -1,6 +1,6 @@
 ---
 title: Convert from Slides PPTM to ODP via .NET 
-description: Create, Edit or Convert Slides files with REST API & Open Source .NET SDK
+description: Create, Edit or Convert Slides PPTM files to ODP with REST API & Open Source .NET SDK
 family: slides
 platformtag: net
 feature: conversion

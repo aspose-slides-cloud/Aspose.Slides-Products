@@ -1,6 +1,6 @@
 ---
 title: Convert from Slides PPTM to OTP via Node.js 
-description: Create, Edit or Convert Slides files with REST API & Open Source Node.js SDK
+description: Create, Edit or Convert Slides PPTM files to OTP with REST API & Open Source Node.js SDK
 family: slides
 platformtag: nodejs
 feature: conversion

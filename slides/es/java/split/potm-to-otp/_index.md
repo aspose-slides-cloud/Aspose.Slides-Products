@@ -1,6 +1,6 @@
 ---
 title: Dividir Slides POTM en múltiples OTP a través de Java
-description: Dividir archivos de Slides en diapositivas con REST API y Java SDK de código abierto
+description: Dividir archivos de Slides POTM en diapositivas OTP con REST API y Java SDK de código abierto
 family: slides
 platformtag: java
 feature: split

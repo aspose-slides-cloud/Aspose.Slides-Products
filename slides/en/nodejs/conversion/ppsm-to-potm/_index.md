@@ -1,6 +1,6 @@
 ---
 title: Convert from Slides PPSM to POTM via Node.js 
-description: Create, Edit or Convert Slides files with REST API & Open Source Node.js SDK
+description: Create, Edit or Convert Slides PPSM files to POTM with REST API & Open Source Node.js SDK
 family: slides
 platformtag: nodejs
 feature: conversion

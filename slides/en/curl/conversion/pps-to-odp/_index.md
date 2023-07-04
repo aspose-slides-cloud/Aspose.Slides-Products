@@ -1,6 +1,6 @@
 ---
 title: Convert from Slides PPS to ODP via cURL 
-description: Create, Edit or Convert Slides files with REST API & Open Source cURL SDK
+description: Create, Edit or Convert Slides PPS files to ODP with REST API & Open Source cURL SDK
 family: slides
 platformtag: curl
 feature: conversion

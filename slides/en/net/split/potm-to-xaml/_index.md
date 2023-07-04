@@ -1,6 +1,6 @@
 ---
 title: Split Slides POTM into multiple XAML via .NET
-description: Split Slides files into slides with REST API & Open Source .NET SDK
+description: Split Slides POTM files into XAML slides with REST API & Open Source .NET SDK
 family: slides
 platformtag: net
 feature: split

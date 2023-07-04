@@ -1,6 +1,6 @@
 ---
 title: Fusionner plusieurs fichiers PDF via Ruby
-description: Fusionnez plusieurs fichiers Slides avec l'API REST et le SDK Open Source Ruby
+description: Fusionnez plusieurs fichiers Slides PDF avec l'API REST et le SDK Open Source Ruby
 family: slides
 platformtag: ruby
 feature: merge

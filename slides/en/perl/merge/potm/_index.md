@@ -1,6 +1,6 @@
 ---
 title: Merge multiple POTM files via Perl
-description: Merge multiple Slides files with REST API & Open Source Perl SDK
+description: Merge multiple Slides POTM files with REST API & Open Source Perl SDK
 family: slides
 platformtag: perl
 feature: merge

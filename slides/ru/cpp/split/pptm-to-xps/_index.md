@@ -1,6 +1,6 @@
 ---
 title: Разделение Slides PPTM на несколько XPS с помощью C++
-description: Разделите файлы Slides на слайды с помощью REST API и C++ SDK с открытым исходным кодом
+description: Разделите файлы Slides PPTM на слайды XPS с помощью REST API и C++ SDK с открытым исходным кодом
 family: slides
 platformtag: cpp
 feature: split

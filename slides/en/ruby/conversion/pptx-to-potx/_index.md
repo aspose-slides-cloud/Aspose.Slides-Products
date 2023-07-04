@@ -1,6 +1,6 @@
 ---
 title: Convert from Slides PPTX to POTX via Ruby 
-description: Create, Edit or Convert Slides files with REST API & Open Source Ruby SDK
+description: Create, Edit or Convert Slides PPTX files to POTX with REST API & Open Source Ruby SDK
 family: slides
 platformtag: ruby
 feature: conversion

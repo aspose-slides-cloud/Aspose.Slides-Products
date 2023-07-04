@@ -1,6 +1,6 @@
 ---
 title: Convert from Slides ODP to XAML via C++ 
-description: Create, Edit or Convert Slides files with REST API & Open Source C++ SDK
+description: Create, Edit or Convert Slides ODP files to XAML with REST API & Open Source C++ SDK
 family: slides
 platformtag: cpp
 feature: conversion

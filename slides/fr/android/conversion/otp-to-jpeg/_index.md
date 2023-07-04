@@ -1,6 +1,6 @@
 ---
 title: Convertir de Slides OTP en JPEG via Android
-description: Créez, modifiez ou convertissez des fichiers Slides avec l'API REST et le SDK Android Open Source
+description: Créez, modifiez ou convertissez des fichiers Slides OTP en JPEG avec l'API REST et le SDK Android Open Source
 family: slides
 platformtag: android
 feature: conversion

@@ -1,6 +1,6 @@
 ---
 title: Convertir de Slides PPT a SVG a través de C++
-description: cree, edite o convierta archivos Slides con REST API y C++ SDK de código abierto
+description: cree, edite o convierta archivos Slides PPT a SVG con REST API y C++ SDK de código abierto
 family: slides
 platformtag: cpp
 feature: conversion

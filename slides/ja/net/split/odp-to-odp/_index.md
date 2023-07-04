@@ -1,6 +1,6 @@
 ---
 title: Slides ODP を .NET 経由で複数の ODP に分割する
-description: REST API とオープン ソース .NET SDK を使用して Slides ファイルをスライドに分割する
+description: REST API とオープン ソース .NET SDK を使用して Slides ODP ファイルを ODP スライドに分割する
 family: slides
 platformtag: net
 feature: split

@@ -1,6 +1,6 @@
 ---
 title: Split Slides ODP into multiple GIF via .NET
-description: Split Slides files into slides with REST API & Open Source .NET SDK
+description: Split Slides ODP files into GIF slides with REST API & Open Source .NET SDK
 family: slides
 platformtag: net
 feature: split

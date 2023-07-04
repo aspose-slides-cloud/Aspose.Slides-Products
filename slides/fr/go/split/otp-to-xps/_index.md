@@ -1,6 +1,6 @@
 ---
 title: Diviser Slides OTP en plusieurs XPS via Go
-description: Divisez les fichiers Slides en diapositives avec l'API REST et le SDK Open Source Go
+description: Divisez les fichiers Slides OTP en diapositives XPS avec l'API REST et le SDK Open Source Go
 family: slides
 platformtag: go
 feature: split

@@ -1,6 +1,6 @@
 ---
 title: Convertir de Slides POTM en PDF via Swift
-description: Créez, modifiez ou convertissez des fichiers Slides avec l'API REST et le SDK Swift Open Source
+description: Créez, modifiez ou convertissez des fichiers Slides POTM en PDF avec l'API REST et le SDK Swift Open Source
 family: slides
 platformtag: swift
 feature: conversion

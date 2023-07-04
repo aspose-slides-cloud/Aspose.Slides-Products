@@ -1,6 +1,6 @@
 ---
 title: Diviser Slides POTM en plusieurs PPSM via Perl
-description: Divisez les fichiers Slides en diapositives avec l'API REST et le SDK Open Source Perl
+description: Divisez les fichiers Slides POTM en diapositives PPSM avec l'API REST et le SDK Open Source Perl
 family: slides
 platformtag: perl
 feature: split

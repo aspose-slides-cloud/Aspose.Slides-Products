@@ -1,6 +1,6 @@
 ---
 title: Merge multiple PDF files via .NET
-description: Merge multiple Slides files with REST API & Open Source .NET SDK
+description: Merge multiple Slides PDF files with REST API & Open Source .NET SDK
 family: slides
 platformtag: net
 feature: merge

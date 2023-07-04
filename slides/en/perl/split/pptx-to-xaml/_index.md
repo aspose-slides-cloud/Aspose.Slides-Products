@@ -1,6 +1,6 @@
 ---
 title: Split Slides PPTX into multiple XAML via Perl
-description: Split Slides files into slides with REST API & Open Source Perl SDK
+description: Split Slides PPTX files into XAML slides with REST API & Open Source Perl SDK
 family: slides
 platformtag: perl
 feature: split

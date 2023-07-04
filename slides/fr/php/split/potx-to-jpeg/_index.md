@@ -1,6 +1,6 @@
 ---
 title: Diviser Slides POTX en plusieurs JPEG via PHP
-description: Divisez les fichiers Slides en diapositives avec l'API REST et le SDK Open Source PHP
+description: Divisez les fichiers Slides POTX en diapositives JPEG avec l'API REST et le SDK Open Source PHP
 family: slides
 platformtag: php
 feature: split

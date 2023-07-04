@@ -1,6 +1,6 @@
 ---
 title: Преобразование Slides POTM в OTP с помощью Java
-description: Создавайте, редактируйте или конвертируйте файлы Slides с помощью REST API и Java SDK с открытым исходным кодом
+description: Создавайте, редактируйте или конвертируйте файлы Slides POTM в OTP с помощью REST API и Java SDK с открытым исходным кодом
 family: slides
 platformtag: java
 feature: conversion

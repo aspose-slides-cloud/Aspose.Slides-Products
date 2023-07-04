@@ -1,6 +1,6 @@
 ---
 title: Diviser Slides POTX en plusieurs PPTX via Android
-description: Divisez les fichiers Slides en diapositives avec l'API REST et le SDK Open Source Android
+description: Divisez les fichiers Slides POTX en diapositives PPTX avec l'API REST et le SDK Open Source Android
 family: slides
 platformtag: android
 feature: split

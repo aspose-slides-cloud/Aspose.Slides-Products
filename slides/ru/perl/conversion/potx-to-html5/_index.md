@@ -1,6 +1,6 @@
 ---
 title: Преобразование Slides POTX в HTML5 с помощью Perl
-description: Создавайте, редактируйте или конвертируйте файлы Slides с помощью REST API и Perl SDK с открытым исходным кодом
+description: Создавайте, редактируйте или конвертируйте файлы Slides POTX в HTML5 с помощью REST API и Perl SDK с открытым исходным кодом
 family: slides
 platformtag: perl
 feature: conversion

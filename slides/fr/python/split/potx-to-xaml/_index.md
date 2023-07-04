@@ -1,6 +1,6 @@
 ---
 title: Diviser Slides POTX en plusieurs XAML via Python
-description: Divisez les fichiers Slides en diapositives avec l'API REST et le SDK Open Source Python
+description: Divisez les fichiers Slides POTX en diapositives XAML avec l'API REST et le SDK Open Source Python
 family: slides
 platformtag: python
 feature: split

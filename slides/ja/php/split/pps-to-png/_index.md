@@ -1,6 +1,6 @@
 ---
 title: Slides PPS を PHP 経由で複数の PNG に分割する
-description: REST API とオープン ソース PHP SDK を使用して Slides ファイルをスライドに分割する
+description: REST API とオープン ソース PHP SDK を使用して Slides PPS ファイルを PNG スライドに分割する
 family: slides
 platformtag: php
 feature: split

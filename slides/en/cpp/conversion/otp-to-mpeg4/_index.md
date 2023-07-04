@@ -1,6 +1,6 @@
 ---
 title: Convert from Slides OTP to MPEG4 via C++ 
-description: Create, Edit or Convert Slides files with REST API & Open Source C++ SDK
+description: Create, Edit or Convert Slides OTP files to MPEG4 with REST API & Open Source C++ SDK
 family: slides
 platformtag: cpp
 feature: conversion

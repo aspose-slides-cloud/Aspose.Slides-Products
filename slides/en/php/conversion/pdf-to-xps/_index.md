@@ -1,6 +1,6 @@
 ---
 title: Convert from Slides PDF to XPS via PHP 
-description: Create, Edit or Convert Slides files with REST API & Open Source PHP SDK
+description: Create, Edit or Convert Slides PDF files to XPS with REST API & Open Source PHP SDK
 family: slides
 platformtag: php
 feature: conversion

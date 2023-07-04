@@ -1,6 +1,6 @@
 ---
 title: Convertir de Slides PPTM a PPT a través de Swift
-description: cree, edite o convierta archivos Slides con REST API y Swift SDK de código abierto
+description: cree, edite o convierta archivos Slides PPTM a PPT con REST API y Swift SDK de código abierto
 family: slides
 platformtag: swift
 feature: conversion

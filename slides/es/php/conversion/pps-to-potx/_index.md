@@ -1,6 +1,6 @@
 ---
 title: Convertir de Slides PPS a POTX a través de PHP
-description: cree, edite o convierta archivos Slides con REST API y PHP SDK de código abierto
+description: cree, edite o convierta archivos Slides PPS a POTX con REST API y PHP SDK de código abierto
 family: slides
 platformtag: php
 feature: conversion

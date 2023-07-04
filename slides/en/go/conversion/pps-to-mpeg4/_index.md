@@ -1,6 +1,6 @@
 ---
 title: Convert from Slides PPS to MPEG4 via Go 
-description: Create, Edit or Convert Slides files with REST API & Open Source Go SDK
+description: Create, Edit or Convert Slides PPS files to MPEG4 with REST API & Open Source Go SDK
 family: slides
 platformtag: go
 feature: conversion

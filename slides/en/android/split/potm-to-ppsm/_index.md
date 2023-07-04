@@ -1,6 +1,6 @@
 ---
 title: Split Slides POTM into multiple PPSM via Android
-description: Split Slides files into slides with REST API & Open Source Android SDK
+description: Split Slides POTM files into PPSM slides with REST API & Open Source Android SDK
 family: slides
 platformtag: android
 feature: split

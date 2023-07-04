@@ -1,6 +1,6 @@
 ---
 title: Diviser Slides OTP en plusieurs XAML via Ruby
-description: Divisez les fichiers Slides en diapositives avec l'API REST et le SDK Open Source Ruby
+description: Divisez les fichiers Slides OTP en diapositives XAML avec l'API REST et le SDK Open Source Ruby
 family: slides
 platformtag: ruby
 feature: split

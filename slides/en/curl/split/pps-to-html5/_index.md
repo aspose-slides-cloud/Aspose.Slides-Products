@@ -1,6 +1,6 @@
 ---
 title: Split Slides PPS into multiple HTML5 via cURL
-description: Split Slides files into slides with REST API & Open Source cURL SDK
+description: Split Slides PPS files into HTML5 slides with REST API & Open Source cURL SDK
 family: slides
 platformtag: curl
 feature: split

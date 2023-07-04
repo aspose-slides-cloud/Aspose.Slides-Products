@@ -1,6 +1,6 @@
 ---
 title: Split Slides PPS into multiple SVG via Node.js
-description: Split Slides files into slides with REST API & Open Source Node.js SDK
+description: Split Slides PPS files into SVG slides with REST API & Open Source Node.js SDK
 family: slides
 platformtag: nodejs
 feature: split

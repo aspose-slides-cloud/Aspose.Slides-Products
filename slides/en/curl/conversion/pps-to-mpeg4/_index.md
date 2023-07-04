@@ -1,6 +1,6 @@
 ---
 title: Convert from Slides PPS to MPEG4 via cURL 
-description: Create, Edit or Convert Slides files with REST API & Open Source cURL SDK
+description: Create, Edit or Convert Slides PPS files to MPEG4 with REST API & Open Source cURL SDK
 family: slides
 platformtag: curl
 feature: conversion

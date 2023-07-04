@@ -1,6 +1,6 @@
 ---
 title: Combinar múltiples archivos POTM a través de cURL
-description: Combine varios archivos Slides con REST API y Open Source cURL SDK
+description: Combine varios archivos Slides POTM con REST API y Open Source cURL SDK
 family: slides
 platformtag: curl
 feature: merge

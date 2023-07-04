@@ -1,6 +1,6 @@
 ---
 title: Convertir de Slides PDF a XPS a través de cURL
-description: cree, edite o convierta archivos Slides con REST API y cURL SDK de código abierto
+description: cree, edite o convierta archivos Slides PDF a XPS con REST API y cURL SDK de código abierto
 family: slides
 platformtag: curl
 feature: conversion

@@ -1,6 +1,6 @@
 ---
 title: Split Slides PPTX into multiple PPTM via Perl
-description: Split Slides files into slides with REST API & Open Source Perl SDK
+description: Split Slides PPTX files into PPTM slides with REST API & Open Source Perl SDK
 family: slides
 platformtag: perl
 feature: split

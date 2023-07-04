@@ -1,6 +1,6 @@
 ---
 title: Convert from Slides PPTM to HTML5 via PHP 
-description: Create, Edit or Convert Slides files with REST API & Open Source PHP SDK
+description: Create, Edit or Convert Slides PPTM files to HTML5 with REST API & Open Source PHP SDK
 family: slides
 platformtag: php
 feature: conversion

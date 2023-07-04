@@ -1,6 +1,6 @@
 ---
 title: Dividir Slides PPTM en múltiples SVG a través de Android
-description: Dividir archivos de Slides en diapositivas con REST API y Android SDK de código abierto
+description: Dividir archivos de Slides PPTM en diapositivas SVG con REST API y Android SDK de código abierto
 family: slides
 platformtag: android
 feature: split

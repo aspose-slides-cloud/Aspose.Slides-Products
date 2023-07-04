@@ -1,6 +1,6 @@
 ---
 title: Fusionner plusieurs fichiers PPT via C++
-description: Fusionnez plusieurs fichiers Slides avec l'API REST et le SDK Open Source C++
+description: Fusionnez plusieurs fichiers Slides PPT avec l'API REST et le SDK Open Source C++
 family: slides
 platformtag: cpp
 feature: merge

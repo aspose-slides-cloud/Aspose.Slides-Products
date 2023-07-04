@@ -1,6 +1,6 @@
 ---
 title: Convert from Slides POTM to PPT via cURL 
-description: Create, Edit or Convert Slides files with REST API & Open Source cURL SDK
+description: Create, Edit or Convert Slides POTM files to PPT with REST API & Open Source cURL SDK
 family: slides
 platformtag: curl
 feature: conversion

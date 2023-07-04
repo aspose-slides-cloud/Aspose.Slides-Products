@@ -1,6 +1,6 @@
 ---
 title: Convertir de Slides PPTX a PPTM a través de Android
-description: cree, edite o convierta archivos Slides con REST API y Android SDK de código abierto
+description: cree, edite o convierta archivos Slides PPTX a PPTM con REST API y Android SDK de código abierto
 family: slides
 platformtag: android
 feature: conversion

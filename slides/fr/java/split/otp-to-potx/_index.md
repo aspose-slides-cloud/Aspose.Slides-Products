@@ -1,6 +1,6 @@
 ---
 title: Diviser Slides OTP en plusieurs POTX via Java
-description: Divisez les fichiers Slides en diapositives avec l'API REST et le SDK Open Source Java
+description: Divisez les fichiers Slides OTP en diapositives POTX avec l'API REST et le SDK Open Source Java
 family: slides
 platformtag: java
 feature: split

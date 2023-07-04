@@ -1,6 +1,6 @@
 ---
 title: Split Slides PPTX into multiple GIF via Swift
-description: Split Slides files into slides with REST API & Open Source Swift SDK
+description: Split Slides PPTX files into GIF slides with REST API & Open Source Swift SDK
 family: slides
 platformtag: swift
 feature: split

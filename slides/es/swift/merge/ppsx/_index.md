@@ -1,6 +1,6 @@
 ---
 title: Combinar múltiples archivos PPSX a través de Swift
-description: Combine varios archivos Slides con REST API y Open Source Swift SDK
+description: Combine varios archivos Slides PPSX con REST API y Open Source Swift SDK
 family: slides
 platformtag: swift
 feature: merge

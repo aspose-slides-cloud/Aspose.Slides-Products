@@ -1,6 +1,6 @@
 ---
 title: Merge multiple ODP files via Node.js
-description: Merge multiple Slides files with REST API & Open Source Node.js SDK
+description: Merge multiple Slides ODP files with REST API & Open Source Node.js SDK
 family: slides
 platformtag: nodejs
 feature: merge

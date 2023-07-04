@@ -1,6 +1,6 @@
 ---
 title: Slides ODP を Go 経由で複数の PPTX に分割する
-description: REST API とオープン ソース Go SDK を使用して Slides ファイルをスライドに分割する
+description: REST API とオープン ソース Go SDK を使用して Slides ODP ファイルを PPTX スライドに分割する
 family: slides
 platformtag: go
 feature: split

@@ -1,6 +1,6 @@
 ---
 title: Convert from Slides PPSX to XAML via Go 
-description: Create, Edit or Convert Slides files with REST API & Open Source Go SDK
+description: Create, Edit or Convert Slides PPSX files to XAML with REST API & Open Source Go SDK
 family: slides
 platformtag: go
 feature: conversion

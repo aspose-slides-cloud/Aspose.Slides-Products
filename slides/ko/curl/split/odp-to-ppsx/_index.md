@@ -1,6 +1,6 @@
 ---
 title: cURL를 통해 Slides ODP를 여러 PPSX로 분할
-description: REST API 및 오픈 소스 cURL SDK를 사용하여 Slides 파일을 슬라이드로 분할
+description: REST API 및 오픈 소스 cURL SDK를 사용하여 Slides ODP 파일을 PPSX 슬라이드로 분할
 family: slides
 platformtag: curl
 feature: split

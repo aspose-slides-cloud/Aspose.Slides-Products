@@ -1,6 +1,6 @@
 ---
 title: Split Slides OTP into multiple BMP via Swift
-description: Split Slides files into slides with REST API & Open Source Swift SDK
+description: Split Slides OTP files into BMP slides with REST API & Open Source Swift SDK
 family: slides
 platformtag: swift
 feature: split

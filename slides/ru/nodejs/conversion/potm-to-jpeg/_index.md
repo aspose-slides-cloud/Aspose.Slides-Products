@@ -1,6 +1,6 @@
 ---
 title: Преобразование Slides POTM в JPEG с помощью Node.js
-description: Создавайте, редактируйте или конвертируйте файлы Slides с помощью REST API и Node.js SDK с открытым исходным кодом
+description: Создавайте, редактируйте или конвертируйте файлы Slides POTM в JPEG с помощью REST API и Node.js SDK с открытым исходным кодом
 family: slides
 platformtag: nodejs
 feature: conversion

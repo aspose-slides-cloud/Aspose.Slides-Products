@@ -1,6 +1,6 @@
 ---
 title: Diviser Slides PPTM en plusieurs TIFF via Perl
-description: Divisez les fichiers Slides en diapositives avec l'API REST et le SDK Open Source Perl
+description: Divisez les fichiers Slides PPTM en diapositives TIFF avec l'API REST et le SDK Open Source Perl
 family: slides
 platformtag: perl
 feature: split

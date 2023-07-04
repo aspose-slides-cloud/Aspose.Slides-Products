@@ -1,6 +1,6 @@
 ---
 title: Split Slides PPSX into multiple XAML via Android
-description: Split Slides files into slides with REST API & Open Source Android SDK
+description: Split Slides PPSX files into XAML slides with REST API & Open Source Android SDK
 family: slides
 platformtag: android
 feature: split

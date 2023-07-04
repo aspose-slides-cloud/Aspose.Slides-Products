@@ -1,6 +1,6 @@
 ---
 title: Split Slides PPSX into multiple XAML via Java
-description: Split Slides files into slides with REST API & Open Source Java SDK
+description: Split Slides PPSX files into XAML slides with REST API & Open Source Java SDK
 family: slides
 platformtag: java
 feature: split

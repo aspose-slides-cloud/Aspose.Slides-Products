@@ -1,5 +1,5 @@
 ---
-title: PHP를 통해 프레젠테이션 분할
+title: Swift를 통해 프레젠테이션 분할
 description: REST API 및 오픈 소스 Swift SDK를 사용하여 Slides 파일을 슬라이드로 분할
 family: slides
 platformtag: swift

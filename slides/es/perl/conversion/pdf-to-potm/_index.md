@@ -1,6 +1,6 @@
 ---
 title: Convertir de Slides PDF a POTM a través de Perl
-description: cree, edite o convierta archivos Slides con REST API y Perl SDK de código abierto
+description: cree, edite o convierta archivos Slides PDF a POTM con REST API y Perl SDK de código abierto
 family: slides
 platformtag: perl
 feature: conversion

@@ -1,6 +1,6 @@
 ---
 title: Dividir Slides PPSM en múltiples TIFF a través de Node.js
-description: Dividir archivos de Slides en diapositivas con REST API y Node.js SDK de código abierto
+description: Dividir archivos de Slides PPSM en diapositivas TIFF con REST API y Node.js SDK de código abierto
 family: slides
 platformtag: nodejs
 feature: split

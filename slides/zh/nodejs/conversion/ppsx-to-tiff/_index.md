@@ -1,6 +1,6 @@
 ---
 title: 通过 Node.js 从 Slides PPSX 转换为 TIFF
-description: 使用 REST API 和开源 Node.js SDK 创建、编辑或转换 Slides 文件
+description: 使用 REST API 和开源 Node.js SDK 创建、编辑或转换 Slides PPSX 文件或将其转换为 TIFF
 family: slides
 platformtag: nodejs
 feature: conversion

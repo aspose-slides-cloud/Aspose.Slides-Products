@@ -1,6 +1,6 @@
 ---
 title: Convert from Slides PPTM to PPT via cURL 
-description: Create, Edit or Convert Slides files with REST API & Open Source cURL SDK
+description: Create, Edit or Convert Slides PPTM files to PPT with REST API & Open Source cURL SDK
 family: slides
 platformtag: curl
 feature: conversion

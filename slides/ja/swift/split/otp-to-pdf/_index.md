@@ -1,6 +1,6 @@
 ---
 title: Slides OTP を Swift 経由で複数の PDF に分割する
-description: REST API とオープン ソース Swift SDK を使用して Slides ファイルをスライドに分割する
+description: REST API とオープン ソース Swift SDK を使用して Slides OTP ファイルを PDF スライドに分割する
 family: slides
 platformtag: swift
 feature: split

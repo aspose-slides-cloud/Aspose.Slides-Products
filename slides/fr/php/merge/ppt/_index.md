@@ -1,6 +1,6 @@
 ---
 title: Fusionner plusieurs fichiers PPT via PHP
-description: Fusionnez plusieurs fichiers Slides avec l'API REST et le SDK Open Source PHP
+description: Fusionnez plusieurs fichiers Slides PPT avec l'API REST et le SDK Open Source PHP
 family: slides
 platformtag: php
 feature: merge

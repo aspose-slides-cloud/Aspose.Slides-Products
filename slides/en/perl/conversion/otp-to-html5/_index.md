@@ -1,6 +1,6 @@
 ---
 title: Convert from Slides OTP to HTML5 via Perl 
-description: Create, Edit or Convert Slides files with REST API & Open Source Perl SDK
+description: Create, Edit or Convert Slides OTP files to HTML5 with REST API & Open Source Perl SDK
 family: slides
 platformtag: perl
 feature: conversion

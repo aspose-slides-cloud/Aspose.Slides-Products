@@ -1,6 +1,6 @@
 ---
 title: Разделение Slides PPT на несколько GIF с помощью Go
-description: Разделите файлы Slides на слайды с помощью REST API и Go SDK с открытым исходным кодом
+description: Разделите файлы Slides PPT на слайды GIF с помощью REST API и Go SDK с открытым исходным кодом
 family: slides
 platformtag: go
 feature: split

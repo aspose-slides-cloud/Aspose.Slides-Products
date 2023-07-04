@@ -1,6 +1,6 @@
 ---
 title: Convert from Slides PPSM to HTML via PHP 
-description: Create, Edit or Convert Slides files with REST API & Open Source PHP SDK
+description: Create, Edit or Convert Slides PPSM files to HTML with REST API & Open Source PHP SDK
 family: slides
 platformtag: php
 feature: conversion

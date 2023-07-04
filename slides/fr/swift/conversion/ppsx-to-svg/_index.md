@@ -1,6 +1,6 @@
 ---
 title: Convertir de Slides PPSX en SVG via Swift
-description: Créez, modifiez ou convertissez des fichiers Slides avec l'API REST et le SDK Swift Open Source
+description: Créez, modifiez ou convertissez des fichiers Slides PPSX en SVG avec l'API REST et le SDK Swift Open Source
 family: slides
 platformtag: swift
 feature: conversion

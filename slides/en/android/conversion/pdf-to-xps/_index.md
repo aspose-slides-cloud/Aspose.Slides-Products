@@ -1,6 +1,6 @@
 ---
 title: Convert from Slides PDF to XPS via Android 
-description: Create, Edit or Convert Slides files with REST API & Open Source Android SDK
+description: Create, Edit or Convert Slides PDF files to XPS with REST API & Open Source Android SDK
 family: slides
 platformtag: android
 feature: conversion

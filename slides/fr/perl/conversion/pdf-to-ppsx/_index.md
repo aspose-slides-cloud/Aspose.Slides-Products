@@ -1,6 +1,6 @@
 ---
 title: Convertir de Slides PDF en PPSX via Perl
-description: Créez, modifiez ou convertissez des fichiers Slides avec l'API REST et le SDK Perl Open Source
+description: Créez, modifiez ou convertissez des fichiers Slides PDF en PPSX avec l'API REST et le SDK Perl Open Source
 family: slides
 platformtag: perl
 feature: conversion

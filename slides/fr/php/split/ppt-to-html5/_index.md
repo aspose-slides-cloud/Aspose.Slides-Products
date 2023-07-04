@@ -1,6 +1,6 @@
 ---
 title: Diviser Slides PPT en plusieurs HTML5 via PHP
-description: Divisez les fichiers Slides en diapositives avec l'API REST et le SDK Open Source PHP
+description: Divisez les fichiers Slides PPT en diapositives HTML5 avec l'API REST et le SDK Open Source PHP
 family: slides
 platformtag: php
 feature: split

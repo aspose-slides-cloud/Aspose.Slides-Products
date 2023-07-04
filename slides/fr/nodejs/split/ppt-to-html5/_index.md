@@ -1,6 +1,6 @@
 ---
 title: Diviser Slides PPT en plusieurs HTML5 via Node.js
-description: Divisez les fichiers Slides en diapositives avec l'API REST et le SDK Open Source Node.js
+description: Divisez les fichiers Slides PPT en diapositives HTML5 avec l'API REST et le SDK Open Source Node.js
 family: slides
 platformtag: nodejs
 feature: split

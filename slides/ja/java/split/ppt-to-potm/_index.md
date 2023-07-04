@@ -1,6 +1,6 @@
 ---
 title: Slides PPT を Java 経由で複数の POTM に分割する
-description: REST API とオープン ソース Java SDK を使用して Slides ファイルをスライドに分割する
+description: REST API とオープン ソース Java SDK を使用して Slides PPT ファイルを POTM スライドに分割する
 family: slides
 platformtag: java
 feature: split

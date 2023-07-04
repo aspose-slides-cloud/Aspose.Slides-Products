@@ -1,6 +1,6 @@
 ---
 title: Slides PPTM を Swift 経由で複数の XAML に分割する
-description: REST API とオープン ソース Swift SDK を使用して Slides ファイルをスライドに分割する
+description: REST API とオープン ソース Swift SDK を使用して Slides PPTM ファイルを XAML スライドに分割する
 family: slides
 platformtag: swift
 feature: split

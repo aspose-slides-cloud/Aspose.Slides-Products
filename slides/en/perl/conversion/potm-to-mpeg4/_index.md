@@ -1,6 +1,6 @@
 ---
 title: Convert from Slides POTM to MPEG4 via Perl 
-description: Create, Edit or Convert Slides files with REST API & Open Source Perl SDK
+description: Create, Edit or Convert Slides POTM files to MPEG4 with REST API & Open Source Perl SDK
 family: slides
 platformtag: perl
 feature: conversion

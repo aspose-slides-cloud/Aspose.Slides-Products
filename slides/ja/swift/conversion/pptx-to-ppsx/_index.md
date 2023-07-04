@@ -1,6 +1,6 @@
 ---
 title: Slides PPTX から Swift 経由で PPSX に変換
-description: REST API とオープン ソース Swift SDK を使用して Slides ファイルを作成、編集、または変換します
+description: REST API とオープン ソース Swift SDK を使用して Slides PPTX ファイルを作成、編集、PPSX に変換します
 family: slides
 platformtag: swift
 feature: conversion

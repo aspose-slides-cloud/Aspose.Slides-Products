@@ -1,6 +1,6 @@
 ---
 title: Fusionner plusieurs fichiers PPSX via Android
-description: Fusionnez plusieurs fichiers Slides avec l'API REST et le SDK Open Source Android
+description: Fusionnez plusieurs fichiers Slides PPSX avec l'API REST et le SDK Open Source Android
 family: slides
 platformtag: android
 feature: merge

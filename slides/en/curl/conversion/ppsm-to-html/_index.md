@@ -1,6 +1,6 @@
 ---
 title: Convert from Slides PPSM to HTML via cURL 
-description: Create, Edit or Convert Slides files with REST API & Open Source cURL SDK
+description: Create, Edit or Convert Slides PPSM files to HTML with REST API & Open Source cURL SDK
 family: slides
 platformtag: curl
 feature: conversion

@@ -1,6 +1,6 @@
 ---
 title: Split Slides PPTX into multiple BMP via .NET
-description: Split Slides files into slides with REST API & Open Source .NET SDK
+description: Split Slides PPTX files into BMP slides with REST API & Open Source .NET SDK
 family: slides
 platformtag: net
 feature: split

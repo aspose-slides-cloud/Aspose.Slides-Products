@@ -1,6 +1,6 @@
 ---
 title: Fusionner plusieurs fichiers POTM via .NET
-description: Fusionnez plusieurs fichiers Slides avec l'API REST et le SDK Open Source .NET
+description: Fusionnez plusieurs fichiers Slides POTM avec l'API REST et le SDK Open Source .NET
 family: slides
 platformtag: net
 feature: merge

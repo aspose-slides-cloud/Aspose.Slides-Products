@@ -1,6 +1,6 @@
 ---
 title: Convertir de Slides PPSM en PNG via Ruby
-description: Créez, modifiez ou convertissez des fichiers Slides avec l'API REST et le SDK Ruby Open Source
+description: Créez, modifiez ou convertissez des fichiers Slides PPSM en PNG avec l'API REST et le SDK Ruby Open Source
 family: slides
 platformtag: ruby
 feature: conversion

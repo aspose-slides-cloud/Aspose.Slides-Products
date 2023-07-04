@@ -1,6 +1,6 @@
 ---
 title: Diviser Slides PDF en plusieurs XAML via cURL
-description: Divisez les fichiers Slides en diapositives avec l'API REST et le SDK Open Source cURL
+description: Divisez les fichiers Slides PDF en diapositives XAML avec l'API REST et le SDK Open Source cURL
 family: slides
 platformtag: curl
 feature: split

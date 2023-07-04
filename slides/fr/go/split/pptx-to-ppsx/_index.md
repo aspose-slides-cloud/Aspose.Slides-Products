@@ -1,6 +1,6 @@
 ---
 title: Diviser Slides PPTX en plusieurs PPSX via Go
-description: Divisez les fichiers Slides en diapositives avec l'API REST et le SDK Open Source Go
+description: Divisez les fichiers Slides PPTX en diapositives PPSX avec l'API REST et le SDK Open Source Go
 family: slides
 platformtag: go
 feature: split

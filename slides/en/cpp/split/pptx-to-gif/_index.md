@@ -1,6 +1,6 @@
 ---
 title: Split Slides PPTX into multiple GIF via C++
-description: Split Slides files into slides with REST API & Open Source C++ SDK
+description: Split Slides PPTX files into GIF slides with REST API & Open Source C++ SDK
 family: slides
 platformtag: cpp
 feature: split

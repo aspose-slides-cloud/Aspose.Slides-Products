@@ -1,6 +1,6 @@
 ---
 title: Convertir de Slides POTX en XPS via Ruby
-description: Créez, modifiez ou convertissez des fichiers Slides avec l'API REST et le SDK Ruby Open Source
+description: Créez, modifiez ou convertissez des fichiers Slides POTX en XPS avec l'API REST et le SDK Ruby Open Source
 family: slides
 platformtag: ruby
 feature: conversion

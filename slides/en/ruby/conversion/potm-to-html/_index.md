@@ -1,6 +1,6 @@
 ---
 title: Convert from Slides POTM to HTML via Ruby 
-description: Create, Edit or Convert Slides files with REST API & Open Source Ruby SDK
+description: Create, Edit or Convert Slides POTM files to HTML with REST API & Open Source Ruby SDK
 family: slides
 platformtag: ruby
 feature: conversion

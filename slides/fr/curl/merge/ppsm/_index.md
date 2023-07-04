@@ -1,6 +1,6 @@
 ---
 title: Fusionner plusieurs fichiers PPSM via cURL
-description: Fusionnez plusieurs fichiers Slides avec l'API REST et le SDK Open Source cURL
+description: Fusionnez plusieurs fichiers Slides PPSM avec l'API REST et le SDK Open Source cURL
 family: slides
 platformtag: curl
 feature: merge

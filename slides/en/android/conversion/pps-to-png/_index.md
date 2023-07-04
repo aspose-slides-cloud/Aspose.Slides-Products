@@ -1,6 +1,6 @@
 ---
 title: Convert from Slides PPS to PNG via Android 
-description: Create, Edit or Convert Slides files with REST API & Open Source Android SDK
+description: Create, Edit or Convert Slides PPS files to PNG with REST API & Open Source Android SDK
 family: slides
 platformtag: android
 feature: conversion

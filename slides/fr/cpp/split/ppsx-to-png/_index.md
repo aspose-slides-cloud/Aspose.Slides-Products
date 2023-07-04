@@ -1,6 +1,6 @@
 ---
 title: Diviser Slides PPSX en plusieurs PNG via C++
-description: Divisez les fichiers Slides en diapositives avec l'API REST et le SDK Open Source C++
+description: Divisez les fichiers Slides PPSX en diapositives PNG avec l'API REST et le SDK Open Source C++
 family: slides
 platformtag: cpp
 feature: split

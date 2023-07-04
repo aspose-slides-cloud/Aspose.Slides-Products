@@ -1,6 +1,6 @@
 ---
 title: Diviser Slides OTP en plusieurs PPT via Android
-description: Divisez les fichiers Slides en diapositives avec l'API REST et le SDK Open Source Android
+description: Divisez les fichiers Slides OTP en diapositives PPT avec l'API REST et le SDK Open Source Android
 family: slides
 platformtag: android
 feature: split

@@ -1,6 +1,6 @@
 ---
 title: Diviser Slides PPTM en plusieurs ODP via Ruby
-description: Divisez les fichiers Slides en diapositives avec l'API REST et le SDK Open Source Ruby
+description: Divisez les fichiers Slides PPTM en diapositives ODP avec l'API REST et le SDK Open Source Ruby
 family: slides
 platformtag: ruby
 feature: split

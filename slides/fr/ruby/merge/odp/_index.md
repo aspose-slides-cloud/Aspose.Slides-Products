@@ -1,6 +1,6 @@
 ---
 title: Fusionner plusieurs fichiers ODP via Ruby
-description: Fusionnez plusieurs fichiers Slides avec l'API REST et le SDK Open Source Ruby
+description: Fusionnez plusieurs fichiers Slides ODP avec l'API REST et le SDK Open Source Ruby
 family: slides
 platformtag: ruby
 feature: merge

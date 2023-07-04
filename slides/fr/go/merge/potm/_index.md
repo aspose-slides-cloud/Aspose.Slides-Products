@@ -1,6 +1,6 @@
 ---
 title: Fusionner plusieurs fichiers POTM via Go
-description: Fusionnez plusieurs fichiers Slides avec l'API REST et le SDK Open Source Go
+description: Fusionnez plusieurs fichiers Slides POTM avec l'API REST et le SDK Open Source Go
 family: slides
 platformtag: go
 feature: merge

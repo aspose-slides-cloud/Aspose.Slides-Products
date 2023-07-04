@@ -1,6 +1,6 @@
 ---
 title: Convert from Slides ODP to PPTX via Java 
-description: Create, Edit or Convert Slides files with REST API & Open Source Java SDK
+description: Create, Edit or Convert Slides ODP files to PPTX with REST API & Open Source Java SDK
 family: slides
 platformtag: java
 feature: conversion

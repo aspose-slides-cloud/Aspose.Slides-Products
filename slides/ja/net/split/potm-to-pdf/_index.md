@@ -1,6 +1,6 @@
 ---
 title: Slides POTM を .NET 経由で複数の PDF に分割する
-description: REST API とオープン ソース .NET SDK を使用して Slides ファイルをスライドに分割する
+description: REST API とオープン ソース .NET SDK を使用して Slides POTM ファイルを PDF スライドに分割する
 family: slides
 platformtag: net
 feature: split

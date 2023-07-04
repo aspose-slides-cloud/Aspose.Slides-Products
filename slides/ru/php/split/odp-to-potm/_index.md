@@ -1,6 +1,6 @@
 ---
 title: Разделение Slides ODP на несколько POTM с помощью PHP
-description: Разделите файлы Slides на слайды с помощью REST API и PHP SDK с открытым исходным кодом
+description: Разделите файлы Slides ODP на слайды POTM с помощью REST API и PHP SDK с открытым исходным кодом
 family: slides
 platformtag: php
 feature: split

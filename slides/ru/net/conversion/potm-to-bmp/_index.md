@@ -1,6 +1,6 @@
 ---
 title: Преобразование Slides POTM в BMP с помощью .NET
-description: Создавайте, редактируйте или конвертируйте файлы Slides с помощью REST API и .NET SDK с открытым исходным кодом
+description: Создавайте, редактируйте или конвертируйте файлы Slides POTM в BMP с помощью REST API и .NET SDK с открытым исходным кодом
 family: slides
 platformtag: net
 feature: conversion

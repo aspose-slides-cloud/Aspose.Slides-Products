@@ -1,6 +1,6 @@
 ---
 title: Split Slides OTP into multiple HTML5 via C++
-description: Split Slides files into slides with REST API & Open Source C++ SDK
+description: Split Slides OTP files into HTML5 slides with REST API & Open Source C++ SDK
 family: slides
 platformtag: cpp
 feature: split

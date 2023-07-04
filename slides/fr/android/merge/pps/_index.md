@@ -1,6 +1,6 @@
 ---
 title: Fusionner plusieurs fichiers PPS via Android
-description: Fusionnez plusieurs fichiers Slides avec l'API REST et le SDK Open Source Android
+description: Fusionnez plusieurs fichiers Slides PPS avec l'API REST et le SDK Open Source Android
 family: slides
 platformtag: android
 feature: merge

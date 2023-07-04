@@ -1,6 +1,6 @@
 ---
 title: Convert from Slides PPS to PPSM via Perl 
-description: Create, Edit or Convert Slides files with REST API & Open Source Perl SDK
+description: Create, Edit or Convert Slides PPS files to PPSM with REST API & Open Source Perl SDK
 family: slides
 platformtag: perl
 feature: conversion

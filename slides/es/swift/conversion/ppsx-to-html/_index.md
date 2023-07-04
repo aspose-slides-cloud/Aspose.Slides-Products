@@ -1,6 +1,6 @@
 ---
 title: Convertir de Slides PPSX a HTML a través de Swift
-description: cree, edite o convierta archivos Slides con REST API y Swift SDK de código abierto
+description: cree, edite o convierta archivos Slides PPSX a HTML con REST API y Swift SDK de código abierto
 family: slides
 platformtag: swift
 feature: conversion

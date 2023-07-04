@@ -1,6 +1,6 @@
 ---
 title: 通过 .NET 从 Slides PDF 转换为 PNG
-description: 使用 REST API 和开源 .NET SDK 创建、编辑或转换 Slides 文件
+description: 使用 REST API 和开源 .NET SDK 创建、编辑或转换 Slides PDF 文件或将其转换为 PNG
 family: slides
 platformtag: net
 feature: conversion

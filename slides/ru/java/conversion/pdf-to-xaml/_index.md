@@ -1,6 +1,6 @@
 ---
 title: Преобразование Slides PDF в XAML с помощью Java
-description: Создавайте, редактируйте или конвертируйте файлы Slides с помощью REST API и Java SDK с открытым исходным кодом
+description: Создавайте, редактируйте или конвертируйте файлы Slides PDF в XAML с помощью REST API и Java SDK с открытым исходным кодом
 family: slides
 platformtag: java
 feature: conversion

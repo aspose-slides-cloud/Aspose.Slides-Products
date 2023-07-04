@@ -1,6 +1,6 @@
 ---
 title: Split Slides POTM into multiple XAML via Java
-description: Split Slides files into slides with REST API & Open Source Java SDK
+description: Split Slides POTM files into XAML slides with REST API & Open Source Java SDK
 family: slides
 platformtag: java
 feature: split

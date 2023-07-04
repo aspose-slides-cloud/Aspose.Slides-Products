@@ -1,6 +1,6 @@
 ---
 title: Combinar múltiples archivos PPTX a través de PHP
-description: Combine varios archivos Slides con REST API y Open Source PHP SDK
+description: Combine varios archivos Slides PPTX con REST API y Open Source PHP SDK
 family: slides
 platformtag: php
 feature: merge

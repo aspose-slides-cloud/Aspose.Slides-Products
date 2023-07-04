@@ -1,6 +1,6 @@
 ---
 title: Split Slides OTP into multiple GIF via Android
-description: Split Slides files into slides with REST API & Open Source Android SDK
+description: Split Slides OTP files into GIF slides with REST API & Open Source Android SDK
 family: slides
 platformtag: android
 feature: split

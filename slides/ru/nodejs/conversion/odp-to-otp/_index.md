@@ -1,6 +1,6 @@
 ---
 title: Преобразование Slides ODP в OTP с помощью Node.js
-description: Создавайте, редактируйте или конвертируйте файлы Slides с помощью REST API и Node.js SDK с открытым исходным кодом
+description: Создавайте, редактируйте или конвертируйте файлы Slides ODP в OTP с помощью REST API и Node.js SDK с открытым исходным кодом
 family: slides
 platformtag: nodejs
 feature: conversion

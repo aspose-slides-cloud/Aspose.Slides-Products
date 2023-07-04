@@ -1,6 +1,6 @@
 ---
 title: C++経由で複数のPDFファイルをマージ
-description: REST API とオープン ソース C++ SDK を使用して複数の Slides ファイルをマージする
+description: REST API とオープン ソース C++ SDK を使用して複数の Slides PDF ファイルをマージする
 family: slides
 platformtag: cpp
 feature: merge

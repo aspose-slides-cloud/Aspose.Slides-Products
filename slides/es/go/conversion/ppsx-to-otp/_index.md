@@ -1,6 +1,6 @@
 ---
 title: Convertir de Slides PPSX a OTP a través de Go
-description: cree, edite o convierta archivos Slides con REST API y Go SDK de código abierto
+description: cree, edite o convierta archivos Slides PPSX a OTP con REST API y Go SDK de código abierto
 family: slides
 platformtag: go
 feature: conversion

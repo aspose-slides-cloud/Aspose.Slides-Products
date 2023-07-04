@@ -1,6 +1,6 @@
 ---
 title: Convert from Slides POTM to ODP via Java 
-description: Create, Edit or Convert Slides files with REST API & Open Source Java SDK
+description: Create, Edit or Convert Slides POTM files to ODP with REST API & Open Source Java SDK
 family: slides
 platformtag: java
 feature: conversion

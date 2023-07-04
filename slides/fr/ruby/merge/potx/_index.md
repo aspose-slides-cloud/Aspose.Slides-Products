@@ -1,6 +1,6 @@
 ---
 title: Fusionner plusieurs fichiers POTX via Ruby
-description: Fusionnez plusieurs fichiers Slides avec l'API REST et le SDK Open Source Ruby
+description: Fusionnez plusieurs fichiers Slides POTX avec l'API REST et le SDK Open Source Ruby
 family: slides
 platformtag: ruby
 feature: merge

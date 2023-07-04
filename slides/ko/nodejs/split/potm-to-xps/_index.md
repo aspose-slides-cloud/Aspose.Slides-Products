@@ -1,6 +1,6 @@
 ---
 title: Node.js를 통해 Slides POTM를 여러 XPS로 분할
-description: REST API 및 오픈 소스 Node.js SDK를 사용하여 Slides 파일을 슬라이드로 분할
+description: REST API 및 오픈 소스 Node.js SDK를 사용하여 Slides POTM 파일을 XPS 슬라이드로 분할
 family: slides
 platformtag: nodejs
 feature: split

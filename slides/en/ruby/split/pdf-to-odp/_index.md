@@ -1,6 +1,6 @@
 ---
 title: Split Slides PDF into multiple ODP via Ruby
-description: Split Slides files into slides with REST API & Open Source Ruby SDK
+description: Split Slides PDF files into ODP slides with REST API & Open Source Ruby SDK
 family: slides
 platformtag: ruby
 feature: split

@@ -1,6 +1,6 @@
 ---
 title: Convert from Slides PPTM to OTP via C++ 
-description: Create, Edit or Convert Slides files with REST API & Open Source C++ SDK
+description: Create, Edit or Convert Slides PPTM files to OTP with REST API & Open Source C++ SDK
 family: slides
 platformtag: cpp
 feature: conversion

@@ -1,6 +1,6 @@
 ---
 title: Split Slides PPSM into multiple POTX via C++
-description: Split Slides files into slides with REST API & Open Source C++ SDK
+description: Split Slides PPSM files into POTX slides with REST API & Open Source C++ SDK
 family: slides
 platformtag: cpp
 feature: split

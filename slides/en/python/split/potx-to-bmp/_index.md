@@ -1,6 +1,6 @@
 ---
 title: Split Slides POTX into multiple BMP via Python
-description: Split Slides files into slides with REST API & Open Source Python SDK
+description: Split Slides POTX files into BMP slides with REST API & Open Source Python SDK
 family: slides
 platformtag: python
 feature: split

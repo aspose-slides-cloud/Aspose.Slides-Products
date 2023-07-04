@@ -1,6 +1,6 @@
 ---
 title: Convert from Slides PPTX to HTML via PHP 
-description: Create, Edit or Convert Slides files with REST API & Open Source PHP SDK
+description: Create, Edit or Convert Slides PPTX files to HTML with REST API & Open Source PHP SDK
 family: slides
 platformtag: php
 feature: conversion

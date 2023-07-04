@@ -1,6 +1,6 @@
 ---
 title: Convert from Slides PDF to POTM via cURL 
-description: Create, Edit or Convert Slides files with REST API & Open Source cURL SDK
+description: Create, Edit or Convert Slides PDF files to POTM with REST API & Open Source cURL SDK
 family: slides
 platformtag: curl
 feature: conversion

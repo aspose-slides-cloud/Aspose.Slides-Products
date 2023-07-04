@@ -1,6 +1,6 @@
 ---
 title: Convert from Slides ODP to SVG via Python 
-description: Create, Edit or Convert Slides files with REST API & Open Source Python SDK
+description: Create, Edit or Convert Slides ODP files to SVG with REST API & Open Source Python SDK
 family: slides
 platformtag: python
 feature: conversion

@@ -1,6 +1,6 @@
 ---
 title: Convert from Slides PPSM to OTP via Python 
-description: Create, Edit or Convert Slides files with REST API & Open Source Python SDK
+description: Create, Edit or Convert Slides PPSM files to OTP with REST API & Open Source Python SDK
 family: slides
 platformtag: python
 feature: conversion

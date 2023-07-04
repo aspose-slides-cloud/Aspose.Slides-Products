@@ -1,6 +1,6 @@
 ---
 title: Разделение Slides POTM на несколько PDF с помощью Ruby
-description: Разделите файлы Slides на слайды с помощью REST API и Ruby SDK с открытым исходным кодом
+description: Разделите файлы Slides POTM на слайды PDF с помощью REST API и Ruby SDK с открытым исходным кодом
 family: slides
 platformtag: ruby
 feature: split

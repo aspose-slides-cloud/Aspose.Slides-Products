@@ -1,6 +1,6 @@
 ---
 title: Dividir Slides POTX en múltiples OTP a través de cURL
-description: Dividir archivos de Slides en diapositivas con REST API y cURL SDK de código abierto
+description: Dividir archivos de Slides POTX en diapositivas OTP con REST API y cURL SDK de código abierto
 family: slides
 platformtag: curl
 feature: split

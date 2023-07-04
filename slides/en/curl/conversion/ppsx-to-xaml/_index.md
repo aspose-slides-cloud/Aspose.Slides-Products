@@ -1,6 +1,6 @@
 ---
 title: Convert from Slides PPSX to XAML via cURL 
-description: Create, Edit or Convert Slides files with REST API & Open Source cURL SDK
+description: Create, Edit or Convert Slides PPSX files to XAML with REST API & Open Source cURL SDK
 family: slides
 platformtag: curl
 feature: conversion

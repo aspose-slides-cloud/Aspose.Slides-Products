@@ -1,6 +1,6 @@
 ---
 title: Dividir Slides PPSX en múltiples PPSM a través de Go
-description: Dividir archivos de Slides en diapositivas con REST API y Go SDK de código abierto
+description: Dividir archivos de Slides PPSX en diapositivas PPSM con REST API y Go SDK de código abierto
 family: slides
 platformtag: go
 feature: split

@@ -1,6 +1,6 @@
 ---
 title: Convertir de Slides PPS a XPS a través de Android
-description: cree, edite o convierta archivos Slides con REST API y Android SDK de código abierto
+description: cree, edite o convierta archivos Slides PPS a XPS con REST API y Android SDK de código abierto
 family: slides
 platformtag: android
 feature: conversion

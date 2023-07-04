@@ -1,6 +1,6 @@
 ---
 title: Преобразование Slides PPTM в TIFF с помощью Go
-description: Создавайте, редактируйте или конвертируйте файлы Slides с помощью REST API и Go SDK с открытым исходным кодом
+description: Создавайте, редактируйте или конвертируйте файлы Slides PPTM в TIFF с помощью REST API и Go SDK с открытым исходным кодом
 family: slides
 platformtag: go
 feature: conversion

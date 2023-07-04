@@ -1,6 +1,6 @@
 ---
 title: Diviser Slides POTM en plusieurs PDF via Go
-description: Divisez les fichiers Slides en diapositives avec l'API REST et le SDK Open Source Go
+description: Divisez les fichiers Slides POTM en diapositives PDF avec l'API REST et le SDK Open Source Go
 family: slides
 platformtag: go
 feature: split

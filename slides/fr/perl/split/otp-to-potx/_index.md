@@ -1,6 +1,6 @@
 ---
 title: Diviser Slides OTP en plusieurs POTX via Perl
-description: Divisez les fichiers Slides en diapositives avec l'API REST et le SDK Open Source Perl
+description: Divisez les fichiers Slides OTP en diapositives POTX avec l'API REST et le SDK Open Source Perl
 family: slides
 platformtag: perl
 feature: split

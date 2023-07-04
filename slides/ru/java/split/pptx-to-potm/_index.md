@@ -1,6 +1,6 @@
 ---
 title: Разделение Slides PPTX на несколько POTM с помощью Java
-description: Разделите файлы Slides на слайды с помощью REST API и Java SDK с открытым исходным кодом
+description: Разделите файлы Slides PPTX на слайды POTM с помощью REST API и Java SDK с открытым исходным кодом
 family: slides
 platformtag: java
 feature: split

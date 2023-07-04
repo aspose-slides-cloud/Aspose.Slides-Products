@@ -1,6 +1,6 @@
 ---
 title: Fusionner plusieurs fichiers PDF via Go
-description: Fusionnez plusieurs fichiers Slides avec l'API REST et le SDK Open Source Go
+description: Fusionnez plusieurs fichiers Slides PDF avec l'API REST et le SDK Open Source Go
 family: slides
 platformtag: go
 feature: merge

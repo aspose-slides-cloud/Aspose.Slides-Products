@@ -1,6 +1,6 @@
 ---
 title: Split Slides PPS into multiple ODP via Ruby
-description: Split Slides files into slides with REST API & Open Source Ruby SDK
+description: Split Slides PPS files into ODP slides with REST API & Open Source Ruby SDK
 family: slides
 platformtag: ruby
 feature: split

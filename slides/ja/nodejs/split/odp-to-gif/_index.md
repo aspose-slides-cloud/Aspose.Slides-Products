@@ -1,6 +1,6 @@
 ---
 title: Slides ODP を Node.js 経由で複数の GIF に分割する
-description: REST API とオープン ソース Node.js SDK を使用して Slides ファイルをスライドに分割する
+description: REST API とオープン ソース Node.js SDK を使用して Slides ODP ファイルを GIF スライドに分割する
 family: slides
 platformtag: nodejs
 feature: split

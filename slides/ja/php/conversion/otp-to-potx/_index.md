@@ -1,6 +1,6 @@
 ---
 title: Slides OTP から PHP 経由で POTX に変換
-description: REST API とオープン ソース PHP SDK を使用して Slides ファイルを作成、編集、または変換します
+description: REST API とオープン ソース PHP SDK を使用して Slides OTP ファイルを作成、編集、POTX に変換します
 family: slides
 platformtag: php
 feature: conversion

@@ -1,6 +1,6 @@
 ---
 title: Diviser Slides PPT en plusieurs JPEG via cURL
-description: Divisez les fichiers Slides en diapositives avec l'API REST et le SDK Open Source cURL
+description: Divisez les fichiers Slides PPT en diapositives JPEG avec l'API REST et le SDK Open Source cURL
 family: slides
 platformtag: curl
 feature: split

@@ -1,6 +1,6 @@
 ---
 title: Diviser Slides PPTX en plusieurs JPEG via Android
-description: Divisez les fichiers Slides en diapositives avec l'API REST et le SDK Open Source Android
+description: Divisez les fichiers Slides PPTX en diapositives JPEG avec l'API REST et le SDK Open Source Android
 family: slides
 platformtag: android
 feature: split

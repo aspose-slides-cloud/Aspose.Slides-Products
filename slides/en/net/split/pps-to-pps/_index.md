@@ -1,6 +1,6 @@
 ---
 title: Split Slides PPS into multiple PPS via .NET
-description: Split Slides files into slides with REST API & Open Source .NET SDK
+description: Split Slides PPS files into PPS slides with REST API & Open Source .NET SDK
 family: slides
 platformtag: net
 feature: split

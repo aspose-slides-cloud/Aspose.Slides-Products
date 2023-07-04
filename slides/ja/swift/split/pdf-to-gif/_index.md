@@ -1,6 +1,6 @@
 ---
 title: Slides PDF を Swift 経由で複数の GIF に分割する
-description: REST API とオープン ソース Swift SDK を使用して Slides ファイルをスライドに分割する
+description: REST API とオープン ソース Swift SDK を使用して Slides PDF ファイルを GIF スライドに分割する
 family: slides
 platformtag: swift
 feature: split

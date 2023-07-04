@@ -1,6 +1,6 @@
 ---
 title: Convert from Slides ODP to POTX via Swift 
-description: Create, Edit or Convert Slides files with REST API & Open Source Swift SDK
+description: Create, Edit or Convert Slides ODP files to POTX with REST API & Open Source Swift SDK
 family: slides
 platformtag: swift
 feature: conversion

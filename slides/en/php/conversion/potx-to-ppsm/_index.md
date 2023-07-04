@@ -1,6 +1,6 @@
 ---
 title: Convert from Slides POTX to PPSM via PHP 
-description: Create, Edit or Convert Slides files with REST API & Open Source PHP SDK
+description: Create, Edit or Convert Slides POTX files to PPSM with REST API & Open Source PHP SDK
 family: slides
 platformtag: php
 feature: conversion

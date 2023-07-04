@@ -1,6 +1,6 @@
 ---
 title: 通过 C++ 合并多个 PPTX 文件
-description: 使用 REST API 和开源 C++ SDK 合并多个 Slides 文件
+description: 使用 REST API 和开源 C++ SDK 合并多个 Slides PPTX 文件
 family: slides
 platformtag: cpp
 feature: merge

@@ -1,6 +1,6 @@
 ---
 title: Split Slides OTP into multiple OTP via Swift
-description: Split Slides files into slides with REST API & Open Source Swift SDK
+description: Split Slides OTP files into OTP slides with REST API & Open Source Swift SDK
 family: slides
 platformtag: swift
 feature: split

@@ -1,6 +1,6 @@
 ---
 title: Dividir Slides PPSX en múltiples XPS a través de Swift
-description: Dividir archivos de Slides en diapositivas con REST API y Swift SDK de código abierto
+description: Dividir archivos de Slides PPSX en diapositivas XPS con REST API y Swift SDK de código abierto
 family: slides
 platformtag: swift
 feature: split

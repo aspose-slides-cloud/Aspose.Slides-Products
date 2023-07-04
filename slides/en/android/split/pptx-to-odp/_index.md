@@ -1,6 +1,6 @@
 ---
 title: Split Slides PPTX into multiple ODP via Android
-description: Split Slides files into slides with REST API & Open Source Android SDK
+description: Split Slides PPTX files into ODP slides with REST API & Open Source Android SDK
 family: slides
 platformtag: android
 feature: split

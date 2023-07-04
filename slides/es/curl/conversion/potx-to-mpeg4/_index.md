@@ -1,6 +1,6 @@
 ---
 title: Convertir de Slides POTX a MPEG4 a través de cURL
-description: cree, edite o convierta archivos Slides con REST API y cURL SDK de código abierto
+description: cree, edite o convierta archivos Slides POTX a MPEG4 con REST API y cURL SDK de código abierto
 family: slides
 platformtag: curl
 feature: conversion

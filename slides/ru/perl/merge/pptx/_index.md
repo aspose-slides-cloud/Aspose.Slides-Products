@@ -1,6 +1,6 @@
 ---
 title: Объединение нескольких PPTX файлов с помощью Perl
-description: Объединение нескольких файлов Slides с помощью REST API и Perl SDK с открытым исходным кодом
+description: Объединение нескольких файлов Slides PPTX с помощью REST API и Perl SDK с открытым исходным кодом
 family: slides
 platformtag: perl
 feature: merge

@@ -1,6 +1,6 @@
 ---
 title: Convertir de Slides PPT a HTML a través de Java
-description: cree, edite o convierta archivos Slides con REST API y Java SDK de código abierto
+description: cree, edite o convierta archivos Slides PPT a HTML con REST API y Java SDK de código abierto
 family: slides
 platformtag: java
 feature: conversion

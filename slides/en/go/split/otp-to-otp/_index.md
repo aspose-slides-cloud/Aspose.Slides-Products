@@ -1,6 +1,6 @@
 ---
 title: Split Slides OTP into multiple OTP via Go
-description: Split Slides files into slides with REST API & Open Source Go SDK
+description: Split Slides OTP files into OTP slides with REST API & Open Source Go SDK
 family: slides
 platformtag: go
 feature: split

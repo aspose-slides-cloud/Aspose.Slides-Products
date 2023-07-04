@@ -1,6 +1,6 @@
 ---
 title: Split Slides PPSM into multiple GIF via Node.js
-description: Split Slides files into slides with REST API & Open Source Node.js SDK
+description: Split Slides PPSM files into GIF slides with REST API & Open Source Node.js SDK
 family: slides
 platformtag: nodejs
 feature: split

@@ -1,6 +1,6 @@
 ---
 title: Dividir Slides PPTX en múltiples ODP a través de PHP
-description: Dividir archivos de Slides en diapositivas con REST API y PHP SDK de código abierto
+description: Dividir archivos de Slides PPTX en diapositivas ODP con REST API y PHP SDK de código abierto
 family: slides
 platformtag: php
 feature: split

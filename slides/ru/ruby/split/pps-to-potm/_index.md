@@ -1,6 +1,6 @@
 ---
 title: Разделение Slides PPS на несколько POTM с помощью Ruby
-description: Разделите файлы Slides на слайды с помощью REST API и Ruby SDK с открытым исходным кодом
+description: Разделите файлы Slides PPS на слайды POTM с помощью REST API и Ruby SDK с открытым исходным кодом
 family: slides
 platformtag: ruby
 feature: split

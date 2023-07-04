@@ -1,6 +1,6 @@
 ---
 title: Diviser Slides PPT en plusieurs SVG via C++
-description: Divisez les fichiers Slides en diapositives avec l'API REST et le SDK Open Source C++
+description: Divisez les fichiers Slides PPT en diapositives SVG avec l'API REST et le SDK Open Source C++
 family: slides
 platformtag: cpp
 feature: split

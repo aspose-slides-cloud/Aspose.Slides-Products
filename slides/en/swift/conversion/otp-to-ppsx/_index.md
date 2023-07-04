@@ -1,6 +1,6 @@
 ---
 title: Convert from Slides OTP to PPSX via Swift 
-description: Create, Edit or Convert Slides files with REST API & Open Source Swift SDK
+description: Create, Edit or Convert Slides OTP files to PPSX with REST API & Open Source Swift SDK
 family: slides
 platformtag: swift
 feature: conversion

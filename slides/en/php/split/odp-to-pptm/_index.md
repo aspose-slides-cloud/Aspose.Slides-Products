@@ -1,6 +1,6 @@
 ---
 title: Split Slides ODP into multiple PPTM via PHP
-description: Split Slides files into slides with REST API & Open Source PHP SDK
+description: Split Slides ODP files into PPTM slides with REST API & Open Source PHP SDK
 family: slides
 platformtag: php
 feature: split

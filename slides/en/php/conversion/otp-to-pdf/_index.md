@@ -1,6 +1,6 @@
 ---
 title: Convert from Slides OTP to PDF via PHP 
-description: Create, Edit or Convert Slides files with REST API & Open Source PHP SDK
+description: Create, Edit or Convert Slides OTP files to PDF with REST API & Open Source PHP SDK
 family: slides
 platformtag: php
 feature: conversion

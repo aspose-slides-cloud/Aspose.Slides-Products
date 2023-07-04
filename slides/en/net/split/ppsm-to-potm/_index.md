@@ -1,6 +1,6 @@
 ---
 title: Split Slides PPSM into multiple POTM via .NET
-description: Split Slides files into slides with REST API & Open Source .NET SDK
+description: Split Slides PPSM files into POTM slides with REST API & Open Source .NET SDK
 family: slides
 platformtag: net
 feature: split

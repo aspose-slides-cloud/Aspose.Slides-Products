@@ -1,6 +1,6 @@
 ---
 title: Преобразование Slides ODP в PPTX с помощью .NET
-description: Создавайте, редактируйте или конвертируйте файлы Slides с помощью REST API и .NET SDK с открытым исходным кодом
+description: Создавайте, редактируйте или конвертируйте файлы Slides ODP в PPTX с помощью REST API и .NET SDK с открытым исходным кодом
 family: slides
 platformtag: net
 feature: conversion

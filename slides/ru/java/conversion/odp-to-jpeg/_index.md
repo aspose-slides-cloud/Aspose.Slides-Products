@@ -1,6 +1,6 @@
 ---
 title: Преобразование Slides ODP в JPEG с помощью Java
-description: Создавайте, редактируйте или конвертируйте файлы Slides с помощью REST API и Java SDK с открытым исходным кодом
+description: Создавайте, редактируйте или конвертируйте файлы Slides ODP в JPEG с помощью REST API и Java SDK с открытым исходным кодом
 family: slides
 platformtag: java
 feature: conversion

@@ -1,6 +1,6 @@
 ---
 title: Split Slides PDF into multiple XAML via C++
-description: Split Slides files into slides with REST API & Open Source C++ SDK
+description: Split Slides PDF files into XAML slides with REST API & Open Source C++ SDK
 family: slides
 platformtag: cpp
 feature: split

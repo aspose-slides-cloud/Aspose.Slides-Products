@@ -1,6 +1,6 @@
 ---
 title: Dividir Slides ODP en múltiples SVG a través de C++
-description: Dividir archivos de Slides en diapositivas con REST API y C++ SDK de código abierto
+description: Dividir archivos de Slides ODP en diapositivas SVG con REST API y C++ SDK de código abierto
 family: slides
 platformtag: cpp
 feature: split

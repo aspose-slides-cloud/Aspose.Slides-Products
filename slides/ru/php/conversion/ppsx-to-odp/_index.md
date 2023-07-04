@@ -1,6 +1,6 @@
 ---
 title: Преобразование Slides PPSX в ODP с помощью PHP
-description: Создавайте, редактируйте или конвертируйте файлы Slides с помощью REST API и PHP SDK с открытым исходным кодом
+description: Создавайте, редактируйте или конвертируйте файлы Slides PPSX в ODP с помощью REST API и PHP SDK с открытым исходным кодом
 family: slides
 platformtag: php
 feature: conversion

@@ -1,6 +1,6 @@
 ---
 title: Convert from Slides OTP to HTML5 via Python 
-description: Create, Edit or Convert Slides files with REST API & Open Source Python SDK
+description: Create, Edit or Convert Slides OTP files to HTML5 with REST API & Open Source Python SDK
 family: slides
 platformtag: python
 feature: conversion

@@ -1,6 +1,6 @@
 ---
 title: Convert from Slides PPS to PNG via PHP 
-description: Create, Edit or Convert Slides files with REST API & Open Source PHP SDK
+description: Create, Edit or Convert Slides PPS files to PNG with REST API & Open Source PHP SDK
 family: slides
 platformtag: php
 feature: conversion

@@ -1,6 +1,6 @@
 ---
 title: Slides PPSM を PHP 経由で複数の PDF に分割する
-description: REST API とオープン ソース PHP SDK を使用して Slides ファイルをスライドに分割する
+description: REST API とオープン ソース PHP SDK を使用して Slides PPSM ファイルを PDF スライドに分割する
 family: slides
 platformtag: php
 feature: split

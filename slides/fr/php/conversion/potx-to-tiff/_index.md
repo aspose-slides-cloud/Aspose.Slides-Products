@@ -1,6 +1,6 @@
 ---
 title: Convertir de Slides POTX en TIFF via PHP
-description: Créez, modifiez ou convertissez des fichiers Slides avec l'API REST et le SDK PHP Open Source
+description: Créez, modifiez ou convertissez des fichiers Slides POTX en TIFF avec l'API REST et le SDK PHP Open Source
 family: slides
 platformtag: php
 feature: conversion

@@ -1,6 +1,6 @@
 ---
 title: Split Slides PPT into multiple OTP via cURL
-description: Split Slides files into slides with REST API & Open Source cURL SDK
+description: Split Slides PPT files into OTP slides with REST API & Open Source cURL SDK
 family: slides
 platformtag: curl
 feature: split

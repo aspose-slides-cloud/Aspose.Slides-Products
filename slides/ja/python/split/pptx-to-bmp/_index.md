@@ -1,6 +1,6 @@
 ---
 title: Slides PPTX を Python 経由で複数の BMP に分割する
-description: REST API とオープン ソース Python SDK を使用して Slides ファイルをスライドに分割する
+description: REST API とオープン ソース Python SDK を使用して Slides PPTX ファイルを BMP スライドに分割する
 family: slides
 platformtag: python
 feature: split

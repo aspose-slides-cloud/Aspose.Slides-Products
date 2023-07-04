@@ -1,6 +1,6 @@
 ---
 title: Slides OTP から Ruby 経由で PPSX に変換
-description: REST API とオープン ソース Ruby SDK を使用して Slides ファイルを作成、編集、または変換します
+description: REST API とオープン ソース Ruby SDK を使用して Slides OTP ファイルを作成、編集、PPSX に変換します
 family: slides
 platformtag: ruby
 feature: conversion

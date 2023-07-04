@@ -1,6 +1,6 @@
 ---
 title: Merge multiple PPSM files via Java
-description: Merge multiple Slides files with REST API & Open Source Java SDK
+description: Merge multiple Slides PPSM files with REST API & Open Source Java SDK
 family: slides
 platformtag: java
 feature: merge

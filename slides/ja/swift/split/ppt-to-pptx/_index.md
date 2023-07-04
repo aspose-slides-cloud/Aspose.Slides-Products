@@ -1,6 +1,6 @@
 ---
 title: Slides PPT を Swift 経由で複数の PPTX に分割する
-description: REST API とオープン ソース Swift SDK を使用して Slides ファイルをスライドに分割する
+description: REST API とオープン ソース Swift SDK を使用して Slides PPT ファイルを PPTX スライドに分割する
 family: slides
 platformtag: swift
 feature: split

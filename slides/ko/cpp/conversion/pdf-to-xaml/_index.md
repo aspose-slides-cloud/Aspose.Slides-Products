@@ -1,6 +1,6 @@
 ---
 title: C++를 통해 Slides PDF에서 XAML로 변환
-description: REST API 및 오픈 소스 C++ SDK를 사용하여 Slides 파일 생성, 편집 또는 변환
+description: REST API 및 오픈 소스 C++ SDK를 사용하여 Slides PDF 파일을 PDF로 생성, 편집 또는 변환
 family: slides
 platformtag: cpp
 feature: conversion

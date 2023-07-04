@@ -1,6 +1,6 @@
 ---
 title: Go를 통해 Slides POTM를 여러 TIFF로 분할
-description: REST API 및 오픈 소스 Go SDK를 사용하여 Slides 파일을 슬라이드로 분할
+description: REST API 및 오픈 소스 Go SDK를 사용하여 Slides POTM 파일을 TIFF 슬라이드로 분할
 family: slides
 platformtag: go
 feature: split

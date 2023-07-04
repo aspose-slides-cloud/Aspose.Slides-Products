@@ -1,6 +1,6 @@
 ---
 title: Разделение Slides PPSX на несколько XPS с помощью cURL
-description: Разделите файлы Slides на слайды с помощью REST API и cURL SDK с открытым исходным кодом
+description: Разделите файлы Slides PPSX на слайды XPS с помощью REST API и cURL SDK с открытым исходным кодом
 family: slides
 platformtag: curl
 feature: split

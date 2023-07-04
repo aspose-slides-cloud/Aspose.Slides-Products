@@ -1,6 +1,6 @@
 ---
 title: Convert from Slides PPT to PDF via cURL 
-description: Create, Edit or Convert Slides files with REST API & Open Source cURL SDK
+description: Create, Edit or Convert Slides PPT files to PDF with REST API & Open Source cURL SDK
 family: slides
 platformtag: curl
 feature: conversion

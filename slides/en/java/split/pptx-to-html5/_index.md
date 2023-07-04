@@ -1,6 +1,6 @@
 ---
 title: Split Slides PPTX into multiple HTML5 via Java
-description: Split Slides files into slides with REST API & Open Source Java SDK
+description: Split Slides PPTX files into HTML5 slides with REST API & Open Source Java SDK
 family: slides
 platformtag: java
 feature: split

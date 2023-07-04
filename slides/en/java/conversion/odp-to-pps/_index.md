@@ -1,6 +1,6 @@
 ---
 title: Convert from Slides ODP to PPS via Java 
-description: Create, Edit or Convert Slides files with REST API & Open Source Java SDK
+description: Create, Edit or Convert Slides ODP files to PPS with REST API & Open Source Java SDK
 family: slides
 platformtag: java
 feature: conversion

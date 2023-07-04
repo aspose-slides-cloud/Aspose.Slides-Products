@@ -1,6 +1,6 @@
 ---
 title: Split Slides POTX into multiple POTX via Swift
-description: Split Slides files into slides with REST API & Open Source Swift SDK
+description: Split Slides POTX files into POTX slides with REST API & Open Source Swift SDK
 family: slides
 platformtag: swift
 feature: split

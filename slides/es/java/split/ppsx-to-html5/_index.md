@@ -1,6 +1,6 @@
 ---
 title: Dividir Slides PPSX en múltiples HTML5 a través de Java
-description: Dividir archivos de Slides en diapositivas con REST API y Java SDK de código abierto
+description: Dividir archivos de Slides PPSX en diapositivas HTML5 con REST API y Java SDK de código abierto
 family: slides
 platformtag: java
 feature: split

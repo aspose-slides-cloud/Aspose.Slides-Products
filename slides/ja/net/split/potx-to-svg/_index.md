@@ -1,6 +1,6 @@
 ---
 title: Slides POTX を .NET 経由で複数の SVG に分割する
-description: REST API とオープン ソース .NET SDK を使用して Slides ファイルをスライドに分割する
+description: REST API とオープン ソース .NET SDK を使用して Slides POTX ファイルを SVG スライドに分割する
 family: slides
 platformtag: net
 feature: split

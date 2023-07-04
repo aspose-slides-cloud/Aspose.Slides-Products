@@ -1,6 +1,6 @@
 ---
 title: Diviser Slides POTM en plusieurs SVG via Node.js
-description: Divisez les fichiers Slides en diapositives avec l'API REST et le SDK Open Source Node.js
+description: Divisez les fichiers Slides POTM en diapositives SVG avec l'API REST et le SDK Open Source Node.js
 family: slides
 platformtag: nodejs
 feature: split

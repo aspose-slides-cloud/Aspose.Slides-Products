@@ -1,6 +1,6 @@
 ---
 title: Разделение Slides PPTX на несколько HTML5 с помощью Go
-description: Разделите файлы Slides на слайды с помощью REST API и Go SDK с открытым исходным кодом
+description: Разделите файлы Slides PPTX на слайды HTML5 с помощью REST API и Go SDK с открытым исходным кодом
 family: slides
 platformtag: go
 feature: split

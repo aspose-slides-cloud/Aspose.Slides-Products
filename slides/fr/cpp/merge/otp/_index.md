@@ -1,6 +1,6 @@
 ---
 title: Fusionner plusieurs fichiers OTP via C++
-description: Fusionnez plusieurs fichiers Slides avec l'API REST et le SDK Open Source C++
+description: Fusionnez plusieurs fichiers Slides OTP avec l'API REST et le SDK Open Source C++
 family: slides
 platformtag: cpp
 feature: merge

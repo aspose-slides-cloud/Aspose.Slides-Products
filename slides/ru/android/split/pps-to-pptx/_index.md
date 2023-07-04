@@ -1,6 +1,6 @@
 ---
 title: Разделение Slides PPS на несколько PPTX с помощью Android
-description: Разделите файлы Slides на слайды с помощью REST API и Android SDK с открытым исходным кодом
+description: Разделите файлы Slides PPS на слайды PPTX с помощью REST API и Android SDK с открытым исходным кодом
 family: slides
 platformtag: android
 feature: split

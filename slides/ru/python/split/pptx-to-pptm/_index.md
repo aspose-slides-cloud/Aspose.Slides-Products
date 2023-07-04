@@ -1,6 +1,6 @@
 ---
 title: Разделение Slides PPTX на несколько PPTM с помощью Python
-description: Разделите файлы Slides на слайды с помощью REST API и Python SDK с открытым исходным кодом
+description: Разделите файлы Slides PPTX на слайды PPTM с помощью REST API и Python SDK с открытым исходным кодом
 family: slides
 platformtag: python
 feature: split

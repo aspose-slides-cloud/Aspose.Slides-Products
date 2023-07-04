@@ -1,6 +1,6 @@
 ---
 title: Dividir Slides PPTX en múltiples GIF a través de .NET
-description: Dividir archivos de Slides en diapositivas con REST API y .NET SDK de código abierto
+description: Dividir archivos de Slides PPTX en diapositivas GIF con REST API y .NET SDK de código abierto
 family: slides
 platformtag: net
 feature: split

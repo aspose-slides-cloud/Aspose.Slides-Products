@@ -1,6 +1,6 @@
 ---
 title: Convertir de Slides POTM en PPS via Python
-description: Créez, modifiez ou convertissez des fichiers Slides avec l'API REST et le SDK Python Open Source
+description: Créez, modifiez ou convertissez des fichiers Slides POTM en PPS avec l'API REST et le SDK Python Open Source
 family: slides
 platformtag: python
 feature: conversion

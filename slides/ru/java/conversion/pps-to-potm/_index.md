@@ -1,6 +1,6 @@
 ---
 title: Преобразование Slides PPS в POTM с помощью Java
-description: Создавайте, редактируйте или конвертируйте файлы Slides с помощью REST API и Java SDK с открытым исходным кодом
+description: Создавайте, редактируйте или конвертируйте файлы Slides PPS в POTM с помощью REST API и Java SDK с открытым исходным кодом
 family: slides
 platformtag: java
 feature: conversion

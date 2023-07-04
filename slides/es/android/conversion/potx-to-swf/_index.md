@@ -1,6 +1,6 @@
 ---
 title: Convertir de Slides POTX a SWF a través de Android
-description: cree, edite o convierta archivos Slides con REST API y Android SDK de código abierto
+description: cree, edite o convierta archivos Slides POTX a SWF con REST API y Android SDK de código abierto
 family: slides
 platformtag: android
 feature: conversion

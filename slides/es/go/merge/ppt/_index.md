@@ -1,6 +1,6 @@
 ---
 title: Combinar múltiples archivos PPT a través de Go
-description: Combine varios archivos Slides con REST API y Open Source Go SDK
+description: Combine varios archivos Slides PPT con REST API y Open Source Go SDK
 family: slides
 platformtag: go
 feature: merge

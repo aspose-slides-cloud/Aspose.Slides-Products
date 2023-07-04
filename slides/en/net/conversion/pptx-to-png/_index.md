@@ -1,6 +1,6 @@
 ---
 title: Convert from Slides PPTX to PNG via .NET 
-description: Create, Edit or Convert Slides files with REST API & Open Source .NET SDK
+description: Create, Edit or Convert Slides PPTX files to PNG with REST API & Open Source .NET SDK
 family: slides
 platformtag: net
 feature: conversion

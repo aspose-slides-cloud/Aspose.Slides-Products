@@ -1,6 +1,6 @@
 ---
 title: Преобразование Slides PPS в MPEG4 с помощью cURL
-description: Создавайте, редактируйте или конвертируйте файлы Slides с помощью REST API и cURL SDK с открытым исходным кодом
+description: Создавайте, редактируйте или конвертируйте файлы Slides PPS в MPEG4 с помощью REST API и cURL SDK с открытым исходным кодом
 family: slides
 platformtag: curl
 feature: conversion

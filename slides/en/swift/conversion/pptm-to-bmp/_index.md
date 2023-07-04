@@ -1,6 +1,6 @@
 ---
 title: Convert from Slides PPTM to BMP via Swift 
-description: Create, Edit or Convert Slides files with REST API & Open Source Swift SDK
+description: Create, Edit or Convert Slides PPTM files to BMP with REST API & Open Source Swift SDK
 family: slides
 platformtag: swift
 feature: conversion

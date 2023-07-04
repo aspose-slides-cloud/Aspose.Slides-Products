@@ -1,6 +1,6 @@
 ---
 title: 通过 Go 将 Slides PPT 拆分为多个 PDF
-description: 使用 REST API 和开源 Go SDK 将 Slides 文件拆分成幻灯片
+description: 使用 REST API 和开源 Go SDK 将 Slides PPT 文件拆分成 PDF 幻灯片
 family: slides
 platformtag: go
 feature: split

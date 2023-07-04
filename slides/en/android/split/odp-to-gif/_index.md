@@ -1,6 +1,6 @@
 ---
 title: Split Slides ODP into multiple GIF via Android
-description: Split Slides files into slides with REST API & Open Source Android SDK
+description: Split Slides ODP files into GIF slides with REST API & Open Source Android SDK
 family: slides
 platformtag: android
 feature: split

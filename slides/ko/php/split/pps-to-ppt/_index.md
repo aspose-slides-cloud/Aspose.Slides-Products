@@ -1,6 +1,6 @@
 ---
 title: PHP를 통해 Slides PPS를 여러 PPT로 분할
-description: REST API 및 오픈 소스 PHP SDK를 사용하여 Slides 파일을 슬라이드로 분할
+description: REST API 및 오픈 소스 PHP SDK를 사용하여 Slides PPS 파일을 PPT 슬라이드로 분할
 family: slides
 platformtag: php
 feature: split

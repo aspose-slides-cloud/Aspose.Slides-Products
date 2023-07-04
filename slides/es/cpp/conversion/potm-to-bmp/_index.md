@@ -1,6 +1,6 @@
 ---
 title: Convertir de Slides POTM a BMP a través de C++
-description: cree, edite o convierta archivos Slides con REST API y C++ SDK de código abierto
+description: cree, edite o convierta archivos Slides POTM a BMP con REST API y C++ SDK de código abierto
 family: slides
 platformtag: cpp
 feature: conversion

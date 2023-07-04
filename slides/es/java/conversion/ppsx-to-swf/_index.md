@@ -1,6 +1,6 @@
 ---
 title: Convertir de Slides PPSX a SWF a través de Java
-description: cree, edite o convierta archivos Slides con REST API y Java SDK de código abierto
+description: cree, edite o convierta archivos Slides PPSX a SWF con REST API y Java SDK de código abierto
 family: slides
 platformtag: java
 feature: conversion

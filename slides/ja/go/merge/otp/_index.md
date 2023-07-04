@@ -1,6 +1,6 @@
 ---
 title: Go経由で複数のOTPファイルをマージ
-description: REST API とオープン ソース Go SDK を使用して複数の Slides ファイルをマージする
+description: REST API とオープン ソース Go SDK を使用して複数の Slides OTP ファイルをマージする
 family: slides
 platformtag: go
 feature: merge

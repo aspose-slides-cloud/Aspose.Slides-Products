@@ -1,6 +1,6 @@
 ---
 title: Convertir de Slides POTM a ODP a través de Node.js
-description: cree, edite o convierta archivos Slides con REST API y Node.js SDK de código abierto
+description: cree, edite o convierta archivos Slides POTM a ODP con REST API y Node.js SDK de código abierto
 family: slides
 platformtag: nodejs
 feature: conversion

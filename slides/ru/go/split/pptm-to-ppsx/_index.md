@@ -1,6 +1,6 @@
 ---
 title: Разделение Slides PPTM на несколько PPSX с помощью Go
-description: Разделите файлы Slides на слайды с помощью REST API и Go SDK с открытым исходным кодом
+description: Разделите файлы Slides PPTM на слайды PPSX с помощью REST API и Go SDK с открытым исходным кодом
 family: slides
 platformtag: go
 feature: split

@@ -1,6 +1,6 @@
 ---
 title: Convert from Slides PPTX to PPSM via Swift 
-description: Create, Edit or Convert Slides files with REST API & Open Source Swift SDK
+description: Create, Edit or Convert Slides PPTX files to PPSM with REST API & Open Source Swift SDK
 family: slides
 platformtag: swift
 feature: conversion

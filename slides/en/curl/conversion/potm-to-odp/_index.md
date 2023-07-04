@@ -1,6 +1,6 @@
 ---
 title: Convert from Slides POTM to ODP via cURL 
-description: Create, Edit or Convert Slides files with REST API & Open Source cURL SDK
+description: Create, Edit or Convert Slides POTM files to ODP with REST API & Open Source cURL SDK
 family: slides
 platformtag: curl
 feature: conversion

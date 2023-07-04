@@ -1,6 +1,6 @@
 ---
 title: Merge multiple PPSX files via Go
-description: Merge multiple Slides files with REST API & Open Source Go SDK
+description: Merge multiple Slides PPSX files with REST API & Open Source Go SDK
 family: slides
 platformtag: go
 feature: merge

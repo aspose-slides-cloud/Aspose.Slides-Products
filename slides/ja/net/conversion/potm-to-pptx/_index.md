@@ -1,6 +1,6 @@
 ---
 title: Slides POTM から .NET 経由で PPTX に変換
-description: REST API とオープン ソース .NET SDK を使用して Slides ファイルを作成、編集、または変換します
+description: REST API とオープン ソース .NET SDK を使用して Slides POTM ファイルを作成、編集、PPTX に変換します
 family: slides
 platformtag: net
 feature: conversion

@@ -1,6 +1,6 @@
 ---
 title: Split Slides PDF into multiple JPEG via cURL
-description: Split Slides files into slides with REST API & Open Source cURL SDK
+description: Split Slides PDF files into JPEG slides with REST API & Open Source cURL SDK
 family: slides
 platformtag: curl
 feature: split

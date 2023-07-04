@@ -1,6 +1,6 @@
 ---
 title: Dividir Slides PPTM en múltiples PPT a través de PHP
-description: Dividir archivos de Slides en diapositivas con REST API y PHP SDK de código abierto
+description: Dividir archivos de Slides PPTM en diapositivas PPT con REST API y PHP SDK de código abierto
 family: slides
 platformtag: php
 feature: split

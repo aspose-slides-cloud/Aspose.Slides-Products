@@ -1,6 +1,6 @@
 ---
 title: Combinar múltiples archivos PPT a través de Node.js
-description: Combine varios archivos Slides con REST API y Open Source Node.js SDK
+description: Combine varios archivos Slides PPT con REST API y Open Source Node.js SDK
 family: slides
 platformtag: nodejs
 feature: merge

@@ -1,6 +1,6 @@
 ---
 title: Fusionner plusieurs fichiers PDF via PHP
-description: Fusionnez plusieurs fichiers Slides avec l'API REST et le SDK Open Source PHP
+description: Fusionnez plusieurs fichiers Slides PDF avec l'API REST et le SDK Open Source PHP
 family: slides
 platformtag: php
 feature: merge

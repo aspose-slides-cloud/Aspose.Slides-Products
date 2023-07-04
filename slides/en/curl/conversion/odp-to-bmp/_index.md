@@ -1,6 +1,6 @@
 ---
 title: Convert from Slides ODP to BMP via cURL 
-description: Create, Edit or Convert Slides files with REST API & Open Source cURL SDK
+description: Create, Edit or Convert Slides ODP files to BMP with REST API & Open Source cURL SDK
 family: slides
 platformtag: curl
 feature: conversion

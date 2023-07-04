@@ -1,6 +1,6 @@
 ---
 title: Dividir Slides PPSX en múltiples POTX a través de cURL
-description: Dividir archivos de Slides en diapositivas con REST API y cURL SDK de código abierto
+description: Dividir archivos de Slides PPSX en diapositivas POTX con REST API y cURL SDK de código abierto
 family: slides
 platformtag: curl
 feature: split

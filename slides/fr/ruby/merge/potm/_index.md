@@ -1,6 +1,6 @@
 ---
 title: Fusionner plusieurs fichiers POTM via Ruby
-description: Fusionnez plusieurs fichiers Slides avec l'API REST et le SDK Open Source Ruby
+description: Fusionnez plusieurs fichiers Slides POTM avec l'API REST et le SDK Open Source Ruby
 family: slides
 platformtag: ruby
 feature: merge

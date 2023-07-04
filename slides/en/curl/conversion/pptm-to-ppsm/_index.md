@@ -1,6 +1,6 @@
 ---
 title: Convert from Slides PPTM to PPSM via cURL 
-description: Create, Edit or Convert Slides files with REST API & Open Source cURL SDK
+description: Create, Edit or Convert Slides PPTM files to PPSM with REST API & Open Source cURL SDK
 family: slides
 platformtag: curl
 feature: conversion

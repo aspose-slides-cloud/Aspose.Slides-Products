@@ -1,6 +1,6 @@
 ---
 title: Convert from Slides ODP to PPTX via cURL 
-description: Create, Edit or Convert Slides files with REST API & Open Source cURL SDK
+description: Create, Edit or Convert Slides ODP files to PPTX with REST API & Open Source cURL SDK
 family: slides
 platformtag: curl
 feature: conversion

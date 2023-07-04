@@ -1,6 +1,6 @@
 ---
 title: Diviser Slides PPTM en plusieurs PPTX via PHP
-description: Divisez les fichiers Slides en diapositives avec l'API REST et le SDK Open Source PHP
+description: Divisez les fichiers Slides PPTM en diapositives PPTX avec l'API REST et le SDK Open Source PHP
 family: slides
 platformtag: php
 feature: split

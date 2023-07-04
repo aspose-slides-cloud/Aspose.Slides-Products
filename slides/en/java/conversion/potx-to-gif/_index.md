@@ -1,6 +1,6 @@
 ---
 title: Convert from Slides POTX to GIF via Java 
-description: Create, Edit or Convert Slides files with REST API & Open Source Java SDK
+description: Create, Edit or Convert Slides POTX files to GIF with REST API & Open Source Java SDK
 family: slides
 platformtag: java
 feature: conversion

@@ -1,6 +1,6 @@
 ---
 title: Split Slides OTP into multiple PPSX via Perl
-description: Split Slides files into slides with REST API & Open Source Perl SDK
+description: Split Slides OTP files into PPSX slides with REST API & Open Source Perl SDK
 family: slides
 platformtag: perl
 feature: split

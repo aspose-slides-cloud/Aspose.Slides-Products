@@ -1,6 +1,6 @@
 ---
 title: Convert from Slides PDF to XPS via Swift 
-description: Create, Edit or Convert Slides files with REST API & Open Source Swift SDK
+description: Create, Edit or Convert Slides PDF files to XPS with REST API & Open Source Swift SDK
 family: slides
 platformtag: swift
 feature: conversion

@@ -1,6 +1,6 @@
 ---
 title: Fusionner plusieurs fichiers ODP via Android
-description: Fusionnez plusieurs fichiers Slides avec l'API REST et le SDK Open Source Android
+description: Fusionnez plusieurs fichiers Slides ODP avec l'API REST et le SDK Open Source Android
 family: slides
 platformtag: android
 feature: merge

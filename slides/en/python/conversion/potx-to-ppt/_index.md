@@ -1,6 +1,6 @@
 ---
 title: Convert from Slides POTX to PPT via Python 
-description: Create, Edit or Convert Slides files with REST API & Open Source Python SDK
+description: Create, Edit or Convert Slides POTX files to PPT with REST API & Open Source Python SDK
 family: slides
 platformtag: python
 feature: conversion

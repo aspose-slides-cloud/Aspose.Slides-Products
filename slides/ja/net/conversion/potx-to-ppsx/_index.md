@@ -1,6 +1,6 @@
 ---
 title: Slides POTX から .NET 経由で PPSX に変換
-description: REST API とオープン ソース .NET SDK を使用して Slides ファイルを作成、編集、または変換します
+description: REST API とオープン ソース .NET SDK を使用して Slides POTX ファイルを作成、編集、PPSX に変換します
 family: slides
 platformtag: net
 feature: conversion

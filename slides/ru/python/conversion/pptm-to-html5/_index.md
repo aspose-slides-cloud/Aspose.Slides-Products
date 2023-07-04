@@ -1,6 +1,6 @@
 ---
 title: Преобразование Slides PPTM в HTML5 с помощью Python
-description: Создавайте, редактируйте или конвертируйте файлы Slides с помощью REST API и Python SDK с открытым исходным кодом
+description: Создавайте, редактируйте или конвертируйте файлы Slides PPTM в HTML5 с помощью REST API и Python SDK с открытым исходным кодом
 family: slides
 platformtag: python
 feature: conversion

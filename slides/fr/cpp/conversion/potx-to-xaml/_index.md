@@ -1,6 +1,6 @@
 ---
 title: Convertir de Slides POTX en XAML via C++
-description: Créez, modifiez ou convertissez des fichiers Slides avec l'API REST et le SDK C++ Open Source
+description: Créez, modifiez ou convertissez des fichiers Slides POTX en XAML avec l'API REST et le SDK C++ Open Source
 family: slides
 platformtag: cpp
 feature: conversion

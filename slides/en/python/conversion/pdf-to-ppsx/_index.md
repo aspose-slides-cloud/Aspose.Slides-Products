@@ -1,6 +1,6 @@
 ---
 title: Convert from Slides PDF to PPSX via Python 
-description: Create, Edit or Convert Slides files with REST API & Open Source Python SDK
+description: Create, Edit or Convert Slides PDF files to PPSX with REST API & Open Source Python SDK
 family: slides
 platformtag: python
 feature: conversion

@@ -1,6 +1,6 @@
 ---
 title: Convert from Slides PDF to SWF via Java 
-description: Create, Edit or Convert Slides files with REST API & Open Source Java SDK
+description: Create, Edit or Convert Slides PDF files to SWF with REST API & Open Source Java SDK
 family: slides
 platformtag: java
 feature: conversion

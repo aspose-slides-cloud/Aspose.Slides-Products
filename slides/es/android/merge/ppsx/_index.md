@@ -1,6 +1,6 @@
 ---
 title: Combinar múltiples archivos PPSX a través de Android
-description: Combine varios archivos Slides con REST API y Open Source Android SDK
+description: Combine varios archivos Slides PPSX con REST API y Open Source Android SDK
 family: slides
 platformtag: android
 feature: merge

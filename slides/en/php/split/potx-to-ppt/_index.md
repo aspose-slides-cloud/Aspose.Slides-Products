@@ -1,6 +1,6 @@
 ---
 title: Split Slides POTX into multiple PPT via PHP
-description: Split Slides files into slides with REST API & Open Source PHP SDK
+description: Split Slides POTX files into PPT slides with REST API & Open Source PHP SDK
 family: slides
 platformtag: php
 feature: split

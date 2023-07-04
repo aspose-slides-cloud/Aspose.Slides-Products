@@ -1,6 +1,6 @@
 ---
 title: Convert from Slides PPT to HTML via Ruby 
-description: Create, Edit or Convert Slides files with REST API & Open Source Ruby SDK
+description: Create, Edit or Convert Slides PPT files to HTML with REST API & Open Source Ruby SDK
 family: slides
 platformtag: ruby
 feature: conversion

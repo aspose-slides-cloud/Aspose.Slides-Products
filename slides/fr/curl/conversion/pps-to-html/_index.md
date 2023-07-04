@@ -1,6 +1,6 @@
 ---
 title: Convertir de Slides PPS en HTML via cURL
-description: Créez, modifiez ou convertissez des fichiers Slides avec l'API REST et le SDK cURL Open Source
+description: Créez, modifiez ou convertissez des fichiers Slides PPS en HTML avec l'API REST et le SDK cURL Open Source
 family: slides
 platformtag: curl
 feature: conversion

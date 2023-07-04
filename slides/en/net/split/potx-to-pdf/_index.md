@@ -1,6 +1,6 @@
 ---
 title: Split Slides POTX into multiple PDF via .NET
-description: Split Slides files into slides with REST API & Open Source .NET SDK
+description: Split Slides POTX files into PDF slides with REST API & Open Source .NET SDK
 family: slides
 platformtag: net
 feature: split

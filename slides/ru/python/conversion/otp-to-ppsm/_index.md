@@ -1,6 +1,6 @@
 ---
 title: Преобразование Slides OTP в PPSM с помощью Python
-description: Создавайте, редактируйте или конвертируйте файлы Slides с помощью REST API и Python SDK с открытым исходным кодом
+description: Создавайте, редактируйте или конвертируйте файлы Slides OTP в PPSM с помощью REST API и Python SDK с открытым исходным кодом
 family: slides
 platformtag: python
 feature: conversion

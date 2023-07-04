@@ -1,6 +1,6 @@
 ---
 title: Объединение нескольких PPSM файлов с помощью cURL
-description: Объединение нескольких файлов Slides с помощью REST API и cURL SDK с открытым исходным кодом
+description: Объединение нескольких файлов Slides PPSM с помощью REST API и cURL SDK с открытым исходным кодом
 family: slides
 platformtag: curl
 feature: merge

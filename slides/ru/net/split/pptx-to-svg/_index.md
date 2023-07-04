@@ -1,6 +1,6 @@
 ---
 title: Разделение Slides PPTX на несколько SVG с помощью .NET
-description: Разделите файлы Slides на слайды с помощью REST API и .NET SDK с открытым исходным кодом
+description: Разделите файлы Slides PPTX на слайды SVG с помощью REST API и .NET SDK с открытым исходным кодом
 family: slides
 platformtag: net
 feature: split

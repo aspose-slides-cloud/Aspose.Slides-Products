@@ -1,6 +1,6 @@
 ---
 title: Convert from Slides PDF to HTML5 via cURL 
-description: Create, Edit or Convert Slides files with REST API & Open Source cURL SDK
+description: Create, Edit or Convert Slides PDF files to HTML5 with REST API & Open Source cURL SDK
 family: slides
 platformtag: curl
 feature: conversion

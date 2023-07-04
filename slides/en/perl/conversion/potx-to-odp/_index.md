@@ -1,6 +1,6 @@
 ---
 title: Convert from Slides POTX to ODP via Perl 
-description: Create, Edit or Convert Slides files with REST API & Open Source Perl SDK
+description: Create, Edit or Convert Slides POTX files to ODP with REST API & Open Source Perl SDK
 family: slides
 platformtag: perl
 feature: conversion

@@ -1,6 +1,6 @@
 ---
 title: Split Slides OTP into multiple OTP via Ruby
-description: Split Slides files into slides with REST API & Open Source Ruby SDK
+description: Split Slides OTP files into OTP slides with REST API & Open Source Ruby SDK
 family: slides
 platformtag: ruby
 feature: split

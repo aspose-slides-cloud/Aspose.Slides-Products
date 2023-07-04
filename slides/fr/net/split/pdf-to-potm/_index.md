@@ -1,6 +1,6 @@
 ---
 title: Diviser Slides PDF en plusieurs POTM via .NET
-description: Divisez les fichiers Slides en diapositives avec l'API REST et le SDK Open Source .NET
+description: Divisez les fichiers Slides PDF en diapositives POTM avec l'API REST et le SDK Open Source .NET
 family: slides
 platformtag: net
 feature: split

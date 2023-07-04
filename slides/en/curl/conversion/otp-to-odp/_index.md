@@ -1,6 +1,6 @@
 ---
 title: Convert from Slides OTP to ODP via cURL 
-description: Create, Edit or Convert Slides files with REST API & Open Source cURL SDK
+description: Create, Edit or Convert Slides OTP files to ODP with REST API & Open Source cURL SDK
 family: slides
 platformtag: curl
 feature: conversion

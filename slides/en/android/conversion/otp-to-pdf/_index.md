@@ -1,6 +1,6 @@
 ---
 title: Convert from Slides OTP to PDF via Android 
-description: Create, Edit or Convert Slides files with REST API & Open Source Android SDK
+description: Create, Edit or Convert Slides OTP files to PDF with REST API & Open Source Android SDK
 family: slides
 platformtag: android
 feature: conversion

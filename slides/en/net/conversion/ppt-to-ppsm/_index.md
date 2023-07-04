@@ -1,6 +1,6 @@
 ---
 title: Convert from Slides PPT to PPSM via .NET 
-description: Create, Edit or Convert Slides files with REST API & Open Source .NET SDK
+description: Create, Edit or Convert Slides PPT files to PPSM with REST API & Open Source .NET SDK
 family: slides
 platformtag: net
 feature: conversion

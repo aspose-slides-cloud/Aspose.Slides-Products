@@ -1,6 +1,6 @@
 ---
 title: Split Slides POTM into multiple PPS via Go
-description: Split Slides files into slides with REST API & Open Source Go SDK
+description: Split Slides POTM files into PPS slides with REST API & Open Source Go SDK
 family: slides
 platformtag: go
 feature: split

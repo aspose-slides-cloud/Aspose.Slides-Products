@@ -1,6 +1,6 @@
 ---
 title: Diviser Slides PPSX en plusieurs PPT via cURL
-description: Divisez les fichiers Slides en diapositives avec l'API REST et le SDK Open Source cURL
+description: Divisez les fichiers Slides PPSX en diapositives PPT avec l'API REST et le SDK Open Source cURL
 family: slides
 platformtag: curl
 feature: split

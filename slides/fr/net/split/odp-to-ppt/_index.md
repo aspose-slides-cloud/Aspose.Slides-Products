@@ -1,6 +1,6 @@
 ---
 title: Diviser Slides ODP en plusieurs PPT via .NET
-description: Divisez les fichiers Slides en diapositives avec l'API REST et le SDK Open Source .NET
+description: Divisez les fichiers Slides ODP en diapositives PPT avec l'API REST et le SDK Open Source .NET
 family: slides
 platformtag: net
 feature: split

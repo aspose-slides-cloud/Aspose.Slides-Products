@@ -1,6 +1,6 @@
 ---
 title: Convert from Slides ODP to PPSM via cURL 
-description: Create, Edit or Convert Slides files with REST API & Open Source cURL SDK
+description: Create, Edit or Convert Slides ODP files to PPSM with REST API & Open Source cURL SDK
 family: slides
 platformtag: curl
 feature: conversion

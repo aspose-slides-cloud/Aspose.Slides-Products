@@ -1,6 +1,6 @@
 ---
 title: Convert from Slides PPTX to JPEG via Python 
-description: Create, Edit or Convert Slides files with REST API & Open Source Python SDK
+description: Create, Edit or Convert Slides PPTX files to JPEG with REST API & Open Source Python SDK
 family: slides
 platformtag: python
 feature: conversion

@@ -1,6 +1,6 @@
 ---
 title: Swift経由で複数のPPTファイルをマージ
-description: REST API とオープン ソース Swift SDK を使用して複数の Slides ファイルをマージする
+description: REST API とオープン ソース Swift SDK を使用して複数の Slides PPT ファイルをマージする
 family: slides
 platformtag: swift
 feature: merge

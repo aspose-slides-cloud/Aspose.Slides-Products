@@ -1,6 +1,6 @@
 ---
 title: Convert from Slides PPTM to SVG via PHP 
-description: Create, Edit or Convert Slides files with REST API & Open Source PHP SDK
+description: Create, Edit or Convert Slides PPTM files to SVG with REST API & Open Source PHP SDK
 family: slides
 platformtag: php
 feature: conversion

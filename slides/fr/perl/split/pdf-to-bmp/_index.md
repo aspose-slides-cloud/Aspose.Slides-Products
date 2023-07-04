@@ -1,6 +1,6 @@
 ---
 title: Diviser Slides PDF en plusieurs BMP via Perl
-description: Divisez les fichiers Slides en diapositives avec l'API REST et le SDK Open Source Perl
+description: Divisez les fichiers Slides PDF en diapositives BMP avec l'API REST et le SDK Open Source Perl
 family: slides
 platformtag: perl
 feature: split

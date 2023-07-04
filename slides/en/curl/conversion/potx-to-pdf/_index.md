@@ -1,6 +1,6 @@
 ---
 title: Convert from Slides POTX to PDF via cURL 
-description: Create, Edit or Convert Slides files with REST API & Open Source cURL SDK
+description: Create, Edit or Convert Slides POTX files to PDF with REST API & Open Source cURL SDK
 family: slides
 platformtag: curl
 feature: conversion

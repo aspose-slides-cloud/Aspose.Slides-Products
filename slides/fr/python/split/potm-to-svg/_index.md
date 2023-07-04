@@ -1,6 +1,6 @@
 ---
 title: Diviser Slides POTM en plusieurs SVG via Python
-description: Divisez les fichiers Slides en diapositives avec l'API REST et le SDK Open Source Python
+description: Divisez les fichiers Slides POTM en diapositives SVG avec l'API REST et le SDK Open Source Python
 family: slides
 platformtag: python
 feature: split

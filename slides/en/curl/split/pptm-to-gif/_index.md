@@ -1,6 +1,6 @@
 ---
 title: Split Slides PPTM into multiple GIF via cURL
-description: Split Slides files into slides with REST API & Open Source cURL SDK
+description: Split Slides PPTM files into GIF slides with REST API & Open Source cURL SDK
 family: slides
 platformtag: curl
 feature: split

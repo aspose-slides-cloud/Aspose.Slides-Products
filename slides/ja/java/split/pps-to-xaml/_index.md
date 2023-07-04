@@ -1,6 +1,6 @@
 ---
 title: Slides PPS を Java 経由で複数の XAML に分割する
-description: REST API とオープン ソース Java SDK を使用して Slides ファイルをスライドに分割する
+description: REST API とオープン ソース Java SDK を使用して Slides PPS ファイルを XAML スライドに分割する
 family: slides
 platformtag: java
 feature: split

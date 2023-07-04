@@ -1,6 +1,6 @@
 ---
 title: Convert from Slides PDF to SVG via PHP 
-description: Create, Edit or Convert Slides files with REST API & Open Source PHP SDK
+description: Create, Edit or Convert Slides PDF files to SVG with REST API & Open Source PHP SDK
 family: slides
 platformtag: php
 feature: conversion

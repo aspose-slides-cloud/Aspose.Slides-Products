@@ -1,6 +1,6 @@
 ---
 title: Diviser Slides PPSX en plusieurs GIF via Go
-description: Divisez les fichiers Slides en diapositives avec l'API REST et le SDK Open Source Go
+description: Divisez les fichiers Slides PPSX en diapositives GIF avec l'API REST et le SDK Open Source Go
 family: slides
 platformtag: go
 feature: split

@@ -1,6 +1,6 @@
 ---
 title: Convert from Slides PPSX to SVG via Ruby 
-description: Create, Edit or Convert Slides files with REST API & Open Source Ruby SDK
+description: Create, Edit or Convert Slides PPSX files to SVG with REST API & Open Source Ruby SDK
 family: slides
 platformtag: ruby
 feature: conversion

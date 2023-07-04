@@ -1,6 +1,6 @@
 ---
 title: Convert from Slides ODP to XPS via Python 
-description: Create, Edit or Convert Slides files with REST API & Open Source Python SDK
+description: Create, Edit or Convert Slides ODP files to XPS with REST API & Open Source Python SDK
 family: slides
 platformtag: python
 feature: conversion

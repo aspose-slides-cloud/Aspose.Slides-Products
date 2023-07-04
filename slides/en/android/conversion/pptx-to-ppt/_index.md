@@ -1,6 +1,6 @@
 ---
 title: Convert from Slides PPTX to PPT via Android 
-description: Create, Edit or Convert Slides files with REST API & Open Source Android SDK
+description: Create, Edit or Convert Slides PPTX files to PPT with REST API & Open Source Android SDK
 family: slides
 platformtag: android
 feature: conversion

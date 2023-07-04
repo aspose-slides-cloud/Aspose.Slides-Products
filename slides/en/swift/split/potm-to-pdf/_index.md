@@ -1,6 +1,6 @@
 ---
 title: Split Slides POTM into multiple PDF via Swift
-description: Split Slides files into slides with REST API & Open Source Swift SDK
+description: Split Slides POTM files into PDF slides with REST API & Open Source Swift SDK
 family: slides
 platformtag: swift
 feature: split

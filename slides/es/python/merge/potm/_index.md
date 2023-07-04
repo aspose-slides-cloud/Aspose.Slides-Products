@@ -1,6 +1,6 @@
 ---
 title: Combinar múltiples archivos POTM a través de Python
-description: Combine varios archivos Slides con REST API y Open Source Python SDK
+description: Combine varios archivos Slides POTM con REST API y Open Source Python SDK
 family: slides
 platformtag: python
 feature: merge

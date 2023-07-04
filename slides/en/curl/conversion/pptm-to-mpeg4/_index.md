@@ -1,6 +1,6 @@
 ---
 title: Convert from Slides PPTM to MPEG4 via cURL 
-description: Create, Edit or Convert Slides files with REST API & Open Source cURL SDK
+description: Create, Edit or Convert Slides PPTM files to MPEG4 with REST API & Open Source cURL SDK
 family: slides
 platformtag: curl
 feature: conversion

@@ -1,6 +1,6 @@
 ---
 title: Convert from Slides PDF to POTM via Swift 
-description: Create, Edit or Convert Slides files with REST API & Open Source Swift SDK
+description: Create, Edit or Convert Slides PDF files to POTM with REST API & Open Source Swift SDK
 family: slides
 platformtag: swift
 feature: conversion

@@ -1,6 +1,6 @@
 ---
 title: Преобразование Slides PPS в POTX с помощью Python
-description: Создавайте, редактируйте или конвертируйте файлы Slides с помощью REST API и Python SDK с открытым исходным кодом
+description: Создавайте, редактируйте или конвертируйте файлы Slides PPS в POTX с помощью REST API и Python SDK с открытым исходным кодом
 family: slides
 platformtag: python
 feature: conversion

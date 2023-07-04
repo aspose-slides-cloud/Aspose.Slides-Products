@@ -1,6 +1,6 @@
 ---
 title: Combinar múltiples archivos OTP a través de Go
-description: Combine varios archivos Slides con REST API y Open Source Go SDK
+description: Combine varios archivos Slides OTP con REST API y Open Source Go SDK
 family: slides
 platformtag: go
 feature: merge

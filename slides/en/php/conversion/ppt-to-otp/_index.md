@@ -1,6 +1,6 @@
 ---
 title: Convert from Slides PPT to OTP via PHP 
-description: Create, Edit or Convert Slides files with REST API & Open Source PHP SDK
+description: Create, Edit or Convert Slides PPT files to OTP with REST API & Open Source PHP SDK
 family: slides
 platformtag: php
 feature: conversion

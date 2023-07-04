@@ -1,6 +1,6 @@
 ---
 title: Merge multiple PDF files via Go
-description: Merge multiple Slides files with REST API & Open Source Go SDK
+description: Merge multiple Slides PDF files with REST API & Open Source Go SDK
 family: slides
 platformtag: go
 feature: merge

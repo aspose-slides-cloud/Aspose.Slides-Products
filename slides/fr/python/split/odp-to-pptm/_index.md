@@ -1,6 +1,6 @@
 ---
 title: Diviser Slides ODP en plusieurs PPTM via Python
-description: Divisez les fichiers Slides en diapositives avec l'API REST et le SDK Open Source Python
+description: Divisez les fichiers Slides ODP en diapositives PPTM avec l'API REST et le SDK Open Source Python
 family: slides
 platformtag: python
 feature: split

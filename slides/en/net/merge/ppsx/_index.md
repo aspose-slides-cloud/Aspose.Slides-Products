@@ -1,6 +1,6 @@
 ---
 title: Merge multiple PPSX files via .NET
-description: Merge multiple Slides files with REST API & Open Source .NET SDK
+description: Merge multiple Slides PPSX files with REST API & Open Source .NET SDK
 family: slides
 platformtag: net
 feature: merge

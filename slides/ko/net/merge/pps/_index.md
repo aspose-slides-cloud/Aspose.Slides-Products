@@ -1,6 +1,6 @@
 ---
 title: .NET를 통해 여러 PPS 파일 병합
-description: REST API 및 오픈 소스 .NET SDK를 사용하여 여러 Slides 파일 병합
+description: REST API 및 오픈 소스 .NET SDK를 사용하여 여러 Slides PPS 파일 병합
 family: slides
 platformtag: net
 feature: merge

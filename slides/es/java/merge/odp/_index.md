@@ -1,6 +1,6 @@
 ---
 title: Combinar múltiples archivos ODP a través de Java
-description: Combine varios archivos Slides con REST API y Open Source Java SDK
+description: Combine varios archivos Slides ODP con REST API y Open Source Java SDK
 family: slides
 platformtag: java
 feature: merge

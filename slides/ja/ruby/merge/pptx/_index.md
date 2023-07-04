@@ -1,6 +1,6 @@
 ---
 title: Ruby経由で複数のPPTXファイルをマージ
-description: REST API とオープン ソース Ruby SDK を使用して複数の Slides ファイルをマージする
+description: REST API とオープン ソース Ruby SDK を使用して複数の Slides PPTX ファイルをマージする
 family: slides
 platformtag: ruby
 feature: merge

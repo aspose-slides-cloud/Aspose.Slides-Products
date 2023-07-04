@@ -1,6 +1,6 @@
 ---
 title: Dividir Slides PPTM en múltiples XPS a través de Go
-description: Dividir archivos de Slides en diapositivas con REST API y Go SDK de código abierto
+description: Dividir archivos de Slides PPTM en diapositivas XPS con REST API y Go SDK de código abierto
 family: slides
 platformtag: go
 feature: split

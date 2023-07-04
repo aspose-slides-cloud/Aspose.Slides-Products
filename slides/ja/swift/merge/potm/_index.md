@@ -1,6 +1,6 @@
 ---
 title: Swift経由で複数のPOTMファイルをマージ
-description: REST API とオープン ソース Swift SDK を使用して複数の Slides ファイルをマージする
+description: REST API とオープン ソース Swift SDK を使用して複数の Slides POTM ファイルをマージする
 family: slides
 platformtag: swift
 feature: merge

@@ -1,6 +1,6 @@
 ---
 title: Merge multiple POTM files via Android
-description: Merge multiple Slides files with REST API & Open Source Android SDK
+description: Merge multiple Slides POTM files with REST API & Open Source Android SDK
 family: slides
 platformtag: android
 feature: merge

@@ -1,6 +1,6 @@
 ---
 title: Преобразование Slides PPSX в SVG с помощью Android
-description: Создавайте, редактируйте или конвертируйте файлы Slides с помощью REST API и Android SDK с открытым исходным кодом
+description: Создавайте, редактируйте или конвертируйте файлы Slides PPSX в SVG с помощью REST API и Android SDK с открытым исходным кодом
 family: slides
 platformtag: android
 feature: conversion

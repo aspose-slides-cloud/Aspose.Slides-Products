@@ -1,6 +1,6 @@
 ---
 title: Diviser Slides PPSX en plusieurs BMP via Java
-description: Divisez les fichiers Slides en diapositives avec l'API REST et le SDK Open Source Java
+description: Divisez les fichiers Slides PPSX en diapositives BMP avec l'API REST et le SDK Open Source Java
 family: slides
 platformtag: java
 feature: split

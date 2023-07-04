@@ -1,6 +1,6 @@
 ---
 title: Convert from Slides OTP to MPEG4 via PHP 
-description: Create, Edit or Convert Slides files with REST API & Open Source PHP SDK
+description: Create, Edit or Convert Slides OTP files to MPEG4 with REST API & Open Source PHP SDK
 family: slides
 platformtag: php
 feature: conversion

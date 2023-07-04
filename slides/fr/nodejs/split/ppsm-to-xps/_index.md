@@ -1,6 +1,6 @@
 ---
 title: Diviser Slides PPSM en plusieurs XPS via Node.js
-description: Divisez les fichiers Slides en diapositives avec l'API REST et le SDK Open Source Node.js
+description: Divisez les fichiers Slides PPSM en diapositives XPS avec l'API REST et le SDK Open Source Node.js
 family: slides
 platformtag: nodejs
 feature: split

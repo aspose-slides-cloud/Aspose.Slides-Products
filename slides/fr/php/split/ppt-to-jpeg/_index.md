@@ -1,6 +1,6 @@
 ---
 title: Diviser Slides PPT en plusieurs JPEG via PHP
-description: Divisez les fichiers Slides en diapositives avec l'API REST et le SDK Open Source PHP
+description: Divisez les fichiers Slides PPT en diapositives JPEG avec l'API REST et le SDK Open Source PHP
 family: slides
 platformtag: php
 feature: split

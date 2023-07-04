@@ -1,6 +1,6 @@
 ---
 title: Convert from Slides PDF to HTML via Android 
-description: Create, Edit or Convert Slides files with REST API & Open Source Android SDK
+description: Create, Edit or Convert Slides PDF files to HTML with REST API & Open Source Android SDK
 family: slides
 platformtag: android
 feature: conversion

@@ -1,6 +1,6 @@
 ---
 title: Convert from Slides POTM to OTP via Go 
-description: Create, Edit or Convert Slides files with REST API & Open Source Go SDK
+description: Create, Edit or Convert Slides POTM files to OTP with REST API & Open Source Go SDK
 family: slides
 platformtag: go
 feature: conversion

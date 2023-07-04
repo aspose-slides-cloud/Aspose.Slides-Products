@@ -1,6 +1,6 @@
 ---
 title: Split Slides POTM into multiple PDF via Python
-description: Split Slides files into slides with REST API & Open Source Python SDK
+description: Split Slides POTM files into PDF slides with REST API & Open Source Python SDK
 family: slides
 platformtag: python
 feature: split

@@ -1,6 +1,6 @@
 ---
 title: Split Slides PPS into multiple POTM via cURL
-description: Split Slides files into slides with REST API & Open Source cURL SDK
+description: Split Slides PPS files into POTM slides with REST API & Open Source cURL SDK
 family: slides
 platformtag: curl
 feature: split

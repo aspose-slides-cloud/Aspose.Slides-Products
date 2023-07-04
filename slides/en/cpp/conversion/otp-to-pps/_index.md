@@ -1,6 +1,6 @@
 ---
 title: Convert from Slides OTP to PPS via C++ 
-description: Create, Edit or Convert Slides files with REST API & Open Source C++ SDK
+description: Create, Edit or Convert Slides OTP files to PPS with REST API & Open Source C++ SDK
 family: slides
 platformtag: cpp
 feature: conversion

@@ -1,6 +1,6 @@
 ---
 title: Convert from Slides PPS to PDF via .NET 
-description: Create, Edit or Convert Slides files with REST API & Open Source .NET SDK
+description: Create, Edit or Convert Slides PPS files to PDF with REST API & Open Source .NET SDK
 family: slides
 platformtag: net
 feature: conversion

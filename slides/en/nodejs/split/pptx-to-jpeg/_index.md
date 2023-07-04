@@ -1,6 +1,6 @@
 ---
 title: Split Slides PPTX into multiple JPEG via Node.js
-description: Split Slides files into slides with REST API & Open Source Node.js SDK
+description: Split Slides PPTX files into JPEG slides with REST API & Open Source Node.js SDK
 family: slides
 platformtag: nodejs
 feature: split

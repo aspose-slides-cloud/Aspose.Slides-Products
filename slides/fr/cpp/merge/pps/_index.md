@@ -1,6 +1,6 @@
 ---
 title: Fusionner plusieurs fichiers PPS via C++
-description: Fusionnez plusieurs fichiers Slides avec l'API REST et le SDK Open Source C++
+description: Fusionnez plusieurs fichiers Slides PPS avec l'API REST et le SDK Open Source C++
 family: slides
 platformtag: cpp
 feature: merge

@@ -1,6 +1,6 @@
 ---
 title: Merge multiple PPS files via Android
-description: Merge multiple Slides files with REST API & Open Source Android SDK
+description: Merge multiple Slides PPS files with REST API & Open Source Android SDK
 family: slides
 platformtag: android
 feature: merge

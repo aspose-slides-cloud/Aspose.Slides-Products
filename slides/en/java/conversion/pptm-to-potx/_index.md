@@ -1,6 +1,6 @@
 ---
 title: Convert from Slides PPTM to POTX via Java 
-description: Create, Edit or Convert Slides files with REST API & Open Source Java SDK
+description: Create, Edit or Convert Slides PPTM files to POTX with REST API & Open Source Java SDK
 family: slides
 platformtag: java
 feature: conversion

@@ -1,6 +1,6 @@
 ---
 title: Node.js経由で複数のPPTXファイルをマージ
-description: REST API とオープン ソース Node.js SDK を使用して複数の Slides ファイルをマージする
+description: REST API とオープン ソース Node.js SDK を使用して複数の Slides PPTX ファイルをマージする
 family: slides
 platformtag: nodejs
 feature: merge

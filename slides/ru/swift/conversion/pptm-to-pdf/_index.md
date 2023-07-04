@@ -1,6 +1,6 @@
 ---
 title: Преобразование Slides PPTM в PDF с помощью Swift
-description: Создавайте, редактируйте или конвертируйте файлы Slides с помощью REST API и Swift SDK с открытым исходным кодом
+description: Создавайте, редактируйте или конвертируйте файлы Slides PPTM в PDF с помощью REST API и Swift SDK с открытым исходным кодом
 family: slides
 platformtag: swift
 feature: conversion

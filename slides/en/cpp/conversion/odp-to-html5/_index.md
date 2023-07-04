@@ -1,6 +1,6 @@
 ---
 title: Convert from Slides ODP to HTML5 via C++ 
-description: Create, Edit or Convert Slides files with REST API & Open Source C++ SDK
+description: Create, Edit or Convert Slides ODP files to HTML5 with REST API & Open Source C++ SDK
 family: slides
 platformtag: cpp
 feature: conversion

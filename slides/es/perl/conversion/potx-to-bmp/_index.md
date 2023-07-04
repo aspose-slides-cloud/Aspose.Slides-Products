@@ -1,6 +1,6 @@
 ---
 title: Convertir de Slides POTX a BMP a través de Perl
-description: cree, edite o convierta archivos Slides con REST API y Perl SDK de código abierto
+description: cree, edite o convierta archivos Slides POTX a BMP con REST API y Perl SDK de código abierto
 family: slides
 platformtag: perl
 feature: conversion

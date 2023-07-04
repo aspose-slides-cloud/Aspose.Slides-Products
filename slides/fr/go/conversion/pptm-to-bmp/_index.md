@@ -1,6 +1,6 @@
 ---
 title: Convertir de Slides PPTM en BMP via Go
-description: Créez, modifiez ou convertissez des fichiers Slides avec l'API REST et le SDK Go Open Source
+description: Créez, modifiez ou convertissez des fichiers Slides PPTM en BMP avec l'API REST et le SDK Go Open Source
 family: slides
 platformtag: go
 feature: conversion

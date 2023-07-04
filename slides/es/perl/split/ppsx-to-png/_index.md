@@ -1,6 +1,6 @@
 ---
 title: Dividir Slides PPSX en múltiples PNG a través de Perl
-description: Dividir archivos de Slides en diapositivas con REST API y Perl SDK de código abierto
+description: Dividir archivos de Slides PPSX en diapositivas PNG con REST API y Perl SDK de código abierto
 family: slides
 platformtag: perl
 feature: split

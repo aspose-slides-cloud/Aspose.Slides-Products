@@ -1,6 +1,6 @@
 ---
 title: Split Slides PPTX into multiple PDF via Ruby
-description: Split Slides files into slides with REST API & Open Source Ruby SDK
+description: Split Slides PPTX files into PDF slides with REST API & Open Source Ruby SDK
 family: slides
 platformtag: ruby
 feature: split

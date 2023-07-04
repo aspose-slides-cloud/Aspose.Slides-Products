@@ -1,6 +1,6 @@
 ---
 title: Go経由で複数のPPSファイルをマージ
-description: REST API とオープン ソース Go SDK を使用して複数の Slides ファイルをマージする
+description: REST API とオープン ソース Go SDK を使用して複数の Slides PPS ファイルをマージする
 family: slides
 platformtag: go
 feature: merge

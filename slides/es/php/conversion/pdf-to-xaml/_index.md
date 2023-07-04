@@ -1,6 +1,6 @@
 ---
 title: Convertir de Slides PDF a XAML a través de PHP
-description: cree, edite o convierta archivos Slides con REST API y PHP SDK de código abierto
+description: cree, edite o convierta archivos Slides PDF a XAML con REST API y PHP SDK de código abierto
 family: slides
 platformtag: php
 feature: conversion

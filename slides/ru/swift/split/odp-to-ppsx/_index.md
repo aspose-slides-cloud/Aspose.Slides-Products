@@ -1,6 +1,6 @@
 ---
 title: Разделение Slides ODP на несколько PPSX с помощью Swift
-description: Разделите файлы Slides на слайды с помощью REST API и Swift SDK с открытым исходным кодом
+description: Разделите файлы Slides ODP на слайды PPSX с помощью REST API и Swift SDK с открытым исходным кодом
 family: slides
 platformtag: swift
 feature: split

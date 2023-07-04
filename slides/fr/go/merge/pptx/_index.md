@@ -1,6 +1,6 @@
 ---
 title: Fusionner plusieurs fichiers PPTX via Go
-description: Fusionnez plusieurs fichiers Slides avec l'API REST et le SDK Open Source Go
+description: Fusionnez plusieurs fichiers Slides PPTX avec l'API REST et le SDK Open Source Go
 family: slides
 platformtag: go
 feature: merge

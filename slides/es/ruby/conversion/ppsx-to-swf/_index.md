@@ -1,6 +1,6 @@
 ---
 title: Convertir de Slides PPSX a SWF a través de Ruby
-description: cree, edite o convierta archivos Slides con REST API y Ruby SDK de código abierto
+description: cree, edite o convierta archivos Slides PPSX a SWF con REST API y Ruby SDK de código abierto
 family: slides
 platformtag: ruby
 feature: conversion

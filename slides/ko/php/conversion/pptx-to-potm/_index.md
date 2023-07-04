@@ -1,6 +1,6 @@
 ---
 title: PHP를 통해 Slides PPTX에서 POTM로 변환
-description: REST API 및 오픈 소스 PHP SDK를 사용하여 Slides 파일 생성, 편집 또는 변환
+description: REST API 및 오픈 소스 PHP SDK를 사용하여 Slides PPTX 파일을 PDF로 생성, 편집 또는 변환
 family: slides
 platformtag: php
 feature: conversion

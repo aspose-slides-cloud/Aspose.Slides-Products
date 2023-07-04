@@ -1,6 +1,6 @@
 ---
 title: Slides PPT から Android 経由で JPEG に変換
-description: REST API とオープン ソース Android SDK を使用して Slides ファイルを作成、編集、または変換します
+description: REST API とオープン ソース Android SDK を使用して Slides PPT ファイルを作成、編集、JPEG に変換します
 family: slides
 platformtag: android
 feature: conversion

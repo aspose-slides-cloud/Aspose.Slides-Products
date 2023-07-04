@@ -1,6 +1,6 @@
 ---
 title: Разделение Slides PPS на несколько XAML с помощью C++
-description: Разделите файлы Slides на слайды с помощью REST API и C++ SDK с открытым исходным кодом
+description: Разделите файлы Slides PPS на слайды XAML с помощью REST API и C++ SDK с открытым исходным кодом
 family: slides
 platformtag: cpp
 feature: split

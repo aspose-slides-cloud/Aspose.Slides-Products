@@ -1,6 +1,6 @@
 ---
 title: Fusionner plusieurs fichiers PDF via Java
-description: Fusionnez plusieurs fichiers Slides avec l'API REST et le SDK Open Source Java
+description: Fusionnez plusieurs fichiers Slides PDF avec l'API REST et le SDK Open Source Java
 family: slides
 platformtag: java
 feature: merge

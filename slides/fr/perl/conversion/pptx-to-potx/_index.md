@@ -1,6 +1,6 @@
 ---
 title: Convertir de Slides PPTX en POTX via Perl
-description: Créez, modifiez ou convertissez des fichiers Slides avec l'API REST et le SDK Perl Open Source
+description: Créez, modifiez ou convertissez des fichiers Slides PPTX en POTX avec l'API REST et le SDK Perl Open Source
 family: slides
 platformtag: perl
 feature: conversion

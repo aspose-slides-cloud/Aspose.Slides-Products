@@ -1,6 +1,6 @@
 ---
 title: Split Slides POTX into multiple PPSM via Perl
-description: Split Slides files into slides with REST API & Open Source Perl SDK
+description: Split Slides POTX files into PPSM slides with REST API & Open Source Perl SDK
 family: slides
 platformtag: perl
 feature: split

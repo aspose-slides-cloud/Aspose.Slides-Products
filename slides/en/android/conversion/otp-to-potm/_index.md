@@ -1,6 +1,6 @@
 ---
 title: Convert from Slides OTP to POTM via Android 
-description: Create, Edit or Convert Slides files with REST API & Open Source Android SDK
+description: Create, Edit or Convert Slides OTP files to POTM with REST API & Open Source Android SDK
 family: slides
 platformtag: android
 feature: conversion

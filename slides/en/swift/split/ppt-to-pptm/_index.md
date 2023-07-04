@@ -1,6 +1,6 @@
 ---
 title: Split Slides PPT into multiple PPTM via Swift
-description: Split Slides files into slides with REST API & Open Source Swift SDK
+description: Split Slides PPT files into PPTM slides with REST API & Open Source Swift SDK
 family: slides
 platformtag: swift
 feature: split

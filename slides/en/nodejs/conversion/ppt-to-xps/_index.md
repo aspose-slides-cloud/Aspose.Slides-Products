@@ -1,6 +1,6 @@
 ---
 title: Convert from Slides PPT to XPS via Node.js 
-description: Create, Edit or Convert Slides files with REST API & Open Source Node.js SDK
+description: Create, Edit or Convert Slides PPT files to XPS with REST API & Open Source Node.js SDK
 family: slides
 platformtag: nodejs
 feature: conversion

@@ -1,6 +1,6 @@
 ---
 title: Convert from Slides PPT to OTP via cURL 
-description: Create, Edit or Convert Slides files with REST API & Open Source cURL SDK
+description: Create, Edit or Convert Slides PPT files to OTP with REST API & Open Source cURL SDK
 family: slides
 platformtag: curl
 feature: conversion

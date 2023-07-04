@@ -1,6 +1,6 @@
 ---
 title: Convert from Slides OTP to PPT via Node.js 
-description: Create, Edit or Convert Slides files with REST API & Open Source Node.js SDK
+description: Create, Edit or Convert Slides OTP files to PPT with REST API & Open Source Node.js SDK
 family: slides
 platformtag: nodejs
 feature: conversion

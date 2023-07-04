@@ -1,6 +1,6 @@
 ---
 title: Diviser Slides PPTX en plusieurs PPT via Ruby
-description: Divisez les fichiers Slides en diapositives avec l'API REST et le SDK Open Source Ruby
+description: Divisez les fichiers Slides PPTX en diapositives PPT avec l'API REST et le SDK Open Source Ruby
 family: slides
 platformtag: ruby
 feature: split

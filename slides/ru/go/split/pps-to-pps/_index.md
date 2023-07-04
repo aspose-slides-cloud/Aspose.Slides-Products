@@ -1,6 +1,6 @@
 ---
 title: Разделение Slides PPS на несколько PPS с помощью Go
-description: Разделите файлы Slides на слайды с помощью REST API и Go SDK с открытым исходным кодом
+description: Разделите файлы Slides PPS на слайды PPS с помощью REST API и Go SDK с открытым исходным кодом
 family: slides
 platformtag: go
 feature: split

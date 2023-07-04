@@ -1,6 +1,6 @@
 ---
 title: Convertir de Slides PPSM en TIFF via Perl
-description: Créez, modifiez ou convertissez des fichiers Slides avec l'API REST et le SDK Perl Open Source
+description: Créez, modifiez ou convertissez des fichiers Slides PPSM en TIFF avec l'API REST et le SDK Perl Open Source
 family: slides
 platformtag: perl
 feature: conversion

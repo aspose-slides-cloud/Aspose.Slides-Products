@@ -1,6 +1,6 @@
 ---
 title: Split Slides POTM into multiple POTX via Java
-description: Split Slides files into slides with REST API & Open Source Java SDK
+description: Split Slides POTM files into POTX slides with REST API & Open Source Java SDK
 family: slides
 platformtag: java
 feature: split

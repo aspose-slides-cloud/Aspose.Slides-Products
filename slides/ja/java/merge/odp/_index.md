@@ -1,6 +1,6 @@
 ---
 title: Java経由で複数のODPファイルをマージ
-description: REST API とオープン ソース Java SDK を使用して複数の Slides ファイルをマージする
+description: REST API とオープン ソース Java SDK を使用して複数の Slides ODP ファイルをマージする
 family: slides
 platformtag: java
 feature: merge

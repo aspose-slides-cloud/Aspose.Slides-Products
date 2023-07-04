@@ -1,6 +1,6 @@
 ---
 title: Slides PPSX を Perl 経由で複数の PDF に分割する
-description: REST API とオープン ソース Perl SDK を使用して Slides ファイルをスライドに分割する
+description: REST API とオープン ソース Perl SDK を使用して Slides PPSX ファイルを PDF スライドに分割する
 family: slides
 platformtag: perl
 feature: split

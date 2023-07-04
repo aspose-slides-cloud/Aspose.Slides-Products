@@ -1,6 +1,6 @@
 ---
 title: Convertir de Slides PPS a TIFF a través de Go
-description: cree, edite o convierta archivos Slides con REST API y Go SDK de código abierto
+description: cree, edite o convierta archivos Slides PPS a TIFF con REST API y Go SDK de código abierto
 family: slides
 platformtag: go
 feature: conversion

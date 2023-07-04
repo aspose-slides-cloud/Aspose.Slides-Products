@@ -1,6 +1,6 @@
 ---
 title: Преобразование Slides ODP в HTML5 с помощью PHP
-description: Создавайте, редактируйте или конвертируйте файлы Slides с помощью REST API и PHP SDK с открытым исходным кодом
+description: Создавайте, редактируйте или конвертируйте файлы Slides ODP в HTML5 с помощью REST API и PHP SDK с открытым исходным кодом
 family: slides
 platformtag: php
 feature: conversion

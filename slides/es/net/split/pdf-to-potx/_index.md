@@ -1,6 +1,6 @@
 ---
 title: Dividir Slides PDF en múltiples POTX a través de .NET
-description: Dividir archivos de Slides en diapositivas con REST API y .NET SDK de código abierto
+description: Dividir archivos de Slides PDF en diapositivas POTX con REST API y .NET SDK de código abierto
 family: slides
 platformtag: net
 feature: split

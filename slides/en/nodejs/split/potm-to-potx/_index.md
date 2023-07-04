@@ -1,6 +1,6 @@
 ---
 title: Split Slides POTM into multiple POTX via Node.js
-description: Split Slides files into slides with REST API & Open Source Node.js SDK
+description: Split Slides POTM files into POTX slides with REST API & Open Source Node.js SDK
 family: slides
 platformtag: nodejs
 feature: split

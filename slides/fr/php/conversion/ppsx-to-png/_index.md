@@ -1,6 +1,6 @@
 ---
 title: Convertir de Slides PPSX en PNG via PHP
-description: Créez, modifiez ou convertissez des fichiers Slides avec l'API REST et le SDK PHP Open Source
+description: Créez, modifiez ou convertissez des fichiers Slides PPSX en PNG avec l'API REST et le SDK PHP Open Source
 family: slides
 platformtag: php
 feature: conversion

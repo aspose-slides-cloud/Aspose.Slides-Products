@@ -1,6 +1,6 @@
 ---
 title: Diviser Slides PPSM en plusieurs PNG via Python
-description: Divisez les fichiers Slides en diapositives avec l'API REST et le SDK Open Source Python
+description: Divisez les fichiers Slides PPSM en diapositives PNG avec l'API REST et le SDK Open Source Python
 family: slides
 platformtag: python
 feature: split

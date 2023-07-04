@@ -1,6 +1,6 @@
 ---
 title: Fusionner plusieurs fichiers PPSM via Python
-description: Fusionnez plusieurs fichiers Slides avec l'API REST et le SDK Open Source Python
+description: Fusionnez plusieurs fichiers Slides PPSM avec l'API REST et le SDK Open Source Python
 family: slides
 platformtag: python
 feature: merge

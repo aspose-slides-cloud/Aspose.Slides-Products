@@ -1,6 +1,6 @@
 ---
 title: Разделение Slides PPTM на несколько SVG с помощью Node.js
-description: Разделите файлы Slides на слайды с помощью REST API и Node.js SDK с открытым исходным кодом
+description: Разделите файлы Slides PPTM на слайды SVG с помощью REST API и Node.js SDK с открытым исходным кодом
 family: slides
 platformtag: nodejs
 feature: split

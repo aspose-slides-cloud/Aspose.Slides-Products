@@ -1,6 +1,6 @@
 ---
 title: Объединение нескольких OTP файлов с помощью Perl
-description: Объединение нескольких файлов Slides с помощью REST API и Perl SDK с открытым исходным кодом
+description: Объединение нескольких файлов Slides OTP с помощью REST API и Perl SDK с открытым исходным кодом
 family: slides
 platformtag: perl
 feature: merge

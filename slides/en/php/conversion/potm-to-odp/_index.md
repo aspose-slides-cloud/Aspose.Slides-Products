@@ -1,6 +1,6 @@
 ---
 title: Convert from Slides POTM to ODP via PHP 
-description: Create, Edit or Convert Slides files with REST API & Open Source PHP SDK
+description: Create, Edit or Convert Slides POTM files to ODP with REST API & Open Source PHP SDK
 family: slides
 platformtag: php
 feature: conversion

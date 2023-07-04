@@ -1,6 +1,6 @@
 ---
 title: Java를 통해 Slides PPSM에서 PNG로 변환
-description: REST API 및 오픈 소스 Java SDK를 사용하여 Slides 파일 생성, 편집 또는 변환
+description: REST API 및 오픈 소스 Java SDK를 사용하여 Slides PPSM 파일을 PDF로 생성, 편집 또는 변환
 family: slides
 platformtag: java
 feature: conversion

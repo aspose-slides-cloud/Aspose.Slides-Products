@@ -1,6 +1,6 @@
 ---
 title: Объединение нескольких PPS файлов с помощью Android
-description: Объединение нескольких файлов Slides с помощью REST API и Android SDK с открытым исходным кодом
+description: Объединение нескольких файлов Slides PPS с помощью REST API и Android SDK с открытым исходным кодом
 family: slides
 platformtag: android
 feature: merge

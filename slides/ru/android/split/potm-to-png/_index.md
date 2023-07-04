@@ -1,6 +1,6 @@
 ---
 title: Разделение Slides POTM на несколько PNG с помощью Android
-description: Разделите файлы Slides на слайды с помощью REST API и Android SDK с открытым исходным кодом
+description: Разделите файлы Slides POTM на слайды PNG с помощью REST API и Android SDK с открытым исходным кодом
 family: slides
 platformtag: android
 feature: split

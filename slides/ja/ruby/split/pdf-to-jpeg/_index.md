@@ -1,6 +1,6 @@
 ---
 title: Slides PDF を Ruby 経由で複数の JPEG に分割する
-description: REST API とオープン ソース Ruby SDK を使用して Slides ファイルをスライドに分割する
+description: REST API とオープン ソース Ruby SDK を使用して Slides PDF ファイルを JPEG スライドに分割する
 family: slides
 platformtag: ruby
 feature: split

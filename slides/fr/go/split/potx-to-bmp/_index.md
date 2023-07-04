@@ -1,6 +1,6 @@
 ---
 title: Diviser Slides POTX en plusieurs BMP via Go
-description: Divisez les fichiers Slides en diapositives avec l'API REST et le SDK Open Source Go
+description: Divisez les fichiers Slides POTX en diapositives BMP avec l'API REST et le SDK Open Source Go
 family: slides
 platformtag: go
 feature: split

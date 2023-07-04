@@ -1,6 +1,6 @@
 ---
 title: Split Slides ODP into multiple XPS via C++
-description: Split Slides files into slides with REST API & Open Source C++ SDK
+description: Split Slides ODP files into XPS slides with REST API & Open Source C++ SDK
 family: slides
 platformtag: cpp
 feature: split

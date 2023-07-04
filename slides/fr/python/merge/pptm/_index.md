@@ -1,6 +1,6 @@
 ---
 title: Fusionner plusieurs fichiers PPTM via Python
-description: Fusionnez plusieurs fichiers Slides avec l'API REST et le SDK Open Source Python
+description: Fusionnez plusieurs fichiers Slides PPTM avec l'API REST et le SDK Open Source Python
 family: slides
 platformtag: python
 feature: merge

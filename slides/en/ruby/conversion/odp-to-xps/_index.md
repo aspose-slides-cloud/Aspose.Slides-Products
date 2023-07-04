@@ -1,6 +1,6 @@
 ---
 title: Convert from Slides ODP to XPS via Ruby 
-description: Create, Edit or Convert Slides files with REST API & Open Source Ruby SDK
+description: Create, Edit or Convert Slides ODP files to XPS with REST API & Open Source Ruby SDK
 family: slides
 platformtag: ruby
 feature: conversion

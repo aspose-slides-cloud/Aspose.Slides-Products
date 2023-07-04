@@ -1,6 +1,6 @@
 ---
 title: Convertir de Slides OTP en TIFF via C++
-description: Créez, modifiez ou convertissez des fichiers Slides avec l'API REST et le SDK C++ Open Source
+description: Créez, modifiez ou convertissez des fichiers Slides OTP en TIFF avec l'API REST et le SDK C++ Open Source
 family: slides
 platformtag: cpp
 feature: conversion

@@ -1,6 +1,6 @@
 ---
 title: Split Slides PPSX into multiple TIFF via cURL
-description: Split Slides files into slides with REST API & Open Source cURL SDK
+description: Split Slides PPSX files into TIFF slides with REST API & Open Source cURL SDK
 family: slides
 platformtag: curl
 feature: split

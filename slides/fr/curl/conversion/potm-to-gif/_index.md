@@ -1,6 +1,6 @@
 ---
 title: Convertir de Slides POTM en GIF via cURL
-description: Créez, modifiez ou convertissez des fichiers Slides avec l'API REST et le SDK cURL Open Source
+description: Créez, modifiez ou convertissez des fichiers Slides POTM en GIF avec l'API REST et le SDK cURL Open Source
 family: slides
 platformtag: curl
 feature: conversion

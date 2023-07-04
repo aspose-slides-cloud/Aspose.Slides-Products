@@ -1,6 +1,6 @@
 ---
 title: Convert from Slides POTX to GIF via .NET 
-description: Create, Edit or Convert Slides files with REST API & Open Source .NET SDK
+description: Create, Edit or Convert Slides POTX files to GIF with REST API & Open Source .NET SDK
 family: slides
 platformtag: net
 feature: conversion

@@ -1,6 +1,6 @@
 ---
 title: Fusionner plusieurs fichiers PPSX via C++
-description: Fusionnez plusieurs fichiers Slides avec l'API REST et le SDK Open Source C++
+description: Fusionnez plusieurs fichiers Slides PPSX avec l'API REST et le SDK Open Source C++
 family: slides
 platformtag: cpp
 feature: merge

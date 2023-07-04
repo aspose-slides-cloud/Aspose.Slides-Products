@@ -1,6 +1,6 @@
 ---
 title: Fusionner plusieurs fichiers POTM via Swift
-description: Fusionnez plusieurs fichiers Slides avec l'API REST et le SDK Open Source Swift
+description: Fusionnez plusieurs fichiers Slides POTM avec l'API REST et le SDK Open Source Swift
 family: slides
 platformtag: swift
 feature: merge

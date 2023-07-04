@@ -1,6 +1,6 @@
 ---
 title: Dividir Slides OTP en múltiples POTM a través de cURL
-description: Dividir archivos de Slides en diapositivas con REST API y cURL SDK de código abierto
+description: Dividir archivos de Slides OTP en diapositivas POTM con REST API y cURL SDK de código abierto
 family: slides
 platformtag: curl
 feature: split

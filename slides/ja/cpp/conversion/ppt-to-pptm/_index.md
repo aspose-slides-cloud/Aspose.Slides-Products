@@ -1,6 +1,6 @@
 ---
 title: Slides PPT から C++ 経由で PPTM に変換
-description: REST API とオープン ソース C++ SDK を使用して Slides ファイルを作成、編集、または変換します
+description: REST API とオープン ソース C++ SDK を使用して Slides PPT ファイルを作成、編集、PPTM に変換します
 family: slides
 platformtag: cpp
 feature: conversion

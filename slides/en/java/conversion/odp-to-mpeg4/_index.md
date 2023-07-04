@@ -1,6 +1,6 @@
 ---
 title: Convert from Slides ODP to MPEG4 via Java 
-description: Create, Edit or Convert Slides files with REST API & Open Source Java SDK
+description: Create, Edit or Convert Slides ODP files to MPEG4 with REST API & Open Source Java SDK
 family: slides
 platformtag: java
 feature: conversion

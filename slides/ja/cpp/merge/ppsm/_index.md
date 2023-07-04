@@ -1,6 +1,6 @@
 ---
 title: C++経由で複数のPPSMファイルをマージ
-description: REST API とオープン ソース C++ SDK を使用して複数の Slides ファイルをマージする
+description: REST API とオープン ソース C++ SDK を使用して複数の Slides PPSM ファイルをマージする
 family: slides
 platformtag: cpp
 feature: merge

@@ -1,6 +1,6 @@
 ---
 title: .NET를 통해 Slides PPT를 여러 BMP로 분할
-description: REST API 및 오픈 소스 .NET SDK를 사용하여 Slides 파일을 슬라이드로 분할
+description: REST API 및 오픈 소스 .NET SDK를 사용하여 Slides PPT 파일을 BMP 슬라이드로 분할
 family: slides
 platformtag: net
 feature: split

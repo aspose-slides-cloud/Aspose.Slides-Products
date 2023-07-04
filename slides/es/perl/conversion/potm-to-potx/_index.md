@@ -1,6 +1,6 @@
 ---
 title: Convertir de Slides POTM a POTX a través de Perl
-description: cree, edite o convierta archivos Slides con REST API y Perl SDK de código abierto
+description: cree, edite o convierta archivos Slides POTM a POTX con REST API y Perl SDK de código abierto
 family: slides
 platformtag: perl
 feature: conversion

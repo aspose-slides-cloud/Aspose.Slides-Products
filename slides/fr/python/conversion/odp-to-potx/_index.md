@@ -1,6 +1,6 @@
 ---
 title: Convertir de Slides ODP en POTX via Python
-description: Créez, modifiez ou convertissez des fichiers Slides avec l'API REST et le SDK Python Open Source
+description: Créez, modifiez ou convertissez des fichiers Slides ODP en POTX avec l'API REST et le SDK Python Open Source
 family: slides
 platformtag: python
 feature: conversion

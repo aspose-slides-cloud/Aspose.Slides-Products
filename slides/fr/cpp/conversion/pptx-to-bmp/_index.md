@@ -1,6 +1,6 @@
 ---
 title: Convertir de Slides PPTX en BMP via C++
-description: Créez, modifiez ou convertissez des fichiers Slides avec l'API REST et le SDK C++ Open Source
+description: Créez, modifiez ou convertissez des fichiers Slides PPTX en BMP avec l'API REST et le SDK C++ Open Source
 family: slides
 platformtag: cpp
 feature: conversion

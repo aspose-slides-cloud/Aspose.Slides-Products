@@ -1,6 +1,6 @@
 ---
 title: Convert from Slides PPSM to PPSX via Android 
-description: Create, Edit or Convert Slides files with REST API & Open Source Android SDK
+description: Create, Edit or Convert Slides PPSM files to PPSX with REST API & Open Source Android SDK
 family: slides
 platformtag: android
 feature: conversion

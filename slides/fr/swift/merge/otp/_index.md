@@ -1,6 +1,6 @@
 ---
 title: Fusionner plusieurs fichiers OTP via Swift
-description: Fusionnez plusieurs fichiers Slides avec l'API REST et le SDK Open Source Swift
+description: Fusionnez plusieurs fichiers Slides OTP avec l'API REST et le SDK Open Source Swift
 family: slides
 platformtag: swift
 feature: merge

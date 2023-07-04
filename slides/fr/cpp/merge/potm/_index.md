@@ -1,6 +1,6 @@
 ---
 title: Fusionner plusieurs fichiers POTM via C++
-description: Fusionnez plusieurs fichiers Slides avec l'API REST et le SDK Open Source C++
+description: Fusionnez plusieurs fichiers Slides POTM avec l'API REST et le SDK Open Source C++
 family: slides
 platformtag: cpp
 feature: merge

@@ -1,6 +1,6 @@
 ---
 title: Разделение Slides PPS на несколько ODP с помощью Android
-description: Разделите файлы Slides на слайды с помощью REST API и Android SDK с открытым исходным кодом
+description: Разделите файлы Slides PPS на слайды ODP с помощью REST API и Android SDK с открытым исходным кодом
 family: slides
 platformtag: android
 feature: split

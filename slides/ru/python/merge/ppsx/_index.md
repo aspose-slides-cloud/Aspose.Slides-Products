@@ -1,6 +1,6 @@
 ---
 title: Объединение нескольких PPSX файлов с помощью Python
-description: Объединение нескольких файлов Slides с помощью REST API и Python SDK с открытым исходным кодом
+description: Объединение нескольких файлов Slides PPSX с помощью REST API и Python SDK с открытым исходным кодом
 family: slides
 platformtag: python
 feature: merge

@@ -1,6 +1,6 @@
 ---
 title: Convert from Slides PPTM to ODP via Go 
-description: Create, Edit or Convert Slides files with REST API & Open Source Go SDK
+description: Create, Edit or Convert Slides PPTM files to ODP with REST API & Open Source Go SDK
 family: slides
 platformtag: go
 feature: conversion

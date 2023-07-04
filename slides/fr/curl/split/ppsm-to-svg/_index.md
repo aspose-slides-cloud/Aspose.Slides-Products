@@ -1,6 +1,6 @@
 ---
 title: Diviser Slides PPSM en plusieurs SVG via cURL
-description: Divisez les fichiers Slides en diapositives avec l'API REST et le SDK Open Source cURL
+description: Divisez les fichiers Slides PPSM en diapositives SVG avec l'API REST et le SDK Open Source cURL
 family: slides
 platformtag: curl
 feature: split

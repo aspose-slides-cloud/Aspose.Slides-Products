@@ -1,6 +1,6 @@
 ---
 title: Perl를 통해 여러 POTM 파일 병합
-description: REST API 및 오픈 소스 Perl SDK를 사용하여 여러 Slides 파일 병합
+description: REST API 및 오픈 소스 Perl SDK를 사용하여 여러 Slides POTM 파일 병합
 family: slides
 platformtag: perl
 feature: merge

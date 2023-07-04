@@ -1,6 +1,6 @@
 ---
 title: Go를 통해 Slides PPS를 여러 POTX로 분할
-description: REST API 및 오픈 소스 Go SDK를 사용하여 Slides 파일을 슬라이드로 분할
+description: REST API 및 오픈 소스 Go SDK를 사용하여 Slides PPS 파일을 POTX 슬라이드로 분할
 family: slides
 platformtag: go
 feature: split

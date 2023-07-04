@@ -1,6 +1,6 @@
 ---
 title: Split Slides PPS into multiple ODP via Node.js
-description: Split Slides files into slides with REST API & Open Source Node.js SDK
+description: Split Slides PPS files into ODP slides with REST API & Open Source Node.js SDK
 family: slides
 platformtag: nodejs
 feature: split

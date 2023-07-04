@@ -1,6 +1,6 @@
 ---
 title: Slides OTP を Java 経由で複数の PPT に分割する
-description: REST API とオープン ソース Java SDK を使用して Slides ファイルをスライドに分割する
+description: REST API とオープン ソース Java SDK を使用して Slides OTP ファイルを PPT スライドに分割する
 family: slides
 platformtag: java
 feature: split

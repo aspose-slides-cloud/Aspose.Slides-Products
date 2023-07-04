@@ -1,6 +1,6 @@
 ---
 title: Combinar múltiples archivos POTX a través de Swift
-description: Combine varios archivos Slides con REST API y Open Source Swift SDK
+description: Combine varios archivos Slides POTX con REST API y Open Source Swift SDK
 family: slides
 platformtag: swift
 feature: merge

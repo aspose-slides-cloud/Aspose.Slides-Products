@@ -1,6 +1,6 @@
 ---
 title: Slides PPSX を Python 経由で複数の PPTM に分割する
-description: REST API とオープン ソース Python SDK を使用して Slides ファイルをスライドに分割する
+description: REST API とオープン ソース Python SDK を使用して Slides PPSX ファイルを PPTM スライドに分割する
 family: slides
 platformtag: python
 feature: split

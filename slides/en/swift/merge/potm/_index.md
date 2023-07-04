@@ -1,6 +1,6 @@
 ---
 title: Merge multiple POTM files via Swift
-description: Merge multiple Slides files with REST API & Open Source Swift SDK
+description: Merge multiple Slides POTM files with REST API & Open Source Swift SDK
 family: slides
 platformtag: swift
 feature: merge

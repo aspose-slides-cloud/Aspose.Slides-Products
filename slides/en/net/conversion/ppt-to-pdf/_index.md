@@ -1,6 +1,6 @@
 ---
 title: Convert from Slides PPT to PDF via .NET 
-description: Create, Edit or Convert Slides files with REST API & Open Source .NET SDK
+description: Create, Edit or Convert Slides PPT files to PDF with REST API & Open Source .NET SDK
 family: slides
 platformtag: net
 feature: conversion

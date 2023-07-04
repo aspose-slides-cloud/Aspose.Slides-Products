@@ -1,6 +1,6 @@
 ---
 title: Slides PPT から Java 経由で POTM に変換
-description: REST API とオープン ソース Java SDK を使用して Slides ファイルを作成、編集、または変換します
+description: REST API とオープン ソース Java SDK を使用して Slides PPT ファイルを作成、編集、POTM に変換します
 family: slides
 platformtag: java
 feature: conversion

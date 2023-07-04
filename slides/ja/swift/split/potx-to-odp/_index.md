@@ -1,6 +1,6 @@
 ---
 title: Slides POTX を Swift 経由で複数の ODP に分割する
-description: REST API とオープン ソース Swift SDK を使用して Slides ファイルをスライドに分割する
+description: REST API とオープン ソース Swift SDK を使用して Slides POTX ファイルを ODP スライドに分割する
 family: slides
 platformtag: swift
 feature: split

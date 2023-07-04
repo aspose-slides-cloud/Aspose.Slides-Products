@@ -1,6 +1,6 @@
 ---
 title: cURL를 통해 여러 POTX 파일 병합
-description: REST API 및 오픈 소스 cURL SDK를 사용하여 여러 Slides 파일 병합
+description: REST API 및 오픈 소스 cURL SDK를 사용하여 여러 Slides POTX 파일 병합
 family: slides
 platformtag: curl
 feature: merge

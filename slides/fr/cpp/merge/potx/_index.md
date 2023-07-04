@@ -1,6 +1,6 @@
 ---
 title: Fusionner plusieurs fichiers POTX via C++
-description: Fusionnez plusieurs fichiers Slides avec l'API REST et le SDK Open Source C++
+description: Fusionnez plusieurs fichiers Slides POTX avec l'API REST et le SDK Open Source C++
 family: slides
 platformtag: cpp
 feature: merge

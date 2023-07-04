@@ -1,6 +1,6 @@
 ---
 title: Dividir Slides PPSX en múltiples TIFF a través de PHP
-description: Dividir archivos de Slides en diapositivas con REST API y PHP SDK de código abierto
+description: Dividir archivos de Slides PPSX en diapositivas TIFF con REST API y PHP SDK de código abierto
 family: slides
 platformtag: php
 feature: split

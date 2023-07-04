@@ -1,6 +1,6 @@
 ---
 title: Slides PPS を Python 経由で複数の JPEG に分割する
-description: REST API とオープン ソース Python SDK を使用して Slides ファイルをスライドに分割する
+description: REST API とオープン ソース Python SDK を使用して Slides PPS ファイルを JPEG スライドに分割する
 family: slides
 platformtag: python
 feature: split

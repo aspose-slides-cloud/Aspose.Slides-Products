@@ -1,6 +1,6 @@
 ---
 title: Преобразование Slides PPS в PPTX с помощью Perl
-description: Создавайте, редактируйте или конвертируйте файлы Slides с помощью REST API и Perl SDK с открытым исходным кодом
+description: Создавайте, редактируйте или конвертируйте файлы Slides PPS в PPTX с помощью REST API и Perl SDK с открытым исходным кодом
 family: slides
 platformtag: perl
 feature: conversion

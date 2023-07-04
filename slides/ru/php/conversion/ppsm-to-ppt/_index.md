@@ -1,6 +1,6 @@
 ---
 title: Преобразование Slides PPSM в PPT с помощью PHP
-description: Создавайте, редактируйте или конвертируйте файлы Slides с помощью REST API и PHP SDK с открытым исходным кодом
+description: Создавайте, редактируйте или конвертируйте файлы Slides PPSM в PPT с помощью REST API и PHP SDK с открытым исходным кодом
 family: slides
 platformtag: php
 feature: conversion

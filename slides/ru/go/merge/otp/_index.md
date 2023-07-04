@@ -1,6 +1,6 @@
 ---
 title: Объединение нескольких OTP файлов с помощью Go
-description: Объединение нескольких файлов Slides с помощью REST API и Go SDK с открытым исходным кодом
+description: Объединение нескольких файлов Slides OTP с помощью REST API и Go SDK с открытым исходным кодом
 family: slides
 platformtag: go
 feature: merge

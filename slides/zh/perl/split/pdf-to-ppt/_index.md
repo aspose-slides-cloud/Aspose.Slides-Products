@@ -1,6 +1,6 @@
 ---
 title: 通过 Perl 将 Slides PDF 拆分为多个 PPT
-description: 使用 REST API 和开源 Perl SDK 将 Slides 文件拆分成幻灯片
+description: 使用 REST API 和开源 Perl SDK 将 Slides PDF 文件拆分成 PPT 幻灯片
 family: slides
 platformtag: perl
 feature: split

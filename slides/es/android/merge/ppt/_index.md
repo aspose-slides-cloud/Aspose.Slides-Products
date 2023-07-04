@@ -1,6 +1,6 @@
 ---
 title: Combinar múltiples archivos PPT a través de Android
-description: Combine varios archivos Slides con REST API y Open Source Android SDK
+description: Combine varios archivos Slides PPT con REST API y Open Source Android SDK
 family: slides
 platformtag: android
 feature: merge

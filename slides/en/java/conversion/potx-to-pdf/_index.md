@@ -1,6 +1,6 @@
 ---
 title: Convert from Slides POTX to PDF via Java 
-description: Create, Edit or Convert Slides files with REST API & Open Source Java SDK
+description: Create, Edit or Convert Slides POTX files to PDF with REST API & Open Source Java SDK
 family: slides
 platformtag: java
 feature: conversion

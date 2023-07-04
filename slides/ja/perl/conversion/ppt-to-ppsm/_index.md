@@ -1,6 +1,6 @@
 ---
 title: Slides PPT から Perl 経由で PPSM に変換
-description: REST API とオープン ソース Perl SDK を使用して Slides ファイルを作成、編集、または変換します
+description: REST API とオープン ソース Perl SDK を使用して Slides PPT ファイルを作成、編集、PPSM に変換します
 family: slides
 platformtag: perl
 feature: conversion

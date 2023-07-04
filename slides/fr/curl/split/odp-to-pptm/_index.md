@@ -1,6 +1,6 @@
 ---
 title: Diviser Slides ODP en plusieurs PPTM via cURL
-description: Divisez les fichiers Slides en diapositives avec l'API REST et le SDK Open Source cURL
+description: Divisez les fichiers Slides ODP en diapositives PPTM avec l'API REST et le SDK Open Source cURL
 family: slides
 platformtag: curl
 feature: split

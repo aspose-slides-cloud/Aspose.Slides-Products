@@ -1,6 +1,6 @@
 ---
 title: Combinar múltiples archivos PPSM a través de C++
-description: Combine varios archivos Slides con REST API y Open Source C++ SDK
+description: Combine varios archivos Slides PPSM con REST API y Open Source C++ SDK
 family: slides
 platformtag: cpp
 feature: merge

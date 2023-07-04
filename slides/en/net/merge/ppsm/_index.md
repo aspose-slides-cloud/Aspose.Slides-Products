@@ -1,6 +1,6 @@
 ---
 title: Merge multiple PPSM files via .NET
-description: Merge multiple Slides files with REST API & Open Source .NET SDK
+description: Merge multiple Slides PPSM files with REST API & Open Source .NET SDK
 family: slides
 platformtag: net
 feature: merge

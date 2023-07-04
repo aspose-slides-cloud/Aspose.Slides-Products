@@ -1,6 +1,6 @@
 ---
 title: Convert from Slides PPS to JPEG via Node.js 
-description: Create, Edit or Convert Slides files with REST API & Open Source Node.js SDK
+description: Create, Edit or Convert Slides PPS files to JPEG with REST API & Open Source Node.js SDK
 family: slides
 platformtag: nodejs
 feature: conversion

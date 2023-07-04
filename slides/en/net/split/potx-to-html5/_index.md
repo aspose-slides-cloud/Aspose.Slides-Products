@@ -1,6 +1,6 @@
 ---
 title: Split Slides POTX into multiple HTML5 via .NET
-description: Split Slides files into slides with REST API & Open Source .NET SDK
+description: Split Slides POTX files into HTML5 slides with REST API & Open Source .NET SDK
 family: slides
 platformtag: net
 feature: split

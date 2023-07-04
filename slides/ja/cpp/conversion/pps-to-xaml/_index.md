@@ -1,6 +1,6 @@
 ---
 title: Slides PPS から C++ 経由で XAML に変換
-description: REST API とオープン ソース C++ SDK を使用して Slides ファイルを作成、編集、または変換します
+description: REST API とオープン ソース C++ SDK を使用して Slides PPS ファイルを作成、編集、XAML に変換します
 family: slides
 platformtag: cpp
 feature: conversion

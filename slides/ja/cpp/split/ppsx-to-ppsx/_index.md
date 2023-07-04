@@ -1,6 +1,6 @@
 ---
 title: Slides PPSX を C++ 経由で複数の PPSX に分割する
-description: REST API とオープン ソース C++ SDK を使用して Slides ファイルをスライドに分割する
+description: REST API とオープン ソース C++ SDK を使用して Slides PPSX ファイルを PPSX スライドに分割する
 family: slides
 platformtag: cpp
 feature: split

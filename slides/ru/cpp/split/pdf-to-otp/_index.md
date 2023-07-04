@@ -1,6 +1,6 @@
 ---
 title: Разделение Slides PDF на несколько OTP с помощью C++
-description: Разделите файлы Slides на слайды с помощью REST API и C++ SDK с открытым исходным кодом
+description: Разделите файлы Slides PDF на слайды OTP с помощью REST API и C++ SDK с открытым исходным кодом
 family: slides
 platformtag: cpp
 feature: split

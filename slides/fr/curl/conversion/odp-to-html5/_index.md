@@ -1,6 +1,6 @@
 ---
 title: Convertir de Slides ODP en HTML5 via cURL
-description: Créez, modifiez ou convertissez des fichiers Slides avec l'API REST et le SDK cURL Open Source
+description: Créez, modifiez ou convertissez des fichiers Slides ODP en HTML5 avec l'API REST et le SDK cURL Open Source
 family: slides
 platformtag: curl
 feature: conversion

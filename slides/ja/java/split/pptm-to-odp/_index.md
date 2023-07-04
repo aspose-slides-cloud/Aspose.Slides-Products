@@ -1,6 +1,6 @@
 ---
 title: Slides PPTM を Java 経由で複数の ODP に分割する
-description: REST API とオープン ソース Java SDK を使用して Slides ファイルをスライドに分割する
+description: REST API とオープン ソース Java SDK を使用して Slides PPTM ファイルを ODP スライドに分割する
 family: slides
 platformtag: java
 feature: split

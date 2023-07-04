@@ -1,6 +1,6 @@
 ---
 title: Split Slides PPTM into multiple HTML5 via Perl
-description: Split Slides files into slides with REST API & Open Source Perl SDK
+description: Split Slides PPTM files into HTML5 slides with REST API & Open Source Perl SDK
 family: slides
 platformtag: perl
 feature: split

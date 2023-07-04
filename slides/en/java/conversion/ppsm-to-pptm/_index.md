@@ -1,6 +1,6 @@
 ---
 title: Convert from Slides PPSM to PPTM via Java 
-description: Create, Edit or Convert Slides files with REST API & Open Source Java SDK
+description: Create, Edit or Convert Slides PPSM files to PPTM with REST API & Open Source Java SDK
 family: slides
 platformtag: java
 feature: conversion

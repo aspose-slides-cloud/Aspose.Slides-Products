@@ -1,6 +1,6 @@
 ---
 title: Diviser Slides PPTM en plusieurs PPSM via cURL
-description: Divisez les fichiers Slides en diapositives avec l'API REST et le SDK Open Source cURL
+description: Divisez les fichiers Slides PPTM en diapositives PPSM avec l'API REST et le SDK Open Source cURL
 family: slides
 platformtag: curl
 feature: split

@@ -1,6 +1,6 @@
 ---
 title: Combinar múltiples archivos PPTX a través de Python
-description: Combine varios archivos Slides con REST API y Open Source Python SDK
+description: Combine varios archivos Slides PPTX con REST API y Open Source Python SDK
 family: slides
 platformtag: python
 feature: merge

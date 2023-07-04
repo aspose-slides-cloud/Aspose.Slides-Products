@@ -1,6 +1,6 @@
 ---
 title: Split Slides POTX into multiple PPTM via Go
-description: Split Slides files into slides with REST API & Open Source Go SDK
+description: Split Slides POTX files into PPTM slides with REST API & Open Source Go SDK
 family: slides
 platformtag: go
 feature: split

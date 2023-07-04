@@ -1,6 +1,6 @@
 ---
 title: Split Slides PPTM into multiple TIFF via Python
-description: Split Slides files into slides with REST API & Open Source Python SDK
+description: Split Slides PPTM files into TIFF slides with REST API & Open Source Python SDK
 family: slides
 platformtag: python
 feature: split

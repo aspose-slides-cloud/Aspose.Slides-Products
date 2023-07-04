@@ -1,6 +1,6 @@
 ---
 title: Convert from Slides PDF to PPTM via Node.js 
-description: Create, Edit or Convert Slides files with REST API & Open Source Node.js SDK
+description: Create, Edit or Convert Slides PDF files to PPTM with REST API & Open Source Node.js SDK
 family: slides
 platformtag: nodejs
 feature: conversion

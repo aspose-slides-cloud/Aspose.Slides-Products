@@ -1,6 +1,6 @@
 ---
 title: Slides POTX を Swift 経由で複数の PNG に分割する
-description: REST API とオープン ソース Swift SDK を使用して Slides ファイルをスライドに分割する
+description: REST API とオープン ソース Swift SDK を使用して Slides POTX ファイルを PNG スライドに分割する
 family: slides
 platformtag: swift
 feature: split

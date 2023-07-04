@@ -1,6 +1,6 @@
 ---
 title: Convert from Slides PPS to HTML5 via Java 
-description: Create, Edit or Convert Slides files with REST API & Open Source Java SDK
+description: Create, Edit or Convert Slides PPS files to HTML5 with REST API & Open Source Java SDK
 family: slides
 platformtag: java
 feature: conversion

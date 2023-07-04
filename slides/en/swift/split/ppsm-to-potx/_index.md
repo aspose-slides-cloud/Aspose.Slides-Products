@@ -1,6 +1,6 @@
 ---
 title: Split Slides PPSM into multiple POTX via Swift
-description: Split Slides files into slides with REST API & Open Source Swift SDK
+description: Split Slides PPSM files into POTX slides with REST API & Open Source Swift SDK
 family: slides
 platformtag: swift
 feature: split

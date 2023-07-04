@@ -1,6 +1,6 @@
 ---
 title: Slides POTM を Go 経由で複数の XAML に分割する
-description: REST API とオープン ソース Go SDK を使用して Slides ファイルをスライドに分割する
+description: REST API とオープン ソース Go SDK を使用して Slides POTM ファイルを XAML スライドに分割する
 family: slides
 platformtag: go
 feature: split

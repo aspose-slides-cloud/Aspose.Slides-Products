@@ -1,6 +1,6 @@
 ---
 title: Convertir de Slides POTM a PPT a través de Node.js
-description: cree, edite o convierta archivos Slides con REST API y Node.js SDK de código abierto
+description: cree, edite o convierta archivos Slides POTM a PPT con REST API y Node.js SDK de código abierto
 family: slides
 platformtag: nodejs
 feature: conversion

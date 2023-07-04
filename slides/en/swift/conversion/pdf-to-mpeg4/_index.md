@@ -1,6 +1,6 @@
 ---
 title: Convert from Slides PDF to MPEG4 via Swift 
-description: Create, Edit or Convert Slides files with REST API & Open Source Swift SDK
+description: Create, Edit or Convert Slides PDF files to MPEG4 with REST API & Open Source Swift SDK
 family: slides
 platformtag: swift
 feature: conversion

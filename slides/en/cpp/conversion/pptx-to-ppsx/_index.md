@@ -1,6 +1,6 @@
 ---
 title: Convert from Slides PPTX to PPSX via C++ 
-description: Create, Edit or Convert Slides files with REST API & Open Source C++ SDK
+description: Create, Edit or Convert Slides PPTX files to PPSX with REST API & Open Source C++ SDK
 family: slides
 platformtag: cpp
 feature: conversion

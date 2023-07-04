@@ -1,6 +1,6 @@
 ---
 title: Fusionner plusieurs fichiers PPSX via Swift
-description: Fusionnez plusieurs fichiers Slides avec l'API REST et le SDK Open Source Swift
+description: Fusionnez plusieurs fichiers Slides PPSX avec l'API REST et le SDK Open Source Swift
 family: slides
 platformtag: swift
 feature: merge

@@ -1,6 +1,6 @@
 ---
 title: Slides PPTM を Go 経由で複数の PDF に分割する
-description: REST API とオープン ソース Go SDK を使用して Slides ファイルをスライドに分割する
+description: REST API とオープン ソース Go SDK を使用して Slides PPTM ファイルを PDF スライドに分割する
 family: slides
 platformtag: go
 feature: split

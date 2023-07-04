@@ -1,6 +1,6 @@
 ---
 title: Slides OTP から .NET 経由で PPS に変換
-description: REST API とオープン ソース .NET SDK を使用して Slides ファイルを作成、編集、または変換します
+description: REST API とオープン ソース .NET SDK を使用して Slides OTP ファイルを作成、編集、PPS に変換します
 family: slides
 platformtag: net
 feature: conversion

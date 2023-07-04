@@ -1,6 +1,6 @@
 ---
 title: Convertir de Slides ODP a HTML a través de .NET
-description: cree, edite o convierta archivos Slides con REST API y .NET SDK de código abierto
+description: cree, edite o convierta archivos Slides ODP a HTML con REST API y .NET SDK de código abierto
 family: slides
 platformtag: net
 feature: conversion

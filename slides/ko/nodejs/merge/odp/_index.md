@@ -1,6 +1,6 @@
 ---
 title: Node.js를 통해 여러 ODP 파일 병합
-description: REST API 및 오픈 소스 Node.js SDK를 사용하여 여러 Slides 파일 병합
+description: REST API 및 오픈 소스 Node.js SDK를 사용하여 여러 Slides ODP 파일 병합
 family: slides
 platformtag: nodejs
 feature: merge

@@ -1,6 +1,6 @@
 ---
 title: Diviser Slides PPSX en plusieurs PPTX via Node.js
-description: Divisez les fichiers Slides en diapositives avec l'API REST et le SDK Open Source Node.js
+description: Divisez les fichiers Slides PPSX en diapositives PPTX avec l'API REST et le SDK Open Source Node.js
 family: slides
 platformtag: nodejs
 feature: split

@@ -1,6 +1,6 @@
 ---
 title: Разделение Slides ODP на несколько OTP с помощью Python
-description: Разделите файлы Slides на слайды с помощью REST API и Python SDK с открытым исходным кодом
+description: Разделите файлы Slides ODP на слайды OTP с помощью REST API и Python SDK с открытым исходным кодом
 family: slides
 platformtag: python
 feature: split

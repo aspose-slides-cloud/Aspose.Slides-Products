@@ -1,6 +1,6 @@
 ---
 title: Slides PPT から Ruby 経由で SVG に変換
-description: REST API とオープン ソース Ruby SDK を使用して Slides ファイルを作成、編集、または変換します
+description: REST API とオープン ソース Ruby SDK を使用して Slides PPT ファイルを作成、編集、SVG に変換します
 family: slides
 platformtag: ruby
 feature: conversion

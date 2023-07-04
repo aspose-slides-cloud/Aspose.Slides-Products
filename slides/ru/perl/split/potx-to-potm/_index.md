@@ -1,6 +1,6 @@
 ---
 title: Разделение Slides POTX на несколько POTM с помощью Perl
-description: Разделите файлы Slides на слайды с помощью REST API и Perl SDK с открытым исходным кодом
+description: Разделите файлы Slides POTX на слайды POTM с помощью REST API и Perl SDK с открытым исходным кодом
 family: slides
 platformtag: perl
 feature: split

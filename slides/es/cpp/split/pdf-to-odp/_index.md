@@ -1,6 +1,6 @@
 ---
 title: Dividir Slides PDF en múltiples ODP a través de C++
-description: Dividir archivos de Slides en diapositivas con REST API y C++ SDK de código abierto
+description: Dividir archivos de Slides PDF en diapositivas ODP con REST API y C++ SDK de código abierto
 family: slides
 platformtag: cpp
 feature: split

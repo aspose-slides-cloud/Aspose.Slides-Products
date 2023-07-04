@@ -1,6 +1,6 @@
 ---
 title: Diviser Slides PPTM en plusieurs XAML via Ruby
-description: Divisez les fichiers Slides en diapositives avec l'API REST et le SDK Open Source Ruby
+description: Divisez les fichiers Slides PPTM en diapositives XAML avec l'API REST et le SDK Open Source Ruby
 family: slides
 platformtag: ruby
 feature: split

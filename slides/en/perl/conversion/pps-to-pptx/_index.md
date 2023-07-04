@@ -1,6 +1,6 @@
 ---
 title: Convert from Slides PPS to PPTX via Perl 
-description: Create, Edit or Convert Slides files with REST API & Open Source Perl SDK
+description: Create, Edit or Convert Slides PPS files to PPTX with REST API & Open Source Perl SDK
 family: slides
 platformtag: perl
 feature: conversion

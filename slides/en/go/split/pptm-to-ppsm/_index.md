@@ -1,6 +1,6 @@
 ---
 title: Split Slides PPTM into multiple PPSM via Go
-description: Split Slides files into slides with REST API & Open Source Go SDK
+description: Split Slides PPTM files into PPSM slides with REST API & Open Source Go SDK
 family: slides
 platformtag: go
 feature: split

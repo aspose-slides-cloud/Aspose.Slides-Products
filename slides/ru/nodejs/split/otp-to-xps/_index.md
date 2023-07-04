@@ -1,6 +1,6 @@
 ---
 title: Разделение Slides OTP на несколько XPS с помощью Node.js
-description: Разделите файлы Slides на слайды с помощью REST API и Node.js SDK с открытым исходным кодом
+description: Разделите файлы Slides OTP на слайды XPS с помощью REST API и Node.js SDK с открытым исходным кодом
 family: slides
 platformtag: nodejs
 feature: split

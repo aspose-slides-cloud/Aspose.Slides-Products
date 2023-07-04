@@ -1,6 +1,6 @@
 ---
 title: Android経由で複数のPPSMファイルをマージ
-description: REST API とオープン ソース Android SDK を使用して複数の Slides ファイルをマージする
+description: REST API とオープン ソース Android SDK を使用して複数の Slides PPSM ファイルをマージする
 family: slides
 platformtag: android
 feature: merge

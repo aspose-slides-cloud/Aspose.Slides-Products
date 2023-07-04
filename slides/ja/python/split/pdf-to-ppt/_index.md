@@ -1,6 +1,6 @@
 ---
 title: Slides PDF を Python 経由で複数の PPT に分割する
-description: REST API とオープン ソース Python SDK を使用して Slides ファイルをスライドに分割する
+description: REST API とオープン ソース Python SDK を使用して Slides PDF ファイルを PPT スライドに分割する
 family: slides
 platformtag: python
 feature: split

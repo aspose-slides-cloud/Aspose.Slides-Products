@@ -1,6 +1,6 @@
 ---
 title: Diviser Slides PDF en plusieurs PPS via Node.js
-description: Divisez les fichiers Slides en diapositives avec l'API REST et le SDK Open Source Node.js
+description: Divisez les fichiers Slides PDF en diapositives PPS avec l'API REST et le SDK Open Source Node.js
 family: slides
 platformtag: nodejs
 feature: split

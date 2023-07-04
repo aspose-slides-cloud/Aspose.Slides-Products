@@ -1,6 +1,6 @@
 ---
 title: Convertir de Slides ODP a PPT a través de cURL
-description: cree, edite o convierta archivos Slides con REST API y cURL SDK de código abierto
+description: cree, edite o convierta archivos Slides ODP a PPT con REST API y cURL SDK de código abierto
 family: slides
 platformtag: curl
 feature: conversion

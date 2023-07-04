@@ -1,6 +1,6 @@
 ---
 title: Diviser Slides PPTX en plusieurs PPSM via .NET
-description: Divisez les fichiers Slides en diapositives avec l'API REST et le SDK Open Source .NET
+description: Divisez les fichiers Slides PPTX en diapositives PPSM avec l'API REST et le SDK Open Source .NET
 family: slides
 platformtag: net
 feature: split

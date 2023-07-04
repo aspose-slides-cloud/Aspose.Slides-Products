@@ -1,6 +1,6 @@
 ---
 title: Convertir de Slides PDF a PPSX a través de Swift
-description: cree, edite o convierta archivos Slides con REST API y Swift SDK de código abierto
+description: cree, edite o convierta archivos Slides PDF a PPSX con REST API y Swift SDK de código abierto
 family: slides
 platformtag: swift
 feature: conversion

@@ -1,6 +1,6 @@
 ---
 title: Convertir de Slides ODP a PNG a través de .NET
-description: cree, edite o convierta archivos Slides con REST API y .NET SDK de código abierto
+description: cree, edite o convierta archivos Slides ODP a PNG con REST API y .NET SDK de código abierto
 family: slides
 platformtag: net
 feature: conversion

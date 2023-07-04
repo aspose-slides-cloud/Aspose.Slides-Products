@@ -1,6 +1,6 @@
 ---
 title: Convert from Slides PPSX to BMP via Python 
-description: Create, Edit or Convert Slides files with REST API & Open Source Python SDK
+description: Create, Edit or Convert Slides PPSX files to BMP with REST API & Open Source Python SDK
 family: slides
 platformtag: python
 feature: conversion

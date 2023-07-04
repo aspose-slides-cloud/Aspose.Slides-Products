@@ -1,6 +1,6 @@
 ---
 title: Разделение Slides POTM на несколько GIF с помощью C++
-description: Разделите файлы Slides на слайды с помощью REST API и C++ SDK с открытым исходным кодом
+description: Разделите файлы Slides POTM на слайды GIF с помощью REST API и C++ SDK с открытым исходным кодом
 family: slides
 platformtag: cpp
 feature: split

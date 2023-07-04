@@ -1,6 +1,6 @@
 ---
 title: Convert from Slides PPSX to BMP via cURL 
-description: Create, Edit or Convert Slides files with REST API & Open Source cURL SDK
+description: Create, Edit or Convert Slides PPSX files to BMP with REST API & Open Source cURL SDK
 family: slides
 platformtag: curl
 feature: conversion

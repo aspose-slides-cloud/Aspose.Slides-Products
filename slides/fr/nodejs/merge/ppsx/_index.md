@@ -1,6 +1,6 @@
 ---
 title: Fusionner plusieurs fichiers PPSX via Node.js
-description: Fusionnez plusieurs fichiers Slides avec l'API REST et le SDK Open Source Node.js
+description: Fusionnez plusieurs fichiers Slides PPSX avec l'API REST et le SDK Open Source Node.js
 family: slides
 platformtag: nodejs
 feature: merge

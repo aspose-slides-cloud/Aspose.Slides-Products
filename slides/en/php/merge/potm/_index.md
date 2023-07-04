@@ -1,6 +1,6 @@
 ---
 title: Merge multiple POTM files via PHP
-description: Merge multiple Slides files with REST API & Open Source PHP SDK
+description: Merge multiple Slides POTM files with REST API & Open Source PHP SDK
 family: slides
 platformtag: php
 feature: merge

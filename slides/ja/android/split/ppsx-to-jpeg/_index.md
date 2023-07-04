@@ -1,6 +1,6 @@
 ---
 title: Slides PPSX を Android 経由で複数の JPEG に分割する
-description: REST API とオープン ソース Android SDK を使用して Slides ファイルをスライドに分割する
+description: REST API とオープン ソース Android SDK を使用して Slides PPSX ファイルを JPEG スライドに分割する
 family: slides
 platformtag: android
 feature: split

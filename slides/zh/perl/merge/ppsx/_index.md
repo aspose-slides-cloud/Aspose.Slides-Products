@@ -1,6 +1,6 @@
 ---
 title: 通过 Perl 合并多个 PPSX 文件
-description: 使用 REST API 和开源 Perl SDK 合并多个 Slides 文件
+description: 使用 REST API 和开源 Perl SDK 合并多个 Slides PPSX 文件
 family: slides
 platformtag: perl
 feature: merge

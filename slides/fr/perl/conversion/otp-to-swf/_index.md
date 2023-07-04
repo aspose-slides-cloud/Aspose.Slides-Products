@@ -1,6 +1,6 @@
 ---
 title: Convertir de Slides OTP en SWF via Perl
-description: Créez, modifiez ou convertissez des fichiers Slides avec l'API REST et le SDK Perl Open Source
+description: Créez, modifiez ou convertissez des fichiers Slides OTP en SWF avec l'API REST et le SDK Perl Open Source
 family: slides
 platformtag: perl
 feature: conversion

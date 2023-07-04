@@ -1,6 +1,6 @@
 ---
 title: PHP経由で複数のPPSXファイルをマージ
-description: REST API とオープン ソース PHP SDK を使用して複数の Slides ファイルをマージする
+description: REST API とオープン ソース PHP SDK を使用して複数の Slides PPSX ファイルをマージする
 family: slides
 platformtag: php
 feature: merge

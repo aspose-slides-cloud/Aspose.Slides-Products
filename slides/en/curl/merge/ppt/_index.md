@@ -1,6 +1,6 @@
 ---
 title: Merge multiple PPT files via cURL
-description: Merge multiple Slides files with REST API & Open Source cURL SDK
+description: Merge multiple Slides PPT files with REST API & Open Source cURL SDK
 family: slides
 platformtag: curl
 feature: merge

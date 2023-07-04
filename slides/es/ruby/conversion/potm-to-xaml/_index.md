@@ -1,6 +1,6 @@
 ---
 title: Convertir de Slides POTM a XAML a través de Ruby
-description: cree, edite o convierta archivos Slides con REST API y Ruby SDK de código abierto
+description: cree, edite o convierta archivos Slides POTM a XAML con REST API y Ruby SDK de código abierto
 family: slides
 platformtag: ruby
 feature: conversion

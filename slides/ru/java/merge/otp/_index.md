@@ -1,6 +1,6 @@
 ---
 title: Объединение нескольких OTP файлов с помощью Java
-description: Объединение нескольких файлов Slides с помощью REST API и Java SDK с открытым исходным кодом
+description: Объединение нескольких файлов Slides OTP с помощью REST API и Java SDK с открытым исходным кодом
 family: slides
 platformtag: java
 feature: merge

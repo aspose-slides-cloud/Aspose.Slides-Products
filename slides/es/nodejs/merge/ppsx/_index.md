@@ -1,6 +1,6 @@
 ---
 title: Combinar múltiples archivos PPSX a través de Node.js
-description: Combine varios archivos Slides con REST API y Open Source Node.js SDK
+description: Combine varios archivos Slides PPSX con REST API y Open Source Node.js SDK
 family: slides
 platformtag: nodejs
 feature: merge

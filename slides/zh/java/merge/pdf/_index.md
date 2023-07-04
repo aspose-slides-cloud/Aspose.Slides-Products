@@ -1,6 +1,6 @@
 ---
 title: 通过 Java 合并多个 PDF 文件
-description: 使用 REST API 和开源 Java SDK 合并多个 Slides 文件
+description: 使用 REST API 和开源 Java SDK 合并多个 Slides PDF 文件
 family: slides
 platformtag: java
 feature: merge

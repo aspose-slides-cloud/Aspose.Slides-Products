@@ -1,6 +1,6 @@
 ---
 title: Dividir Slides PPT en múltiples PPTX a través de cURL
-description: Dividir archivos de Slides en diapositivas con REST API y cURL SDK de código abierto
+description: Dividir archivos de Slides PPT en diapositivas PPTX con REST API y cURL SDK de código abierto
 family: slides
 platformtag: curl
 feature: split

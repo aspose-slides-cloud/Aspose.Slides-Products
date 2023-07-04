@@ -1,6 +1,6 @@
 ---
 title: Diviser Slides PPTX en plusieurs SVG via Swift
-description: Divisez les fichiers Slides en diapositives avec l'API REST et le SDK Open Source Swift
+description: Divisez les fichiers Slides PPTX en diapositives SVG avec l'API REST et le SDK Open Source Swift
 family: slides
 platformtag: swift
 feature: split

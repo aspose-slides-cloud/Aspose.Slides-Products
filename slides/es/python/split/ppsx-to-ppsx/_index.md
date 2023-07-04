@@ -1,6 +1,6 @@
 ---
 title: Dividir Slides PPSX en múltiples PPSX a través de Python
-description: Dividir archivos de Slides en diapositivas con REST API y Python SDK de código abierto
+description: Dividir archivos de Slides PPSX en diapositivas PPSX con REST API y Python SDK de código abierto
 family: slides
 platformtag: python
 feature: split

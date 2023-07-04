@@ -1,6 +1,6 @@
 ---
 title: Split Slides OTP into multiple TIFF via Java
-description: Split Slides files into slides with REST API & Open Source Java SDK
+description: Split Slides OTP files into TIFF slides with REST API & Open Source Java SDK
 family: slides
 platformtag: java
 feature: split

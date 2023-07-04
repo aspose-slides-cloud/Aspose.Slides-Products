@@ -1,6 +1,6 @@
 ---
 title: Convertir de Slides ODP a PNG a través de Go
-description: cree, edite o convierta archivos Slides con REST API y Go SDK de código abierto
+description: cree, edite o convierta archivos Slides ODP a PNG con REST API y Go SDK de código abierto
 family: slides
 platformtag: go
 feature: conversion

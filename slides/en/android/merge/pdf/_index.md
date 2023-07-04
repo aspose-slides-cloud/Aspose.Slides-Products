@@ -1,6 +1,6 @@
 ---
 title: Merge multiple PDF files via Android
-description: Merge multiple Slides files with REST API & Open Source Android SDK
+description: Merge multiple Slides PDF files with REST API & Open Source Android SDK
 family: slides
 platformtag: android
 feature: merge

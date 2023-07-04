@@ -1,6 +1,6 @@
 ---
 title: Combinar múltiples archivos PPSM a través de Python
-description: Combine varios archivos Slides con REST API y Open Source Python SDK
+description: Combine varios archivos Slides PPSM con REST API y Open Source Python SDK
 family: slides
 platformtag: python
 feature: merge

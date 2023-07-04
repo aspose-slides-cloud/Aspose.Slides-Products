@@ -1,6 +1,6 @@
 ---
 title: Разделение Slides OTP на несколько POTM с помощью Android
-description: Разделите файлы Slides на слайды с помощью REST API и Android SDK с открытым исходным кодом
+description: Разделите файлы Slides OTP на слайды POTM с помощью REST API и Android SDK с открытым исходным кодом
 family: slides
 platformtag: android
 feature: split

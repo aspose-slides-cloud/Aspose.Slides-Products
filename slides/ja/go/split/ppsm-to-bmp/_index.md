@@ -1,6 +1,6 @@
 ---
 title: Slides PPSM を Go 経由で複数の BMP に分割する
-description: REST API とオープン ソース Go SDK を使用して Slides ファイルをスライドに分割する
+description: REST API とオープン ソース Go SDK を使用して Slides PPSM ファイルを BMP スライドに分割する
 family: slides
 platformtag: go
 feature: split

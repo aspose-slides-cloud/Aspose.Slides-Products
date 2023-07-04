@@ -1,6 +1,6 @@
 ---
 title: Split Slides PPTX into multiple XAML via PHP
-description: Split Slides files into slides with REST API & Open Source PHP SDK
+description: Split Slides PPTX files into XAML slides with REST API & Open Source PHP SDK
 family: slides
 platformtag: php
 feature: split

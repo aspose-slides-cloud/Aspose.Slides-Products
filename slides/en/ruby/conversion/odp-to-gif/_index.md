@@ -1,6 +1,6 @@
 ---
 title: Convert from Slides ODP to GIF via Ruby 
-description: Create, Edit or Convert Slides files with REST API & Open Source Ruby SDK
+description: Create, Edit or Convert Slides ODP files to GIF with REST API & Open Source Ruby SDK
 family: slides
 platformtag: ruby
 feature: conversion

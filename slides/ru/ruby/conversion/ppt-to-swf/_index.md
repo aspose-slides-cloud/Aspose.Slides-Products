@@ -1,6 +1,6 @@
 ---
 title: Преобразование Slides PPT в SWF с помощью Ruby
-description: Создавайте, редактируйте или конвертируйте файлы Slides с помощью REST API и Ruby SDK с открытым исходным кодом
+description: Создавайте, редактируйте или конвертируйте файлы Slides PPT в SWF с помощью REST API и Ruby SDK с открытым исходным кодом
 family: slides
 platformtag: ruby
 feature: conversion

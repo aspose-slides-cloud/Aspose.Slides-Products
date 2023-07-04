@@ -1,6 +1,6 @@
 ---
 title: 通过 Node.js 将 Slides PPTX 拆分为多个 POTX
-description: 使用 REST API 和开源 Node.js SDK 将 Slides 文件拆分成幻灯片
+description: 使用 REST API 和开源 Node.js SDK 将 Slides PPTX 文件拆分成 POTX 幻灯片
 family: slides
 platformtag: nodejs
 feature: split

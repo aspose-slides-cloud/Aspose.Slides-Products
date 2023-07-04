@@ -1,6 +1,6 @@
 ---
 title: Convert from Slides PPT to ODP via Android 
-description: Create, Edit or Convert Slides files with REST API & Open Source Android SDK
+description: Create, Edit or Convert Slides PPT files to ODP with REST API & Open Source Android SDK
 family: slides
 platformtag: android
 feature: conversion

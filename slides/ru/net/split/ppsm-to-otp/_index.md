@@ -1,6 +1,6 @@
 ---
 title: Разделение Slides PPSM на несколько OTP с помощью .NET
-description: Разделите файлы Slides на слайды с помощью REST API и .NET SDK с открытым исходным кодом
+description: Разделите файлы Slides PPSM на слайды OTP с помощью REST API и .NET SDK с открытым исходным кодом
 family: slides
 platformtag: net
 feature: split

@@ -1,6 +1,6 @@
 ---
 title: Diviser Slides PPS en plusieurs BMP via Swift
-description: Divisez les fichiers Slides en diapositives avec l'API REST et le SDK Open Source Swift
+description: Divisez les fichiers Slides PPS en diapositives BMP avec l'API REST et le SDK Open Source Swift
 family: slides
 platformtag: swift
 feature: split

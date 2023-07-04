@@ -1,6 +1,6 @@
 ---
 title: Slides PPTM を PHP 経由で複数の HTML5 に分割する
-description: REST API とオープン ソース PHP SDK を使用して Slides ファイルをスライドに分割する
+description: REST API とオープン ソース PHP SDK を使用して Slides PPTM ファイルを HTML5 スライドに分割する
 family: slides
 platformtag: php
 feature: split

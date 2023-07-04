@@ -1,6 +1,6 @@
 ---
 title: Slides ODP を Python 経由で複数の ODP に分割する
-description: REST API とオープン ソース Python SDK を使用して Slides ファイルをスライドに分割する
+description: REST API とオープン ソース Python SDK を使用して Slides ODP ファイルを ODP スライドに分割する
 family: slides
 platformtag: python
 feature: split

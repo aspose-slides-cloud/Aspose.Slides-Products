@@ -1,6 +1,6 @@
 ---
 title: Slides PPS から Node.js 経由で PPTX に変換
-description: REST API とオープン ソース Node.js SDK を使用して Slides ファイルを作成、編集、または変換します
+description: REST API とオープン ソース Node.js SDK を使用して Slides PPS ファイルを作成、編集、PPTX に変換します
 family: slides
 platformtag: nodejs
 feature: conversion

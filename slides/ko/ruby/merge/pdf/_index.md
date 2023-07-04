@@ -1,6 +1,6 @@
 ---
 title: Ruby를 통해 여러 PDF 파일 병합
-description: REST API 및 오픈 소스 Ruby SDK를 사용하여 여러 Slides 파일 병합
+description: REST API 및 오픈 소스 Ruby SDK를 사용하여 여러 Slides PDF 파일 병합
 family: slides
 platformtag: ruby
 feature: merge

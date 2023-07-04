@@ -1,6 +1,6 @@
 ---
 title: Convert from Slides OTP to TIFF via Ruby 
-description: Create, Edit or Convert Slides files with REST API & Open Source Ruby SDK
+description: Create, Edit or Convert Slides OTP files to TIFF with REST API & Open Source Ruby SDK
 family: slides
 platformtag: ruby
 feature: conversion

@@ -1,6 +1,6 @@
 ---
 title: Convertir de Slides POTM en POTX via cURL
-description: Créez, modifiez ou convertissez des fichiers Slides avec l'API REST et le SDK cURL Open Source
+description: Créez, modifiez ou convertissez des fichiers Slides POTM en POTX avec l'API REST et le SDK cURL Open Source
 family: slides
 platformtag: curl
 feature: conversion

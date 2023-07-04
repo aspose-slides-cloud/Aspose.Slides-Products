@@ -1,6 +1,6 @@
 ---
 title: Slides POTM を Go 経由で複数の POTX に分割する
-description: REST API とオープン ソース Go SDK を使用して Slides ファイルをスライドに分割する
+description: REST API とオープン ソース Go SDK を使用して Slides POTM ファイルを POTX スライドに分割する
 family: slides
 platformtag: go
 feature: split

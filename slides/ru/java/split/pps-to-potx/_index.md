@@ -1,6 +1,6 @@
 ---
 title: Разделение Slides PPS на несколько POTX с помощью Java
-description: Разделите файлы Slides на слайды с помощью REST API и Java SDK с открытым исходным кодом
+description: Разделите файлы Slides PPS на слайды POTX с помощью REST API и Java SDK с открытым исходным кодом
 family: slides
 platformtag: java
 feature: split

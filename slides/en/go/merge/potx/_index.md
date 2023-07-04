@@ -1,6 +1,6 @@
 ---
 title: Merge multiple POTX files via Go
-description: Merge multiple Slides files with REST API & Open Source Go SDK
+description: Merge multiple Slides POTX files with REST API & Open Source Go SDK
 family: slides
 platformtag: go
 feature: merge

@@ -1,6 +1,6 @@
 ---
 title: Python를 통해 Slides PPTM에서 JPEG로 변환
-description: REST API 및 오픈 소스 Python SDK를 사용하여 Slides 파일 생성, 편집 또는 변환
+description: REST API 및 오픈 소스 Python SDK를 사용하여 Slides PPTM 파일을 PDF로 생성, 편집 또는 변환
 family: slides
 platformtag: python
 feature: conversion

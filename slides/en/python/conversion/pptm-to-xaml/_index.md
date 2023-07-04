@@ -1,6 +1,6 @@
 ---
 title: Convert from Slides PPTM to XAML via Python 
-description: Create, Edit or Convert Slides files with REST API & Open Source Python SDK
+description: Create, Edit or Convert Slides PPTM files to XAML with REST API & Open Source Python SDK
 family: slides
 platformtag: python
 feature: conversion

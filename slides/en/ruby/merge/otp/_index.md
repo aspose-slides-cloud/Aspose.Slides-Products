@@ -1,6 +1,6 @@
 ---
 title: Merge multiple OTP files via Ruby
-description: Merge multiple Slides files with REST API & Open Source Ruby SDK
+description: Merge multiple Slides OTP files with REST API & Open Source Ruby SDK
 family: slides
 platformtag: ruby
 feature: merge

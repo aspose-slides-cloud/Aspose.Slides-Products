@@ -1,6 +1,6 @@
 ---
 title: Преобразование Slides OTP в MPEG4 с помощью .NET
-description: Создавайте, редактируйте или конвертируйте файлы Slides с помощью REST API и .NET SDK с открытым исходным кодом
+description: Создавайте, редактируйте или конвертируйте файлы Slides OTP в MPEG4 с помощью REST API и .NET SDK с открытым исходным кодом
 family: slides
 platformtag: net
 feature: conversion

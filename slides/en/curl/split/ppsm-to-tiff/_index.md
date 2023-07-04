@@ -1,6 +1,6 @@
 ---
 title: Split Slides PPSM into multiple TIFF via cURL
-description: Split Slides files into slides with REST API & Open Source cURL SDK
+description: Split Slides PPSM files into TIFF slides with REST API & Open Source cURL SDK
 family: slides
 platformtag: curl
 feature: split

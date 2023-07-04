@@ -1,6 +1,6 @@
 ---
 title: C++를 통해 여러 PPS 파일 병합
-description: REST API 및 오픈 소스 C++ SDK를 사용하여 여러 Slides 파일 병합
+description: REST API 및 오픈 소스 C++ SDK를 사용하여 여러 Slides PPS 파일 병합
 family: slides
 platformtag: cpp
 feature: merge

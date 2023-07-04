@@ -1,6 +1,6 @@
 ---
 title: 通过 cURL 从 Slides PDF 转换为 SVG
-description: 使用 REST API 和开源 cURL SDK 创建、编辑或转换 Slides 文件
+description: 使用 REST API 和开源 cURL SDK 创建、编辑或转换 Slides PDF 文件或将其转换为 SVG
 family: slides
 platformtag: curl
 feature: conversion

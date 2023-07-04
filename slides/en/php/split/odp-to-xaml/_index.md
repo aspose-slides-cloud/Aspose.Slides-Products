@@ -1,6 +1,6 @@
 ---
 title: Split Slides ODP into multiple XAML via PHP
-description: Split Slides files into slides with REST API & Open Source PHP SDK
+description: Split Slides ODP files into XAML slides with REST API & Open Source PHP SDK
 family: slides
 platformtag: php
 feature: split

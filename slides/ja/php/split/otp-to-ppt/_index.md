@@ -1,6 +1,6 @@
 ---
 title: Slides OTP を PHP 経由で複数の PPT に分割する
-description: REST API とオープン ソース PHP SDK を使用して Slides ファイルをスライドに分割する
+description: REST API とオープン ソース PHP SDK を使用して Slides OTP ファイルを PPT スライドに分割する
 family: slides
 platformtag: php
 feature: split

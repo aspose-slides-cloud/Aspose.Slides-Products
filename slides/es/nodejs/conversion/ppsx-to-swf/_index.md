@@ -1,6 +1,6 @@
 ---
 title: Convertir de Slides PPSX a SWF a través de Node.js
-description: cree, edite o convierta archivos Slides con REST API y Node.js SDK de código abierto
+description: cree, edite o convierta archivos Slides PPSX a SWF con REST API y Node.js SDK de código abierto
 family: slides
 platformtag: nodejs
 feature: conversion

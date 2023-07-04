@@ -1,6 +1,6 @@
 ---
 title: Diviser Slides PPTM en plusieurs JPEG via .NET
-description: Divisez les fichiers Slides en diapositives avec l'API REST et le SDK Open Source .NET
+description: Divisez les fichiers Slides PPTM en diapositives JPEG avec l'API REST et le SDK Open Source .NET
 family: slides
 platformtag: net
 feature: split

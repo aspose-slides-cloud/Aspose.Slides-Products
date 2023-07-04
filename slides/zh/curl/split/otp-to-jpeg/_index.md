@@ -1,6 +1,6 @@
 ---
 title: 通过 cURL 将 Slides OTP 拆分为多个 JPEG
-description: 使用 REST API 和开源 cURL SDK 将 Slides 文件拆分成幻灯片
+description: 使用 REST API 和开源 cURL SDK 将 Slides OTP 文件拆分成 JPEG 幻灯片
 family: slides
 platformtag: curl
 feature: split

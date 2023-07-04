@@ -1,6 +1,6 @@
 ---
 title: Convertir de Slides POTX a XAML a través de .NET
-description: cree, edite o convierta archivos Slides con REST API y .NET SDK de código abierto
+description: cree, edite o convierta archivos Slides POTX a XAML con REST API y .NET SDK de código abierto
 family: slides
 platformtag: net
 feature: conversion

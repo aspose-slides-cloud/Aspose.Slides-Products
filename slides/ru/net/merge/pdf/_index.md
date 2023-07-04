@@ -1,6 +1,6 @@
 ---
 title: Объединение нескольких PDF файлов с помощью .NET
-description: Объединение нескольких файлов Slides с помощью REST API и .NET SDK с открытым исходным кодом
+description: Объединение нескольких файлов Slides PDF с помощью REST API и .NET SDK с открытым исходным кодом
 family: slides
 platformtag: net
 feature: merge

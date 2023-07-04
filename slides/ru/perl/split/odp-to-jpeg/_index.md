@@ -1,6 +1,6 @@
 ---
 title: Разделение Slides ODP на несколько JPEG с помощью Perl
-description: Разделите файлы Slides на слайды с помощью REST API и Perl SDK с открытым исходным кодом
+description: Разделите файлы Slides ODP на слайды JPEG с помощью REST API и Perl SDK с открытым исходным кодом
 family: slides
 platformtag: perl
 feature: split

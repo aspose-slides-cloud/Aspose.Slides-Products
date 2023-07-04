@@ -1,6 +1,6 @@
 ---
 title: 通过 C++ 将 Slides PPS 拆分为多个 XAML
-description: 使用 REST API 和开源 C++ SDK 将 Slides 文件拆分成幻灯片
+description: 使用 REST API 和开源 C++ SDK 将 Slides PPS 文件拆分成 XAML 幻灯片
 family: slides
 platformtag: cpp
 feature: split

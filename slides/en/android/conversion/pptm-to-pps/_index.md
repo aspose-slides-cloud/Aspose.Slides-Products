@@ -1,6 +1,6 @@
 ---
 title: Convert from Slides PPTM to PPS via Android 
-description: Create, Edit or Convert Slides files with REST API & Open Source Android SDK
+description: Create, Edit or Convert Slides PPTM files to PPS with REST API & Open Source Android SDK
 family: slides
 platformtag: android
 feature: conversion

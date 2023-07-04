@@ -1,6 +1,6 @@
 ---
 title: Convertir de Slides PPS en HTML5 via Python
-description: Créez, modifiez ou convertissez des fichiers Slides avec l'API REST et le SDK Python Open Source
+description: Créez, modifiez ou convertissez des fichiers Slides PPS en HTML5 avec l'API REST et le SDK Python Open Source
 family: slides
 platformtag: python
 feature: conversion

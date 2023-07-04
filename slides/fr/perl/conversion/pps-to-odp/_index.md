@@ -1,6 +1,6 @@
 ---
 title: Convertir de Slides PPS en ODP via Perl
-description: Créez, modifiez ou convertissez des fichiers Slides avec l'API REST et le SDK Perl Open Source
+description: Créez, modifiez ou convertissez des fichiers Slides PPS en ODP avec l'API REST et le SDK Perl Open Source
 family: slides
 platformtag: perl
 feature: conversion

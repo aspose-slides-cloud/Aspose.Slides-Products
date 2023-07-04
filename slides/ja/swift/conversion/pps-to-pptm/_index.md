@@ -1,6 +1,6 @@
 ---
 title: Slides PPS から Swift 経由で PPTM に変換
-description: REST API とオープン ソース Swift SDK を使用して Slides ファイルを作成、編集、または変換します
+description: REST API とオープン ソース Swift SDK を使用して Slides PPS ファイルを作成、編集、PPTM に変換します
 family: slides
 platformtag: swift
 feature: conversion

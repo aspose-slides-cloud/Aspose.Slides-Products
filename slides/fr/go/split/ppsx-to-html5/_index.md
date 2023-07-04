@@ -1,6 +1,6 @@
 ---
 title: Diviser Slides PPSX en plusieurs HTML5 via Go
-description: Divisez les fichiers Slides en diapositives avec l'API REST et le SDK Open Source Go
+description: Divisez les fichiers Slides PPSX en diapositives HTML5 avec l'API REST et le SDK Open Source Go
 family: slides
 platformtag: go
 feature: split

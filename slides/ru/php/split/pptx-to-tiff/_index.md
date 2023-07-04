@@ -1,6 +1,6 @@
 ---
 title: Разделение Slides PPTX на несколько TIFF с помощью PHP
-description: Разделите файлы Slides на слайды с помощью REST API и PHP SDK с открытым исходным кодом
+description: Разделите файлы Slides PPTX на слайды TIFF с помощью REST API и PHP SDK с открытым исходным кодом
 family: slides
 platformtag: php
 feature: split

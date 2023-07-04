@@ -1,6 +1,6 @@
 ---
 title: Ruby를 통해 Slides PPTM를 여러 TIFF로 분할
-description: REST API 및 오픈 소스 Ruby SDK를 사용하여 Slides 파일을 슬라이드로 분할
+description: REST API 및 오픈 소스 Ruby SDK를 사용하여 Slides PPTM 파일을 TIFF 슬라이드로 분할
 family: slides
 platformtag: ruby
 feature: split

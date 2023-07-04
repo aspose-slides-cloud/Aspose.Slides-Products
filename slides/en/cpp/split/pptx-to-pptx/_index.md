@@ -1,6 +1,6 @@
 ---
 title: Split Slides PPTX into multiple PPTX via C++
-description: Split Slides files into slides with REST API & Open Source C++ SDK
+description: Split Slides PPTX files into PPTX slides with REST API & Open Source C++ SDK
 family: slides
 platformtag: cpp
 feature: split

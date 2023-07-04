@@ -1,6 +1,6 @@
 ---
 title: Convertir de Slides PPSM en HTML via C++
-description: Créez, modifiez ou convertissez des fichiers Slides avec l'API REST et le SDK C++ Open Source
+description: Créez, modifiez ou convertissez des fichiers Slides PPSM en HTML avec l'API REST et le SDK C++ Open Source
 family: slides
 platformtag: cpp
 feature: conversion

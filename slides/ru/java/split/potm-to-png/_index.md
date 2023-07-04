@@ -1,6 +1,6 @@
 ---
 title: Разделение Slides POTM на несколько PNG с помощью Java
-description: Разделите файлы Slides на слайды с помощью REST API и Java SDK с открытым исходным кодом
+description: Разделите файлы Slides POTM на слайды PNG с помощью REST API и Java SDK с открытым исходным кодом
 family: slides
 platformtag: java
 feature: split

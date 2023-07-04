@@ -1,6 +1,6 @@
 ---
 title: Convertir de Slides PPTM a POTM a través de Ruby
-description: cree, edite o convierta archivos Slides con REST API y Ruby SDK de código abierto
+description: cree, edite o convierta archivos Slides PPTM a POTM con REST API y Ruby SDK de código abierto
 family: slides
 platformtag: ruby
 feature: conversion

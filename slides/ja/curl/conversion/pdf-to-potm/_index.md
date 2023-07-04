@@ -1,6 +1,6 @@
 ---
 title: Slides PDF から cURL 経由で POTM に変換
-description: REST API とオープン ソース cURL SDK を使用して Slides ファイルを作成、編集、または変換します
+description: REST API とオープン ソース cURL SDK を使用して Slides PDF ファイルを作成、編集、POTM に変換します
 family: slides
 platformtag: curl
 feature: conversion

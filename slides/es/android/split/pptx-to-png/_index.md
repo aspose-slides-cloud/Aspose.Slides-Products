@@ -1,6 +1,6 @@
 ---
 title: Dividir Slides PPTX en múltiples PNG a través de Android
-description: Dividir archivos de Slides en diapositivas con REST API y Android SDK de código abierto
+description: Dividir archivos de Slides PPTX en diapositivas PNG con REST API y Android SDK de código abierto
 family: slides
 platformtag: android
 feature: split

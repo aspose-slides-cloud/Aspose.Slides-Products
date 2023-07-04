@@ -1,6 +1,6 @@
 ---
 title: Разделение Slides PPS на несколько XPS с помощью Python
-description: Разделите файлы Slides на слайды с помощью REST API и Python SDK с открытым исходным кодом
+description: Разделите файлы Slides PPS на слайды XPS с помощью REST API и Python SDK с открытым исходным кодом
 family: slides
 platformtag: python
 feature: split

@@ -1,6 +1,6 @@
 ---
 title: 通过 Swift 从 Slides PPSX 转换为 PPT
-description: 使用 REST API 和开源 Swift SDK 创建、编辑或转换 Slides 文件
+description: 使用 REST API 和开源 Swift SDK 创建、编辑或转换 Slides PPSX 文件或将其转换为 PPT
 family: slides
 platformtag: swift
 feature: conversion
