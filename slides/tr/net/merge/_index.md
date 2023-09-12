@@ -5,7 +5,7 @@ family: slides
 platformtag: net
 feature: merge
 platform: .NET
-otherformats: PPT PPTX PPS PPSX PPTM PPSM POTX POTM ODP OTP PDF
+otherformats: PPT PPTX PPS PPSX PPTM PPSM POTX POTM ODP OTP PDF HTML
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -6,7 +6,7 @@ platformtag: java
 feature: merge
 informat: PPT
 platform: Java
-otherformats: PPTX PPS PPSX PPTM PPSM POTX POTM ODP OTP PDF
+otherformats: PPTX PPS PPSX PPTM PPSM POTX POTM ODP OTP PDF HTML
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -14,7 +14,7 @@ otherformats: PPTX PPS PPSX PPTM PPSM POTX POTM ODP OTP PDF
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Java を使用した PPT から MPEG4 への変換" %}}
+{{% blocks/products/pf/agp/feature-section-col title="PPT ファイルと Java のマージ" %}}
 1. <a href="https://dashboard.aspose.cloud/">ダッシュボード</a>でアカウントを作成して、無料の API 割り当てと承認の詳細を取得します
 1. クライアント ID とクライアント シークレットで ```SlidesApi``` を初期化する
 1. 入力 PPT ファイルの場所、マージされたファイルを保存する場所、およびファイルの一部をマージする必要があるかどうかに応じて、いずれかのマージ メソッドを呼び出します。

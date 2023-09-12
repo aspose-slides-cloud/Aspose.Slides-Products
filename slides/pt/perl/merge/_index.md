@@ -1,12 +1,12 @@
 ---
-title: Mesclar vários arquivos PDF via Perl
-description: Mescle vários arquivos Slides PDF com REST API e Open Source Perl SDK
+title: Mesclar vários arquivos HTML via Perl
+description: Mescle vários arquivos Slides HTML com REST API e Open Source Perl SDK
 family: slides
 platformtag: perl
 feature: merge
-informat: PDF
+informat: HTML
 platform: Perl
-otherformats: PPT PPTX PPS PPSX PPTM PPSM POTX POTM ODP OTP PDF
+otherformats: PPT PPTX PPS PPSX PPTM PPSM POTX POTM ODP OTP PDF HTML
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

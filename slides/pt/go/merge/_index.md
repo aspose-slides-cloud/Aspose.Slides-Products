@@ -1,12 +1,12 @@
 ---
-title: Mesclar vários arquivos PDF via Go
-description: Mescle vários arquivos Slides PDF com REST API e Open Source Go SDK
+title: Mesclar vários arquivos HTML via Go
+description: Mescle vários arquivos Slides HTML com REST API e Open Source Go SDK
 family: slides
 platformtag: go
 feature: merge
-informat: PDF
+informat: HTML
 platform: Go
-otherformats: PPT PPTX PPS PPSX PPTM PPSM POTX POTM ODP OTP PDF
+otherformats: PPT PPTX PPS PPSX PPTM PPSM POTX POTM ODP OTP PDF HTML
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

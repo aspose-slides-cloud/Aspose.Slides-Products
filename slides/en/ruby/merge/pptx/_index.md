@@ -6,7 +6,7 @@ platformtag: ruby
 feature: merge
 informat: PPTX
 platform: Ruby
-otherformats: PPT PPS PPSX PPTM PPSM POTX POTM ODP OTP PDF
+otherformats: PPT PPS PPSX PPTM PPSM POTX POTM ODP OTP PDF HTML
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

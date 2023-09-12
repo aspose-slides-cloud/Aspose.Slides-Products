@@ -1,12 +1,12 @@
 ---
-title: Mesclar vários arquivos PDF via PHP
-description: Mescle vários arquivos Slides PDF com REST API e Open Source PHP SDK
+title: Mesclar vários arquivos HTML via PHP
+description: Mescle vários arquivos Slides HTML com REST API e Open Source PHP SDK
 family: slides
 platformtag: php
 feature: merge
-informat: PDF
+informat: HTML
 platform: PHP
-otherformats: PPT PPTX PPS PPSX PPTM PPSM POTX POTM ODP OTP PDF
+otherformats: PPT PPTX PPS PPSX PPTM PPSM POTX POTM ODP OTP PDF HTML
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

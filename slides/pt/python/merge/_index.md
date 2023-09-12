@@ -1,12 +1,12 @@
 ---
-title: Mesclar vários arquivos PDF via Python
-description: Mescle vários arquivos Slides PDF com REST API e Open Source Python SDK
+title: Mesclar vários arquivos HTML via Python
+description: Mescle vários arquivos Slides HTML com REST API e Open Source Python SDK
 family: slides
 platformtag: python
 feature: merge
-informat: PDF
+informat: HTML
 platform: Python
-otherformats: PPT PPTX PPS PPSX PPTM PPSM POTX POTM ODP OTP PDF
+otherformats: PPT PPTX PPS PPSX PPTM PPSM POTX POTM ODP OTP PDF HTML
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

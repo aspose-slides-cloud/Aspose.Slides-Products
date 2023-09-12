@@ -1,12 +1,12 @@
 ---
-title: Mesclar vários arquivos PDF via Java
-description: Mescle vários arquivos Slides PDF com REST API e Open Source Java SDK
+title: Mesclar vários arquivos HTML via Java
+description: Mescle vários arquivos Slides HTML com REST API e Open Source Java SDK
 family: slides
 platformtag: java
 feature: merge
-informat: PDF
+informat: HTML
 platform: Java
-otherformats: PPT PPTX PPS PPSX PPTM PPSM POTX POTM ODP OTP PDF
+otherformats: PPT PPTX PPS PPSX PPTM PPSM POTX POTM ODP OTP PDF HTML
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -6,7 +6,7 @@ platformtag: ruby
 feature: merge
 informat: POTX
 platform: Ruby
-otherformats: PPT PPTX PPS PPSX PPTM PPSM POTM ODP OTP PDF
+otherformats: PPT PPTX PPS PPSX PPTM PPSM POTM ODP OTP PDF HTML
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -14,7 +14,7 @@ otherformats: PPT PPTX PPS PPSX PPTM PPSM POTM ODP OTP PDF
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Ruby を使用した POTX から MPEG4 への変換" %}}
+{{% blocks/products/pf/agp/feature-section-col title="POTX ファイルと Ruby のマージ" %}}
 1. <a href="https://dashboard.aspose.cloud/">ダッシュボード</a>でアカウントを作成して、無料の API 割り当てと承認の詳細を取得します
 1. クライアント ID とクライアント シークレットで ```SlidesApi``` を初期化する
 1. 入力 POTX ファイルの場所、マージされたファイルを保存する場所、およびファイルの一部をマージする必要があるかどうかに応じて、いずれかのマージ メソッドを呼び出します。

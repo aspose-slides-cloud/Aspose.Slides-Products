@@ -4,10 +4,10 @@ description: Разделите файлы Slides на слайды с помо�
 family: slides
 platformtag: ruby
 feature: split
-informat: PDF
+informat: HTML
 outformat: XAML
 platform: Ruby
-otherformats: PPT PPTX PPS PPSX PPTM PPSM POTX POTM ODP OTP PDF
+otherformats: PPT PPTX PPS PPSX PPTM PPSM POTX POTM ODP OTP PDF HTML
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

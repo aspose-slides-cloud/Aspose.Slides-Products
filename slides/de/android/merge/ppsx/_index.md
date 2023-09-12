@@ -6,7 +6,7 @@ platformtag: android
 feature: merge
 informat: PPSX
 platform: Android
-otherformats: PPT PPTX PPS PPTM PPSM POTX POTM ODP OTP PDF
+otherformats: PPT PPTX PPS PPTM PPSM POTX POTM ODP OTP PDF HTML
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -6,7 +6,7 @@ platformtag: net
 feature: merge
 informat: POTM
 platform: .NET
-otherformats: PPT PPTX PPS PPSX PPTM PPSM POTX ODP OTP PDF
+otherformats: PPT PPTX PPS PPSX PPTM PPSM POTX ODP OTP PDF HTML
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

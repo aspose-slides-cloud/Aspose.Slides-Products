@@ -6,7 +6,7 @@ platformtag: curl
 feature: merge
 informat: PPSM
 platform: cURL
-otherformats: PPT PPTX PPS PPSX PPTM POTX POTM ODP OTP PDF
+otherformats: PPT PPTX PPS PPSX PPTM POTX POTM ODP OTP PDF HTML
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

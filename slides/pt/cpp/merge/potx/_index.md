@@ -6,7 +6,7 @@ platformtag: cpp
 feature: merge
 informat: POTX
 platform: C++
-otherformats: PPT PPTX PPS PPSX PPTM PPSM POTM ODP OTP PDF
+otherformats: PPT PPTX PPS PPSX PPTM PPSM POTM ODP OTP PDF HTML
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

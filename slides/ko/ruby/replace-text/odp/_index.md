@@ -1,0 +1,39 @@
+---
+title: Ruby를 통해 ODP 파일의 텍스트 바꾸기
+description: Slides ODP 파일의 텍스트를 REST API 및 오픈 소스 Ruby SDK로 교체
+family: slides
+platformtag: ruby
+feature: replace-text
+informat: ODP
+platform: Ruby
+otherformats: PPT PPTX PPS PPSX PPTM PPSM POTX POTM OTP
+---
+
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/upper-banner-autogen h1="ODP 파일의 텍스트를 Ruby로 바꾸기" h2="Ruby용 오픈소스 Cloud SDK를 사용하여 Slides 데이터에서 텍스트 찾기 및 바꾸기">}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/agp/feature-section isGrey="true" >}}
+
+{{% blocks/products/pf/agp/feature-section-col title="ODP 파일의 텍스트를 Ruby로 바꾸기" %}}
+1. <a href="https://dashboard.aspose.cloud/">대시보드</a>에서 계정을 만들어 무료 API 할당량 및 승인 세부정보를 받으세요.
+1. 클라이언트 ID 및 클라이언트 암호로 ```SlidesApi``` 초기화.
+1. ODP 파일의 위치와 전체 문서 또는 단일 슬라이드에서 텍스트를 바꿔야 하는지 여부에 따라 텍스트 바꾸기 방법 중 하나를 호출하세요.
+    - ```replace_presentation_text```는 저장소에 있는 프레젠테이션 파일의 모든 슬라이드에서 특정 텍스트를 모두 다른 텍스트로 대체합니다.
+    - ```replace_slide_text```는 저장소에 있는 프레젠테이션 파일의 한 슬라이드에서 특정 텍스트의 모든 항목을 다른 텍스트로 대체합니다.
+    - ```replace_presentation_text_online```는 요청 본문에 전달된 프리젠테이션 파일의 모든 슬라이드에서 지정된 텍스트를 모두 다른 텍스트로 대체합니다.
+    - ```replace_slide_text_online```는 요청 본문에 전달된 프리젠테이션 파일의 한 슬라이드에서 지정된 텍스트를 모두 다른 텍스트로 대체합니다.
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Slides API 및 Ruby SDK 시작하기" %}}
+[GitHub](https://github.com/aspose-slides-cloud/aspose-slides-cloud-ruby)에서 Ruby용 Slides Cloud SDK 소스 코드를 가져와 SDK를 직접 컴파일하거나 [릴리스](https://releases.aspose.cloud/)로 이동하여 대체 다운로드 옵션을 확인하세요.
+
+또한 [Slides REST API](https://products.aspose.cloud/slides/curl/)에 대해 자세히 알아보려면 Swagger 기반 [API 참조](https://apireference.aspose.cloud/slides/)를 살펴보세요.
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< blocks/products/pf/cloud-app app="replaceText" language="ruby" inputFormat="odp" >}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/agp/i18n/faq-autogen >}}
+{{< blocks/products/pf/agp/i18n/other-supported-autogen useCardStyle="true" >}}
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}

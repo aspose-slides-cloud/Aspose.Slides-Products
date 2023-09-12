@@ -4,9 +4,9 @@ description: Fusionnez plusieurs fichiers Slides avec l'API REST et le SDK Open 
 family: slides
 platformtag: ruby
 feature: merge
-informat: PDF
+informat: HTML
 platform: Ruby
-otherformats: PPT PPTX PPS PPSX PPTM PPSM POTX POTM ODP OTP PDF
+otherformats: PPT PPTX PPS PPSX PPTM PPSM POTX POTM ODP OTP PDF HTML
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -6,7 +6,7 @@ platformtag: python
 feature: merge
 informat: PPT
 platform: Python
-otherformats: PPTX PPS PPSX PPTM PPSM POTX POTM ODP OTP PDF
+otherformats: PPTX PPS PPSX PPTM PPSM POTX POTM ODP OTP PDF HTML
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

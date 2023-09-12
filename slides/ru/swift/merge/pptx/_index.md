@@ -7,7 +7,7 @@ feature: merge
 informat: PPTX
 outformat: MPEG4
 platform: Swift
-otherformats: PPT PPS PPSX PPTM PPSM POTX POTM ODP OTP PDF
+otherformats: PPT PPS PPSX PPTM PPSM POTX POTM ODP OTP PDF HTML
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

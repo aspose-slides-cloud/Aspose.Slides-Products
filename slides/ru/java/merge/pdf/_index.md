@@ -7,7 +7,7 @@ feature: merge
 informat: PDF
 outformat: MPEG4
 platform: Java
-otherformats: PPT PPTX PPS PPSX PPTM PPSM POTX POTM ODP OTP
+otherformats: PPT PPTX PPS PPSX PPTM PPSM POTX POTM ODP OTP HTML
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

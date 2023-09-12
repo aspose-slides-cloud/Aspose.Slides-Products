@@ -7,7 +7,7 @@ feature: merge
 informat: PPT
 outformat: MPEG4
 platform: Node.js
-otherformats: PPTX PPS PPSX PPTM PPSM POTX POTM ODP OTP PDF
+otherformats: PPTX PPS PPSX PPTM PPSM POTX POTM ODP OTP PDF HTML
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

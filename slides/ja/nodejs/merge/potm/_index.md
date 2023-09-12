@@ -6,7 +6,7 @@ platformtag: nodejs
 feature: merge
 informat: POTM
 platform: Node.js
-otherformats: PPT PPTX PPS PPSX PPTM PPSM POTX ODP OTP PDF
+otherformats: PPT PPTX PPS PPSX PPTM PPSM POTX ODP OTP PDF HTML
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -14,7 +14,7 @@ otherformats: PPT PPTX PPS PPSX PPTM PPSM POTX ODP OTP PDF
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Node.js を使用した POTM から MPEG4 への変換" %}}
+{{% blocks/products/pf/agp/feature-section-col title="POTM ファイルと Node.js のマージ" %}}
 1. <a href="https://dashboard.aspose.cloud/">ダッシュボード</a>でアカウントを作成して、無料の API 割り当てと承認の詳細を取得します
 1. クライアント ID とクライアント シークレットで ```SlidesApi``` を初期化する
 1. 入力 POTM ファイルの場所、マージされたファイルを保存する場所、およびファイルの一部をマージする必要があるかどうかに応じて、いずれかのマージ メソッドを呼び出します。

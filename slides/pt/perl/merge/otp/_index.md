@@ -6,7 +6,7 @@ platformtag: perl
 feature: merge
 informat: OTP
 platform: Perl
-otherformats: PPT PPTX PPS PPSX PPTM PPSM POTX POTM ODP PDF
+otherformats: PPT PPTX PPS PPSX PPTM PPSM POTX POTM ODP PDF HTML
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -7,7 +7,7 @@ feature: merge
 informat: ODP
 outformat: MPEG4
 platform: C++
-otherformats: PPT PPTX PPS PPSX PPTM PPSM POTX POTM OTP PDF
+otherformats: PPT PPTX PPS PPSX PPTM PPSM POTX POTM OTP PDF HTML
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

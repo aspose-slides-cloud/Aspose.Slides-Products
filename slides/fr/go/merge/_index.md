@@ -4,9 +4,9 @@ description: Fusionnez plusieurs fichiers Slides avec l'API REST et le SDK Open 
 family: slides
 platformtag: go
 feature: merge
-informat: PDF
+informat: HTML
 platform: Go
-otherformats: PPT PPTX PPS PPSX PPTM PPSM POTX POTM ODP OTP PDF
+otherformats: PPT PPTX PPS PPSX PPTM PPSM POTX POTM ODP OTP PDF HTML
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

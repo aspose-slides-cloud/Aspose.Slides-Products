@@ -1,12 +1,12 @@
 ---
-title: Mesclar vários arquivos PDF via Node.js
-description: Mescle vários arquivos Slides PDF com REST API e Open Source Node.js SDK
+title: Mesclar vários arquivos HTML via Node.js
+description: Mescle vários arquivos Slides HTML com REST API e Open Source Node.js SDK
 family: slides
 platformtag: nodejs
 feature: merge
-informat: PDF
+informat: HTML
 platform: Node.js
-otherformats: PPT PPTX PPS PPSX PPTM PPSM POTX POTM ODP OTP PDF
+otherformats: PPT PPTX PPS PPSX PPTM PPSM POTX POTM ODP OTP PDF HTML
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

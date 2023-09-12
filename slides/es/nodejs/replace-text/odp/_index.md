@@ -1,0 +1,39 @@
+---
+title: Reemplazar texto en archivos ODP a través de Node.js
+description: Reemplace texto en archivos Slides ODP con API REST y SDK Node.js de código abierto
+family: slides
+platformtag: nodejs
+feature: replace-text
+informat: ODP
+platform: Node.js
+otherformats: PPT PPTX PPS PPSX PPTM PPSM POTX POTM OTP
+---
+
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/upper-banner-autogen h1="Reemplazar texto en archivos ODP con Node.js" h2="Busque y reemplace apariciones de texto en datos de Slides con Cloud SDK de código abierto para Node.js">}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/agp/feature-section isGrey="true" >}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Reemplazo de texto en archivos ODP con Node.js" %}}
+1. Cree una cuenta en <a href="https://dashboard.aspose.cloud/">el panel de control</a> para obtener una cuota de API gratuita y detalles de autorización
+1. Inicialice ```SlidesApi``` con ID de cliente y Secreto de cliente
+1. Llame a uno de los métodos de reemplazo de texto, dependiendo de dónde estén sus archivos ODP y si necesita reemplazar el texto en todo el documento o en una sola diapositiva
+    - ```replacePresentationText``` para reemplazar todas las apariciones de un texto determinado por otro en todas las diapositivas de un archivo de presentación almacenado.
+    - ```replaceSlideText``` para reemplazar todas las apariciones de un texto determinado con otro en una diapositiva de un archivo de presentación almacenado.
+    - ```replacePresentationTextOnline``` para reemplazar todas las apariciones de un texto determinado con otro en todas las diapositivas de un archivo de presentación pasado en el cuerpo de la solicitud.
+    - ```replaceSlideTextOnline``` para reemplazar todas las apariciones de un texto determinado con otro en una diapositiva de un archivo de presentación pasado en el cuerpo de la solicitud.
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Comience con Slides API y Node.js SDK" %}}
+Obtenga el código fuente de Slides Cloud SDK para Node.js de [GitHub](https://github.com/aspose-slides-cloud/aspose-slides-cloud-nodejs) para compilar el SDK usted mismo o diríjase a [Versiones](https://releases.aspose.cloud/) para ver opciones de descarga alternativas.
+
+También eche un vistazo a la [referencia de API](https://apireference.aspose.cloud/slides/) basada en Swagger para saber más sobre la [API REST SLIDES](https://products.aspose.cloud/slides/curl/).
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< blocks/products/pf/cloud-app app="replaceText" language="nodejs" inputFormat="odp" >}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/agp/i18n/faq-autogen >}}
+{{< blocks/products/pf/agp/i18n/other-supported-autogen useCardStyle="true" >}}
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}

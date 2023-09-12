@@ -5,7 +5,7 @@ family: slides
 platformtag: php
 feature: split
 platform: PHP
-otherformats: PPT PPTX PPS PPSX PPTM PPSM POTX POTM ODP OTP PDF
+otherformats: PPT PPTX PPS PPSX PPTM PPSM POTX POTM ODP OTP PDF HTML
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -16,7 +16,7 @@ otherformats: PPT PPTX PPS PPSX PPTM PPSM POTX POTM ODP OTP PDF
 {{% blocks/products/pf/agp/feature-section-col title="PHP ile Sunum Bölme" %}}
 1. Ücretsiz API kotası ve yetkilendirme ayrıntılarını almak için <a href="https://dashboard.aspose.cloud/">Gösterge Tablosunda</a> bir hesap oluşturun
 1. ```SlidesApi```'yi İstemci Kimliği ve İstemci Sırrı ile Başlatın
-1. Girdi PDF dosyanızın nerede olduğuna ve ortaya çıkan XAML dosyalarını nerede depolamak istediğinize bağlı olarak bölme yöntemlerinden birini çağırın
+1. Girdi HTML dosyanızın nerede olduğuna ve ortaya çıkan XAML dosyalarını nerede depolamak istediğinize bağlı olarak bölme yöntemlerinden birini çağırın
     - ```split```, depolamadaki bir dosyayı bölmek ve sonucu depolamaya kaydetmek için. Girdi sunumunun her slaytı, belirtilen depolama klasörüne (veya varsayılan olarak girdi dosyası klasörüne) ayrı bir dosya olarak kaydedilir.
     - ```splitOnline```, yerel bir dosyayı bölmek ve sonucu bir ZIP arşivi olarak indirmek için. Girdi sunumunun her slaytı, ZIP arşivi içinde ayrı bir dosya olarak indirilir.
     - ```splitAndSaveOnline```, yerel bir dosyayı bölmek ve sonucu depolamaya kaydetmek için. Giriş sunumunun her slaytı, belirtilen depolama klasörüne (veya varsayılan olarak kök klasöre) ayrı bir dosya olarak kaydedilir.

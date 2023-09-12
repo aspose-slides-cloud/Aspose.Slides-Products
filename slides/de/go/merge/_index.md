@@ -4,9 +4,9 @@ description: Zusammenführen mehrerer Präsentationen mit REST API und Open Sour
 family: slides
 platformtag: go
 feature: merge
-informat: PDF
+informat: HTML
 platform: Go
-otherformats: PPT PPTX PPS PPSX PPTM PPSM POTX POTM ODP OTP PDF
+otherformats: PPT PPTX PPS PPSX PPTM PPSM POTX POTM ODP OTP PDF HTML
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -30,7 +30,7 @@ Holen Sie sich den Quellcode des Slides Cloud SDK für Go von [GitHub](https://g
 Sehen Sie sich auch die Swagger-basierte [API-Referenz](https://apireference.aspose.cloud/slides/) an, um mehr über die [SLIDES-REST-API](https://products.aspose.cloud/slides/curl/) zu erfahren.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{< blocks/products/pf/cloud-app app="merge" language="go" inputFormat="pdf" >}}
+{{< blocks/products/pf/cloud-app app="merge" language="go" inputFormat="html" >}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/agp/i18n/faq-autogen >}}

@@ -6,7 +6,7 @@ platformtag: go
 feature: merge
 informat: PPS
 platform: Go
-otherformats: PPT PPTX PPSX PPTM PPSM POTX POTM ODP OTP PDF
+otherformats: PPT PPTX PPSX PPTM PPSM POTX POTM ODP OTP PDF HTML
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
