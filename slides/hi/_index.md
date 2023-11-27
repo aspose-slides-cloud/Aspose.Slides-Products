@@ -29,19 +29,19 @@ Microsoft PowerPoint और OpenOffice फ़ाइल रीडर, व्य�
 
 {{< blocks/products/pf/product-card-row title="Aspose.Slides ऑन प्रिमाइस एपीआई शामिल हैं" >}}
 
-{{< blocks/products/pf/i18n/product pfName="Aspose.स्लाइड्स के लिए " title=".NET" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/slides/272x272/aspose_slides-for-net.png" productLink="https://products.aspose.com/slides/es/net" >}}
+{{< blocks/products/pf/i18n/product pfName="Aspose.स्लाइड्स के लिए " title=".NET" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/slides/272x272/aspose_slides-for-net.png" productLink="https://products.aspose.com/slides/hi/net" >}}
 प्रस्तुति स्लाइडों को संसाधित करने और उनमें हेरफेर करने के लिए .NET डेस्कटॉप और वेब एप्लिकेशन विकसित करें। C#, ASP.NET और अन्य .NET समर्थित भाषाओं का समर्थन करता है।
 {{< /blocks/products/pf/i18n/product >}}
 
-{{< blocks/products/pf/i18n/product pfName="Aspose.स्लाइड्स के लिए " title="Java" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/slides/272x272/aspose_slides-for-java.png" productLink="https://products.aspose.com/slides/es/java" >}}
+{{< blocks/products/pf/i18n/product pfName="Aspose.स्लाइड्स के लिए " title="Java" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/slides/272x272/aspose_slides-for-java.png" productLink="https://products.aspose.com/slides/hi/java" >}}
 डेस्कटॉप और वेब के लिए प्रेजेंटेशन निर्माता और कनवर्टर एप्लिकेशन बनाने के लिए जावा एपीआई। पॉवरपॉइंट और ओपनऑफिस प्रारूपों का समर्थन करता है।
 {{< /blocks/products/pf/i18n/product >}}
 
-{{< blocks/products/pf/i18n/product pfName="Aspose.स्लाइड्स के लिए " title="C++" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/slides/272x272/aspose_slides-for-cpp.png" productLink="https://products.aspose.com/slides/es/cpp" >}}
+{{< blocks/products/pf/i18n/product pfName="Aspose.स्लाइड्स के लिए " title="C++" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/slides/272x272/aspose_slides-for-cpp.png" productLink="https://products.aspose.com/slides/hi/cpp" >}}
 C++ के लिए उपयोग में आसान ऑन-प्रिमाइस एपीआई आपको अपने ऐप्स के भीतर Microsoft और OpenOffice प्रेजेंटेशन को पढ़ने, लिखने, संसाधित करने और परिवर्तित करने में सहायता करता है।
 {{< /blocks/products/pf/i18n/product >}}
 
-{{< blocks/products/pf/i18n/center-button href="https://products.aspose.com/slides/es/family" innerText="सभी ऑन-प्रिमाइस एपीआई देखें" >}}
+{{< blocks/products/pf/i18n/center-button href="https://products.aspose.com/slides/hi/family" innerText="सभी ऑन-प्रिमाइस एपीआई देखें" >}}
 
 {{< /blocks/products/pf/product-card-row >}}
 
