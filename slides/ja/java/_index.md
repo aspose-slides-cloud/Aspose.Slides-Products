@@ -91,6 +91,42 @@ platform: Java
    <p>
    </p>
    <div class="col-lg-4">
+    <a href="conversion">
+     <em class="fa fa-puzzle-piece ico-blue fa-2x col-lg-2">
+     </em>
+     <p class="col-lg-10">
+      プレゼンテーションを作成し、指定した形式にエクスポートします
+     </p>
+    </a>
+   </div>
+   <div class="col-lg-4">
+    <a href="merge">
+     <em class="fa fa-file-text-o ico-blue fa-2x col-lg-2">
+     </em>
+     <p class="col-lg-10">
+      リクエスト パラメータで指定された複数のプレゼンテーションをマージする
+     </p>
+    </a>
+   </div>
+   <div class="col-lg-4">
+    <a href="split">
+     <em class="fa fa-list-alt ico-blue fa-2x col-lg-2">
+     </em>
+     <p class="col-lg-10">
+      プレゼンテーションを複数に分割する
+     </p>
+    </a>
+   </div>
+   <div class="col-lg-4">
+    <a href="replace-text">
+     <em class="fa fa-object-group ico-blue fa-2x col-lg-2">
+     </em>
+     <p class="col-lg-10">
+      特定のスライドまたはプレゼンテーション全体からテキストを抽出して置換する
+     </p>
+    </a>
+   </div>
+   <div class="col-lg-4">
     <em class="fa fa-file-powerpoint-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
@@ -109,13 +145,6 @@ platform: Java
     </em>
     <p class="col-lg-10">
      ソース プレゼンテーションからレイアウト スライドまたはマスター スライドをコピーする
-    </p>
-   </div>
-   <div class="col-lg-4">
-    <em class="fa fa-file-text-o ico-blue fa-2x col-lg-2">
-    </em>
-    <p class="col-lg-10">
-     リクエスト パラメータで指定された複数のプレゼンテーションをマージする
     </p>
    </div>
    <div class="col-lg-4">
@@ -140,13 +169,6 @@ platform: Java
     </p>
    </div>
    <div class="col-lg-4">
-    <em class="fa fa-object-group ico-blue fa-2x col-lg-2">
-    </em>
-    <p class="col-lg-10">
-     特定のスライドまたはプレゼンテーション全体からテキストを抽出して置換する
-    </p>
-   </div>
-   <div class="col-lg-4">
     <em class="fa fa-search-plus ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
@@ -154,24 +176,10 @@ platform: Java
     </p>
    </div>
    <div class="col-lg-4">
-    <em class="fa fa-puzzle-piece ico-blue fa-2x col-lg-2">
-    </em>
-    <p class="col-lg-10">
-     プレゼンテーションを作成し、サポートされている形式にエクスポートします
-    </p>
-   </div>
-   <div class="col-lg-4">
     <em class="fa fa-columns ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
      HTML からプレゼンテーション ドキュメントを作成する
-    </p>
-   </div>
-   <div class="col-lg-4">
-    <em class="fa fa-list-alt ico-blue fa-2x col-lg-2">
-    </em>
-    <p class="col-lg-10">
-     プレゼンテーションを複数に分割する
     </p>
    </div>
    <div class="col-lg-12">

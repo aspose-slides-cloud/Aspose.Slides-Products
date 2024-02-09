@@ -90,6 +90,42 @@ platform: NodeJS
    <p>
    </p>
    <div class="col-lg-4">
+    <a href="conversion">
+     <em class="fa fa-puzzle-piece ico-blue fa-2x col-lg-2">
+     </em>
+     <p class="col-lg-10">
+      Créer une présentation et l'exporter dans un format spécifié
+     </p>
+    </a>
+   </div>
+   <div class="col-lg-4">
+    <a href="merge">
+     <em class="fa fa-file-text-o ico-blue fa-2x col-lg-2">
+     </em>
+     <p class="col-lg-10">
+      Fusionner plusieurs présentations spécifiées dans un paramètre de requête
+     </p>
+    </a>
+   </div>
+   <div class="col-lg-4">
+    <a href="split">
+     <em class="fa fa-list-alt ico-blue fa-2x col-lg-2">
+     </em>
+     <p class="col-lg-10">
+      Diviser la présentation en plusieurs
+     </p>
+    </a>
+   </div>
+   <div class="col-lg-4">
+    <a href="replace-text">
+     <em class="fa fa-object-group ico-blue fa-2x col-lg-2">
+     </em>
+     <p class="col-lg-10">
+      Extraire et remplacer le texte d'une diapositive spécifique ou d'une présentation entière
+     </p>
+    </a>
+   </div>
+   <div class="col-lg-4">
     <em class="fa fa-file-powerpoint-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
@@ -108,13 +144,6 @@ platform: NodeJS
     </em>
     <p class="col-lg-10">
      Copier la diapositive de mise en page ou la diapositive principale de la présentation source
-    </p>
-   </div>
-   <div class="col-lg-4">
-    <em class="fa fa-file-text-o ico-blue fa-2x col-lg-2">
-    </em>
-    <p class="col-lg-10">
-     Fusionner plusieurs présentations spécifiées dans un paramètre de requête
     </p>
    </div>
    <div class="col-lg-4">
@@ -139,13 +168,6 @@ platform: NodeJS
     </p>
    </div>
    <div class="col-lg-4">
-    <em class="fa fa-object-group ico-blue fa-2x col-lg-2">
-    </em>
-    <p class="col-lg-10">
-     Extraire et remplacer le texte d'une diapositive spécifique ou d'une présentation entière
-    </p>
-   </div>
-   <div class="col-lg-4">
     <em class="fa fa-search-plus ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
@@ -153,24 +175,10 @@ platform: NodeJS
     </p>
    </div>
    <div class="col-lg-4">
-    <em class="fa fa-puzzle-piece ico-blue fa-2x col-lg-2">
-    </em>
-    <p class="col-lg-10">
-     Créer une présentation et l'exporter vers des formats pris en charge
-    </p>
-   </div>
-   <div class="col-lg-4">
     <em class="fa fa-columns ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
      Créer un document de présentation à partir de HTML
-    </p>
-   </div>
-   <div class="col-lg-4">
-    <em class="fa fa-list-alt ico-blue fa-2x col-lg-2">
-    </em>
-    <p class="col-lg-10">
-     Diviser la présentation en plusieurs
     </p>
    </div>
    <div class="col-lg-12">

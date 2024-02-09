@@ -90,6 +90,42 @@ platform: Node.js
    <p>
    </p>
    <div class="col-lg-4">
+    <a href="conversion">
+     <em class="fa fa-puzzle-piece ico-blue fa-2x col-lg-2">
+     </em>
+     <p class="col-lg-10">
+      प्रेजेंटेशन बनाएं और इसे एक निर्दिष्ट प्रारूप में निर्यात करें
+     </p>
+    </a>
+   </div>
+   <div class="col-lg-4">
+    <a href="merge">
+     <em class="fa fa-file-text-o ico-blue fa-2x col-lg-2">
+     </em>
+     <p class="col-lg-10">
+      अनुरोध पैरामीटर में निर्दिष्ट एकाधिक प्रस्तुतियों को मर्ज करें
+     </p>
+    </a>
+   </div>
+   <div class="col-lg-4">
+    <a href="split">
+     <em class="fa fa-list-alt ico-blue fa-2x col-lg-2">
+     </em>
+     <p class="col-lg-10">
+      प्रस्तुतिकरण को अनेक भागों में विभाजित करें
+     </p>
+    </a>
+   </div>
+   <div class="col-lg-4">
+    <a href="replace-text">
+     <em class="fa fa-object-group ico-blue fa-2x col-lg-2">
+     </em>
+     <p class="col-lg-10">
+      किसी विशिष्ट स्लाइड या संपूर्ण प्रस्तुति से टेक्स्ट निकालें और बदलें
+     </p>
+    </a>
+   </div>
+   <div class="col-lg-4">
     <em class="fa fa-file-powerpoint-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
@@ -108,13 +144,6 @@ platform: Node.js
     </em>
     <p class="col-lg-10">
      स्रोत प्रस्तुति से लेआउट स्लाइड या मास्टर स्लाइड की प्रतिलिपि बनाएँ
-    </p>
-   </div>
-   <div class="col-lg-4">
-    <em class="fa fa-file-text-o ico-blue fa-2x col-lg-2">
-    </em>
-    <p class="col-lg-10">
-     अनुरोध पैरामीटर में निर्दिष्ट एकाधिक प्रस्तुतियों को मर्ज करें
     </p>
    </div>
    <div class="col-lg-4">
@@ -139,13 +168,6 @@ platform: Node.js
     </p>
    </div>
    <div class="col-lg-4">
-    <em class="fa fa-object-group ico-blue fa-2x col-lg-2">
-    </em>
-    <p class="col-lg-10">
-     किसी विशिष्ट स्लाइड या संपूर्ण प्रस्तुति से टेक्स्ट निकालें और बदलें
-    </p>
-   </div>
-   <div class="col-lg-4">
     <em class="fa fa-search-plus ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
@@ -153,24 +175,10 @@ platform: Node.js
     </p>
    </div>
    <div class="col-lg-4">
-    <em class="fa fa-puzzle-piece ico-blue fa-2x col-lg-2">
-    </em>
-    <p class="col-lg-10">
-     एक प्रस्तुति बनाएं और इसे समर्थित प्रारूपों में निर्यात करें
-    </p>
-   </div>
-   <div class="col-lg-4">
     <em class="fa fa-columns ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
      HTML से एक प्रेजेंटेशन दस्तावेज़ बनाएं
-    </p>
-   </div>
-   <div class="col-lg-4">
-    <em class="fa fa-list-alt ico-blue fa-2x col-lg-2">
-    </em>
-    <p class="col-lg-10">
-     प्रस्तुतिकरण को अनेक भागों में विभाजित करें
     </p>
    </div>
    <div class="col-lg-12">

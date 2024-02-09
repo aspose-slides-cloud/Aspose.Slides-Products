@@ -91,6 +91,42 @@ platform: .NET
    <p>
    </p>
    <div class="col-lg-4">
+    <a href="conversion">
+     <em class="fa fa-puzzle-piece ico-blue fa-2x col-lg-2">
+     </em>
+     <p class="col-lg-10">
+      Crear presentación y exportarla a un formato específico
+     </p>
+    </a>
+   </div>
+   <div class="col-lg-4">
+    <a href="merge">
+     <em class="fa fa-file-text-o ico-blue fa-2x col-lg-2">
+     </em>
+     <p class="col-lg-10">
+      Combinar varias presentaciones especificadas en un parámetro de solicitud
+     </p>
+    </a>
+   </div>
+   <div class="col-lg-4">
+    <a href="split">
+     <em class="fa fa-list-alt ico-blue fa-2x col-lg-2">
+     </em>
+     <p class="col-lg-10">
+      Dividir la presentación en varias
+     </p>
+    </a>
+   </div>
+   <div class="col-lg-4">
+    <a href="replace-text">
+     <em class="fa fa-object-group ico-blue fa-2x col-lg-2">
+     </em>
+     <p class="col-lg-10">
+      Extraer y reemplazar texto de una diapositiva específica o de una presentación completa
+     </p>
+    </a>
+   </div>
+   <div class="col-lg-4">
     <em class="fa fa-file-powerpoint-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
@@ -109,13 +145,6 @@ platform: .NET
     </em>
     <p class="col-lg-10">
      Copiar la diapositiva de diseño o la diapositiva maestra de la presentación de origen
-    </p>
-   </div>
-   <div class="col-lg-4">
-    <em class="fa fa-file-text-o ico-blue fa-2x col-lg-2">
-    </em>
-    <p class="col-lg-10">
-     Combinar varias presentaciones especificadas en un parámetro de solicitud
     </p>
    </div>
    <div class="col-lg-4">
@@ -140,13 +169,6 @@ platform: .NET
     </p>
    </div>
    <div class="col-lg-4">
-    <em class="fa fa-object-group ico-blue fa-2x col-lg-2">
-    </em>
-    <p class="col-lg-10">
-     Extraer y reemplazar texto de una diapositiva específica o de una presentación completa
-    </p>
-   </div>
-   <div class="col-lg-4">
     <em class="fa fa-search-plus ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
@@ -154,24 +176,10 @@ platform: .NET
     </p>
    </div>
    <div class="col-lg-4">
-    <em class="fa fa-puzzle-piece ico-blue fa-2x col-lg-2">
-    </em>
-    <p class="col-lg-10">
-     Crear una presentación y exportarla a formatos compatibles
-    </p>
-   </div>
-   <div class="col-lg-4">
     <em class="fa fa-columns ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
      Crear un documento de presentación desde HTML
-    </p>
-   </div>
-   <div class="col-lg-4">
-    <em class="fa fa-list-alt ico-blue fa-2x col-lg-2">
-    </em>
-    <p class="col-lg-10">
-     Dividir la presentación en varias
     </p>
    </div>
    <div class="col-lg-12">

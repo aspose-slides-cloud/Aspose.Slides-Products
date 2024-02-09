@@ -91,6 +91,42 @@ platform: Node.js
    <p>
    </p>
    <div class="col-lg-4">
+    <a href="conversion">
+     <em class="fa fa-puzzle-piece ico-blue fa-2x col-lg-2">
+     </em>
+     <p class="col-lg-10">
+      创建演示文稿并将其导出为指定格式
+     </p>
+    </a>
+   </div>
+   <div class="col-lg-4">
+    <a href="merge">
+     <em class="fa fa-file-text-o ico-blue fa-2x col-lg-2">
+     </em>
+     <p class="col-lg-10">
+      合并请求参数中指定的多个演示文稿
+     </p>
+    </a>
+   </div>
+   <div class="col-lg-4">
+    <a href="split">
+     <em class="fa fa-list-alt ico-blue fa-2x col-lg-2">
+     </em>
+     <p class="col-lg-10">
+      将演示文稿拆分为多个
+     </p>
+    </a>
+   </div>
+   <div class="col-lg-4">
+    <a href="replace-text">
+     <em class="fa fa-object-group ico-blue fa-2x col-lg-2">
+     </em>
+     <p class="col-lg-10">
+      从特定幻灯片或整个演示文稿中提取和替换文本
+     </p>
+    </a>
+   </div>
+   <div class="col-lg-4">
     <em class="fa fa-file-powerpoint-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
@@ -109,13 +145,6 @@ platform: Node.js
     </em>
     <p class="col-lg-10">
      从源演示文稿复制布局幻灯片或母版幻灯片
-    </p>
-   </div>
-   <div class="col-lg-4">
-    <em class="fa fa-file-text-o ico-blue fa-2x col-lg-2">
-    </em>
-    <p class="col-lg-10">
-     合并请求参数中指定的多个呈现
     </p>
    </div>
    <div class="col-lg-4">
@@ -140,13 +169,6 @@ platform: Node.js
     </p>
    </div>
    <div class="col-lg-4">
-    <em class="fa fa-object-group ico-blue fa-2x col-lg-2">
-    </em>
-    <p class="col-lg-10">
-     从特定幻灯片或整个演示文稿中提取和替换文本
-    </p>
-   </div>
-   <div class="col-lg-4">
     <em class="fa fa-search-plus ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
@@ -154,24 +176,10 @@ platform: Node.js
     </p>
    </div>
    <div class="col-lg-4">
-    <em class="fa fa-puzzle-piece ico-blue fa-2x col-lg-2">
-    </em>
-    <p class="col-lg-10">
-     创建演示文稿并将其导出为支持的格式
-    </p>
-   </div>
-   <div class="col-lg-4">
     <em class="fa fa-columns ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
      从 HTML 创建演示文档
-    </p>
-   </div>
-   <div class="col-lg-4">
-    <em class="fa fa-list-alt ico-blue fa-2x col-lg-2">
-    </em>
-    <p class="col-lg-10">
-     将演示文稿拆分为多个
     </p>
    </div>
    <div class="col-lg-12">

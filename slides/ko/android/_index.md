@@ -90,6 +90,42 @@ platform: Android
    <p>
    </p>
    <div class="col-lg-4">
+    <a href="conversion">
+     <em class="fa fa-puzzle-piece ico-blue fa-2x col-lg-2">
+     </em>
+     <p class="col-lg-10">
+      프레젠테이션을 만들고 지정된 형식으로 내보내기
+     </p>
+    </a>
+   </div>
+   <div class="col-lg-4">
+    <a href="merge">
+     <em class="fa fa-file-text-o ico-blue fa-2x col-lg-2">
+     </em>
+     <p class="col-lg-10">
+      요청 매개변수에 지정된 여러 프레젠테이션 병합
+     </p>
+    </a>
+   </div>
+   <div class="col-lg-4">
+    <a href="split">
+     <em class="fa fa-list-alt ico-blue fa-2x col-lg-2">
+     </em>
+     <p class="col-lg-10">
+      프레젠테이션을 여러 개로 분할
+     </p>
+    </a>
+   </div>
+   <div class="col-lg-4">
+    <a href="replace-text">
+     <em class="fa fa-object-group ico-blue fa-2x col-lg-2">
+     </em>
+     <p class="col-lg-10">
+      특정 슬라이드 또는 전체 프레젠테이션에서 텍스트 추출 및 바꾸기
+     </p>
+    </a>
+   </div>
+   <div class="col-lg-4">
     <em class="fa fa-file-powerpoint-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
@@ -108,13 +144,6 @@ platform: Android
     </em>
     <p class="col-lg-10">
      원본 프레젠테이션에서 레이아웃 슬라이드 또는 마스터 슬라이드 복사
-    </p>
-   </div>
-   <div class="col-lg-4">
-    <em class="fa fa-file-text-o ico-blue fa-2x col-lg-2">
-    </em>
-    <p class="col-lg-10">
-     요청 매개변수에 지정된 여러 프레젠테이션 병합
     </p>
    </div>
    <div class="col-lg-4">
@@ -139,13 +168,6 @@ platform: Android
     </p>
    </div>
    <div class="col-lg-4">
-    <em class="fa fa-object-group ico-blue fa-2x col-lg-2">
-    </em>
-    <p class="col-lg-10">
-     특정 슬라이드 또는 전체 프레젠테이션에서 텍스트 추출 및 바꾸기
-    </p>
-   </div>
-   <div class="col-lg-4">
     <em class="fa fa-search-plus ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
@@ -153,24 +175,10 @@ platform: Android
     </p>
    </div>
    <div class="col-lg-4">
-    <em class="fa fa-puzzle-piece ico-blue fa-2x col-lg-2">
-    </em>
-    <p class="col-lg-10">
-     프레젠테이션을 만들고 지원되는 형식으로 내보내기
-    </p>
-   </div>
-   <div class="col-lg-4">
     <em class="fa fa-columns ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
      HTML에서 프레젠테이션 문서 만들기
-    </p>
-   </div>
-   <div class="col-lg-4">
-    <em class="fa fa-list-alt ico-blue fa-2x col-lg-2">
-    </em>
-    <p class="col-lg-10">
-     프레젠테이션을 여러 개로 분할
     </p>
    </div>
    <div class="col-lg-12">

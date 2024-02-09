@@ -90,6 +90,42 @@ platform: Perl
    <p>
    </p>
    <div class="col-lg-4">
+    <a href="conversion">
+     <em class="fa fa-puzzle-piece ico-blue fa-2x col-lg-2">
+     </em>
+     <p class="col-lg-10">
+      إنشاء عرض تقديمي وتصديره إلى تنسيق محدد
+     </p>
+    </a>
+   </div>
+   <div class="col-lg-4">
+    <a href="merge">
+     <em class="fa fa-file-text-o ico-blue fa-2x col-lg-2">
+     </em>
+     <p class="col-lg-10">
+      دمج العروض التقديمية المتعددة المحددة في معلمة الطلب
+     </p>
+    </a>
+   </div>
+   <div class="col-lg-4">
+    <a href="split">
+     <em class="fa fa-list-alt ico-blue fa-2x col-lg-2">
+     </em>
+     <p class="col-lg-10">
+      تقسيم العرض التقديمي إلى عدة عروض
+     </p>
+    </a>
+   </div>
+   <div class="col-lg-4">
+    <a href="replace-text">
+     <em class="fa fa-object-group ico-blue fa-2x col-lg-2">
+     </em>
+     <p class="col-lg-10">
+      استخراج النص واستبداله من شريحة معينة أو العرض التقديمي بأكمله
+     </p>
+    </a>
+   </div>
+   <div class="col-lg-4">
     <em class="fa fa-file-powerpoint-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
@@ -108,13 +144,6 @@ platform: Perl
     </em>
     <p class="col-lg-10">
      انسخ شريحة التخطيط أو الشريحة الرئيسية من العرض التقديمي المصدر
-    </p>
-   </div>
-   <div class="col-lg-4">	
-    <em class="fa fa-file-text-o ico-blue fa-2x col-lg-2">
-    </em>
-    <p class="col-lg-10">
-     دمج العروض التقديمية المتعددة المحددة في معلمة الطلب
     </p>
    </div>
    <div class="col-lg-4">
@@ -139,13 +168,6 @@ platform: Perl
     </p>
    </div>
    <div class="col-lg-4">
-    <em class="fa fa-object-group ico-blue fa-2x col-lg-2">
-    </em>
-    <p class="col-lg-10">
-     استخراج النص واستبداله من شريحة معينة أو العرض التقديمي بأكمله
-    </p>
-   </div>
-   <div class="col-lg-4">
     <em class="fa fa-search-plus ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
@@ -153,24 +175,10 @@ platform: Perl
     </p>
    </div>
    <div class="col-lg-4">
-    <em class="fa fa-puzzle-piece ico-blue fa-2x col-lg-2">
-    </em>
-    <p class="col-lg-10">
-     قم بإنشاء عرض تقديمي وتصديره إلى التنسيقات المدعومة
-    </p>
-   </div>
-   <div class="col-lg-4">
     <em class="fa fa-columns ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
      إنشاء مستند عرض تقديمي من HTML
-    </p>
-   </div>
-   <div class="col-lg-4">
-    <em class="fa fa-list-alt ico-blue fa-2x col-lg-2">
-    </em>
-    <p class="col-lg-10">
-     تقسيم العرض التقديمي إلى عدة عروض
     </p>
    </div>
    <div class="col-lg-12">

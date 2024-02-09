@@ -91,6 +91,42 @@ platform: Ruby
    <p>
    </p>
    <div class="col-lg-4">
+    <a href="conversion">
+     <em class="fa fa-puzzle-piece ico-blue fa-2x col-lg-2">
+     </em>
+     <p class="col-lg-10">
+      Sunu oluşturun ve belirtilen formata aktarın
+     </p>
+    </a>
+   </div>
+   <div class="col-lg-4">
+    <a href="merge">
+     <em class="fa fa-file-text-o ico-blue fa-2x col-lg-2">
+     </em>
+     <p class="col-lg-10">
+      Bir istek parametresinde belirtilen birden fazla sunumu birleştirme
+     </p>
+    </a>
+   </div>
+   <div class="col-lg-4">
+    <a href="split">
+     <em class="fa fa-list-alt ico-blue fa-2x col-lg-2">
+     </em>
+     <p class="col-lg-10">
+      Sunuyu birden çok parçaya bölme
+     </p>
+    </a>
+   </div>
+   <div class="col-lg-4">
+    <a href="replace-text">
+     <em class="fa fa-object-group ico-blue fa-2x col-lg-2">
+     </em>
+     <p class="col-lg-10">
+      Belirli bir slayttan veya tüm sunumdan metin ayıklayın ve değiştirin
+     </p>
+    </a>
+   </div>
+   <div class="col-lg-4">
     <em class="fa fa-file-powerpoint-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
@@ -109,13 +145,6 @@ platform: Ruby
     </em>
     <p class="col-lg-10">
      Kaynak sunudan mizanpaj slaydını veya ana slaydı kopyalayın
-    </p>
-   </div>
-   <div class="col-lg-4">
-    <em class="fa fa-file-text-o ico-blue fa-2x col-lg-2">
-    </em>
-    <p class="col-lg-10">
-     Bir istek parametresinde belirtilen birden fazla sunumu birleştirme
     </p>
    </div>
    <div class="col-lg-4">
@@ -140,13 +169,6 @@ platform: Ruby
     </p>
    </div>
    <div class="col-lg-4">
-    <em class="fa fa-object-group ico-blue fa-2x col-lg-2">
-    </em>
-    <p class="col-lg-10">
-     Belirli bir slayttan veya tüm sunumdan metin ayıklayın ve değiştirin
-    </p>
-   </div>
-   <div class="col-lg-4">
     <em class="fa fa-search-plus ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
@@ -154,24 +176,10 @@ platform: Ruby
     </p>
    </div>
    <div class="col-lg-4">
-    <em class="fa fa-puzzle-piece ico-blue fa-2x col-lg-2">
-    </em>
-    <p class="col-lg-10">
-     Bir sunum oluşturun ve onu desteklenen biçimlerde dışa aktarın
-    </p>
-   </div>
-   <div class="col-lg-4">
     <em class="fa fa-columns ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
      HTML'den bir sunum belgesi oluşturun
-    </p>
-   </div>
-   <div class="col-lg-4">
-    <em class="fa fa-list-alt ico-blue fa-2x col-lg-2">
-    </em>
-    <p class="col-lg-10">
-     Sunuyu birden çok parçaya bölme
     </p>
    </div>
    <div class="col-lg-12">

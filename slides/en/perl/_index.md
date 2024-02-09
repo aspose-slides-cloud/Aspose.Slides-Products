@@ -89,11 +89,40 @@ family: slides
    <p>
    </p>
    <div class="col-lg-4">
-    <em class="fa fa-file-powerpoint-o ico-blue fa-2x col-lg-2">
-    </em>
-    <p class="col-lg-10">
-     Get presentation images in a specified format
-    </p>
+     <a href="conversion">
+       <em class="fa fa-puzzle-piece ico-blue fa-2x col-lg-2">
+       </em>
+       <p class="col-lg-10">
+         Create presentation and export it to a specified format
+       </p>
+     </a>
+   </div>
+   <div class="col-lg-4">
+     <a href="merge">
+       <em class="fa fa-file-text-o ico-blue fa-2x col-lg-2">
+       </em>
+       <p class="col-lg-10">
+         Merge multiple presentations specified in request parameter
+       </p>
+     </a>
+   </div>
+   <div class="col-lg-4">
+     <a href="split">
+       <em class="fa fa-list-alt ico-blue fa-2x col-lg-2">
+       </em>
+       <p class="col-lg-10">
+         Split presentation into multiple ones
+       </p>
+     </a>
+   </div>
+   <div class="col-lg-4">
+     <a href="replace-text">
+       <em class="fa fa-object-group ico-blue fa-2x col-lg-2">
+       </em>
+       <p class="col-lg-10">
+         Extract and replace text from specific slide or entire presentation
+       </p>
+     </a>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-random ico-blue fa-2x col-lg-2">
@@ -107,13 +136,6 @@ family: slides
     </em>
     <p class="col-lg-10">
      Copy layout slide or master slide from source presentation
-    </p>
-   </div>
-   <div class="col-lg-4">
-    <em class="fa fa-file-text-o ico-blue fa-2x col-lg-2">
-    </em>
-    <p class="col-lg-10">
-     Merge multiple presentations specified in request parameter
     </p>
    </div>
    <div class="col-lg-4">
@@ -138,13 +160,6 @@ family: slides
     </p>
    </div>
    <div class="col-lg-4">
-    <em class="fa fa-object-group ico-blue fa-2x col-lg-2">
-    </em>
-    <p class="col-lg-10">
-     Extract and replace text from a specific slide or an entire presentation
-    </p>
-   </div>
-   <div class="col-lg-4">
     <em class="fa fa-search-plus ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
@@ -152,24 +167,17 @@ family: slides
     </p>
    </div>
    <div class="col-lg-4">
-    <em class="fa fa-puzzle-piece ico-blue fa-2x col-lg-2">
+    <em class="fa fa-file-powerpoint-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Create a presentation and export it to supported formats
+     Get presentation images in specified format
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-columns ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Create a presentation document from HTML
-    </p>
-   </div>
-   <div class="col-lg-4">
-    <em class="fa fa-list-alt ico-blue fa-2x col-lg-2">
-    </em>
-    <p class="col-lg-10">
-     Split the presentation into multiple ones
+     Create presentation document from HTML
     </p>
    </div>
    <div class="col-lg-12">

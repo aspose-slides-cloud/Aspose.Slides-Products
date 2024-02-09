@@ -84,42 +84,98 @@ family: slides
 <div class="container">
 <h2 class="pr-ft">Advanced PowerPoint manipulation Features</h2>
 <p> </p>
-<div class="col-lg-4"><em class="fa fa-file-powerpoint-o ico-blue fa-2x col-lg-2"> </em>
-<p class="col-lg-10">Get presentation images in specified format</p>
-</div>
-<div class="col-lg-4"><em class="fa fa-random ico-blue fa-2x col-lg-2"> </em>
-<p class="col-lg-10">Add, update, remove, convert slide notes</p>
-</div>
-<div class="col-lg-4"><em class="fa fa-image ico-blue fa-2x col-lg-2"> </em>
-<p class="col-lg-10">Copy layout slide or master slide from source presentation</p>
-</div>
-<div class="col-lg-4"><em class="fa fa-file-text-o  ico-blue fa-2x col-lg-2"> </em>
-<p class="col-lg-10">Merge multiple presentations specified in request parameter</p>
-</div>
-<div class="col-lg-4"><em class="fa fa-copy ico-blue fa-2x col-lg-2"> </em>
-<p class="col-lg-10">Fetch information about slide placeholders</p>
-</div>
-<div class="col-lg-4"><em class="fa fa-file-image-o ico-blue fa-2x col-lg-2"> </em>
-<p class="col-lg-10">Set, fetch or remove presentation document properties</p>
-</div>
-<div class="col-lg-4"><em class="fa fa-commenting	 ico-blue fa-2x col-lg-2"> </em>
-<p class="col-lg-10">Create, update or convert slide to supported formats</p>
-</div>
-<div class="col-lg-4"><em class="fa fa-object-group  ico-blue fa-2x col-lg-2"> </em>
-<p class="col-lg-10">Extract and replace text from specific slide or entire presentation</p>
-</div>
-<div class="col-lg-4"><em class="fa fa-search-plus ico-blue fa-2x col-lg-2"> </em>
-<p class="col-lg-10">Fetch slide color or font theme information</p>
-</div>
-<div class="col-lg-4"><em class="fa fa-puzzle-piece   ico-blue fa-2x col-lg-2"> </em>
-<p class="col-lg-10">Create presentation and export it to supported formats</p>
-</div>
-<div class="col-lg-4"><em class="fa fa-columns  ico-blue fa-2x col-lg-2"> </em>
-<p class="col-lg-10">Create presentation document from HTML</p>
-</div>
-<div class="col-lg-4"><em class="fa fa-list-alt  ico-blue fa-2x col-lg-2"> </em>
-<p class="col-lg-10">Split presentation into multiple ones</p>
-</div>
+   <div class="col-lg-4">
+     <a href="conversion">
+       <em class="fa fa-puzzle-piece ico-blue fa-2x col-lg-2">
+       </em>
+       <p class="col-lg-10">
+         Create presentation and export it to a specified format
+       </p>
+     </a>
+   </div>
+   <div class="col-lg-4">
+     <a href="merge">
+       <em class="fa fa-file-text-o ico-blue fa-2x col-lg-2">
+       </em>
+       <p class="col-lg-10">
+         Merge multiple presentations specified in request parameter
+       </p>
+     </a>
+   </div>
+   <div class="col-lg-4">
+     <a href="split">
+       <em class="fa fa-list-alt ico-blue fa-2x col-lg-2">
+       </em>
+       <p class="col-lg-10">
+         Split presentation into multiple ones
+       </p>
+     </a>
+   </div>
+   <div class="col-lg-4">
+     <a href="replace-text">
+       <em class="fa fa-object-group ico-blue fa-2x col-lg-2">
+       </em>
+       <p class="col-lg-10">
+         Extract and replace text from specific slide or entire presentation
+       </p>
+     </a>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-random ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     Add, update, remove, convert slide notes
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-image ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     Copy layout slide or master slide from source presentation
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-copy ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     Fetch information about slide placeholders
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-file-image-o ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     Set, fetch or remove presentation document properties
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-commenting ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     Create, update or convert slide to supported formats
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-search-plus ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     Fetch slide color or font theme information
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-file-powerpoint-o ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     Get presentation images in specified format
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-columns ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     Create presentation document from HTML
+    </p>
+   </div>
 <div class="col-lg-12">
 <h2 class="h2title">Get Started with PowerPoint Presentation Processing</h2>
 <p>It is easy to get started with Aspose.Slides Cloud SDK for Swift as you need nothing to install. Simply create an account at <a href="https://dashboard.aspose.cloud/#/apps">Aspose for Cloud</a> and get your application information. Once you have the App SID &amp; key, you are ready to give the Aspose.Slides Cloud SDK for Swift a try on any platform.</p>

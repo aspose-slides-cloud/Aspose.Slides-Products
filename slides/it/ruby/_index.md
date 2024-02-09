@@ -87,8 +87,44 @@ platform: Ruby
    <h2 class="pr-ft">
     Funzionalità avanzate di manipolazione di PowerPoint
    </h2>
-   <  p>
+   <p>
    </p>
+   <div class="col-lg-4">
+    <a href="conversion">
+     <em class="fa fa-puzzle-piece ico-blue fa-2x col-lg-2">
+     </em>
+     <p class="col-lg-10">
+      Crea una presentazione ed esportala in un formato specificato
+     </p>
+    </a>
+   </div>
+   <div class="col-lg-4">
+    <a href="merge">
+     <em class="fa fa-file-text-o ico-blue fa-2x col-lg-2">
+     </em>
+     <p class="col-lg-10">
+      Unisci più presentazioni specificate in un parametro di richiesta
+     </p>
+    </a>
+   </div>
+   <div class="col-lg-4">
+    <a href="split">
+     <em class="fa fa-list-alt ico-blue fa-2x col-lg-2">
+     </em>
+     <p class="col-lg-10">
+      Dividere la presentazione in più presentazioni
+     </p>
+    </a>
+   </div>
+   <div class="col-lg-4">
+    <a href="replace-text">
+     <em class="fa fa-object-group ico-blue fa-2x col-lg-2">
+     </em>
+     <p class="col-lg-10">
+      Estrai e sostituisci il testo da una diapositiva specifica o da un'intera presentazione
+     </p>
+    </a>
+   </div>
    <div class="col-lg-4">
     <em class="fa fa-file-powerpoint-o ico-blue fa-2x col-lg-2">
     </em>
@@ -108,13 +144,6 @@ platform: Ruby
     </em>
     <p class="col-lg-10">
      Copia la diapositiva di layout o la diapositiva master dalla presentazione di origine
-    </p>
-   </div>
-   <div class="col-lg-4">
-    <em class="fa fa-file-text-o ico-blue fa-2x col-lg-2">
-    </em>
-    <p class="col-lg-10">
-     Unisci più presentazioni specificate in un parametro di richiesta
     </p>
    </div>
    <div class="col-lg-4">
@@ -139,13 +168,6 @@ platform: Ruby
     </p>
    </div>
    <div class="col-lg-4">
-    <em class="fa fa-object-group ico-blue fa-2x col-lg-2">
-    </em>
-    <p class="col-lg-10">
-     Estrai e sostituisci il testo da una diapositiva specifica o da un'intera presentazione
-    </p>
-   </div>
-   <div class="col-lg-4">
     <em class="fa fa-search-plus ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
@@ -153,24 +175,10 @@ platform: Ruby
     </p>
    </div>
    <div class="col-lg-4">
-    <em class="fa fa-puzzle-piece ico-blue fa-2x col-lg-2">
-    </em>
-    <p class="col-lg-10">
-     Crea una presentazione ed esportala nei formati supportati
-    </p>
-   </div>
-   <div class="col-lg-4">
     <em class="fa fa-columns ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
      Crea un documento di presentazione da HTML
-    </p>
-   </div>
-   <div class="col-lg-4">
-    <em class="fa fa-list-alt ico-blue fa-2x col-lg-2">
-    </em>
-    <p class="col-lg-10">
-     Dividere la presentazione in più presentazioni
     </p>
    </div>
    <div class="col-lg-12">

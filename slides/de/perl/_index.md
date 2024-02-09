@@ -89,6 +89,42 @@ platform: Perl
    <p>
    </p>
    <div class="col-lg-4">
+    <a href="conversion">
+     <em class="fa fa-puzzle-piece ico-blue fa-2x col-lg-2">
+     </em>
+     <p class="col-lg-10">
+      Erstellen Sie eine Präsentation und exportieren Sie sie in ein bestimmtes Format
+     </p>
+    </a>
+   </div>
+   <div class="col-lg-4">
+    <a href="merge">
+     <em class="fa fa-file-text-o ico-blue fa-2x col-lg-2">
+     </em>
+     <p class="col-lg-10">
+      Mehrere in einem Anforderungsparameter angegebene Präsentationen zusammenführen
+     </p>
+    </a>
+   </div>
+   <div class="col-lg-4">
+    <a href="split">
+     <em class="fa fa-list-alt ico-blue fa-2x col-lg-2">
+     </em>
+     <p class="col-lg-10">
+      Aufteilen der Präsentation in mehrere
+     </p>
+    </a>
+   </div>
+   <div class="col-lg-4">
+    <a href="replace-text">
+     <em class="fa fa-object-group ico-blue fa-2x col-lg-2">
+     </em>
+     <p class="col-lg-10">
+      Extrahieren und Ersetzen von Text aus einer bestimmten Folie oder einer gesamten Präsentation
+     </p>
+    </a>
+   </div>
+   <div class="col-lg-4">
     <em class="fa fa-file-powerpoint-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
@@ -107,13 +143,6 @@ platform: Perl
     </em>
     <p class="col-lg-10">
      Layoutfolie oder Masterfolie aus der Quellpräsentation kopieren
-    </p>
-   </div>
-   <div class="col-lg-4">
-    <em class="fa fa-file-text-o ico-blue fa-2x col-lg-2">
-    </em>
-    <p class="col-lg-10">
-     Mehrere in einem Anforderungsparameter angegebene Präsentationen zusammenführen
     </p>
    </div>
    <div class="col-lg-4">
@@ -138,13 +167,6 @@ platform: Perl
     </p>
    </div>
    <div class="col-lg-4">
-    <em class="fa fa-object-group ico-blue fa-2x col-lg-2">
-    </em>
-    <p class="col-lg-10">
-     Extrahieren und Ersetzen von Text aus einer bestimmten Folie oder einer gesamten Präsentation
-    </p>
-   </div>
-   <div class="col-lg-4">
     <em class="fa fa-search-plus ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
@@ -152,24 +174,10 @@ platform: Perl
     </p>
    </div>
    <div class="col-lg-4">
-    <em class="fa fa-puzzle-piece ico-blue fa-2x col-lg-2">
-    </em>
-    <p class="col-lg-10">
-     Erstellen einer Präsentation und Exportieren in unterstützte Formate
-    </p>
-   </div>
-   <div class="col-lg-4">
     <em class="fa fa-columns ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
      Erstellen eines Präsentationsdokuments aus HTML
-    </p>
-   </div>
-   <div class="col-lg-4">
-    <em class="fa fa-list-alt ico-blue fa-2x col-lg-2">
-    </em>
-    <p class="col-lg-10">
-     Aufteilen der Präsentation in mehrere
     </p>
    </div>
    <div class="col-lg-12">
