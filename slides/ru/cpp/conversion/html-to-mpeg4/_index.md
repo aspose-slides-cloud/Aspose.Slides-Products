@@ -7,7 +7,7 @@ feature: conversion
 informat: HTML
 outformat: MPEG4
 platform: C++
-otherformats: PPT PPTX PPS PPSX PPTM PPSM POTX POTM ODP OTP PDF XPS JPEG PNG BMP TIFF SVG HTML SWF HTML5 GIF XAML MD
+otherformats: PPT PPTX PPS PPSX PPTM PPSM POTX POTM ODP OTP PDF XPS JPEG PNG BMP TIFF SVG HTML SWF HTML5 GIF XAML XML MD
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

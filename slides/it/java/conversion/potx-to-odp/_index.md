@@ -7,7 +7,7 @@ feature: conversion
 informat: POTX
 outformat: ODP
 platform: Java
-otherformats: PPT PPTX PPS PPSX PPTM PPSM POTX POTM OTP PDF XPS JPEG PNG BMP TIFF SVG HTML SWF HTML5 GIF XAML MD MPEG4
+otherformats: PPT PPTX PPS PPSX PPTM PPSM POTX POTM OTP PDF XPS JPEG PNG BMP TIFF SVG HTML SWF HTML5 GIF XAML XML MD MPEG4
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
