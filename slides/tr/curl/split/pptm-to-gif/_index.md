@@ -7,7 +7,7 @@ feature: split
 informat: PPTM
 outformat: GIF
 platform: cURL
-otherformats: PPT PPTX PPS PPSX PPTM PPSM POTX POTM ODP OTP PDF XPS JPEG PNG BMP TIFF SVG HTML5 XAML
+otherformats: PPT PPTX PPS PPSX PPTM PPSM POTX POTM ODP OTP PDF XPS JPEG PNG BMP TIFF SVG HTML5 MD XAML
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

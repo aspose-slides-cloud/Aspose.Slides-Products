@@ -9,7 +9,7 @@ outformat: XAML
 platform: C++
 platformlogo: cpp
 otherformats: PPT PPTX PPS PPSX PPTM PPSM POTX POTM ODP OTP PDF HTML
-outformats: PPT PPTX PPS PPSX PPTM PPSM POTX POTM ODP OTP PDF XPS JPEG PNG BMP TIFF SVG HTML5 GIF XAML
+outformats: PPT PPTX PPS PPSX PPTM PPSM POTX POTM ODP OTP PDF XPS JPEG PNG BMP TIFF SVG HTML5 MD GIF XAML
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -7,7 +7,7 @@ feature: split
 informat: OTP
 outformat: ODP
 platform: Python
-otherformats: PPT PPTX PPS PPSX PPTM PPSM POTX POTM OTP PDF XPS JPEG PNG BMP TIFF SVG HTML5 GIF XAML
+otherformats: PPT PPTX PPS PPSX PPTM PPSM POTX POTM OTP PDF XPS JPEG PNG BMP TIFF SVG HTML5 MD GIF XAML
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

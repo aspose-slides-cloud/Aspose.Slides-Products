@@ -7,7 +7,7 @@ feature: split
 informat: PPSM
 outformat: POTX
 platform: Swift
-otherformats: PPT PPTX PPS PPSX PPTM PPSM POTM ODP OTP PDF XPS JPEG PNG BMP TIFF SVG HTML5 GIF XAML
+otherformats: PPT PPTX PPS PPSX PPTM PPSM POTM ODP OTP PDF XPS JPEG PNG BMP TIFF SVG HTML5 MD GIF XAML
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

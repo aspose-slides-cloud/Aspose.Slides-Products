@@ -7,7 +7,7 @@ feature: split
 informat: PPSM
 outformat: JPEG
 platform: Java
-otherformats: PPT PPTX PPS PPSX PPTM PPSM POTX POTM ODP OTP PDF XPS PNG BMP TIFF SVG HTML5 GIF XAML
+otherformats: PPT PPTX PPS PPSX PPTM PPSM POTX POTM ODP OTP PDF XPS PNG BMP TIFF SVG HTML5 MD GIF XAML
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

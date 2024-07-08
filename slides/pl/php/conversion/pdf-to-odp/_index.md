@@ -7,7 +7,7 @@ feature: conversion
 informat: PDF
 outformat: ODP
 platform: PHP
-otherformats: PPT PPTX PPS PPSX PPTM PPSM POTX POTM OTP PDF XPS JPEG PNG BMP TIFF SVG HTML SWF HTML5 GIF XAML MPEG4
+otherformats: PPT PPTX PPS PPSX PPTM PPSM POTX POTM OTP PDF XPS JPEG PNG BMP TIFF SVG HTML SWF HTML5 GIF XAML MD MPEG4
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

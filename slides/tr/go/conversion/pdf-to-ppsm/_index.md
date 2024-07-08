@@ -7,7 +7,7 @@ feature: conversion
 informat: PDF
 outformat: PPSM
 platform: Go
-otherformats: PPT PPTX PPS PPSX PPTM POTX POTM ODP OTP PDF XPS JPEG PNG BMP TIFF SVG HTML SWF HTML5 GIF XAML MPEG4
+otherformats: PPT PPTX PPS PPSX PPTM POTX POTM ODP OTP PDF XPS JPEG PNG BMP TIFF SVG HTML SWF HTML5 GIF XAML MD MPEG4
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -7,7 +7,7 @@ feature: split
 informat: PPSM
 outformat: XAML
 platform: PHP
-otherformats: PPT PPTX PPS PPSX PPTM PPSM POTX POTM ODP OTP PDF XPS JPEG PNG BMP TIFF SVG HTML5 GIF
+otherformats: PPT PPTX PPS PPSX PPTM PPSM POTX POTM ODP OTP PDF XPS JPEG PNG BMP TIFF SVG HTML5 MD GIF
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
