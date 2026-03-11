@@ -11,7 +11,7 @@ platform: PHP
 
 {{< blocks/products/pf/main-container pfName="Aspose.Slides" subTitlepfName="PHP 用 Cloud SDK" >}}
 
-{{< blocks/products/pf/i18n/sub-menu logoImageSrc="/sdk/aspose_slides-for-php.png" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/slides" directDownloadLink="https://github.com/aspose-slides-cloud/aspose-slides-cloud-php" liveDemosLink="https://products.aspose.app/slides/family"  >}}
+{{< blocks/products/pf/i18n/sub-menu logoImageSrc="/sdk/aspose_slides-for-php.png" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/slides" directDownloadLink="https://github.com/aspose-slides-cloud/Aspose.Slides-Cloud-SDK-for-PHP" liveDemosLink="https://products.aspose.app/slides/family"  >}}
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>PHP 用 Aspose.Slides Cloud SDK は、ソフトウェアをインストールせずに PPT スライドと PowerPoint プレゼンテーションを作成できるクラウドベースの PHP アプリケーションを作成するのに役立ちます。 PHP 用 Aspose.Slides Cloud SDK は、OpenOffice プレゼンテーション フォーマット、ODP および OTP もサポートしています。 PHP 用 Aspose.Slides Cloud SDK は Aspose.Slides REST API に基づいており、MIT ライセンスの下で提供されます。</p>
@@ -220,7 +220,7 @@ platform: PHP
 {{< blocks/products/pf/support-learning-resources >}}
 {{< blocks/products/pf/slr-tab tabTitle="学習リソース" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="ドキュメンテーション" href="https://docs.aspose.cloud/slides" >}}
-{{< blocks/products/pf/slr-element name="ソースコード" href="https://github.com/aspose-slides-cloud/aspose-slides-cloud-php" >}}
+{{< blocks/products/pf/slr-element name="ソースコード" href="https://github.com/aspose-slides-cloud/Aspose.Slides-Cloud-SDK-for-PHP" >}}
 {{< blocks/products/pf/slr-element name="API リファレンス" href="https://apireference.aspose.cloud/slides/" >}}
 {{< blocks/products/pf/slr-element name="チュートリアルビデオ" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}

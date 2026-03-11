@@ -11,7 +11,7 @@ platform: Swift
 
 {{< blocks/products/pf/main-container pfName="Aspose.Slides" subTitlepfName="Cloud-SDK für Swift" >}}
 
-{{< blocks/products/pf/i18n/sub-menu logoImageSrc="/sdk/aspose_slides-for-swift.png" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/slides" directDownloadLink="https://github.com/aspose-slides-cloud/aspose-slides-cloud-swift" liveDemosLink="https://products.aspose.app/slides/family" >}}
+{{< blocks/products/pf/i18n/sub-menu logoImageSrc="/sdk/aspose_slides-for-swift.png" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/slides" directDownloadLink="https://github.com/aspose-slides-cloud/Aspose.Slides-Cloud-SDK-for-Swift" liveDemosLink="https://products.aspose.app/slides/family" >}}
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>Suchen Sie nach der einfachsten Möglichkeit, Cloud-basierte Anwendungen für die Arbeit mit PowerPoint-Präsentationen mithilfe der Swift-API zu entwickeln? Dann sind Sie hier genau richtig, Aspose.Slides Cloud SDK für Swift sollte genau das sein, wonach Sie suchen. Es verwendet Aspose.Slides REST API, eine der führenden Lösungen zum einfachen Erstellen, Bearbeiten, Bearbeiten und Konvertieren von PowerPoint PPT-, PPTX-, ODP- und OTP-Dateiformaten.</p>
@@ -235,7 +235,7 @@ platform: Swift
 {{< blocks/products/pf/support-learning-resources >}}
 {{< blocks/products/pf/slr-tab tabTitle="Lernmittel" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="Dokumentation" href="https://docs.aspose.cloud/slides" >}}
-{{< blocks/products/pf/slr-element name="Quellcode" href="https://github.com/aspose-slides-cloud/aspose-slides-cloud-swift" >}}
+{{< blocks/products/pf/slr-element name="Quellcode" href="https://github.com/aspose-slides-cloud/Aspose.Slides-Cloud-SDK-for-Swift" >}}
 {{< blocks/products/pf/slr-element name="API-Referenzen" href="https://apireference.aspose.cloud/slides/" >}}
 {{< blocks/products/pf/slr-element name="Tutorial-Videos" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}

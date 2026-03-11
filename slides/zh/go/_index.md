@@ -11,7 +11,7 @@ platform: Go
 
 {{< blocks/products/pf/main-container pfName="Aspose.Slides" subTitlepfName="适用于 Go 的 Cloud SDK" >}}
 
-{{< blocks/products/pf/i18n/sub-menu logoImageSrc="/sdk/aspose_slides-for-go.png" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/slides" directDownloadLink="https://github.com/aspose-slides-cloud/aspose-slides-cloud-go" liveDemosLink="https://products.aspose.app/slides/family"  >}}
+{{< blocks/products/pf/i18n/sub-menu logoImageSrc="/sdk/aspose_slides-for-go.png" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/slides" directDownloadLink="https://github.com/aspose-slides-cloud/Aspose.Slides-Cloud-SDK-for-Go" liveDemosLink="https://products.aspose.app/slides/family"  >}}
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>适用于 Go 的 Aspose.Slides Cloud SDK 旨在帮助 Golang 程序员处理和操作托管在云端的 Microsoft PowerPoint 和 OpenOffice 演示幻灯片。 该云SDK基于Aspose.Slides REST API，无需安装任何第三方软件即可运行。 适用于 Go 的 Aspose.Slides Cloud SDK 是在 MIT 许可下提供的。</p>
@@ -219,7 +219,7 @@ platform: Go
 {{< blocks/products/pf/support-learning-resources >}}
 {{< blocks/products/pf/slr-tab tabTitle="学习资源" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="文档" href="https://docs.aspose.cloud/slides" >}}
-{{< blocks/products/pf/slr-element name="源代码" href="https://github.com/aspose-slides-cloud/aspose-slides-cloud-go" >}}
+{{< blocks/products/pf/slr-element name="源代码" href="https://github.com/aspose-slides-cloud/Aspose.Slides-Cloud-SDK-for-Go" >}}
 {{< blocks/products/pf/slr-element name="API参考资料" href="https://apireference.aspose.cloud/slides/" >}}
 {{< blocks/products/pf/slr-element name="教程视频" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}

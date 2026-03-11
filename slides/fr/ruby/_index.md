@@ -11,7 +11,7 @@ platform: Ruby
 
 {{< blocks/products/pf/main-container pfName="Aspose.Slides" subTitlepfName="SDK Cloud pour Ruby" >}}
 
-{{< blocks/products/pf/i18n/sub-menu logoImageSrc="/sdk/aspose_slides-for-ruby.png" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/slides" directDownloadLink="https://github.com/aspose-slides-cloud/aspose-slides-cloud-ruby" liveDemosLink="https://products.aspose.app/slides/family" >}}
+{{< blocks/products/pf/i18n/sub-menu logoImageSrc="/sdk/aspose_slides-for-ruby.png" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/slides" directDownloadLink="https://github.com/aspose-slides-cloud/Aspose.Slides-Cloud-SDK-for-Ruby" liveDemosLink="https://products.aspose.app/slides/family" >}}
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>Aspose.Slides Cloud SDK pour Ruby permet aux programmeurs informatiques de générer, modifier, restituer et convertir des présentations PowerPoint et OpenOffice sans utiliser Microsoft PowerPoint. Le SDK prend en charge la plupart des formats de fichiers Microsoft PowerPoint tels que POT, PPT, PPS, POTX, PPTX, PPSX et ODP, et les exporte vers des formats populaires.</p>
@@ -231,7 +231,7 @@ platform: Ruby
 {{< blocks/products/pf/support-learning-resources >}}
 {{< blocks/products/pf/slr-tab tabTitle="Ressources d'apprentissage" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="Documentation" href="https://docs.aspose.cloud/slides" >}}
-{{< blocks/products/pf/slr-element name="Code source" href="https://github.com/aspose-slides-cloud/aspose-slides-cloud-ruby" >}}
+{{< blocks/products/pf/slr-element name="Code source" href="https://github.com/aspose-slides-cloud/Aspose.Slides-Cloud-SDK-for-Ruby" >}}
 {{< blocks/products/pf/slr-element name="Références API" href="https://apireference.aspose.cloud/slides/" >}}
 {{< blocks/products/pf/slr-element name="Vidéos didactiques" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}

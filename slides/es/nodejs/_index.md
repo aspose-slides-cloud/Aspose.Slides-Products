@@ -11,7 +11,7 @@ platform: NodeJS
 
 {{< blocks/products/pf/main-container pfName="Aspose.Slides" subTitlepfName="Cloud SDK para Node.js" >}}
 
-{{< blocks/products/pf/i18n/sub-menu logoImageSrc="/sdk/aspose_slides-for-node.png" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/slides" directDownloadLink="https://github.com/aspose-slides-cloud/aspose-slides-cloud-nodejs" liveDemosLink="https://products.aspose.app/slides/family" >}}
+{{< blocks/products/pf/i18n/sub-menu logoImageSrc="/sdk/aspose_slides-for-node.png" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/slides" directDownloadLink="https://github.com/aspose-slides-cloud/Aspose.Slides-Cloud-SDK-for-Node.js" liveDemosLink="https://products.aspose.app/slides/family" >}}
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>Aspose.Slides Cloud SDK para Node.js ayuda a sus aplicaciones basadas en la nube de Node.js a acceder a presentaciones de PowerPoint y OpenOffice alojadas en el almacenamiento en la nube para procesar y convertir de PPT, PPTX, ODP, OTP a SWF, HTML, PDF, XPS, PDF/A, JPEG, SVG, TIFF, BMP y PNG.</p>
@@ -220,7 +220,7 @@ platform: NodeJS
 {{< blocks/products/pf/support-learning-resources >}}
 {{< blocks/products/pf/slr-tab tabTitle="Recursos de aprendizaje" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="Documentación" href="https://docs.aspose.cloud/slides" >}}
-{{< blocks/products/pf/slr-element name="Código fuente" href="https://github.com/aspose-slides-cloud/aspose-slides-cloud-nodejs" >}}
+{{< blocks/products/pf/slr-element name="Código fuente" href="https://github.com/aspose-slides-cloud/Aspose.Slides-Cloud-SDK-for-Node.js" >}}
 {{< blocks/products/pf/slr-element name="Referencias de API" href="https://apireference.aspose.cloud/slides/" >}}
 {{< blocks/products/pf/slr-element name="Vídeos tutoriales" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}

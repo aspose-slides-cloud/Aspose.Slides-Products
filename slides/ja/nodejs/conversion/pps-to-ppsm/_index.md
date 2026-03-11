@@ -26,7 +26,7 @@ otherformats: PPT PPTX PPS PPSX PPTM POTX POTM ODP OTP PDF XPS JPEG PNG BMP TIFF
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="スライド API と Node.js SDK" %}}
-[GitHub](https://github.com/aspose-slides-cloud/aspose-slides-cloud-nodejs) から Slides Cloud Node.js用SDK ソース コードを取得して、SDK を自分でコンパイルするか、別のダウンロード オプションについては[リリース](https://releases.aspose.cloud/)にアクセスしてください。
+[GitHub](https://github.com/aspose-slides-cloud/Aspose.Slides-Cloud-SDK-for-Node.js) から Slides Cloud Node.js用SDK ソース コードを取得して、SDK を自分でコンパイルするか、別のダウンロード オプションについては[リリース](https://releases.aspose.cloud/)にアクセスしてください。
 
 Swagger ベースの [API リファレンス](https://apireference.aspose.cloud/slides/)も参照して、[SLIDES REST API](https://products.aspose.cloud/slides/curl/) の詳細を確認してください。
 {{% /blocks/products/pf/agp/feature-section-col %}}

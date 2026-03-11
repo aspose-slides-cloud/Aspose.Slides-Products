@@ -11,7 +11,7 @@ platform: Go
 
 {{< blocks/products/pf/main-container pfName="Aspose.Slides" subTitlepfName="Cloud SDK para Go" >}}
 
-{{< blocks/products/pf/i18n/sub-menu logoImageSrc="/sdk/aspose_slides-for-go.png" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/slides" directDownloadLink="https://github.com/aspose-slides-cloud/aspose-slides-cloud-go" liveDemosLink="https://products.aspose.app/slides/family"  >}}
+{{< blocks/products/pf/i18n/sub-menu logoImageSrc="/sdk/aspose_slides-for-go.png" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/slides" directDownloadLink="https://github.com/aspose-slides-cloud/Aspose.Slides-Cloud-SDK-for-Go" liveDemosLink="https://products.aspose.app/slides/family"  >}}
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>Aspose.Slides Cloud SDK para Go foi desenvolvido para ajudar os programadores Golang no processamento e manipulação de slides de apresentação do Microsoft PowerPoint e OpenOffice hospedados na nuvem. Este SDK de nuvem é baseado na API REST Aspose.Slides e funciona sem instalar nenhum software de terceiros. Aspose.Slides Cloud SDK para Go é oferecido sob uma licença MIT.</p>
@@ -219,7 +219,7 @@ platform: Go
 {{< blocks/products/pf/support-learning-resources >}}
 {{< blocks/products/pf/slr-tab tabTitle="Recursos de aprendizagem" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="Documentação" href="https://docs.aspose.cloud/slides" >}}
-{{< blocks/products/pf/slr-element name="Código fonte" href="https://github.com/aspose-slides-cloud/aspose-slides-cloud-go" >}}
+{{< blocks/products/pf/slr-element name="Código fonte" href="https://github.com/aspose-slides-cloud/Aspose.Slides-Cloud-SDK-for-Go" >}}
 {{< blocks/products/pf/slr-element name="Referências de API" href="https://apireference.aspose.cloud/slides/" >}}
 {{< blocks/products/pf/slr-element name="Vídeos Tutoriais" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}

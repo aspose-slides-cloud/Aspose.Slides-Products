@@ -25,7 +25,7 @@ otherformats: PPT PPTX PPS PPTM PPSM POTX POTM ODP OTP PDF HTML
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Premiers pas avec l'API Slides et le SDK PHP" %}}
-Obtenez le code source du SDK Slides Cloud pour PHP auprès de [GitHub](https://github.com/aspose-slides-cloud/aspose-slides-cloud-php) pour compiler le SDK vous-même ou dirigez-vous vers [les versions](https://releases.aspose.cloud/) pour d'autres options de téléchargement.
+Obtenez le code source du SDK Slides Cloud pour PHP auprès de [GitHub](https://github.com/aspose-slides-cloud/Aspose.Slides-Cloud-SDK-for-PHP) pour compiler le SDK vous-même ou dirigez-vous vers [les versions](https://releases.aspose.cloud/) pour d'autres options de téléchargement.
 
 Consultez également [la référence de l'API](https://apireference.aspose.cloud/slides/) basée sur Swagger pour en savoir plus sur [l'API REST de SLIDES](https://products.aspose.cloud/slides/curl/).
 {{% /blocks/products/pf/agp/feature-section-col %}}

@@ -11,7 +11,7 @@ platform: Ruby
 
 {{< blocks/products/pf/main-container pfName="Aspose.Slides" subTitlepfName="Cloud Ruby SDK" >}}
 
-{{< blocks/products/pf/i18n/sub-menu logoImageSrc="/sdk/aspose_slides-for-ruby.png" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/slides" directDownloadLink="https://github.com/aspose-slides-cloud/aspose-slides-cloud-ruby" liveDemosLink="https://products.aspose.app/slides/family" >}}
+{{< blocks/products/pf/i18n/sub-menu logoImageSrc="/sdk/aspose_slides-for-ruby.png" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/slides" directDownloadLink="https://github.com/aspose-slides-cloud/Aspose.Slides-Cloud-SDK-for-Ruby" liveDemosLink="https://products.aspose.app/slides/family" >}}
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>Ruby için Aspose.Slides Cloud SDK, bilgisayar programcılarının PowerPoint ve OpenOffice sunumlarını Microsoft PowerPoint kullanmadan oluşturmasına, değiştirmesine, oluşturmasına ve dönüştürmesine olanak tanır. SDK, POT, PPT, PPS, POTX, PPTX, PPSX ve ODP gibi Microsoft PowerPoint dosya biçimlerinin çoğu için destek sağlar ve bunları popüler biçimlere aktarır.</p>
@@ -232,7 +232,7 @@ platform: Ruby
 {{< blocks/products/pf/support-learning-resources >}}
 {{< blocks/products/pf/slr-tab tabTitle="Öğrenme Kaynakları" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="Belgeler" href="https://docs.aspose.cloud/slides" >}}
-{{< blocks/products/pf/slr-element name="Kaynak kodu" href="https://github.com/aspose-slides-cloud/aspose-slides-cloud-ruby" >}}
+{{< blocks/products/pf/slr-element name="Kaynak kodu" href="https://github.com/aspose-slides-cloud/Aspose.Slides-Cloud-SDK-for-Ruby" >}}
 {{< blocks/products/pf/slr-element name="API Referansları" href="https://apireference.aspose.cloud/slides/" >}}
 {{< blocks/products/pf/slr-element name="Öğretici Videolar" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}

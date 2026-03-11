@@ -25,7 +25,7 @@ otherformats: PPT PPTX PPS PPSX PPTM PPSM POTM ODP OTP PDF HTML
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="开始使用 Slides API 和 .NET SDK" %}}
-从 [GitHub](https://github.com/aspose-slides-cloud/aspose-slides-cloud-dotnet) 获取适用于 .NET 源代码的 Slides Cloud SDK 以自行编译 SDK 或前往[版本](https://releases.aspose.cloud/)以获取其他下载选项。
+从 [GitHub](https://github.com/aspose-slides-cloud/Aspose.Slides-Cloud-SDK-for-.NET) 获取适用于 .NET 源代码的 Slides Cloud SDK 以自行编译 SDK 或前往[版本](https://releases.aspose.cloud/)以获取其他下载选项。
  
 另请查看基于 Swagger 的 [API 参考](https://apireference.aspose.cloud/slides/)以了解有关 [SLIDES REST API](https://products.aspose.cloud/slides/curl/) 的更多信息。
 {{% /blocks/products/pf/agp/feature-section-col %}}

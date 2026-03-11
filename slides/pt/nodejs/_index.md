@@ -11,7 +11,7 @@ platform: Node.js
 
 {{< blocks/products/pf/main-container pfName="Aspose.Slides" subTitlepfName="Cloud SDK para Node.js" >}}
 
-{{< blocks/products/pf/i18n/sub-menu logoImageSrc="/sdk/aspose_slides-for-node.png" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/slides" directDownloadLink="https://github.com/aspose-slides-cloud/aspose-slides-cloud-nodejs" liveDemosLink="https://products.aspose.app/slides/family" >}}
+{{< blocks/products/pf/i18n/sub-menu logoImageSrc="/sdk/aspose_slides-for-node.png" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/slides" directDownloadLink="https://github.com/aspose-slides-cloud/Aspose.Slides-Cloud-SDK-for-Node.js" liveDemosLink="https://products.aspose.app/slides/family" >}}
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>Aspose.Slides Cloud SDK para Node.js ajuda seus aplicativos baseados em nuvem Node.js a acessar apresentações PowerPoint e OpenOffice hospedadas no armazenamento em nuvem para processar e converter de PPT, PPTX, ODP, OTP para SWF, HTML, PDF, XPS, PDF/A, JPEG, SVG, TIFF, BMP e PNG.</p>
@@ -219,7 +219,7 @@ platform: Node.js
 {{< blocks/products/pf/support-learning-resources >}}
 {{< blocks/products/pf/slr-tab tabTitle="Recursos de aprendizagem" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="Documentação" href="https://docs.aspose.cloud/slides" >}}
-{{< blocks/products/pf/slr-element name="Código fonte" href="https://github.com/aspose-slides-cloud/aspose-slides-cloud-nodejs" >}}
+{{< blocks/products/pf/slr-element name="Código fonte" href="https://github.com/aspose-slides-cloud/Aspose.Slides-Cloud-SDK-for-Node.js" >}}
 {{< blocks/products/pf/slr-element name="Referências de API" href="https://apireference.aspose.cloud/slides/" >}}
 {{< blocks/products/pf/slr-element name="Vídeos Tutoriais" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}

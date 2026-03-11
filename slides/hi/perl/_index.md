@@ -11,7 +11,7 @@ platform: Perl
 
 {{< blocks/products/pf/main-container pfName="Aspose.Slides" subTitlepfName="Perl के लिए क्लाउड SDK" >}}
 
-{{< blocks/products/pf/i18n/sub-menu logoImageSrc="/sdk/aspose_slides-for-perl.png" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/slides" directDownloadLink="https://github.com/aspose-slides-cloud/aspose-slides-cloud-perl" liveDemosLink="https://products.aspose.app/slides/family" >}}
+{{< blocks/products/pf/i18n/sub-menu logoImageSrc="/sdk/aspose_slides-for-perl.png" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/slides" directDownloadLink="https://github.com/aspose-slides-cloud/Aspose.Slides-Cloud-SDK-for-Perl" liveDemosLink="https://products.aspose.app/slides/family" >}}
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>पर्ल के लिए Aspose.Slides Cloud SDK सॉफ्टवेयर प्रोग्रामर्स को क्लाउड में PowerPoint और OpenOffice प्रस्तुतियों के साथ काम करने के लिए क्लाउड-आधारित एप्लिकेशन उत्पन्न करने की शक्ति देता है। यह उनके क्लाउड-आधारित अनुप्रयोगों के अंदर पीपीटी, पीपीटीएक्स, ओडीपी, ओटीपी फाइलों को बनाने, संपादित करने और परिवर्तित करने की अनुमति देता है। एसडीके पर्ल एप्लिकेशन को नई प्रस्तुतियां बनाने या मौजूदा प्रस्तुतियों को संशोधित करने, व्यक्तिगत स्लाइड्स को संशोधित करने, मास्टर स्लाइड को क्लोन करने, पावरपॉइंट प्रस्तुतियों के इंटरैक्टिव अनुक्रम को अपडेट करने और प्रस्तुति में उपयोग किए जाने वाले कस्टम फ़ॉन्ट निर्दिष्ट करने में सक्षम बनाता है।</p>
@@ -225,7 +225,7 @@ platform: Perl
 {{< blocks/products/pf/support-learning-resources >}}
 {{< blocks/products/pf/slr-tab tabTitle="सीखने के संसाधन" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="प्रलेखन" href="https://docs.aspose.cloud/slides" >}}
-{{< blocks/products/pf/slr-element name="सोर्स कोड" href="https://github.com/aspose-slides-cloud/aspose-slides-cloud-perl" >}}
+{{< blocks/products/pf/slr-element name="सोर्स कोड" href="https://github.com/aspose-slides-cloud/Aspose.Slides-Cloud-SDK-for-Perl" >}}
 {{< blocks/products/pf/slr-element name="एपीआई संदर्भ" href="https://apireference.aspose.cloud/slides/" >}}
 {{< blocks/products/pf/slr-element name="ट्यूटोरियल वीडियो" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}

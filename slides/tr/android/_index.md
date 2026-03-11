@@ -11,7 +11,7 @@ platform: Android
 
 {{< blocks/products/pf/main-container pfName="Aspose.Slides" subTitlepfName="Cloud Android SDK" >}}
 
-{{< blocks/products/pf/i18n/sub-menu logoImageSrc="/sdk/aspose_slides-for-android.png" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/slides" directDownloadLink="https://github.com/aspose-slides-cloud/aspose-slides-cloud-android" liveDemosLink="https://products.aspose.app/slides/family" >}}
+{{< blocks/products/pf/i18n/sub-menu logoImageSrc="/sdk/aspose_slides-for-android.png" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/slides" directDownloadLink="https://github.com/aspose-slides-cloud/Aspose.Slides-Cloud-SDK-for-Android" liveDemosLink="https://products.aspose.app/slides/family" >}}
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>Aspose.Slides Cloud Android SDK, yazılım geliştiricilere Microsoft PowerPoint ve OpenOffice sunumları oluşturma, değiştirme ve dönüştürme yeteneklerini kendi Android uygulamalarına dahil etme gücü verir. Aspose.Slides Cloud Android SDK, Aspose.Slides REST API etrafında bir sarıcıdır ve bir MIT lisansı altında sunulur. POT, PPT, PPS, POTX, PPTX, PPSX ve ODP gibi birçok önemli dosya formatını destekler ve bunları popüler formatlara aktarır.</p>
@@ -231,7 +231,7 @@ platform: Android
 {{< blocks/products/pf/support-learning-resources >}}
 {{< blocks/products/pf/slr-tab tabTitle="Öğrenme Kaynakları" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="Belgeler" href="https://docs.aspose.cloud/slides" >}}
-{{< blocks/products/pf/slr-element name="Kaynak kodu" href="https://github.com/aspose-slides-cloud/aspose-slides-cloud-android" >}}
+{{< blocks/products/pf/slr-element name="Kaynak kodu" href="https://github.com/aspose-slides-cloud/Aspose.Slides-Cloud-SDK-for-Android" >}}
 {{< blocks/products/pf/slr-element name="API Referansları" href="https://apireference.aspose.cloud/slides/" >}}
 {{< blocks/products/pf/slr-element name="Öğretici Videolar" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}

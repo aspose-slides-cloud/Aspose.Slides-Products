@@ -11,7 +11,7 @@ platform: Perl
 
 {{< blocks/products/pf/main-container pfName="Aspose.Slides" subTitlepfName="Cloud SDK para Perl" >}}
 
-{{< blocks/products/pf/i18n/sub-menu logoImageSrc="/sdk/aspose_slides-for-perl.png" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/slides" directDownloadLink="https://github.com/aspose-slides-cloud/aspose-slides-cloud-perl" liveDemosLink="https://products.aspose.app/slides/family" >}}
+{{< blocks/products/pf/i18n/sub-menu logoImageSrc="/sdk/aspose_slides-for-perl.png" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/slides" directDownloadLink="https://github.com/aspose-slides-cloud/Aspose.Slides-Cloud-SDK-for-Perl" liveDemosLink="https://products.aspose.app/slides/family" >}}
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>Aspose.Slides Cloud SDK para Perl brinda a los programadores de software el poder de generar aplicaciones basadas en la nube para trabajar con presentaciones de PowerPoint y OpenOffice en la nube. Permite crear, editar, manipular y convertir archivos PPT, PPTX, ODP, OTP dentro de sus aplicaciones basadas en la nube. El SDK permite que las aplicaciones de Perl creen nuevas presentaciones o modifiquen las presentaciones existentes, modifiquen diapositivas individuales, clonen diapositivas maestras, actualicen secuencias interactivas de presentaciones de PowerPoint y especifiquen fuentes personalizadas para usar en la presentación.</p>
@@ -225,7 +225,7 @@ platform: Perl
 {{< blocks/products/pf/support-learning-resources >}}
 {{< blocks/products/pf/slr-tab tabTitle="Recursos de aprendizaje" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="Documentación" href="https://docs.aspose.cloud/slides" >}}
-{{< blocks/products/pf/slr-element name="Código fuente" href="https://github.com/aspose-slides-cloud/aspose-slides-cloud-perl" >}}
+{{< blocks/products/pf/slr-element name="Código fuente" href="https://github.com/aspose-slides-cloud/Aspose.Slides-Cloud-SDK-for-Perl" >}}
 {{< blocks/products/pf/slr-element name="Referencias de API" href="https://apireference.aspose.cloud/slides/" >}}
 {{< blocks/products/pf/slr-element name="Vídeos tutoriales" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}

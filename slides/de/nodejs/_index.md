@@ -11,7 +11,7 @@ platform: Node.js
 
 {{< blocks/products/pf/main-container pfName="Aspose.Slides" subTitlepfName="Cloud-SDK für Node.js" >}}
 
-{{< blocks/products/pf/i18n/sub-menu logoImageSrc="/sdk/aspose_slides-for-node.png" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/slides" directDownloadLink="https://github.com/aspose-slides-cloud/aspose-slides-cloud-nodejs" liveDemosLink="https://products.aspose.app/slides/family" >}}
+{{< blocks/products/pf/i18n/sub-menu logoImageSrc="/sdk/aspose_slides-for-node.png" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/slides" directDownloadLink="https://github.com/aspose-slides-cloud/Aspose.Slides-Cloud-SDK-for-Node.js" liveDemosLink="https://products.aspose.app/slides/family" >}}
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>Aspose.Slides Cloud SDK für Node.js unterstützt Ihre Cloud-basierten Node.js-Anwendungen beim Zugriff auf PowerPoint- und OpenOffice-Präsentationen, die im Cloud-Speicher gehostet werden, um sie zu verarbeiten und von PPT, PPTX, ODP, OTP in SWF, HTML, PDF, XPS zu konvertieren. PDF/A, JPEG, SVG, TIFF, BMP und PNG.</p>
@@ -219,7 +219,7 @@ platform: Node.js
 {{< blocks/products/pf/support-learning-resources >}}
 {{< blocks/products/pf/slr-tab tabTitle="Lernmittel" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="Dokumentation" href="https://docs.aspose.cloud/slides" >}}
-{{< blocks/products/pf/slr-element name="Quellcode" href="https://github.com/aspose-slides-cloud/aspose-slides-cloud-nodejs" >}}
+{{< blocks/products/pf/slr-element name="Quellcode" href="https://github.com/aspose-slides-cloud/Aspose.Slides-Cloud-SDK-for-Node.js" >}}
 {{< blocks/products/pf/slr-element name="API-Referenzen" href="https://apireference.aspose.cloud/slides/" >}}
 {{< blocks/products/pf/slr-element name="Tutorial-Videos" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}

@@ -11,7 +11,7 @@ platform: .NET
 
 {{< blocks/products/pf/main-container pfName="Aspose.Slides" subTitlepfName="Cloud SDK для .NET" >}}
 
-{{< blocks/products/pf/i18n/sub-menu logoImageSrc="/sdk/aspose_slides-for-net.png" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/slides" directDownloadLink="https://github.com/aspose-slides-cloud/aspose-slides-cloud-dotnet" liveDemosLink="https://products.aspose.app/slides/family"  >}}
+{{< blocks/products/pf/i18n/sub-menu logoImageSrc="/sdk/aspose_slides-for-net.png" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/slides" directDownloadLink="https://github.com/aspose-slides-cloud/Aspose.Slides-Cloud-SDK-for-.NET" liveDemosLink="https://products.aspose.app/slides/family"  >}}
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>Aspose.Slides Cloud SDK для .NET используется для бесшовной интеграции возможностей обработки PPT, PPTX, ODP, OTP в ваши облачные приложения, созданные с использованием C#, ASP.NET или других языков, поддерживаемых .NET. Aspose.Slides Cloud SDK для .NET представляет собой оболочку Aspose.Slides REST API и предлагается по лицензии MIT.</p>
@@ -220,7 +220,7 @@ platform: .NET
 {{< blocks/products/pf/support-learning-resources >}}
 {{< blocks/products/pf/slr-tab tabTitle="Образовательные ресурсы" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="Документация" href="https://docs.aspose.cloud/slides" >}}
-{{< blocks/products/pf/slr-element name="Исходный код" href="https://github.com/aspose-slides-cloud/aspose-slides-cloud-dotnet" >}}
+{{< blocks/products/pf/slr-element name="Исходный код" href="https://github.com/aspose-slides-cloud/Aspose.Slides-Cloud-SDK-for-.NET" >}}
 {{< blocks/products/pf/slr-element name="Справочник по API" href="https://apireference.aspose.cloud/slides/" >}}
 {{< blocks/products/pf/slr-element name="Учебные видео" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}

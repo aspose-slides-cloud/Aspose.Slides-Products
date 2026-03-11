@@ -11,7 +11,7 @@ platform: Java
 
 {{< blocks/products/pf/main-container pfName="Aspose.Slides" subTitlepfName="Java 用 Cloud SDK" >}}
 
-{{< blocks/products/pf/i18n/sub-menu logoImageSrc="/sdk/aspose_slides-for-java.png" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/slides" directDownloadLink="https://github.com/aspose-slides-cloud/aspose-slides-cloud-java" liveDemosLink="https://products.aspose.app/slides/family"  >}}
+{{< blocks/products/pf/i18n/sub-menu logoImageSrc="/sdk/aspose_slides-for-java.png" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/slides" directDownloadLink="https://github.com/aspose-slides-cloud/Aspose.Slides-Cloud-SDK-for-Java" liveDemosLink="https://products.aspose.app/slides/family"  >}}
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>Java 用 Aspose.Slides Cloud SDK は、プログラマがクラウドで PowerPoint および OpenOffice プレゼンテーションを作成、表示、処理、変換するためのクラウドベースのソリューションを作成するのを支援します。 Java 用 Aspose.Slides Cloud SDK は、基礎となる Aspose.Slides REST API へのインターフェイスとして機能し、MIT ライセンスの下で提供されます。</p>
@@ -220,7 +220,7 @@ platform: Java
 {{< blocks/products/pf/support-learning-resources >}}
 {{< blocks/products/pf/slr-tab tabTitle="学習リソース" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="ドキュメンテーション" href="https://docs.aspose.cloud/slides" >}}
-{{< blocks/products/pf/slr-element name="ソースコード" href="https://github.com/aspose-slides-cloud/aspose-slides-cloud-java" >}}
+{{< blocks/products/pf/slr-element name="ソースコード" href="https://github.com/aspose-slides-cloud/Aspose.Slides-Cloud-SDK-for-Java" >}}
 {{< blocks/products/pf/slr-element name="API リファレンス" href="https://apireference.aspose.cloud/slides/" >}}
 {{< blocks/products/pf/slr-element name="チュートリアルビデオ" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}

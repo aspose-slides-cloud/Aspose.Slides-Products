@@ -11,7 +11,7 @@ platform: C++
 
 {{< blocks/products/pf/main-container pfName="Aspose.Slides" subTitlepfName="Cloud C++ SDK" >}}
 
-{{< blocks/products/pf/i18n/sub-menu logoImageSrc="/sdk/aspose_slides-for-cpp.png" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/slides" directDownloadLink="https://github.com/aspose-slides-cloud/aspose-slides-cloud-cpp" liveDemosLink="https://products.aspose.app/slides/family"  >}}
+{{< blocks/products/pf/i18n/sub-menu logoImageSrc="/sdk/aspose_slides-for-cpp.png" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/slides" directDownloadLink="https://github.com/aspose-slides-cloud/Aspose.Slides-Cloud-SDK-for-Cpp" liveDemosLink="https://products.aspose.app/slides/family"  >}}
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>Aspose.Slides Cloud SDK для C++ позволяет программистам создавать, изменять, визуализировать и преобразовывать презентации PowerPoint и OpenOffice без использования Microsoft PowerPoint. SDK обеспечивает поддержку большинства форматов файлов Microsoft PowerPoint, таких как POT, PPT, PPS, POTX, PPTX, PPSX и ODP, и экспортирует их в популярные форматы.</p>

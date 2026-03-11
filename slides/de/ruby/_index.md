@@ -11,7 +11,7 @@ platform: Ruby
 
 {{< blocks/products/pf/main-container pfName="Aspose.Slides" subTitlepfName="Cloud-SDK für Ruby" >}}
 
-{{< blocks/products/pf/i18n/sub-menu logoImageSrc="/sdk/aspose_slides-for-ruby.png" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/slides" directDownloadLink="https://github.com/aspose-slides-cloud/aspose-slides-cloud-ruby" liveDemosLink="https://products.aspose.app/slides/family" >}}
+{{< blocks/products/pf/i18n/sub-menu logoImageSrc="/sdk/aspose_slides-for-ruby.png" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/slides" directDownloadLink="https://github.com/aspose-slides-cloud/Aspose.Slides-Cloud-SDK-for-Ruby" liveDemosLink="https://products.aspose.app/slides/family" >}}
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>Aspose.Slides Cloud SDK für Ruby ermöglicht Computerprogrammierern das Generieren, Modifizieren, Rendern und Konvertieren von PowerPoint- und OpenOffice-Präsentationen ohne Verwendung von Microsoft PowerPoint. Das SDK bietet Unterstützung für die meisten Microsoft PowerPoint-Dateiformate wie POT, PPT, PPS, POTX, PPTX, PPSX und ODP und exportiert diese in gängige Formate.</p>
@@ -231,7 +231,7 @@ platform: Ruby
 {{< blocks/products/pf/support-learning-resources >}}
 {{< blocks/products/pf/slr-tab tabTitle="Lernmittel" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="Dokumentation" href="https://docs.aspose.cloud/slides" >}}
-{{< blocks/products/pf/slr-element name="Quellcode" href="https://github.com/aspose-slides-cloud/aspose-slides-cloud-ruby" >}}
+{{< blocks/products/pf/slr-element name="Quellcode" href="https://github.com/aspose-slides-cloud/Aspose.Slides-Cloud-SDK-for-Ruby" >}}
 {{< blocks/products/pf/slr-element name="API-Referenzen" href="https://apireference.aspose.cloud/slides/" >}}
 {{< blocks/products/pf/slr-element name="Tutorial-Videos" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}

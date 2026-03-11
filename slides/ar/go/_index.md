@@ -11,7 +11,7 @@ platform: Go
 
 {{< blocks/products/pf/main-container pfName="Aspose.Slides" subTitlepfName="Cloud Go SDK" >}}
 
-{{< blocks/products/pf/i18n/sub-menu logoImageSrc="/sdk/aspose_slides-for-go.png" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/slides" directDownloadLink="https://github.com/aspose-slides-cloud/aspose-slides-cloud-go" liveDemosLink="https://products.aspose.app/slides/family"  >}}
+{{< blocks/products/pf/i18n/sub-menu logoImageSrc="/sdk/aspose_slides-for-go.png" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/slides" directDownloadLink="https://github.com/aspose-slides-cloud/Aspose.Slides-Cloud-SDK-for-Go" liveDemosLink="https://products.aspose.app/slides/family"  >}}
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>تم تطوير Aspose.Slides Cloud SDK for Go لمساعدة مبرمجي Golang في معالجة ومعالجة شرائح العرض التقديمي لـ Microsoft PowerPoint وOpenOffice المستضافة على السحابة. تعتمد مجموعة SDK السحابية هذه على Aspose.Slides REST API وتعمل دون تثبيت أي برنامج تابع لجهة خارجية. يتم تقديم Aspose.Slides Cloud SDK for Go بموجب ترخيص MIT.</p>
@@ -220,7 +220,7 @@ platform: Go
 {{< blocks/products/pf/support-learning-resources >}}
 {{< blocks/products/pf/slr-tab tabTitle="مصادر التعلم" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="توثيق" href="https://docs.aspose.cloud/slides" >}}
-{{< blocks/products/pf/slr-element name="مصدر الرمز" href="https://github.com/aspose-slides-cloud/aspose-slides-cloud-go" >}}
+{{< blocks/products/pf/slr-element name="مصدر الرمز" href="https://github.com/aspose-slides-cloud/Aspose.Slides-Cloud-SDK-for-Go" >}}
 {{< blocks/products/pf/slr-element name="مراجع واجهة برمجة التطبيقات" href="https://apireference.aspose.cloud/slides/" >}}
 {{< blocks/products/pf/slr-element name="فيديوهات تعليمية" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}

@@ -11,7 +11,7 @@ platform: Java
 
 {{< blocks/products/pf/main-container pfName="Aspose.Slides" subTitlepfName="Cloud SDK dla Java" >}}
 
-{{< blocks/products/pf/i18n/sub-menu logoImageSrc="/sdk/aspose_slides-for-java.png" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/slides" directDownloadLink="https://github.com/aspose-slides-cloud/aspose-slides-cloud-java" liveDemosLink="https://products.aspose.app/slides/family" >}}
+{{< blocks/products/pf/i18n/sub-menu logoImageSrc="/sdk/aspose_slides-for-java.png" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/slides" directDownloadLink="https://github.com/aspose-slides-cloud/Aspose.Slides-Cloud-SDK-for-Java" liveDemosLink="https://products.aspose.app/slides/family" >}}
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>Aspose.Slides Cloud SDK dla Java pomaga programistom tworzyć oparte na chmurze rozwiązania do tworzenia, przeglądania, przetwarzania i konwertowania prezentacji PowerPoint i OpenOffice w chmurze. Aspose.Slides Cloud SDK dla Java działa jako interfejs do bazowego Aspose.Slides REST API i jest oferowany na licencji MIT.</p>
@@ -219,7 +219,7 @@ platform: Java
 {{< blocks/products/pf/support-learning-resources >}}
 {{< blocks/products/pf/slr-tab tabTitle="Zasoby edukacyjne" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="Dokumentacja" href="https://docs.aspose.cloud/slides" >}}
-{{< blocks/products/pf/slr-element name="Kod źródłowy" href="https://github.com/aspose-slides-cloud/aspose-slides-cloud-java" >}}
+{{< blocks/products/pf/slr-element name="Kod źródłowy" href="https://github.com/aspose-slides-cloud/Aspose.Slides-Cloud-SDK-for-Java" >}}
 {{< blocks/products/pf/slr-element name="Referencje API" href="https://apireference.aspose.cloud/slides/" >}}
 {{< blocks/products/pf/slr-element name="Filmy instruktażowe" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}

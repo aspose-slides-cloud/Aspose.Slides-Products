@@ -11,7 +11,7 @@ platform: Swift
 
 {{< blocks/products/pf/main-container pfName="Aspose.Slides" subTitlepfName="Swift 用 Cloud SDK" >}}
 
-{{< blocks/products/pf/i18n/sub-menu logoImageSrc="/sdk/aspose_slides-for-swift.png" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/slides" directDownloadLink="https://github.com/aspose-slides-cloud/aspose-slides-cloud-swift" liveDemosLink="https://products.aspose.app/slides/family" >}}
+{{< blocks/products/pf/i18n/sub-menu logoImageSrc="/sdk/aspose_slides-for-swift.png" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/slides" directDownloadLink="https://github.com/aspose-slides-cloud/Aspose.Slides-Cloud-SDK-for-Swift" liveDemosLink="https://products.aspose.app/slides/family" >}}
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>Swift API を使用して PowerPoint プレゼンテーションを操作するためのクラウド ベースのアプリケーションを開発する最も簡単な方法をお探しですか? 次に、適切な場所にいます。探しているのは Swift 用 Aspose.Slides Cloud SDK です。 PowerPoint の PPT、PPTX、ODP、および OTP ファイル フォーマットを簡単に作成、編集、操作、および変換する主要なソリューションの 1 つである Aspose.Slides REST API を使用します。</p>
@@ -232,7 +232,7 @@ platform: Swift
 {{< blocks/products/pf/support-learning-resources >}}
 {{< blocks/products/pf/slr-tab tabTitle="学習リソース" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="ドキュメンテーション" href="https://docs.aspose.cloud/slides" >}}
-{{< blocks/products/pf/slr-element name="ソースコード" href="https://github.com/aspose-slides-cloud/aspose-slides-cloud-swift" >}}
+{{< blocks/products/pf/slr-element name="ソースコード" href="https://github.com/aspose-slides-cloud/Aspose.Slides-Cloud-SDK-for-Swift" >}}
 {{< blocks/products/pf/slr-element name="API リファレンス" href="https://apireference.aspose.cloud/slides/" >}}
 {{< blocks/products/pf/slr-element name="チュートリアルビデオ" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}

@@ -11,7 +11,7 @@ platform: Ruby
 
 {{< blocks/products/pf/main-container pfName="Aspose.Slides" subTitlepfName="Ruby용 Cloud SDK" >}}
 
-{{< blocks/products/pf/i18n/sub-menu logoImageSrc="/sdk/aspose_slides-for-ruby.png" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/slides" directDownloadLink="https://github.com/aspose-slides-cloud/aspose-slides-cloud-ruby" liveDemosLink="https://products.aspose.app/slides/family"  >}}
+{{< blocks/products/pf/i18n/sub-menu logoImageSrc="/sdk/aspose_slides-for-ruby.png" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/slides" directDownloadLink="https://github.com/aspose-slides-cloud/Aspose.Slides-Cloud-SDK-for-Ruby" liveDemosLink="https://products.aspose.app/slides/family"  >}}
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>Ruby용 Aspose.Slides Cloud SDK를 사용하면 컴퓨터 프로그래머가 Microsoft PowerPoint를 사용하지 않고도 PowerPoint 및 OpenOffice 프레젠테이션을 생성, 수정, 렌더링 및 변환할 수 있습니다. SDK는 POT, PPT, PPS, POTX, PPTX, PPSX 및 ODP와 같은 대부분의 Microsoft PowerPoint 파일 형식을 지원하고 이를 널리 사용되는 형식으로 내보냅니다.</p>
@@ -228,7 +228,7 @@ platform: Ruby
 {{< blocks/products/pf/support-learning-resources >}}
 {{< blocks/products/pf/slr-tab tabTitle="학습 자료" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="선적 서류 비치" href="https://docs.aspose.cloud/slides" >}}
-{{< blocks/products/pf/slr-element name="소스 코드" href="https://github.com/aspose-slides-cloud/aspose-slides-cloud-ruby" >}}
+{{< blocks/products/pf/slr-element name="소스 코드" href="https://github.com/aspose-slides-cloud/Aspose.Slides-Cloud-SDK-for-Ruby" >}}
 {{< blocks/products/pf/slr-element name="API 참조" href="https://apireference.aspose.cloud/slides/" >}}
 {{< blocks/products/pf/slr-element name="튜토리얼 비디오" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}

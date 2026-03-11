@@ -11,7 +11,7 @@ platform: Perl
 
 {{< blocks/products/pf/main-container pfName="Aspose.Slides" subTitlepfName="Cloud Perl SDK" >}}
 
-{{< blocks/products/pf/i18n/sub-menu logoImageSrc="/sdk/aspose_slides-for-perl.png" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/slides" directDownloadLink="https://github.com/aspose-slides-cloud/aspose-slides-cloud-perl" liveDemosLink="https://products.aspose.app/slides/family"  >}}
+{{< blocks/products/pf/i18n/sub-menu logoImageSrc="/sdk/aspose_slides-for-perl.png" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/slides" directDownloadLink="https://github.com/aspose-slides-cloud/Aspose.Slides-Cloud-SDK-for-Perl" liveDemosLink="https://products.aspose.app/slides/family"  >}}
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>يوفر Aspose.Slides Cloud SDK for Perl لمبرمجي البرامج القدرة على إنشاء تطبيقات مستندة إلى السحابة للعمل مع عروض PowerPoint وOpenOffice التقديمية في السحابة. فهو يسمح بإنشاء ملفات PPT وPPTX وODP وOTP وتحريرها وتحويلها داخل التطبيقات المستندة إلى السحابة. يمكّن SDK تطبيقات Perl من إنشاء عروض تقديمية جديدة أو تعديل العروض التقديمية الحالية، وتعديل الشرائح الفردية، واستنساخ الشريحة الرئيسية، وتحديث التسلسل التفاعلي لعروض PowerPoint التقديمية، وتحديد الخطوط المخصصة لاستخدامها في العرض التقديمي.</p>
@@ -225,7 +225,7 @@ platform: Perl
 {{< blocks/products/pf/support-learning-resources >}}
 {{< blocks/products/pf/slr-tab tabTitle="مصادر التعلم" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="توثيق" href="https://docs.aspose.cloud/slides" >}}
-{{< blocks/products/pf/slr-element name="مصدر الرمز" href="https://github.com/aspose-slides-cloud/aspose-slides-cloud-perl" >}}
+{{< blocks/products/pf/slr-element name="مصدر الرمز" href="https://github.com/aspose-slides-cloud/Aspose.Slides-Cloud-SDK-for-Perl" >}}
 {{< blocks/products/pf/slr-element name="مراجع واجهة برمجة التطبيقات" href="https://apireference.aspose.cloud/slides/" >}}
 {{< blocks/products/pf/slr-element name="فيديوهات تعليمية" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}

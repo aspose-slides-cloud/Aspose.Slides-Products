@@ -11,7 +11,7 @@ platform: C++
 
 {{< blocks/products/pf/main-container pfName="Aspose.Slides" subTitlepfName="Cloud SDK dla C++" >}}
 
-{{< blocks/products/pf/i18n/sub-menu logoImageSrc="/sdk/aspose_slides-for-cpp.png" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/slides" directDownloadLink="https://github.com/aspose-slides-cloud/aspose-slides-cloud-cpp" liveDemosLink="https://products.aspose.app/slides/family" >}}
+{{< blocks/products/pf/i18n/sub-menu logoImageSrc="/sdk/aspose_slides-for-cpp.png" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/slides" directDownloadLink="https://github.com/aspose-slides-cloud/Aspose.Slides-Cloud-SDK-for-Cpp" liveDemosLink="https://products.aspose.app/slides/family" >}}
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>Aspose.Slides Cloud SDK dla C++ umożliwia programistom generowanie, modyfikowanie, renderowanie i konwertowanie prezentacji PowerPoint i OpenOffice bez użycia programu Microsoft PowerPoint. SDK zapewnia obsługę większości formatów plików programu Microsoft PowerPoint, takich jak POT, PPT, PPS, POTX, PPTX, PPSX i ODP, a także eksportuje je do popularnych formatów.</p>
@@ -231,7 +231,7 @@ platform: C++
 {{< blocks/products/pf/support-learning-resources >}}
 {{< blocks/products/pf/slr-tab tabTitle="Zasoby edukacyjne" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="Dokumentacja" href="https://docs.aspose.cloud/slides" >}}
-{{< blocks/products/pf/slr-element name="Kod źródłowy" href="https://github.com/aspose-slides-cloud/aspose-slides-cloud-cpp" >}}
+{{< blocks/products/pf/slr-element name="Kod źródłowy" href="https://github.com/aspose-slides-cloud/Aspose.Slides-Cloud-SDK-for-Cpp" >}}
 {{< blocks/products/pf/slr-element name="Referencje API" href="https://apireference.aspose.cloud/slides/" >}}
 {{< blocks/products/pf/slr-element name="Filmy instruktażowe" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}

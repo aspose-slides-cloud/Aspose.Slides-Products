@@ -11,7 +11,7 @@ platform: Python
 
 {{< blocks/products/pf/main-container pfName="Aspose.Slides" subTitlepfName="Cloud Python SDK" >}}
 
-{{< blocks/products/pf/i18n/sub-menu logoImageSrc="/sdk/aspose_slides-for-python.png" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/slides" directDownloadLink="https://github.com/aspose-slides-cloud/aspose-slides-cloud-python" liveDemosLink="https://products.aspose.app/slides/family" >}}
+{{< blocks/products/pf/i18n/sub-menu logoImageSrc="/sdk/aspose_slides-for-python.png" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/slides" directDownloadLink="https://github.com/aspose-slides-cloud/Aspose.Slides-Cloud-SDK-for-Python" liveDemosLink="https://products.aspose.app/slides/family" >}}
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>Python için Aspose.Slides Cloud SDK, Aspose.Slides REST API üzerine kuruludur ve bir MIT lisansı altında sunulur. Python için Aspose.Slides Cloud SDK, Python uygulamalarınıza kolayca entegre edilebilir ve herhangi bir üçüncü taraf kurulumu olmadan PowerPoint ve OpenOffice sunum slaytlarını buluta getirmelerini, işlemelerini ve dönüştürmelerini sağlar.</p>
@@ -220,7 +220,7 @@ platform: Python
 {{< blocks/products/pf/support-learning-resources >}}
 {{< blocks/products/pf/slr-tab tabTitle="Öğrenme Kaynakları" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="Belgeler" href="https://docs.aspose.cloud/slides" >}}
-{{< blocks/products/pf/slr-element name="Kaynak kodu" href="https://github.com/aspose-slides-cloud/aspose-slides-cloud-python" >}}
+{{< blocks/products/pf/slr-element name="Kaynak kodu" href="https://github.com/aspose-slides-cloud/Aspose.Slides-Cloud-SDK-for-Python" >}}
 {{< blocks/products/pf/slr-element name="API Referansları" href="https://apireference.aspose.cloud/slides/" >}}
 {{< blocks/products/pf/slr-element name="Öğretici Videolar" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}

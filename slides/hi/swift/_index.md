@@ -11,7 +11,7 @@ platform: Swift
 
 {{< blocks/products/pf/main-container pfName="Aspose.Slides" subTitlepfName="Swift के लिए क्लाउड SDK" >}}
 
-{{< blocks/products/pf/i18n/sub-menu logoImageSrc="/sdk/aspose_slides-for-swift.png" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/slides" directDownloadLink="https://github.com/aspose-slides-cloud/aspose-slides-cloud-swift" liveDemosLink="https://products.aspose.app/slides/family" >}}
+{{< blocks/products/pf/i18n/sub-menu logoImageSrc="/sdk/aspose_slides-for-swift.png" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/slides" directDownloadLink="https://github.com/aspose-slides-cloud/Aspose.Slides-Cloud-SDK-for-Swift" liveDemosLink="https://products.aspose.app/slides/family" >}}
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>स्विफ्ट एपीआई का उपयोग करके पावरपॉइंट प्रस्तुतियों के साथ काम करने के लिए क्लाउड आधारित एप्लिकेशन विकसित करने का सबसे आसान तरीका खोज रहे हैं? तो फिर आप सही जगह पर हैं, स्विफ्ट के लिए Aspose.Slides Cloud SDK वही होना चाहिए जो आप तलाश रहे हैं। यह आसानी से PowerPoint PPT, PPTX, ODP, और OTP फ़ाइल स्वरूपों को बनाने, संपादित करने, हेरफेर करने और परिवर्तित करने के लिए अग्रणी समाधानों में से एक Aspose.Slides REST API का उपयोग करता है।</p>
@@ -236,7 +236,7 @@ platform: Swift
 {{< blocks/products/pf/support-learning-resources >}}
 {{< blocks/products/pf/slr-tab tabTitle="सीखने के संसाधन" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="प्रलेखन" href="https://docs.aspose.cloud/slides" >}}
-{{< blocks/products/pf/slr-element name="सोर्स कोड" href="https://github.com/aspose-slides-cloud/aspose-slides-cloud-swift" >}}
+{{< blocks/products/pf/slr-element name="सोर्स कोड" href="https://github.com/aspose-slides-cloud/Aspose.Slides-Cloud-SDK-for-Swift" >}}
 {{< blocks/products/pf/slr-element name="एपीआई संदर्भ" href="https://apireference.aspose.cloud/slides/" >}}
 {{< blocks/products/pf/slr-element name="ट्यूटोरियल वीडियो" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}

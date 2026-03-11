@@ -11,7 +11,7 @@ platform: Perl
 
 {{< blocks/products/pf/main-container pfName="Aspose.Slides" subTitlepfName="适用于 Perl 的 Cloud SDK" >}}
 
-{{< blocks/products/pf/i18n/sub-menu logoImageSrc="/sdk/aspose_slides-for-perl.png" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/slides" directDownloadLink="https://github.com/aspose-slides-cloud/aspose-slides-cloud-perl" liveDemosLink="https://products.aspose.app/slides/family"  >}}
+{{< blocks/products/pf/i18n/sub-menu logoImageSrc="/sdk/aspose_slides-for-perl.png" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/slides" directDownloadLink="https://github.com/aspose-slides-cloud/Aspose.Slides-Cloud-SDK-for-Perl" liveDemosLink="https://products.aspose.app/slides/family"  >}}
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>适用于 Perl 的 Aspose.Slides Cloud SDK 使软件程序员能够生成基于云的应用程序，以便在云中使用 PowerPoint 和 OpenOffice 演示文稿。 它允许在其基于云的应用程序中创建、编辑、操作和转换 PPT、PPTX、ODP、OTP 文件。 SDK 使 Perl 应用程序能够创建新的演示文稿或修改现有的演示文稿、修改单个幻灯片、克隆母版幻灯片、更新 PowerPoint 演示文稿的交互序列，以及指定要在演示文稿中使用的自定义字体。</p>
@@ -227,7 +227,7 @@ platform: Perl
 {{< blocks/products/pf/support-learning-resources >}}
 {{< blocks/products/pf/slr-tab tabTitle="学习资源" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="文档" href="https://docs.aspose.cloud/slides" >}}
-{{< blocks/products/pf/slr-element name="源代码" href="https://github.com/aspose-slides-cloud/aspose-slides-cloud-perl" >}}
+{{< blocks/products/pf/slr-element name="源代码" href="https://github.com/aspose-slides-cloud/Aspose.Slides-Cloud-SDK-for-Perl" >}}
 {{< blocks/products/pf/slr-element name="API参考资料" href="https://apireference.aspose.cloud/slides/" >}}
 {{< blocks/products/pf/slr-element name="教程视频" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}

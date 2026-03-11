@@ -11,7 +11,7 @@ platform: .NET
 
 {{< blocks/products/pf/main-container pfName="Aspose.Slides" subTitlepfName="Cloud SDK para .NET" >}}
 
-{{< blocks/products/pf/i18n/sub-menu logoImageSrc="/sdk/aspose_slides-for-net.png" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/slides" directDownloadLink="https://github.com/aspose-slides-cloud/aspose-slides-cloud-dotnet" liveDemosLink="https://products.aspose.app/slides/family" >}}
+{{< blocks/products/pf/i18n/sub-menu logoImageSrc="/sdk/aspose_slides-for-net.png" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/slides" directDownloadLink="https://github.com/aspose-slides-cloud/Aspose.Slides-Cloud-SDK-for-.NET" liveDemosLink="https://products.aspose.app/slides/family" >}}
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>Aspose.Slides Cloud SDK para .NET se utiliza para integrar a la perfección las capacidades de procesamiento de PPT, PPTX, ODP y OTP en sus aplicaciones basadas en la nube creadas con C#, ASP.NET u otros lenguajes compatibles con .NET. Aspose.Slides Cloud SDK para .NET es un contenedor de la API REST de Aspose.Slides y se ofrece bajo una licencia MIT.</p>
@@ -220,7 +220,7 @@ platform: .NET
 {{< blocks/products/pf/support-learning-resources >}}
 {{< blocks/products/pf/slr-tab tabTitle="Recursos de aprendizaje" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="Documentación" href="https://docs.aspose.cloud/slides" >}}
-{{< blocks/products/pf/slr-element name="Código fuente" href="https://github.com/aspose-slides-cloud/aspose-slides-cloud-dotnet" >}}
+{{< blocks/products/pf/slr-element name="Código fuente" href="https://github.com/aspose-slides-cloud/Aspose.Slides-Cloud-SDK-for-.NET" >}}
 {{< blocks/products/pf/slr-element name="Referencias de API" href="https://apireference.aspose.cloud/slides/" >}}
 {{< blocks/products/pf/slr-element name="Vídeos tutoriales" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}

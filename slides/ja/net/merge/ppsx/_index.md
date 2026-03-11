@@ -25,7 +25,7 @@ otherformats: PPT PPTX PPS PPTM PPSM POTX POTM ODP OTP PDF HTML
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="スライド API と .NET SDK" %}}
-[GitHub](https://github.com/aspose-slides-cloud/aspose-slides-cloud-dotnet) から Slides Cloud .NET用SDK ソース コードを取得して、SDK を自分でコンパイルするか、別のダウンロード オプションについては[リリース](https://releases.aspose.cloud/)にアクセスしてください。
+[GitHub](https://github.com/aspose-slides-cloud/Aspose.Slides-Cloud-SDK-for-.NET) から Slides Cloud .NET用SDK ソース コードを取得して、SDK を自分でコンパイルするか、別のダウンロード オプションについては[リリース](https://releases.aspose.cloud/)にアクセスしてください。
 
 Swagger ベースの [API リファレンス](https://apireference.aspose.cloud/slides/)も参照して、[SLIDES REST API](https://products.aspose.cloud/slides/curl/) の詳細を確認してください。
 {{% /blocks/products/pf/agp/feature-section-col %}}

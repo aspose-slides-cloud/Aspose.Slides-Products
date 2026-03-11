@@ -11,7 +11,7 @@ platform: Go
 
 {{< blocks/products/pf/main-container pfName="Aspose.Slides" subTitlepfName="Cloud Go SDK" >}}
 
-{{< blocks/products/pf/i18n/sub-menu logoImageSrc="/sdk/aspose_slides-for-go.png" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/slides" directDownloadLink="https://github.com/aspose-slides-cloud/aspose-slides-cloud-go" liveDemosLink="https://products.aspose.app/slides/family" >}}
+{{< blocks/products/pf/i18n/sub-menu logoImageSrc="/sdk/aspose_slides-for-go.png" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/slides" directDownloadLink="https://github.com/aspose-slides-cloud/Aspose.Slides-Cloud-SDK-for-Go" liveDemosLink="https://products.aspose.app/slides/family" >}}
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>Go için Aspose.Slides Cloud SDK, Golang programcılarının bulutta barındırılan Microsoft PowerPoint ve OpenOffice sunum slaytlarını işlemesine ve düzenlemesine yardımcı olmak için geliştirildi. Bu bulut SDK'sı, Aspose.Slides REST API'sini temel alır ve herhangi bir üçüncü taraf yazılımı yüklemeden çalışır. Go için Aspose.Slides Cloud SDK, bir MIT lisansı altında sunulmaktadır.</p>
@@ -220,7 +220,7 @@ platform: Go
 {{< blocks/products/pf/support-learning-resources >}}
 {{< blocks/products/pf/slr-tab tabTitle="Öğrenme Kaynakları" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="Belgeler" href="https://docs.aspose.cloud/slides" >}}
-{{< blocks/products/pf/slr-element name="Kaynak kodu" href="https://github.com/aspose-slides-cloud/aspose-slides-cloud-go" >}}
+{{< blocks/products/pf/slr-element name="Kaynak kodu" href="https://github.com/aspose-slides-cloud/Aspose.Slides-Cloud-SDK-for-Go" >}}
 {{< blocks/products/pf/slr-element name="API Referansları" href="https://apireference.aspose.cloud/slides/" >}}
 {{< blocks/products/pf/slr-element name="Öğretici Videolar" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}

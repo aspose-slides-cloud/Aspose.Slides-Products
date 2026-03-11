@@ -25,7 +25,7 @@ otherformats: PPT PPTX PPS PPSX PPSM POTX POTM ODP OTP
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Slides API ve Java SDK'yı Kullanmaya Başlayın" %}}
-SDK'yı kendiniz derlemek için [GitHub](https://github.com/aspose-slides-cloud/aspose-slides-cloud-java)'dan Slides Cloud SDK for Java kaynak kodunu edinin veya alternatif indirme seçenekleri için [Sürümlere](https://releases.aspose.cloud/) gidin.
+SDK'yı kendiniz derlemek için [GitHub](https://github.com/aspose-slides-cloud/Aspose.Slides-Cloud-SDK-for-Java)'dan Slides Cloud SDK for Java kaynak kodunu edinin veya alternatif indirme seçenekleri için [Sürümlere](https://releases.aspose.cloud/) gidin.
 
 [SLIDES REST API](https://products.aspose.cloud/slides/curl/) hakkında daha fazla bilgi edinmek için Swagger tabanlı [API Referansına](https://apireference.aspose.cloud/slides/) da bakın.
 {{% /blocks/products/pf/agp/feature-section-col %}}

@@ -11,7 +11,7 @@ platform: go
 
 {{< blocks/products/pf/main-container pfName="Aspose.Slides" subTitlepfName="SDK Cloud pour Go" >}}
 
-{{< blocks/products/pf/i18n/sub-menu logoImageSrc="/sdk/aspose_slides-for-go.png" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/slides" directDownloadLink="https://github.com/aspose-slides-cloud/aspose-slides-cloud-go" liveDemosLink="https://products.aspose.app/slides/family"  >}}
+{{< blocks/products/pf/i18n/sub-menu logoImageSrc="/sdk/aspose_slides-for-go.png" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/slides" directDownloadLink="https://github.com/aspose-slides-cloud/Aspose.Slides-Cloud-SDK-for-Go" liveDemosLink="https://products.aspose.app/slides/family"  >}}
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>Aspose.Slides Cloud SDK pour Go est développé pour aider les programmeurs Golang à traiter et à manipuler les diapositives de présentation Microsoft PowerPoint et OpenOffice hébergées sur le cloud. Ce SDK cloud est basé sur l'API REST Aspose.Slides et fonctionne sans installer de logiciel tiers. Aspose.Slides Cloud SDK pour Go est proposé sous une licence MIT.</p>
@@ -217,7 +217,7 @@ platform: go
 {{< blocks/products/pf/support-learning-resources >}}
 {{< blocks/products/pf/slr-tab tabTitle="Ressources d'apprentissage" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="Documentation" href="https://docs.aspose.cloud/slides" >}}
-{{< blocks/products/pf/slr-element name="Code source" href="https://github.com/aspose-slides-cloud/aspose-slides-cloud-go" >}}
+{{< blocks/products/pf/slr-element name="Code source" href="https://github.com/aspose-slides-cloud/Aspose.Slides-Cloud-SDK-for-Go" >}}
 {{< blocks/products/pf/slr-element name="Références API" href="https://apireference.aspose.cloud/slides/" >}}
 {{< blocks/products/pf/slr-element name="Vidéos didactiques" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}

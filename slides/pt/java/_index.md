@@ -11,7 +11,7 @@ platform: Java
 
 {{< blocks/products/pf/main-container pfName="Aspose.Slides" subTitlepfName="Cloud SDK para Java" >}}
 
-{{< blocks/products/pf/i18n/sub-menu logoImageSrc="/sdk/aspose_slides-for-java.png" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/slides" directDownloadLink="https://github.com/aspose-slides-cloud/aspose-slides-cloud-java" liveDemosLink="https://products.aspose.app/slides/family" >}}
+{{< blocks/products/pf/i18n/sub-menu logoImageSrc="/sdk/aspose_slides-for-java.png" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/slides" directDownloadLink="https://github.com/aspose-slides-cloud/Aspose.Slides-Cloud-SDK-for-Java" liveDemosLink="https://products.aspose.app/slides/family" >}}
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>Aspose.Slides Cloud SDK para Java ajuda os programadores a criar soluções baseadas em nuvem para criar, visualizar, processar e converter apresentações do PowerPoint e do OpenOffice na nuvem. Aspose.Slides Cloud SDK para Java funciona como uma interface para a API REST subjacente do Aspose.Slides e é oferecido sob uma licença MIT.</p>
@@ -219,7 +219,7 @@ platform: Java
 {{< blocks/products/pf/support-learning-resources >}}
 {{< blocks/products/pf/slr-tab tabTitle="Recursos de aprendizagem" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="Documentação" href="https://docs.aspose.cloud/slides" >}}
-{{< blocks/products/pf/slr-element name="Código fonte" href="https://github.com/aspose-slides-cloud/aspose-slides-cloud-java" >}}
+{{< blocks/products/pf/slr-element name="Código fonte" href="https://github.com/aspose-slides-cloud/Aspose.Slides-Cloud-SDK-for-Java" >}}
 {{< blocks/products/pf/slr-element name="Referências de API" href="https://apireference.aspose.cloud/slides/" >}}
 {{< blocks/products/pf/slr-element name="Vídeos Tutoriais" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}

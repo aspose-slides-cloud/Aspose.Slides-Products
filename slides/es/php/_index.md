@@ -11,7 +11,7 @@ platform: PHP
 
 {{< blocks/products/pf/main-container pfName="Aspose.Slides" subTitlepfName="Cloud SDK para PHP" >}}
 
-{{< blocks/products/pf/i18n/sub-menu logoImageSrc="/sdk/aspose_slides-for-php.png" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/slides" directDownloadLink="https://github.com/aspose-slides-cloud/aspose-slides-cloud-php" liveDemosLink="https://products.aspose.app/slides/family" >}}
+{{< blocks/products/pf/i18n/sub-menu logoImageSrc="/sdk/aspose_slides-for-php.png" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/slides" directDownloadLink="https://github.com/aspose-slides-cloud/Aspose.Slides-Cloud-SDK-for-PHP" liveDemosLink="https://products.aspose.app/slides/family" >}}
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>Aspose.Slides Cloud SDK para PHP lo ayuda a crear aplicaciones PHP basadas en la nube que pueden crear diapositivas PPT y presentaciones de PowerPoint sin instalar ningún software. Aspose.Slides Cloud SDK para PHP también es compatible con los formatos de presentación de OpenOffice, ODP y OTP. Aspose.Slides Cloud SDK para PHP se basa en la API REST de Aspose.Slides y se ofrece bajo una licencia MIT.</p>
@@ -220,7 +220,7 @@ platform: PHP
 {{< blocks/products/pf/support-learning-resources >}}
 {{< blocks/products/pf/slr-tab tabTitle="Recursos de aprendizaje" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="Documentación" href="https://docs.aspose.cloud/slides" >}}
-{{< blocks/products/pf/slr-element name="Código fuente" href="https://github.com/aspose-slides-cloud/aspose-slides-cloud-php" >}}
+{{< blocks/products/pf/slr-element name="Código fuente" href="https://github.com/aspose-slides-cloud/Aspose.Slides-Cloud-SDK-for-PHP" >}}
 {{< blocks/products/pf/slr-element name="Referencias de API" href="https://apireference.aspose.cloud/slides/" >}}
 {{< blocks/products/pf/slr-element name="Vídeos tutoriales" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}

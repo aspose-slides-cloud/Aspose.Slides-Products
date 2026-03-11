@@ -11,7 +11,7 @@ platform: Python
 
 {{< blocks/products/pf/main-container pfName="Aspose.Slides" subTitlepfName="Python용 Cloud SDK" >}}
 
-{{< blocks/products/pf/i18n/sub-menu logoImageSrc="/sdk/aspose_slides-for-python.png" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/slides" directDownloadLink="https://github.com/aspose-slides-cloud/aspose-slides-cloud-python" liveDemosLink="https://products.aspose.app/slides/family"  >}}
+{{< blocks/products/pf/i18n/sub-menu logoImageSrc="/sdk/aspose_slides-for-python.png" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/slides" directDownloadLink="https://github.com/aspose-slides-cloud/Aspose.Slides-Cloud-SDK-for-Python" liveDemosLink="https://products.aspose.app/slides/family"  >}}
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>Python용 Aspose.Slides Cloud SDK는 Aspose.Slides REST API를 기반으로 구축되었으며 MIT 라이선스에 따라 제공됩니다. Python용 Aspose.Slides Cloud SDK는 Python 애플리케이션에 쉽게 통합될 수 있으며 타사 설치 없이 클라우드에서 PowerPoint 및 OpenOffice 프레젠테이션 슬라이드를 가져오고 처리하고 변환할 수 있습니다.</p>
@@ -216,7 +216,7 @@ platform: Python
 {{< blocks/products/pf/support-learning-resources >}}
 {{< blocks/products/pf/slr-tab tabTitle="학습 자료" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="선적 서류 비치" href="https://docs.aspose.cloud/slides" >}}
-{{< blocks/products/pf/slr-element name="소스 코드" href="https://github.com/aspose-slides-cloud/aspose-slides-cloud-python" >}}
+{{< blocks/products/pf/slr-element name="소스 코드" href="https://github.com/aspose-slides-cloud/Aspose.Slides-Cloud-SDK-for-Python" >}}
 {{< blocks/products/pf/slr-element name="API 참조" href="https://apireference.aspose.cloud/slides/" >}}
 {{< blocks/products/pf/slr-element name="튜토리얼 비디오" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}

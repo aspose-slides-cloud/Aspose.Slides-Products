@@ -11,7 +11,7 @@ platform: Go
 
 {{< blocks/products/pf/main-container pfName="Aspose.Slides" subTitlepfName="Go 用 Cloud SDK" >}}
 
-{{< blocks/products/pf/i18n/sub-menu logoImageSrc="/sdk/aspose_slides-for-go.png" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/slides" directDownloadLink="https://github.com/aspose-slides-cloud/aspose-slides-cloud-go" liveDemosLink="https://products.aspose.app/slides/family" >}}
+{{< blocks/products/pf/i18n/sub-menu logoImageSrc="/sdk/aspose_slides-for-go.png" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/slides" directDownloadLink="https://github.com/aspose-slides-cloud/Aspose.Slides-Cloud-SDK-for-Go" liveDemosLink="https://products.aspose.app/slides/family" >}}
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>Go 用 Aspose.Slides Cloud SDK は、Golang プログラマーがクラウドでホストされている Microsoft PowerPoint および OpenOffice プレゼンテーション スライドを処理および操作するのを支援するために開発されました。 このクラウド SDK は、Aspose.Slides REST API の上に基づいており、サードパーティ ソフトウェアをインストールしなくても動作します。 Go 用 Aspose.Slides Cloud SDK は、MIT ライセンスの下で提供されます。</p>
@@ -220,7 +220,7 @@ platform: Go
 {{< blocks/products/pf/support-learning-resources >}}
 {{< blocks/products/pf/slr-tab tabTitle="学習リソース" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="ドキュメンテーション" href="https://docs.aspose.cloud/slides" >}}
-{{< blocks/products/pf/slr-element name="ソースコード" href="https://github.com/aspose-slides-cloud/aspose-slides-cloud-go" >}}
+{{< blocks/products/pf/slr-element name="ソースコード" href="https://github.com/aspose-slides-cloud/Aspose.Slides-Cloud-SDK-for-Go" >}}
 {{< blocks/products/pf/slr-element name="API リファレンス" href="https://apireference.aspose.cloud/slides/" >}}
 {{< blocks/products/pf/slr-element name="チュートリアルビデオ" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}

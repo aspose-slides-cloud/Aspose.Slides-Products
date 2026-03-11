@@ -11,7 +11,7 @@ platform: Android
 
 {{< blocks/products/pf/main-container pfName="Aspose.Slides" subTitlepfName="Cloud Android SDK" >}}
 
-{{< blocks/products/pf/i18n/sub-menu logoImageSrc="/sdk/aspose_slides-for-android.png" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/slides" directDownloadLink="https://github.com/aspose-slides-cloud/aspose-slides-cloud-android" liveDemosLink="https://products.aspose.app/slides/family"  >}}
+{{< blocks/products/pf/i18n/sub-menu logoImageSrc="/sdk/aspose_slides-for-android.png" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/slides" directDownloadLink="https://github.com/aspose-slides-cloud/Aspose.Slides-Cloud-SDK-for-Android" liveDemosLink="https://products.aspose.app/slides/family"  >}}
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>Aspose.Slides Cloud Android SDK дает разработчикам программного обеспечения возможность включать возможности создания, изменения и преобразования презентаций Microsoft PowerPoint и OpenOffice в свои собственные приложения для Android. Aspose.Slides Cloud Android SDK представляет собой оболочку Aspose.Slides REST API и предлагается по лицензии MIT. Он обеспечивает поддержку нескольких важных форматов файлов, таких как POT, PPT, PPS, POTX, PPTX, PPSX и ODP, и экспортирует их в популярные форматы.</p>
@@ -231,7 +231,7 @@ platform: Android
 {{< blocks/products/pf/support-learning-resources >}}
 {{< blocks/products/pf/slr-tab tabTitle="Образовательные ресурсы" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="Документация" href="https://docs.aspose.cloud/slides" >}}
-{{< blocks/products/pf/slr-element name="Исходный код" href="https://github.com/aspose-slides-cloud/aspose-slides-cloud-android" >}}
+{{< blocks/products/pf/slr-element name="Исходный код" href="https://github.com/aspose-slides-cloud/Aspose.Slides-Cloud-SDK-for-Android" >}}
 {{< blocks/products/pf/slr-element name="Справочник по API" href="https://apireference.aspose.cloud/slides/" >}}
 {{< blocks/products/pf/slr-element name="Учебные видео" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}

@@ -11,7 +11,7 @@ platform: Java
 
 {{< blocks/products/pf/main-container pfName="Aspose.Slides" subTitlepfName="Java के लिए क्लाउड SDK" >}}
 
-{{< blocks/products/pf/i18n/sub-menu logoImageSrc="/sdk/aspose_slides-for-java.png" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/slides" directDownloadLink="https://github.com/aspose-slides-cloud/aspose-slides-cloud-java" liveDemosLink="https://products.aspose.app/slides/family" >}}
+{{< blocks/products/pf/i18n/sub-menu logoImageSrc="/sdk/aspose_slides-for-java.png" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/slides" directDownloadLink="https://github.com/aspose-slides-cloud/Aspose.Slides-Cloud-SDK-for-Java" liveDemosLink="https://products.aspose.app/slides/family" >}}
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>जावा के लिए Aspose.Slides Cloud SDK प्रोग्रामर्स को क्लाउड में PowerPoint और OpenOffice प्रस्तुतियों को बनाने, देखने, प्रसंस्करण और परिवर्तित करने के लिए क्लाउड-आधारित समाधान बनाने में सहायता करता है। जावा के लिए Aspose.Slides Cloud SDK अंतर्निहित Aspose.Slides REST API के इंटरफ़ेस के रूप में काम करता है और इसे MIT लाइसेंस के तहत पेश किया जाता है।</p>
@@ -220,7 +220,7 @@ platform: Java
 {{< blocks/products/pf/support-learning-resources >}}
 {{< blocks/products/pf/slr-tab tabTitle="सीखने के संसाधन" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="प्रलेखन" href="https://docs.aspose.cloud/slides" >}}
-{{< blocks/products/pf/slr-element name="सोर्स कोड" href="https://github.com/aspose-slides-cloud/aspose-slides-cloud-java" >}}
+{{< blocks/products/pf/slr-element name="सोर्स कोड" href="https://github.com/aspose-slides-cloud/Aspose.Slides-Cloud-SDK-for-Java" >}}
 {{< blocks/products/pf/slr-element name="एपीआई संदर्भ" href="https://apireference.aspose.cloud/slides/" >}}
 {{< blocks/products/pf/slr-element name="ट्यूटोरियल वीडियो" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}

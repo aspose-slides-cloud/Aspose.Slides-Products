@@ -25,7 +25,7 @@ otherformats: PPT PPTX PPS PPSX PPTM PPSM POTX POTM ODP PDF XPS JPEG PNG BMP TIF
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Comience con Slides API y Node.js SDK" %}}
-Obtenga el código fuente de Slides Cloud SDK para Node.js de [GitHub](https://github.com/aspose-slides-cloud/aspose-slides-cloud-nodejs) para compilar el SDK usted mismo o diríjase a [Versiones](https://releases.aspose.cloud/) para ver opciones de descarga alternativas.
+Obtenga el código fuente de Slides Cloud SDK para Node.js de [GitHub](https://github.com/aspose-slides-cloud/Aspose.Slides-Cloud-SDK-for-Node.js) para compilar el SDK usted mismo o diríjase a [Versiones](https://releases.aspose.cloud/) para ver opciones de descarga alternativas.
 
 También eche un vistazo a la [referencia de API](https://apireference.aspose.cloud/slides/) basada en Swagger para saber más sobre la [API REST SLIDES](https://products.aspose.cloud/slides/curl/).
 {{% /blocks/products/pf/agp/feature-section-col %}}

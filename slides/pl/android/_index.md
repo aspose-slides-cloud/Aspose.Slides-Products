@@ -11,7 +11,7 @@ platform: Android
 
 {{< blocks/products/pf/main-container pfName="Aspose.Slides" subTitlepfName="Cloud Android SDK" >}}
 
-{{< blocks/products/pf/i18n/sub-menu logoImageSrc="/sdk/aspose_slides-for-android.png" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/slides" directDownloadLink="https://github.com/aspose-slides-cloud/aspose-slides-cloud-android" liveDemosLink="https://products.aspose.app/slides/family"  >}}
+{{< blocks/products/pf/i18n/sub-menu logoImageSrc="/sdk/aspose_slides-for-android.png" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/slides" directDownloadLink="https://github.com/aspose-slides-cloud/Aspose.Slides-Cloud-SDK-for-Android" liveDemosLink="https://products.aspose.app/slides/family"  >}}
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>Aspose.Slides Cloud Android SDK daje twórcom oprogramowania możliwość włączenia tworzenia, modyfikowania i konwersji prezentacji Microsoft PowerPoint i OpenOffice do własnych aplikacji na Androida. Aspose.Slides Cloud Android SDK to pakiet oprogramowania Aspose.Slides REST API, oferowany na licencji MIT. Zapewnia obsługę kilku ważnych formatów plików, takich jak POT, PPT, PPS, POTX, PPTX, PPSX i ODP, i eksportuje je do popularnych formatów.</p>
@@ -230,7 +230,7 @@ platform: Android
 {{< blocks/products/pf/support-learning-resources >}}
 {{< blocks/products/pf/slr-tab tabTitle="Zasoby edukacyjne" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="Dokumentacja" href="https://docs.aspose.cloud/slides" >}}
-{{< blocks/products/pf/slr-element name="Kod źródłowy" href="https://github.com/aspose-slides-cloud/aspose-slides-cloud-android" >}}
+{{< blocks/products/pf/slr-element name="Kod źródłowy" href="https://github.com/aspose-slides-cloud/Aspose.Slides-Cloud-SDK-for-Android" >}}
 {{< blocks/products/pf/slr-element name="Referencje API" href="https://apireference.aspose.cloud/slides/" >}}
 {{< blocks/products/pf/slr-element name="Filmy instruktażowe" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}

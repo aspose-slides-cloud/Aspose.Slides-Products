@@ -11,7 +11,7 @@ platform: Node.js
 
 {{< blocks/products/pf/main-container pfName="Aspose.Slides" subTitlepfName="Node.js के लिए क्लाउड SDK" >}}
 
-{{< blocks/products/pf/i18n/sub-menu logoImageSrc="/sdk/aspose_slides-for-node.png" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/slides" directDownloadLink="https://github.com/aspose-slides-cloud/aspose-slides-cloud-nodejs" liveDemosLink="https://products.aspose.app/slides/family" >}}
+{{< blocks/products/pf/i18n/sub-menu logoImageSrc="/sdk/aspose_slides-for-node.png" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/slides" directDownloadLink="https://github.com/aspose-slides-cloud/Aspose.Slides-Cloud-SDK-for-Node.js" liveDemosLink="https://products.aspose.app/slides/family" >}}
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>Node.js के लिए Aspose.Slides Cloud SDK आपके Node.js क्लाउड-आधारित अनुप्रयोगों को क्लाउड स्टोरेज में होस्ट किए गए PowerPoint और OpenOffice प्रस्तुतियों तक पहुंचने और PPT, PPTX, ODP, OTP से SWF, HTML, PDF, XPS में परिवर्तित करने में सहायता करता है। पीडीएफ/ए, जेपीईजी, एसवीजी, टीआईएफएफ, बीएमपी और पीएनजी।</p>
@@ -219,7 +219,7 @@ platform: Node.js
 {{< blocks/products/pf/support-learning-resources >}}
 {{< blocks/products/pf/slr-tab tabTitle="सीखने के संसाधन" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="प्रलेखन" href="https://docs.aspose.cloud/slides" >}}
-{{< blocks/products/pf/slr-element name="सोर्स कोड" href="https://github.com/aspose-slides-cloud/aspose-slides-cloud-nodejs" >}}
+{{< blocks/products/pf/slr-element name="सोर्स कोड" href="https://github.com/aspose-slides-cloud/Aspose.Slides-Cloud-SDK-for-Node.js" >}}
 {{< blocks/products/pf/slr-element name="एपीआई संदर्भ" href="https://apireference.aspose.cloud/slides/" >}}
 {{< blocks/products/pf/slr-element name="ट्यूटोरियल वीडियो" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}

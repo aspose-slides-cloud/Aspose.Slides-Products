@@ -26,7 +26,7 @@ otherformats: PPT PPTX PPS PPSX PPTM PPSM POTX POTM ODP OTP PDF XPS JPEG BMP TIF
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Inizia con l'API Presentazioni e l'SDK C++" %}}
-Ottieni il codice sorgente di Slides Cloud SDK per C++ da [GitHub](https://github.com/aspose-slides-cloud/aspose-slides-cloud-cpp) per compilare tu stesso l'SDK o vai alle [Versioni](https://releases.aspose.cloud/) per opzioni di download alternative.
+Ottieni il codice sorgente di Slides Cloud SDK per C++ da [GitHub](https://github.com/aspose-slides-cloud/Aspose.Slides-Cloud-SDK-for-Cpp) per compilare tu stesso l'SDK o vai alle [Versioni](https://releases.aspose.cloud/) per opzioni di download alternative.
 
 Dai un'occhiata anche alla Guida di [riferimento dell'API](https://apireference.aspose.cloud/slides/) basata su Swagger per saperne di più sull'[API REST di Slides](https://products.aspose.cloud/slides/curl/).
 {{% /blocks/products/pf/agp/feature-section-col %}}

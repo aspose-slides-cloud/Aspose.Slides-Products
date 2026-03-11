@@ -11,7 +11,7 @@ platform: Node.js
 
 {{< blocks/products/pf/main-container pfName="Aspose.Slides" subTitlepfName="适用于 Node.js 的 Cloud SDK" >}}
 
-{{< blocks/products/pf/i18n/sub-menu logoImageSrc="/sdk/aspose_slides-for-node.png" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/slides" directDownloadLink="https://github.com/aspose-slides-cloud/aspose-slides-cloud-nodejs" liveDemosLink="https://products.aspose.app/slides/family"  >}}
+{{< blocks/products/pf/i18n/sub-menu logoImageSrc="/sdk/aspose_slides-for-node.png" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/slides" directDownloadLink="https://github.com/aspose-slides-cloud/Aspose.Slides-Cloud-SDK-for-Node.js" liveDemosLink="https://products.aspose.app/slides/family"  >}}
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>适用于 Node.js 的 Aspose.Slides Cloud SDK 帮助您的基于 Node.js 云的应用程序访问托管在云存储中的 PowerPoint 和 OpenOffice 演示文稿，以处理 PPT、PPTX、ODP、OTP 到 SWF、HTML、PDF、XPS、 PDF/A、JPEG、SVG、TIFF、BMP 和 PNG。</p>
@@ -220,7 +220,7 @@ platform: Node.js
 {{< blocks/products/pf/support-learning-resources >}}
 {{< blocks/products/pf/slr-tab tabTitle="学习资源" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="文档" href="https://docs.aspose.cloud/slides" >}}
-{{< blocks/products/pf/slr-element name="源代码" href="https://github.com/aspose-slides-cloud/aspose-slides-cloud-nodejs" >}}
+{{< blocks/products/pf/slr-element name="源代码" href="https://github.com/aspose-slides-cloud/Aspose.Slides-Cloud-SDK-for-Node.js" >}}
 {{< blocks/products/pf/slr-element name="API参考资料" href="https://apireference.aspose.cloud/slides/" >}}
 {{< blocks/products/pf/slr-element name="教程视频" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}

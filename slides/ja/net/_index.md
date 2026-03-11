@@ -11,7 +11,7 @@ platform: .NET
 
 {{< blocks/products/pf/main-container pfName="Aspose.Slides" subTitlepfName=".NET 用 Cloud SDK" >}}
 
-{{< blocks/products/pf/i18n/sub-menu logoImageSrc="/sdk/aspose_slides-for-net.png" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/slides" directDownloadLink="https://github.com/aspose-slides-cloud/aspose-slides-cloud-dotnet" liveDemosLink="https://products.aspose.app/slides/family"  >}}
+{{< blocks/products/pf/i18n/sub-menu logoImageSrc="/sdk/aspose_slides-for-net.png" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/slides" directDownloadLink="https://github.com/aspose-slides-cloud/Aspose.Slides-Cloud-SDK-for-.NET" liveDemosLink="https://products.aspose.app/slides/family"  >}}
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>.NET 用 Aspose.Slides Cloud SDK は、PPT、PPTX、ODP、OTP 処理機能を、C#、ASP.NET、またはその他の .NET 対応言語を使用して構築されたクラウドベースのアプリケーションにシームレスに統合するために使用されます。 .NET 用 Aspose.Slides Cloud SDK は、Aspose.Slides REST API のラッパーであり、MIT ライセンスの下で提供されます。</p>
@@ -220,7 +220,7 @@ platform: .NET
 {{< blocks/products/pf/support-learning-resources >}}
 {{< blocks/products/pf/slr-tab tabTitle="学習リソース" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="ドキュメンテーション" href="https://docs.aspose.cloud/slides" >}}
-{{< blocks/products/pf/slr-element name="ソースコード" href="https://github.com/aspose-slides-cloud/aspose-slides-cloud-dotnet" >}}
+{{< blocks/products/pf/slr-element name="ソースコード" href="https://github.com/aspose-slides-cloud/Aspose.Slides-Cloud-SDK-for-.NET" >}}
 {{< blocks/products/pf/slr-element name="API リファレンス" href="https://apireference.aspose.cloud/slides/" >}}
 {{< blocks/products/pf/slr-element name="チュートリアルビデオ" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}

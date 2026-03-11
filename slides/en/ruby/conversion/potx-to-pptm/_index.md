@@ -26,7 +26,7 @@ otherformats: PPT PPTX PPS PPSX PPSM POTX POTM ODP OTP PDF XPS JPEG PNG BMP TIFF
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Get Started with Slides API & Ruby SDK" %}}
-Get Slides Cloud SDK for Ruby source code from [GitHub](https://github.com/aspose-slides-cloud/aspose-slides-cloud-ruby) to compile the SDK yourself or head to the [Releases](https://releases.aspose.cloud/) for alternative download options. 
+Get Slides Cloud SDK for Ruby source code from [GitHub](https://github.com/aspose-slides-cloud/Aspose.Slides-Cloud-SDK-for-Ruby) to compile the SDK yourself or head to the [Releases](https://releases.aspose.cloud/) for alternative download options. 
 
 Also have a look at Swagger-based [API Reference](https://apireference.aspose.cloud/slides/) to know more about the [SLIDES REST API](https://products.aspose.cloud/slides/curl/).
 {{% /blocks/products/pf/agp/feature-section-col %}}

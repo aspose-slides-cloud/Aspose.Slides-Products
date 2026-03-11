@@ -26,7 +26,7 @@ otherformats: PPT PPTX PPS PPSX PPTM PPSM POTX POTM ODP OTP PDF XPS JPEG PNG TIF
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Comece a usar a API de slides e o Java SDK" %}}
-Obtenha o código-fonte do Slides Cloud SDK para Java no [GitHub](https://github.com/aspose-slides-cloud/aspose-slides-cloud-java) para compilar o SDK você mesmo ou acesse os [Lançamentos](https://releases.aspose.cloud/) para opções alternativas de download.
+Obtenha o código-fonte do Slides Cloud SDK para Java no [GitHub](https://github.com/aspose-slides-cloud/Aspose.Slides-Cloud-SDK-for-Java) para compilar o SDK você mesmo ou acesse os [Lançamentos](https://releases.aspose.cloud/) para opções alternativas de download.
 
 Também dê uma olhada na [Referência de API](https://apireference.aspose.cloud/slides/) baseada em Swagger para saber mais sobre a [API REST SLIDES](https://products.aspose.cloud/slides/curl/).
 {{% /blocks/products/pf/agp/feature-section-col %}}

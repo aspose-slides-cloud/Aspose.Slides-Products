@@ -26,7 +26,7 @@ otherformats: PPT PPTX PPS PPSX PPTM PPSM POTX POTM ODP OTP XPS JPEG PNG BMP TIF
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Erste Schritte mit der Slides-API und dem Android-SDK" %}}
-Holen Sie sich den Quellcode des Slides Cloud SDK für Android von [GitHub](https://github.com/aspose-slides-cloud/aspose-slides-cloud-android), um das SDK selbst zu kompilieren, oder gehen Sie zu den [Releases](https://releases.aspose.cloud/) für alternative Download-Optionen.
+Holen Sie sich den Quellcode des Slides Cloud SDK für Android von [GitHub](https://github.com/aspose-slides-cloud/Aspose.Slides-Cloud-SDK-for-Android), um das SDK selbst zu kompilieren, oder gehen Sie zu den [Releases](https://releases.aspose.cloud/) für alternative Download-Optionen.
 
 Sehen Sie sich auch die Swagger-basierte [API-Referenz](https://apireference.aspose.cloud/slides/) an, um mehr über die [SLIDES-REST-API](https://products.aspose.cloud/slides/curl/) zu erfahren.
 {{% /blocks/products/pf/agp/feature-section-col %}}

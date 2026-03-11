@@ -25,7 +25,7 @@ otherformats: PPT PPTX PPSX PPTM PPSM POTX POTM ODP OTP PDF XPS JPEG PNG BMP TIF
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Inizia con l'API Presentazioni e l'SDK .NET" %}}
-Ottieni il codice sorgente di Slides Cloud SDK per .NET da [GitHub](https://github.com/aspose-slides-cloud/aspose-slides-cloud-dotnet) per compilare tu stesso l'SDK o vai alle [Versioni](https://releases.aspose.cloud/) per opzioni di download alternative.
+Ottieni il codice sorgente di Slides Cloud SDK per .NET da [GitHub](https://github.com/aspose-slides-cloud/Aspose.Slides-Cloud-SDK-for-.NET) per compilare tu stesso l'SDK o vai alle [Versioni](https://releases.aspose.cloud/) per opzioni di download alternative.
 
 Dai un'occhiata anche alla Guida di [riferimento dell'API](https://apireference.aspose.cloud/slides/) basata su Swagger per saperne di più sull'[API REST di Slides](https://products.aspose.cloud/slides/curl/).
 {{% /blocks/products/pf/agp/feature-section-col %}}

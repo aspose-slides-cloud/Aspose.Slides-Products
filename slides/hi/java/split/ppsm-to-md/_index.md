@@ -25,7 +25,7 @@ otherformats: PPT PPTX PPS PPSX PPTM PPSM POTX POTM ODP OTP PDF XPS JPEG PNG BMP
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="स्लाइड्स एपीआई और Java एसडीके के साथ आरंभ करें" %}}
-एसडीके को स्वयं संकलित करने के लिए [गिटहब](https://github.com/aspose-slides-cloud/aspose-slides-cloud-java) से Java स्रोत कोड के लिए स्लाइड्स क्लाउड एसडीके प्राप्त करें या वैकल्पिक डाउनलोड विकल्पों के लिए [रिलीज़](https://releases.aspose.cloud/) पर जाएं।
+एसडीके को स्वयं संकलित करने के लिए [गिटहब](https://github.com/aspose-slides-cloud/Aspose.Slides-Cloud-SDK-for-Java) से Java स्रोत कोड के लिए स्लाइड्स क्लाउड एसडीके प्राप्त करें या वैकल्पिक डाउनलोड विकल्पों के लिए [रिलीज़](https://releases.aspose.cloud/) पर जाएं।
 
 [स्लाइड्स रेस्ट एपीआई](https://products.aspose.cloud/slides/curl/) के बारे में अधिक जानने के लिए स्वैगर-आधारित [एपीआई संदर्भ](https://apireference.aspose.cloud/slides/) पर भी एक नजर डालें।
 {{% /blocks/products/pf/agp/feature-section-col %}}

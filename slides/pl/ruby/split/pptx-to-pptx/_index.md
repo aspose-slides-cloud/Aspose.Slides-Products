@@ -25,7 +25,7 @@ otherformats: PPT PPS PPSX PPTM PPSM POTX POTM ODP OTP PDF XPS JPEG PNG BMP TIFF
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Rozpocznij korzystanie z interfejsu API Slides i pakietu Ruby SDK" %}}
-Pobierz kod źródłowy Slides Cloud SDK dla Ruby z [GitHub](https://github.com/aspose-slides-cloud/aspose-slides-cloud-ruby), aby samodzielnie skompilować pakiet SDK, lub przejdź do [sekcji Wersje](https://releases.aspose.cloud/), aby zapoznać się z alternatywnymi opcjami pobierania.
+Pobierz kod źródłowy Slides Cloud SDK dla Ruby z [GitHub](https://github.com/aspose-slides-cloud/Aspose.Slides-Cloud-SDK-for-Ruby), aby samodzielnie skompilować pakiet SDK, lub przejdź do [sekcji Wersje](https://releases.aspose.cloud/), aby zapoznać się z alternatywnymi opcjami pobierania.
 
 Zajrzyj także do [Dokumentacji API](https://apireference.aspose.cloud/slides/) opartej na formacie Swagger, aby dowiedzieć się więcej o interfejsie [API REST SLIDES](https://products.aspose.cloud/slides/curl/).
 {{% /blocks/products/pf/agp/feature-section-col %}}
